@@ -5,6 +5,14 @@
 Latest news are at top / Notícias mais recentes no topo
 ```
 
+<br> **2024.11.07 [PIRACY] Google VS Remoção de links**
+<br> A empresa revela que processa bilhões de solicitações anuais para remover 
+links com conteúdo pirata, onde os pedidos são enviados por detentores de direitos 
+autorais por meio de “notificações de DMCA”. Apesar do volume, nem todos os links 
+reportados são removidos, uma vez que algumas notificações são incorretas ou sem 
+fundamento.
+<br> Publicado [aqui](https://torrentfreak.com/google-asked-to-remove-10-billion-pirate-search-results-241105/)
+
 <br> **2024.11.06 [JOB] 40% das vagas anunciadas em TI não existem**
 <br> As "Vagas fantasmas" envolvem o anúncio de posições inexistentes, publicadas, 
 em sua maioria, no LinkedIn e em sites corporativos. Entrevista com gestores de 
@@ -18,6 +26,13 @@ companhia mais atrativa.
 uso das linguagens C e C++ até 2026 em função de riscos a violação de memória e 
 que representam um risco à segurança nacional, econômica e à saúde pública.
 <br> Publicado [aqui](https://thenewstack.io/feds-critical-software-must-drop-c-c-by-2026-or-face-risk/)
+
+<br> **2024.11.05 [JOB] Mozilla demite 30% dos funcionários**
+<br> Com o encerramento da divisão que promovia web livre e aberta, 40 funcionários 
+foram desligados. Dentre as declarações, “colocar as pessoas antes do lucro parece 
+cada vez mais radical”. Esta é a segunda rodada de cortes na Mozilla em 2024; em 
+fevereiro, dezenas de funcionários do Firefox foram dispensados.
+<br> Publicado [aqui](https://www.theverge.com/2024/11/5/24289124/mozilla-foundation-layoffs-advocacy-global-programs)
 
 <br> **2024.11.05 [SEC:HIGH] Atualize seus drivers NVidia GeForce**
 <br> Falha de segurança afeta todas as GPUs Nvidia GeForce e outras linhas. A 
