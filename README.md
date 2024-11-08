@@ -84,3 +84,157 @@ ou superiores executem injeções de comandos e obtenham acesso a arquivos locai
 sensíveis.
 <br> Correção [aqui](https://grafana.com/blog/2024/10/17/grafana-security-release-critical-severity-fix-for-cve-2024-9264/)
 
+<!-- transcrito aqui -->
+
+<br> **2024.07.15 AWS low-code for tech professionals**
+<br> Amazon Web Services anuncia ferramenta App Studio para o desenvolvimento de aplicativos através da descrição do software desejado, já está disponível para [download](https://aws.amazon.com/pt/appstudio/).
+<br> - Builder FREE
+<br> - Hosting $0.25/user hour
+<br> Publicado [aqui](https://www.techradar.com/pro/aws-will-now-let-you-build-business-apps-with-just-a-single-ai-prompt)
+
+<br> **2024.07.15 Coleta de dados sem permissão**
+<br>Navegadores baseados em Chrome/Chromium, como Edge e Brave, possuem extensão oculta que coleta dados da CPU e GPU do usuário. A ferramenta, implementada "desde 2013, não pode ser desativada" e permite que domínios do Google tenham acesso a informações sobre tipo de arquitetura, modelo específico e estatísticas de uso, persistindo mesmo quando o histórico de navegação é excluído ou no modo de janela anônima. A empresa afirma que utiliza a extensão para melhorar a experiência do usuário e mitigar problemas de desempenho. 
+<br> Publicado [aqui](https://stackdiary.com/chrome-has-a-hidden-api-that-leaks-user-system-data-to-google/)
+
+<br> **2024.07.12 GitLab: falha crítica de segurança**
+<br> A vulnerabilidade, com CVE-2024-6385, permite que invasores executem jobs de pipeline — processos automatizados de build, testes e implantação de código — utilizando uma conta de outra pessoa.
+<br> Ação: atualização das versões 17.1.2, 17.0.4 e 16.11.6.
+<br> Publicado no site TechRadar
+
+<br> **2024.07.12 Resumo do relatório da Anatel**
+<br> - Custo da internet móvel subiu 4,3% no primeiro trimestre de 2024
+<br> - Consumo móvel médio de 5,36 GB/mês, com aumento de 5,5% em relação ao mesmo período em 2023
+<br> - Consumo banda larga fixo médio 290 GB/mês
+<br> Foram considerados somente os dados das grandes operadoras, como Claro, TIM e Vivo.
+<br> Publicado no site Tecnoblog
+
+<br> **2024.07.11 Direito ao cancelamento de serviços sem burocracia**
+<br> Pesquisa realizada pela Comissão Federal de Comércio dos EUA indica que 76% dos serviços de assinatura implementam “dark patterns” em suas plataformas. A análise, que abrangeu 642 sites e aplicativos, identificou métodos utilizados pelas empresas, como impedir que renovações automáticas de assinaturas sejam desativadas, preenchimento obrigatório de informações de pagamento para participar de testes gratuitos e pré-seleção automática de opções mais lucrativas de assinatura. 
+<br> Os nomes dos serviços envolvidos não foram revelados (Google, Amazon, Disney, ...)
+<br> Publicado [aqui](https://techcrunch.com/2024/07/10/ftc-study-finds-dark-patterns-used-by-a-majority-of-subscription-apps-and-websites/)
+
+<br> **2024.07.10 Denúncias relacionadas a Lei Geral de Proteção de Dados (LGPD)**
+<br> Portal GovBR aceitará denúncias e petições relacionadas à LGPD. Reclamações serão aceitas através de uma conta ou de forma anônima, podendo envolver casos sobre vazamento de dados, exigências abusivas de informações e situações onde empresas e órgãos públicos não respondem a uma solicitação de resgate dos dados armazenados.
+<br> Publicado no site Tecnoblog. Denuncie [aqui](https://www.gov.br/anpd/pt-br/canais_atendimento/cidadao-titular-de-dados/denuncia-peticao-de-titular)
+
+<br> **2024.07.09 Copyleft para treino de IA**
+<br> Diretor de IA da Microsoft afirma que conteúdos na web são como “freewares” para treinar modelos de linguagem, a menos que proprietários de sites declarem explicitamente o contrário: para Mustafa Suleyman, há um entendimento de que os dados na internet são de “uso justo”, permitindo que qualquer pessoa copie, recrie e reproduza o material de maneira gratuita.
+<br> Publicado no site Slashdot
+
+<br> **2024.07.09 Novo supercomputador brasileiro**
+<br> Ministério da Ciência e Tecnologia comprará supercomputador para o Instituto Nacional de Pesquisas Espaciais (INPE). Os equipamentos serão instalados em Cachoeira Paulista (SP) e serão utilizados para previsões de clima e estudos ambientais, permitindo ao INPE gerar cenários de mudanças climáticas nacionais e globais. As máquinas atuais, CRAY-XE6 e XC-50, estão obsoletas e possuem altos custos de manutenção.
+<br> [Reflexão] E os demais data centers? Locais que possuem equipamentos mais recentes, capazes de servir pra isso e que correm o risco de virar sucata por não ter a conta de energia paga!?!?
+<br> Publicado no site Convergência Digital
+
+<br> **2024.07.09 Mobile USB port**
+<br> Qual a quantidade de energia disponível através da USB do celular? 
+<br> "USB ports can deliver a minimum of 8mA. iPhones usually limit output current to 100mA@5V; meanwhile Android devices can deliver up to 500mA@5V (2.5W in USB 2.0 OTG mode that is considered the average). Standard USB wired keyboard consumption goes up to 50mA; and increases up to 80mA if blue LEDs were present. Without LEDs it can be reduced til 20mA. Standard USB wired mouse consumption stays between 25 to 45mA, where wireless devices uses a couple AA batteries per year. Standard USB 2.0 flash drive consumes between 23 to 34mA on on/off operations. Standard USB SSD Drive, consumes like standard  flash drive."
+<br> Resultado de uma pesquisa para colocar um hub USB no celular e usar como computador.
+
+<br> **2024.07.08 Video: Criando um robô a partir de uma alexa**
+<br> Acompanhe a construção e testes [aqui](https://m.youtube.com/watch?v=bO-DWWFolPw)
+
+<br> **2024.07.05 Paranoid!? Proton anuncia alternativa ao Google Docs**
+<br> Focada em privacidade de usuários, o ambiente possui interface e funcionalidades semelhantes, incluindo barra de formatação no topo, edição colaborativa em tempo real com indicadores sobre quem está no documento, e suporte à multimídia. A aplicação já está disponível através do Proton Drive para web e desktop. 
+<br> Publicado no site The Verge, disponível [aqui](https://proton.me/drive/docs)
+
+<br> **2024.07.04 MOD Nvidia RTX 4090 Brasileira**
+<br> O projeto, liderado por Ronaldo Buassali, combina hardware de outras GPUs, e possui suporte para até 24 GB de VRAM, GDDR6X modificadas de até 24 Gbps com arrefecimento líquido personalizado. Testes utilizando nitrogênio (N2) demonstraram ganho de desempenho de até 40%!
+<br> Publicado [aqui](https://canaltech.com.br/hardware/brasileiros-criam-geforce-rtx-4090-customizada-13-mais-poderosa-294733/p)
+
+<br> **2024.07.03 Roboticídio**
+<br> Conselho municipal sul-coreano contratou um robô com IA para tarefas administrativas e teve uma surpresa: ele “cometeu suicídio” após 1 ano de trabalho
+<br> Publicado [aqui](https://br.ign.com/tech/126408/news/conselho-municipal-sul-coreano-contratou-um-robo-com-ia-para-tarefas-administrativas-e-teve-uma-surp)
+
+<br> **2024.07.02 Modelo de "assinatura semanal" de aplicativos está cada vez mais comum**
+<br> A pesquisa aponta que consumidores estão cada vez mais dispostos a pagarem menos por períodos mais curtos, ao invés do plano mensal padrão com 7 dias gratuitos. A modalidade já representa 55% do mercado.
+<br> Publicado no site 9to5Mac
+
+<br> **2024.07.02 Falha crítica no OpenSSH**
+<br> A vulnerabilidade “regreSSHion”, rastreada como CVE-2024-6387, permite a execução de códigos remotos em servidores sem precisar de autenticação. A correção está disponível a partir da versão 9.8p1.
+<br> Publicado no site The Register
+
+<br> **2024.06.30 Revisão da semana**
+<br> Hackers criaram 250 pacotes npm falsos
+<br> Pacotes populares utilizados para desenvolvimento de IA, AWS, LLM, Microsoft entre outros projetos de código aberto (cadê a lista!?) foram imitados por 250 pacotes maliciosos. Pesquisadores atribuem tal feito a um hacker russo (quem!? qual grupo!?) e informaram que esses pacotes contêm vulnerabilidades de shell reverso e de execução remota de código.
+<br> Este tipo de incidente não é inédito e parece explorar falhas conhecidas de segurança da cadeia de suprimentos no ecossistema NPM. Este caso demonstra a importância de gerenciar de forma eficiente os pacotes utilizados em projetos, assim como os canais de distribuição.
+<br> Publicado no canal Cybersecurity News no LinkedIn
+
+<br> **2024.06.28 Ataque com malware* através do Polyfill JS**
+<br> O que é polyfillJS? É uma alternativa (imagine como um desvio) para permitir que navegadores obsoletos ou sem determinada funcionalidade nativa seja capaz de acessar um website ou serviço. Assim como a xzlib sofreu adulteração do projeto, agora foi a vez do polyfill. *Recomenda-se que a biblioteca seja removida imediatamente dos projetos.* Os domínios CDN do Polyfill foram derrubados pela Namecheap, sua principal registradora para interromper o problema.
+<br> Publicado [aqui](https://snyk.io/pt-BR/blog/polyfill-supply-chain-attack-js-cdn-assets/)
+
+<br> **2024.06.28 Upgrade no Google Sheets**
+<br> Os mecanismos de cálculos foram atualizados de JavaScript para WebAssembly (WasmGC), resultando em melhorias de desempenho. Assim, outras aplicações do Google poderão adotar a mesma solução.
+<br> Publicado no site Web Dev
+
+<br> **2024.06.28 Vazamento de identidades**
+<br> O sistema de verificação utilizado por grandes empresas, como PayPal, Uber, LinkedIn e TikTok, teve seus dados expostos durante um ano. A AU10TIX publicou acidentalmente suas credenciais de administrador na Internet que concediam acesso ao sistema de registro, incluindo documentos com foto, nomes, datas de nascimento e nacionalidades. Apesar de ter sido alertada, a empresa demorou para bloquear o acesso ao sistema comprometido.
+<br> Publicado [aqui](https://9to5mac.com/2024/06/27/identity-verification-company-au10tix/)
+
+<br> **2024.06.27 Google dificulta instalação de aplicativos de fontes desconhecidas para Android no Brasil**
+<br> O Play Protect bloqueará APKs baixados de navegadores, aplicativos de mensagens e que solicitam acesso à SMS, notificações e recursos de acessibilidade do aparelho. Para Eugene Liderman, diretor de estratégia de segurança do Android, 95% dos ataques feitos por malware originam-se de apps baixados de fontes não oficiais. A proteção já está habilitada para todos os usuários.
+<br> [TIP] Apenas aplicativos que demandam permissões mais sensíveis. Para desativar o recurso, deve-se "desmarcar" a opção "Verificar apps com o Play Protect" nas configurações da Google Play. Como exemplo posso mencionar o app Sound booster, que aumenta o volume acima do padrão máximo para fones de ouvido e que é útil quando o fone está danificado ou áudio gravado está baixo demais.
+<br> Publicado no site Tecnoblog
+
+<br> **2024.06.27 Material Web Components não receberá futuras melhorias**
+<br> O google informou que a biblioteca permite a implementação de componentes do *Material Design* na estilização de sites e permanecerá no modo de manutenção, mas não será descontinuada. A equipe responsável passará a focar no desenvolvimento do Wiz, framework interno do Google utilizado no mecanismo de busca, por exemplo.
+<br> Publicado no site 9to5Google
+
+<br> **2024.06.27 HUMOR: Vagas Arrombadas**
+<br> Absurdos no anúncio de vagas são republicadas [aqui](https://www.instagram.com/vagasvtnc/p/C8FGXk6OKlX/) e [aqui](https://codamos.com.br/vagas-arrombadas/)
+
+<br> **2024.06.25 Imagens com uso de IA**
+<br> Estava me perguntando até onde o recurso de melhoria de imagens aplicado a fotos nos celulares começaria a causar algum problema. Eis que encontrei hoje esta notícia: "Instagram, Facebook e Threads estão rotulando fotos reais incorretamente como se fossem criadas por IAs". O motivo estaria relacionado à edição das imagens utilizando ferramentas como o Generative AI Fill da Adobe. A Meta afirma que está avaliando sua abordagem para que o rótulo “Made with AI” indique apenas que alterações foram realizadas.
+<br> Publicado [aqui](https://techcrunch.com/2024/06/21/meta-tagging-real-photos-made-with-ai/)
+
+<br> **2024.06.25 Starlink Mini, em breve**
+<br> Antena compacta do tamanho de um notebook, com dimensões de 30 x 25 x 3,8 cm; possui um roteador embutido de até 100 Mbps, podendo ser operado pela energia de uma porta USB
+<br> Publicado no site The Verge
+
+<br> **2024.06.25 Risco com extensões do Chrome**
+<br> Extensão contendo malware ou código vulnerável pode permanecer na loja por até 1.200 dias, mesmo após a descoberta de falhas; com 60% nunca tendo recebido atualizações de segurança. O Google afirma que está trabalhando na transição das extensões baseadas no Manifest V2 para o V3 para mitigar os problemas de segurança.
+<br> Publicado no site The Register
+
+<br> **2024.06.25 Imagens com uso de IA**
+<br> Estava me perguntando até onde o recurso de melhoria de imagens aplicado a fotos nos celulares começaria a causar algum problema. Eis que encontrei hoje esta notícia: "Instagram, Facebook e Threads estão rotulando fotos reais incorretamente como se fossem criadas por IAs". O motivo estaria relacionado à edição das imagens utilizando ferramentas como o Generative AI Fill da Adobe. A Meta afirma que está avaliando sua abordagem para que o rótulo “Made with AI” indique apenas que alterações foram realizadas.
+<br> Publicado [aqui](https://techcrunch.com/2024/06/21/meta-tagging-real-photos-made-with-ai/)
+
+<br> **2024.06.23 Discurso de formatura de 2024 por Roger Federer em Dartmouth**
+<br> Foi publicado no início do mês, mas recebi só agora.
+<br> Veja [aqui](https://m.youtube.com/watch?v=pqWUuYTcG-o)
+
+<br> **2024.06.21 Windows Recall adiado**
+<br> Uma das maiores polêmicas criada recentemente pela Microsoft foi o Windows 
+Recall, um sistema que faz capturas de tela regulares do seu computador, treinando 
+uma IA para entender o que você faz, te ajudando a relembrar ações recentes. A 
+princípio, ele viria ativado por padrão em novos dispositivos com Windows 11, 
+mas devido à repercussão negativa, agora o recurso virá desativado. Após responder 
+ações judiciais relacionadas com segurança digital, a empresa decidiu adiar a 
+novidade indefinidamente.
+<br> Publicado pela Microsoft no canal Windows Insider
+
+<br> **2024.06.20 Cerca de 50% dos funcionários da Dell recusaram proposta de retorno ao escritório**
+<br> Profissionais remotos não seriam elegíveis para promoções ou avanços de cargo 
+na empresa. Contudo, esses colaboradores relatam aproveitar mais tempo livre e 
+economizar com deslocamentos. Uma pesquisa observa que a queda de desempenho entre 
+trabalhadores remotos é de apenas 10%, e que as vantagens da modalidade superam 
+essa perda.
+<br> Publicado [aqui](https://arstechnica.com/gadgets/2024/06/nearly-half-of-dells-workforce-refused-to-return-to-the-office/)
+
+<br> **2024.06.17 TDK anuncia bateria com capacidade 100x maior**
+<br> A maior fabricante de baterias para smartphones do mundo e principal 
+fornecedora da Apple, anunciou uma célula com densidade de energia 100 vezes 
+maior que a tecnologia atual. A "CeraCharge" possui recargas mais rápidas, maior 
+durabilidade e menor risco de danos por variações térmicas. Foi projetada para 
+substituir as células tipo moeda utilizadas em dispositivos como fones de ouvido 
+sem fio, smartwatches e aparelhos auditivos.
+<br> Publicado [aqui](https://qz.com/apple-tdk-battery-solid-state-air-pods-smartwatches-1851543502)
+
+<br> **2024.06.15 OpenAI pode virar uma empresa com fins lucrativos**
+<br> Tal mudança possibilitaria uma eventual oferta pública inicial das ações. 
+A empresa atualizou sua receita anual para 3,4 bilhões de dólares nos últimos 
+seis meses.
+<br> Publicado [aqui](https://slashdot.org/story/24/06/15/1927218/openai-ceo-says-company-could-become-a-for-profit-corporation-like-xai-anthropic)
+
+<p> **2024.06.14 Iniciado o compartilhamento de notícias relevantes com os amigos**
