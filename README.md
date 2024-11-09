@@ -5,6 +5,18 @@
 Latest news are at top / Notícias mais recentes no topo
 ```
 
+<br> **2024.11.08 [SEC:LOW] Alternativa para consulta sobre exposição de dados**
+<br> DataBreach, da Atlas Privacy é uma alternativa ao site Have I Been Pwned, que permite que usuários consultem uma variedade de dados além do e-mail, como nome completo, endereço físico, número de telefone e endereço IP, alertando sobre possíveis vazamentos.
+<br> Publicado [aqui](https://www.pcmag.com/news/databreachcom-emerges-as-alternative-to-haveibeenpwned)
+
+<br> **2024.11.08 [SEC:MID] Banco Central comunica vazamento de dados da CEF**
+<br> Informações cadastrais de 664 chaves PIX foram expostas. Nenhum acesso a contas foi comprometido.
+<br> Publicado [aqui](https://g1.globo.com/economia/noticia/2024/11/08/banco-central-comunica-vazamento-de-dados-de-clientes-da-caixa.ghtml)
+
+<br> **2024.11.08 [JOB] CEOs evitam IA por incompetência técnica**
+<br> Segudo pesquisa, 63% dos funcionários acreditam que seus CEOs evitam IA por incompetência técnica. A falta desta habilidade resulta em uma perda média de seis horas semanais em tarefas manuais que poderiam ser facilmente automatizadas.
+<br> Publicado [aqui](https://finance.yahoo.com/news/more-60-ceos-digitally-illiterate-145748885.html)
+
 <br> **2024.11.07 [PIRACY] Google VS Remoção de links**
 <br> A empresa revela que processa bilhões de solicitações anuais para remover 
 links com conteúdo pirata, onde os pedidos são enviados por detentores de direitos 
