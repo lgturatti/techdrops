@@ -5,6 +5,18 @@
 Latest news are at top / Notícias mais recentes no topo
 ```
 
+<br> **2024.11.11 Parte do arquivo da Internet está desaparecendo para sempre**
+<br> O [Internet Archive](https://archive.org) é uma organização sem fins lucrativos sediada em São Francisco, na Califórnia (EUA), criada em 1996 por Brewster Kahle. São 866 bilhões de páginas web, 44 milhões de livros, 10,6 milhões de vídeos com filmes e programas de televisão - e muito mais.
+<br> Publicado [aqui](https://www.terra.com.br/byte/por-que-parte-do-arquivo-da-internet-esta-desaparecendo-para-sempre-e-o-que-esta-sendo-feito-para-evitar-isso,eadb750cdfc568fd6521ce8a553003320mf899kb.html)
+
+<br> **2024.11.10 O erro que deu início à Internet**
+<br> Em 29 de outubro de 1969 dois cientistas (Charley Kline e Bill Duvall) fizeram a primeira conexão entre dois computadores a cerca de 560 km de distância entre eles. No auge da Guerra Fria, a ARPANET era um dos experimentos mais ambiciosos da tecnologia. Leia a entrevista cedida a BBC no 55o aniversário deste feito.
+<br> Publicado [aqui](https://www.terra.com.br/byte/ciencia/o-erro-que-deu-inicio-a-internet,3f9c03477207b18e6b9930bacd768125zsr8v7ev.html)
+
+<br> **2024.11.10 Como identificar uma imagem criada com Inteligência Artificial**
+<br> Anomalias visuais, consistência facial, marca d'água estão entre os pontos a serem observados. O artigo também traz sugestões sobre ferramentas para verificar imagens.
+<br> Publicado [aqui](https://forbes.com.br/forbes-tech/2024/11/como-identificar-se-uma-imagem-foi-feita-por-ia-generativa/)
+
 <br> **2024.11.08 [SEC:LOW] Alternativa para consulta sobre exposição de dados**
 <br> DataBreach, da Atlas Privacy é uma alternativa ao site Have I Been Pwned, que permite que usuários consultem uma variedade de dados além do e-mail, como nome completo, endereço físico, número de telefone e endereço IP, alertando sobre possíveis vazamentos.
 <br> Publicado [aqui](https://www.pcmag.com/news/databreachcom-emerges-as-alternative-to-haveibeenpwned)
