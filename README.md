@@ -5,6 +5,14 @@
 Latest news are at top / Notícias mais recentes no topo
 ```
 
+<br> **2024.11.13 Meta enfrentará julgamento antitruste sobre aquisições do Instagram e do WhatsApp**
+<br> A Meta, proprietária do Facebook, deve ser julgada em um processo da Comissão Federal de Comércio dos Estados Unidos (FTC, na sigla em inglês) que busca seu desmembramento devido a alegações de que comprou o Instagram e o WhatsApp para esmagar a concorrência em mídias sociais, decidiu um juiz em Washington nesta quarta-feira.
+<br> Publicado [aqui](https://www.terra.com.br/byte/meta-enfrentara-julgamento-antitruste-sobre-aquisicoes-do-instagram-e-do-whatsapp,1eefda27d5de91afc21863309974db8akizj5ggo.html)
+
+<br> **2024.11.12 Aprendizado de IA no limite**
+<br> As empresas de IA reconhecem que os métodos atuais de treinamento chegaram ao limite. Entre os fatores estão a falta de novos conteúdos gratuitos e a escassez energética. O próximo passo seria na técnica de “raciocínio”. Como exemplo um cientista da OpenAI mencionou um bot que “pensa” por 20 segundos em uma rodada de pôquer e que apresentou o mesmo ganho de desempenho que um modelo escalado em 100 mil vezes e treinado por esse mesmo fator em tempo.
+<br> Publicado [aqui](https://olhardigital.com.br/2024/11/12/pro/ia-chegou-no-teto-empresas-do-ramo-buscam-novos-metodos-de-inovar/)
+
 <br> **2024.11.11 Parte do arquivo da Internet está desaparecendo para sempre**
 <br> O [Internet Archive](https://archive.org) é uma organização sem fins lucrativos sediada em São Francisco, na Califórnia (EUA), criada em 1996 por Brewster Kahle. São 866 bilhões de páginas web, 44 milhões de livros, 10,6 milhões de vídeos com filmes e programas de televisão - e muito mais.
 <br> Publicado [aqui](https://www.terra.com.br/byte/por-que-parte-do-arquivo-da-internet-esta-desaparecendo-para-sempre-e-o-que-esta-sendo-feito-para-evitar-isso,eadb750cdfc568fd6521ce8a553003320mf899kb.html)
