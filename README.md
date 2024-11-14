@@ -98,6 +98,148 @@ Latest news are at top / Notícias mais recentes no topo
 
 <!-- transcrito aqui -->
 
+<br> **2024.07.30 Carro elétrico é mais poluente que carro a combustão**
+<br> Video disponível [aqui](https://youtu.be/C-dqp8V0GAY?si=zWxStV-dz2WsaQHV)
+
+<br> **2024.07.30 Pane na Azure**
+<br> Falha na infraestrutura de rede (virtual) e diversos avisos nas seguintes regiões:
+<br> - United States: East US, East US 2, Central US, North Central US, South Central US, West Central US, West US, West US 2, West US 3
+<br> - Canada: Canada East, Canada Central
+<br> - Brazil: Brazil South, Brazil Southeast
+<br> - Mexico: Mexico Central
+<br> - Europe: North Europe, West Europe, France Central, France South, UK West, UK South, Switzerland North, Switzerland West, Norway East, Norway West, Germany North, Germany West Central, Sweden Central, Sweden South, Poland Central, Italy North, Spain Centrstente do mercado. 
+<br> Publicado [aqui](https://www.theverge.com/2024/7/26/24206529/intel-13th-14th-gen-crashing-instability-cpu-voltage-q-a)
+
+<br> **2024.07.30 Calculadora para compras internacionais**
+<br> O serviço da receita federal está disponível [aqui](
+https://www.gov.br/receitafederal/pt-br/assuntos/aduana-e-comercio-exterior/manuais/remessas-postal-e-expressa/calculadora-versao-iii/calculadora.html)
+
+<br> **2024.07.30 Educação ilustrada: Funcionamento de um transistor**
+<br> Video disponível [aqui](https://youtube.com/shorts/NuI4WGEAsvI)
+
+<br> **2024.07.29 Repositórios removidos do GitHub não são excluídos definitivamente**
+<br> A pesquisa indica que o método "Cross Fork Object Reference" permite que o fork de um repositório consiga acessar dados de outro, incluindo informações sensíveis como chaves de API, a partir de commits pendentes que permanecem na base de dados mesmo após a remoção de sua referência. O GitHub alega que o comportamento observado é intencional e documentado, não sendo uma falha.
+<br> Publicado no site The Register
+
+<br> **2024.07.28 Obsolecência Programada**
+<br> Não é nova a prática, mas a Apple tem usado bastante disto para vender novos aparelhos. O que o consumidor pode fazer agora é exigir o direito à disponibilidade de peças para manutenção e acesso livre aos manuais de manutenção. Porque? Porque fugindo de "assistência autorizada" você não fica preso no ciclo vicioso. Por exemplo, a tela de um dispositivo encontrada na Internet, com impostos custa cerca de R$ 114,00 enquanto o mesmo item em uma "assistência autorizada" não sai por menos de R$ 1.300,00 a mesma peça. Não esqueça que além disso, tem a mão de obra.
+<br> Video disponível [aqui](https://youtu.be/kx0UHb5AMhI)
+
+<br> **2024.07.26 Falha crítica no Docker Engine* permite contornar plug-ins de autorização**
+<br> A correção está disponível nas versões 23.0.14 e 27.1.0.
+<br> Publicado [aqui](https://thehackernews.com/2024/07/critical-docker-engine-flaw-allows.html)
+
+<br> **2024.07.26 Supertempestade solar ocorrida em maio deste ano causou a maior "migração em massa" de satélites da história**
+<br> O evento aumentou a densidade da atmosfera, fazendo com que os dispositivos perdessem altitude e acionassem os propulsores simultaneamente, provocando chances de possíveis problemas, com os sistemas de prevenção de colisões tendo dificuldade em calcular as trajetórias alteradas dos satélites. Colisões e queda de fragmentos e dispositivos antigos.
+<br> Publicado [aqui](https://www.space.com/may-solar-storm-largest-mass-migration-satellites)
+
+<br> **2024.07.26 Dinheiro infinito**
+<br> Pesquisa indica que 84% dos usuários de PC não estão dispostos a pagar mais caro por hardwares com capacidades de IA. Apenas 7% dos 26 mil respondentes afirmam o contrário, enquanto 9% permanecem incertos, de acordo com dados da plataforma TechPowerUp. Recomenda-se que empresas de hardware reconsiderem as preferências de seu público-alvo.
+<br> Publicado no site VideoCardz
+
+<br> **2024.07.25 Empresas de telefonia multadas por propaganda enganosa**
+<br> Aqui a notícia trazia o problema sobre não haver 5G de verdade sendo entregue aos clientes, mas notamos apenas algumas melhorias em 4G LTE quando o sinal da operadora está excelente. O link da matéria não está mais disponivel no YouTube. (porque será?!?)
+
+<br> **2024.07.24 Extreme Go Horse Music**
+<br> Disponível [aqui](https://m.youtube.com/watch?v=6sfY9KP0kwE)al
+<br> - Asia: Southeast Asia, East Asia, Central India, West India, South India, Japan East, Japan West, Korea Central, Korea South
+<br> - Australia: Australia East, Australia Southeast, Australia Central, Australia Central 2
+<br> - Middle East: South Africa West, South Africa North, UAE Central, UAE North, Qatar Central, Israel Central
+<br> - India: Jio India West, Jio India Central
+<br> A justificativa da Microsoft foi que nem todos os clientes possuíam as configurações preventivas a ataques ativados ou configurados corretamente. O grupo de engenharia tomou frente a solução e efetuou os ajustes necessários para restabelecer os serviços, entretando foi questionado se os "dados privados" são efetivamente privados até certo ponto.
+
+<br> **2024.07.30 Processadores INTEL com problema (de novo)**
+<br> Intel afirma que patch de correção para travamentos em CPUs de 13ª e 14ª geração para desktop não irá reverter danos causados: os processadores podem apresentar instabilidade devido à exposição a tensões elevadas. A correção será disponibilizada em meados de agosto via atualização da BIOS, abordando a raiz do problema. No entanto, qualquer degradação já sofrida pela CPU é irreversível, com a substituição sendo a única solução viável. A empresa não realizará um recall desses componentes, não interromperá as vendas e nem retirará o inventário existente do mercado. 
+<br> Publicado [aqui](https://www.theverge.com/2024/7/26/24206529/intel-13th-14th-gen-crashing-instability-cpu-voltage-q-a)
+
+<br> **2024.07.30 Calculadora para compras internacionais**
+<br> O serviço da receita federal está disponível [aqui](
+https://www.gov.br/receitafederal/pt-br/assuntos/aduana-e-comercio-exterior/manuais/remessas-postal-e-expressa/calculadora-versao-iii/calculadora.html)
+
+<br> **2024.07.30 Educação ilustrada: Funcionamento de um transistor**
+<br> Video disponível [aqui](https://youtube.com/shorts/NuI4WGEAsvI)
+
+<br> **2024.07.29 Repositórios removidos do GitHub não são excluídos definitivamente**
+<br> A pesquisa indica que o método "Cross Fork Object Reference" permite que o fork de um repositório consiga acessar dados de outro, incluindo informações sensíveis como chaves de API, a partir de commits pendentes que permanecem na base de dados mesmo após a remoção de sua referência. O GitHub alega que o comportamento observado é intencional e documentado, não sendo uma falha.
+<br> Publicado no site The Register
+
+<br> **2024.07.28 Obsolecência Programada**
+<br> Não é nova a prática, mas a Apple tem usado bastante disto para vender novos aparelhos. O que o consumidor pode fazer agora é exigir o direito à disponibilidade de peças para manutenção e acesso livre aos manuais de manutenção. Porque? Porque fugindo de "assistência autorizada" você não fica preso no ciclo vicioso. Por exemplo, a tela de um dispositivo encontrada na Internet, com impostos custa cerca de R$ 114,00 enquanto o mesmo item em uma "assistência autorizada" não sai por menos de R$ 1.300,00 a mesma peça. Não esqueça que além disso, tem a mão de obra.
+<br> Video disponível [aqui](https://youtu.be/kx0UHb5AMhI)
+
+<br> **2024.07.26 Falha crítica no Docker Engine* permite contornar plug-ins de autorização**
+<br> A correção está disponível nas versões 23.0.14 e 27.1.0.
+<br> Publicado [aqui](https://thehackernews.com/2024/07/critical-docker-engine-flaw-allows.html)
+
+<br> **2024.07.26 Supertempestade solar ocorrida em maio deste ano causou a maior "migração em massa" de satélites da história**
+<br> O evento aumentou a densidade da atmosfera, fazendo com que os dispositivos perdessem altitude e acionassem os propulsores simultaneamente, provocando chances de possíveis problemas, com os sistemas de prevenção de colisões tendo dificuldade em calcular as trajetórias alteradas dos satélites. Colisões e queda de fragmentos e dispositivos antigos.
+<br> Publicado [aqui](https://www.space.com/may-solar-storm-largest-mass-migration-satellites)
+
+<br> **2024.07.26 Dinheiro infinito**
+<br> Pesquisa indica que 84% dos usuários de PC não estão dispostos a pagar mais caro por hardwares com capacidades de IA. Apenas 7% dos 26 mil respondentes afirmam o contrário, enquanto 9% permanecem incertos, de acordo com dados da plataforma TechPowerUp. Recomenda-se que empresas de hardware reconsiderem as preferências de seu público-alvo.
+<br> Publicado no site VideoCardz
+
+<br> **2024.07.25 Empresas de telefonia multadas por propaganda enganosa**
+<br> Aqui a notícia trazia o problema sobre não haver 5G de verdade sendo entregue aos clientes, mas notamos apenas algumas melhorias em 4G LTE quando o sinal da operadora está excelente. O link da matéria não está mais disponivel no YouTube. (porque será?!?)
+
+<br> **2024.07.24 Extreme Go Horse Music**
+<br> Disponível [aqui](https://m.youtube.com/watch?v=6sfY9KP0kwE)
+
+<br> **2024.07.23 Win 3.1: sem Internet, sem vírus, sem malware, sem atualizações mágicas**
+<br> A piada veio após a descoberta sobre problemas no Linux que não foram reportados antes.
+<br> Publicado [aqui](https://www.neowin.net/news/crowdstrike-broke-debian-and-rocky-linux-months-ago-but-no-one-noticed/)
+
+<br> **2024.07.22 Fim do ciclo .NET6 em 12.nov.2024** 
+<br> Microsoft recomenda a atualização para .NET8 pois a versão 6 não receberá novas atualizações de segurança ou suporte técnico. Os aplicativos desenvolvidos com a tecnologia permanecerão funcionando, sujeitos a problemas de segurança.
+
+<br> **2024.07.19 Solução para o Falcon, da CloudStrike**
+<br> Uma atualização com problema causou parte da pane global. Quem estiver bloqueaod pode seguir estes passos para deixar o computador utilizável novamente.
+<br> **Automática**
+<br> Reinicie o computador conectado em uma rede cabeada para permitir a tentativa de recuperação automática. Caso este procedimento falhe, faça a manutenção manualmente.
+<br> **Manual**
+<br> 1. Inicie o Windows no modo de segurança para recuperação do ambiente
+<br> 2. Navegue em seu sistema até o diretório/pasta: %WINDIR%\System32\drivers\CrowdStrike
+<br> 3. Localize e exclua o arquivo: "C-00000291*.sys"
+<br> 4. Reinicie o computador normalmente
+<br> **ATENÇÃO:** Se o computador tiver a criptografia de disco do Bitlocker ativa, será necessária uma chave de recuperação.
+
+<br> **2024.07.19 Ataques maliciosos a sistemas comprometidos**
+<br> Após falha do CrowdStrike Falcon Sensor, o setor de inteligência da empresa reportou diversas táticas usadas para ataques maliciosos:
+<br> - Phishing campaigns: Cybercriminals are sending fraudulent emails posing as CrowdStrike support, attempting to trick customers into revealing sensitive information or granting unauthorized access.
+<br> - Social engineering: There have been instances of threat actors impersonating CrowdStrike staff during phone calls, likely aiming to manipulate victims into compromising their security.
+<br> - Disinformation: Some attackers are presenting themselves as independent researchers, falsely claiming to have evidence linking the technical issue to a cyberattack and offering dubious remediation advice.
+<br> - Malicious software distribution: Criminals are attempting to sell scripts that supposedly automate recovery from the content update issue, which may instead introduce malware or create new vulnerabilities.
+
+<br> **2024.07.19 Guerra sem regras**
+<br> Video disponível [aqui](https://m.youtube.com/watch?v=4gg3IuCDAWA)
+
+<br> **2024.07.18 Como o empregador espera resultados**
+<br> Video disponível [aqui](https://youtube.com/shorts/3Vc0likydjM)
+
+<br> **2024.07.17 Android Studio Web via Project IDX**
+<br> Ambiente de desenvolvimento do Google, acessível através do navegador, também trará assistência de codificação com IA (Gemini). Desenvolvedores interessados podem se inscrever em uma lista de espera para obter acesso antecipado.
+<br> Publicado [aqui](https://9to5google.com/2024/07/16/android-studio-project-idx/)
+
+<br> **2024.07.17 IA com Planilhas**
+<br> Microsoft revela modelo de linguagem projetado para gestão e análise de planilhas. O Spreadsheet LLM (ainda em desenvolvimento e testes) é capaz de trabalhar com dados estruturados e não estruturados, capaz de atuar em áreas como finanças e projeções. Com o desenvolvimento do framework SheetCompressor a empresa conseguiu diminuir o uso de tokens em 96%, garantindo a eficiência da tecnologia. 
+<br> Publicado [aqui](https://arxiv.org/html/2407.09025v1)
+
+<br> **2024.07.17 iPhone Swiss Army Knife**
+<br> Ferramenta para testes e manutenção de iPhone USD 250
+<br> Video disponível [aqui](https://www.youtube.com/shorts/W4C2QFSgES8)
+
+<br> **2024.07.17 Educação Financeira: requisito básico desde o ensino fundamental**
+<br> Video disponível [aqui](https://youtube.com/shorts/9ytAvTbiBJw)
+
+<br> **2024.07.17 Carro no Brasil é barato**
+<br> Nosso problema são os tributos sobre consumo
+<br> Video disponível [aqui](https://m.youtube.com/watch?v=nPPGfUDKFVY)
+
+<br> **2024.07.16 Emulador de PC para Apple**
+<br> Após rejeição inicial, Apple aprova primeiro emulador de PC para iOS na App Store.
+<br> O UTM SE permite execução de softwares e jogos clássicos, incluindo sistemas operacionais como Windows, Mac OS 9 e distribuições Linux. A aprovação do aplicativo foi possível devido à implementação do interpretador “QEMU TCTI”, essencial para a construção do programa sem compilação JIT (Just-In-Time). O emulador também está disponível para iPadOS e visionOS. 
+<br> Publicado [aqui](https://apps.apple.com/us/app/utm-se-retro-pc-emulator/id1564628856)
+
 <br> **2024.07.15 AWS low-code for tech professionals**
 <br> Amazon Web Services anuncia ferramenta App Studio para o desenvolvimento de aplicativos através da descrição do software desejado, já está disponível para [download](https://aws.amazon.com/pt/appstudio/).
 <br> - Builder FREE
