@@ -75,6 +75,14 @@ Latest news are at top / Notícias mais recentes no topo
 <br> Ação: Atualize imediatamente o programa ([>= 114.0.5282.154](https://www.opera.com))
 <br> Publicado [aqui](https://cybersecuritynews.com/opera-browser-0-day-flaw/)
 
+<br> **2024.11.04 Diga Adeus ao Copilot e Olá ao Windows Intelligence**
+<br> O serviço de inteligência artificial do sistema operacional foi renomeado.
+<br> Publicado [aqui](https://androidgeek.pt/revolucao-digital-diga-adeus-ao-copilot-e-ola-ao-windows-intelligence)
+
+<br> **2024.11.01 Hackers roubam 15 mil credenciais de nuvem por meio de arquivos de configuração expostos do Git**
+<br> Em uma campanha conhecida como "EmeraldWhale", os indivíduos utilizam ferramentas automatizadas para escanear intervalos de endereços IP em busca de registros como ".git/config" e ".gitlab-ci.yml" que contenham tokens de autenticação. Estima-se que 67 mil URLs com arquivos de configuração expostos tenham sido identificadas, das quais 2 mil credenciais foram confirmadas como ativas. Recomenda-se utilizar ferramentas dedicadas e variáveis de ambiente para lidar com dados sensíveis.
+<br> Publicado no site BleepingComputer
+
 <br> **2024.10.30 [SEC:MID] Vulnerabilidade do dia zero no Windows Themes**
 <br> Permite que invasores roubem credenciais NTLM de sistemas comprometidos. A falha acontece quando o pacote com tema acessa a rede para salvar informações.
 <br> Publicado [aqui](https://cybersecuritynews.com/windows-themes-zero-day/)
