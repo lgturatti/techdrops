@@ -5,6 +5,10 @@
 Latest news are at top / Notícias mais recentes no topo
 ```
 
+<br> **2024.11.14 [SEC] Top 5 Malware Network Traffic Analysis Tools 2024**
+<br> Ferramentas para gerenciamento de risco em redes
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/top-5-malware-network-traffic-analysis-tools-2024-kphgc)
+
 <br> **2024.11.13 Meta enfrentará julgamento antitruste sobre aquisições do Instagram e do WhatsApp**
 <br> A Meta, proprietária do Facebook, deve ser julgada em um processo da Comissão Federal de Comércio dos Estados Unidos (FTC, na sigla em inglês) que busca seu desmembramento devido a alegações de que comprou o Instagram e o WhatsApp para esmagar a concorrência em mídias sociais, decidiu um juiz em Washington nesta quarta-feira.
 <br> Publicado [aqui](https://www.terra.com.br/byte/meta-enfrentara-julgamento-antitruste-sobre-aquisicoes-do-instagram-e-do-whatsapp,1eefda27d5de91afc21863309974db8akizj5ggo.html)
