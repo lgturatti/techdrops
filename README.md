@@ -5,8 +5,20 @@
 Latest news are at top / Notícias mais recentes no topo
 ```
 
+<br> **2024.11.18 [AI] 5 Prompts para Melhorar Sua Produção no ChatGPT em Segundos**
+<br> Dicas para melhorar as respostas geradas pelo sistema.
+<br> Publicado [aqui](https://forbes.com.br/forbes-tech/2024/11/5-prompts-para-melhorar-sua-producao-no-chatgpt-em-segundos)
+
+<br> **2024.11.18 [SEC] Como se proteger com as novas funcionalidades do PIX**
+<br> Segundo o artigo, normalmente os vazamentos de dados ocorrem nas extremidades da operação, ou seja, nas instituições que realizam a autenticação de usuários.
+<br> Publicado [aqui](https://www.terra.com.br/byte/seguranca-digital/vazamento-de-dados-de-pix-como-se-proteger-com-as-novas-funcionalidades,aee1d405284f90e86655e1e8ea744244fl6d80xs.html)
+
+<br> **2024.11.15 [AI] X inicia hoje o treinamento de sua própria IA**
+<br> Assim como o LinkedIn e a Meta (Instagram, Facebook e WhatsApp), agora o X (antigo twitter) utilizará os dados do usuário para treinamento da IA disponível em sua plataforma. Não existe maneira para desativar a coleta de dados a não ser parar totalmente de utilizar tais programas.
+<br> Publicado [aqui](https://www.terra.com.br/byte/x-comeca-nesta-sexta-a-usar-seus-dados-para-treinar-ia-veja-o-que-fazer,7bc34d28e98542a73bb3418c10835e42n5nkbpw1.html)
+
 <br> **2024.11.14 [SEC] Top 5 Malware Network Traffic Analysis Tools 2024**
-<br> Ferramentas para gerenciamento de risco em redes
+<br> Ferramentas para gerenciamento de risco em redes.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/top-5-malware-network-traffic-analysis-tools-2024-kphgc)
 
 <br> **2024.11.13 Meta enfrentará julgamento antitruste sobre aquisições do Instagram e do WhatsApp**
