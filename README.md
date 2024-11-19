@@ -5,6 +5,14 @@
 Latest news are at top / Notícias mais recentes no topo
 ```
 
+<br> **2024.11.19 [AI] Microsoft lança dois chips de infraestrutura de data center para acelerar aplicativos de IA**
+<br> A empresa dedicou recursos significativos para desenvolver componentes próprios para aplicações de uso geral e inteligência artificial. O objetivo é "otimizar cada camada da infraestrutura" e garantir que os data centers processem informações na velocidade que a IA exige. Com isso se espera aumentar em quatro vezes a performance e reduzir drasticamente o consumo de energia.
+<br> Publicado [aqui](https://www.reuters.com/technology/artificial-intelligence/microsoft-launches-two-data-center-infrastructure-chips-speed-ai-applications-2024-11-19/)
+
+<br> **2024.11.18 Dois cabos de comunicação do Mar Báltico foram desconectados**
+<br> Esta interrupção não deixa as nações europeias totalmente sem comunicações (Internet), pois os dados são normalmente roteados por vários cabos para evitar dependência excessiva de um único meio. A causa dessa interrupção ainda não foi determinada, mas autoridades suspeitam de "danos intencionais" pois em setembro os EUA informaram sobre um risco aumentado de "sabotagem" russa de cabos submarinos. A investigação européia detectou uma frota de navios espiões russos em águas nórdicas. Eles supostamente faziam parte de um programa projetado para sabotar os cabos (e parques eólicos).
+<br> Publicado [aqui](https://www.engadget.com/computing/two-baltic-sea-communications-cables-have-been-knocked-offline-214130723.html)
+
 <br> **2024.11.18 [AI] 5 Prompts para Melhorar Sua Produção no ChatGPT em Segundos**
 <br> Dicas para melhorar as respostas geradas pelo sistema.
 <br> Publicado [aqui](https://forbes.com.br/forbes-tech/2024/11/5-prompts-para-melhorar-sua-producao-no-chatgpt-em-segundos)
@@ -16,6 +24,10 @@ Latest news are at top / Notícias mais recentes no topo
 <br> **2024.11.15 [AI] X inicia hoje o treinamento de sua própria IA**
 <br> Assim como o LinkedIn e a Meta (Instagram, Facebook e WhatsApp), agora o X (antigo twitter) utilizará os dados do usuário para treinamento da IA disponível em sua plataforma. Não existe maneira para desativar a coleta de dados a não ser parar totalmente de utilizar tais programas.
 <br> Publicado [aqui](https://www.terra.com.br/byte/x-comeca-nesta-sexta-a-usar-seus-dados-para-treinar-ia-veja-o-que-fazer,7bc34d28e98542a73bb3418c10835e42n5nkbpw1.html)
+
+<br> **2024.11.14 [AI] IA torna a dívida tecnológica mais cara**
+<br> Ferramentas de IA enfrentam dificuldades com bases de código complexas e legadas. Para Evan Doyle, CTO da Gauge Technologies, a tecnologia pode gerar saídas imprecisas em ambientes com "alta dívida técnica". Isso também dificulta a formulação de prompts coerentes pelos programadores. Ele recomenda que, em vez de forçar o uso dos modelos em problemas complexos, especialistas deveriam assumir o trabalho de refatorar o código, ou criar novos módulos que a IA possa lidar mais facilmente.
+<br> Publicado [aqui](https://www.gauge.sh/blog/ai-makes-tech-debt-more-expensive)
 
 <br> **2024.11.14 [SEC] Top 5 Malware Network Traffic Analysis Tools 2024**
 <br> Ferramentas para gerenciamento de risco em redes.
