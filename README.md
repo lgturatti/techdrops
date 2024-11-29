@@ -5,6 +5,44 @@
 Latest news are at top / Notícias mais recentes no topo
 ```
 
+<br> **2024.11.26 Anatel autoriza operação do 5G na frequência de 3,5 GHz em todo Brasil**
+<br> Com esta autorização as operadoras de telefonia móvel e regionais podem expandir seus serviços de alta velocidade. A restrição anterior existia devido à utilização da banda pelo serviço de TV aberta via satélite.
+<br> A tecnologia 5G na faixa de 3,5 GHz já é acessível em 820 cidades, ao menos por uma operadora. No entanto, um estudo aponta que, mesmo nos locais onde já está presente, essa rede fica disponível apenas 11% do tempo.
+<br> Publicado [aqui](https://tecnoblog.net/noticias/5g-anatel-libera-frequencia-de-35-ghz-em-todo-o-brasil/)
+
+<br> **2024.11.26 [SEC] Critical 7-Zip Vulnerability**
+<br> A vulnerabilidade permite aos atacantes executar códigos remotamente 
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/critical-7-zip-vulnerability-let-attackers-execute-xeipc)
+
+<br> **2024.11.25 Ferramenta de IA da Nvidia pode criar sons "nunca antes ouvidos"**
+<br> O Fugatto é capaz de gerar música, efeitos sonoros e fala a partir de entradas de texto e áudio, e com base em comandos inusitados, como “um saxofone uivando”. Além disso, a ferramenta permite transformar vozes, alterando sotaques ou ajustando o tom para transmitir emoções, como calma ou irritação, e oferece recursos avançados de edição musical, como isolar vocais, adicionar instrumentos ou alterar uma melodia.
+<br> A Nvidia não divulgou quando ou se o recurso será disponibilizado ao público.
+<br> Publicado [aqui](https://www.theverge.com/2024/11/25/24305584/nvidia-fugatto-ai-audio-generator-music)
+
+<br> **2024.11.25 Vida útil de baterias**
+<br> Estudo recente indica que baterias de carros elétricos duram mais que o esperado. Após analisar  cerca de 7 mil veículos, os resultados apontam que nos primeiros 30 mil quilômetros a capacidade das células de energia apresenta uma queda mais maior, com o Estado de Saúde (SoH, na sigla em inglês) diminuindo de 100% para aproximadamente 95%. Contudo, à medida que a quilometragem aumenta, o ritmo de degradação desacelera, com os automóveis mantendo um SoH médio de cerca de 90% (até 100 mil Km) e 87% entre 200 mil e 300 mil.
+<br> Publicado no site Ecomento
+
+<br> **2024.11.21 [DEV] Ferramenta do Google detectou 26 vulnerabilidades em projetos de código aberto**
+<br> Ferramenta de fuzzing do Google identifica vulnerabilidades ignoradas por testes humanos: essa é uma técnica de teste automatizado que insere dados inválidos ou aleatórios em um software para buscar erros. O projeto “OSS-Fuzz” utiliza IA para procurar falhas em repositórios de código, e já detectou uma de nível crítico (CVE-2024-9143) na popular biblioteca OpenSSL. Segundo a empresa, o modelo de linguagem empregado consegue realizar as quatro primeiras etapas de fuzzing tradicional, e futuramente será capaz de sugerir patches para as vulnerabilidades identificadas.
+<br> Publicado [aqui](https://thehackernews.com/2024/11/googles-ai-powered-oss-fuzz-tool-finds.html)
+<br> Repositorio do projeto [aqui](https://github.com/google/oss-fuzz)
+
+<br> **2024.11.20 OpenAI lança curso gratuito sobre ChatGPT voltado para professores**
+<br> O guia, com duração de uma hora e no idioma inglês, é projetado para educadores do ensino fundamental e médio, com o objetivo de capacitá-los a integrarem o modelo em suas salas de aula. Contudo, alguns profissionais expressam preocupações quanto às implicações éticas do uso da tecnologia na educação, e da privacidade dos dados.
+<br> A OpenAI reforça que o ChatGPT não substitui a relação direta entre professores e alunos.
+<br> Publicado [aqui](https://techcrunch.com/2024/11/20/openai-releases-a-teachers-guide-to-chatgpt-but-some-educators-are-skeptical/)
+
+<br> **2024.11.20 [DEV] Vercel adquire Grep, mecanismo de busca de código**
+<br> A ferramenta permite que desenvolvedores pesquisem códigos-fonte rapidamente em mais de 500 mil repositórios públicos do Git, possibilitando identificar a origem de mensagens de erro, e buscar exemplos de uso de métodos. Com a aquisição, o fundador do Grep, Dan Fox, passará a integrar a equipe de IA da empresa.
+<br> Publicado [aqui](https://vercel.com/blog/vercel-acquires-grep)
+
+<br> **2024.11.19 Apple: atualização urgente**
+<br> A Apple alerta para exploração de falhas do dia zero no macOS e iOS, onde as vulnerabilidades CVE-2024-44308 e CVE-2024-44309 afetam Macs com processadores Intel.
+<br> A primeira, relacionada ao JavaScriptCore, permite a execução arbitrária de código, enquanto a segunda, vinculada ao WebKit, pode resultar em ataques de Cross-site scripting (XSS).
+<br> Solução: Atualização urgente para o macOS Sequoia 15.1.1, e iOS 17.7.2 e 18.1.1. 
+<br> Publicado[aqui](https://www.securityweek.com/apple-confirms-zero-day-attacks-hitting-intel-based-macs/)
+
 <br> **2024.11.19 [AI] Microsoft lança dois chips de infraestrutura de data center para acelerar aplicativos de IA**
 <br> A empresa dedicou recursos significativos para desenvolver componentes próprios para aplicações de uso geral e inteligência artificial. O objetivo é "otimizar cada camada da infraestrutura" e garantir que os data centers processem informações na velocidade que a IA exige. Com isso se espera aumentar em quatro vezes a performance e reduzir drasticamente o consumo de energia.
 <br> Publicado [aqui](https://www.reuters.com/technology/artificial-intelligence/microsoft-launches-two-data-center-infrastructure-chips-speed-ai-applications-2024-11-19/)
@@ -25,6 +63,10 @@ Latest news are at top / Notícias mais recentes no topo
 <br> Assim como o LinkedIn e a Meta (Instagram, Facebook e WhatsApp), agora o X (antigo twitter) utilizará os dados do usuário para treinamento da IA disponível em sua plataforma. Não existe maneira para desativar a coleta de dados a não ser parar totalmente de utilizar tais programas.
 <br> Publicado [aqui](https://www.terra.com.br/byte/x-comeca-nesta-sexta-a-usar-seus-dados-para-treinar-ia-veja-o-que-fazer,7bc34d28e98542a73bb3418c10835e42n5nkbpw1.html)
 
+<br> **2024.11.15 Queda de reclamações sobre telemarketing**
+<br> Comissão Federal de Comércio dos EUA registra queda de reclamações sobre chamadas de telemarketing: em 2024, o órgão recebeu 1,1 milhão de denúncias, em contraste com os 3,4 milhões em 2021. A FTC atribui essa redução a ações rigorosas, como o serviço “National Do Not Call Registry” (DNC), que atingiu 254 milhões de inscrições em setembro. De acordo com as regras, empresas de telemarketing devem atualizar suas listas de contatos e remover números inscritos no DNC pelo menos a cada 31 dias.
+<br> Publicado [aqui](https://www.bleepingcomputer.com/news/security/ftc-reports-50-percent-drop-in-unwanted-call-complaints-since-2021/)
+
 <br> **2024.11.14 [AI] IA torna a dívida tecnológica mais cara**
 <br> Ferramentas de IA enfrentam dificuldades com bases de código complexas e legadas. Para Evan Doyle, CTO da Gauge Technologies, a tecnologia pode gerar saídas imprecisas em ambientes com "alta dívida técnica". Isso também dificulta a formulação de prompts coerentes pelos programadores. Ele recomenda que, em vez de forçar o uso dos modelos em problemas complexos, especialistas deveriam assumir o trabalho de refatorar o código, ou criar novos módulos que a IA possa lidar mais facilmente.
 <br> Publicado [aqui](https://www.gauge.sh/blog/ai-makes-tech-debt-more-expensive)
@@ -41,6 +83,10 @@ Latest news are at top / Notícias mais recentes no topo
 <br> As empresas de IA reconhecem que os métodos atuais de treinamento chegaram ao limite. Entre os fatores estão a falta de novos conteúdos gratuitos e a escassez energética. O próximo passo seria na técnica de “raciocínio”. Como exemplo um cientista da OpenAI mencionou um bot que “pensa” por 20 segundos em uma rodada de pôquer e que apresentou o mesmo ganho de desempenho que um modelo escalado em 100 mil vezes e treinado por esse mesmo fator em tempo.
 <br> Publicado [aqui](https://olhardigital.com.br/2024/11/12/pro/ia-chegou-no-teto-empresas-do-ramo-buscam-novos-metodos-de-inovar/)
 
+<br> **2024.11.11 Pesquisadores hackeiam robôs controlados por IA**
+<br> Com 100% de taxa de sucesso: a equipe desenvolveu um algoritmo chamado RoboPAIR, que utiliza um LLM para enviar comandos ao sistema autônomo, analisando as respostas e ajustando os prompts até que consiga contornar os filtros de segurança. Com isso, os robôs foram convencidos a realizarem ações como colidir com pedestres e encontrar locais para detonar bombas. Essa descoberta reforça a importância da supervisão humana, uma vez que as IAs não têm uma verdadeira compreensão das consequências de suas ações.
+<br> Publicado [aqui](https://spectrum.ieee.org/jailbreak-llm)
+
 <br> **2024.11.11 Parte do arquivo da Internet está desaparecendo para sempre**
 <br> O [Internet Archive](https://archive.org) é uma organização sem fins lucrativos sediada em São Francisco, na Califórnia (EUA), criada em 1996 por Brewster Kahle. São 866 bilhões de páginas web, 44 milhões de livros, 10,6 milhões de vídeos com filmes e programas de televisão - e muito mais.
 <br> Publicado [aqui](https://www.terra.com.br/byte/por-que-parte-do-arquivo-da-internet-esta-desaparecendo-para-sempre-e-o-que-esta-sendo-feito-para-evitar-isso,eadb750cdfc568fd6521ce8a553003320mf899kb.html)
@@ -53,6 +99,11 @@ Latest news are at top / Notícias mais recentes no topo
 <br> Anomalias visuais, consistência facial, marca d'água estão entre os pontos a serem observados. O artigo também traz sugestões sobre ferramentas para verificar imagens.
 <br> Publicado [aqui](https://forbes.com.br/forbes-tech/2024/11/como-identificar-se-uma-imagem-foi-feita-por-ia-generativa/)
 
+<br> **2024.11.09 [DEV] Google e o Projeto Aristóteles**
+<br> A investida da empresa para descobrir o segredo das equipes mais eficazes revelou que, pra uma equipe ser show de bola, ela precisa de 5 superpoderes: Segurança Psicológica, Confiabilidade, Estrutura e Clareza, Significado e Impacto.
+<br> E sabe o que NÃO importa tanto? Se vocês trabalham coladinhos no escritório, o tamanho da equipe ou quão sociáveis vocês são. No final, o Google ainda deu umas dicas marotas pra melhorar o rolê: tenha um líder que incentive a troca de ideias e **crie um ambiente seguro pra errar e aprender**.
+<br> Confira o artigo publicado [aqui](https://addyosmani.com/blog/effective-teams/)
+
 <br> **2024.11.08 [SEC:LOW] Alternativa para consulta sobre exposição de dados**
 <br> DataBreach, da Atlas Privacy é uma alternativa ao site Have I Been Pwned, que permite que usuários consultem uma variedade de dados além do e-mail, como nome completo, endereço físico, número de telefone e endereço IP, alertando sobre possíveis vazamentos.
 <br> Publicado [aqui](https://www.pcmag.com/news/databreachcom-emerges-as-alternative-to-haveibeenpwned)
@@ -64,6 +115,9 @@ Latest news are at top / Notícias mais recentes no topo
 <br> **2024.11.08 [JOB] CEOs evitam IA por incompetência técnica**
 <br> Segudo pesquisa, 63% dos funcionários acreditam que seus CEOs evitam IA por incompetência técnica. A falta desta habilidade resulta em uma perda média de seis horas semanais em tarefas manuais que poderiam ser facilmente automatizadas.
 <br> Publicado [aqui](https://finance.yahoo.com/news/more-60-ceos-digitally-illiterate-145748885.html)
+
+<br> **2024.11.07 Cinco recursos gratuitos para aprendizagem sobre agentes LLM**
+<br> Publicado [aqui](https://www.kdnuggets.com/5-no-cost-learning-resources-for-llm-agents)
 
 <br> **2024.11.07 [PIRACY] Google VS Remoção de links**
 <br> A empresa revela que processa bilhões de solicitações anuais para remover links com conteúdo pirata, onde os pedidos são enviados por detentores de direitos autorais por meio de “notificações de DMCA”. Apesar do volume, nem todos os links reportados são removidos, uma vez que algumas notificações são incorretas ou sem fundamento.
@@ -428,3 +482,7 @@ seis meses.
 <br> Publicado [aqui](https://slashdot.org/story/24/06/15/1927218/openai-ceo-says-company-could-become-a-for-profit-corporation-like-xai-anthropic)
 
 <p> **2024.06.14 Iniciado o compartilhamento de notícias relevantes com os amigos**
+
+<br> **2024.03.03 Recuperação de ouro do lixo eletrônico se torna sustentável**
+<br> Pesquisadores utilizam soro de leite para recuperar ouro de lixo eletrônico: o processo envolve desnaturar as proteínas do produto, criando nanofibras em forma de gel que são posteriormente transformadas em uma esponja. Em testes com 20 placas-mãe antigas, foi possível absorver 90,8% de ouro, e a pepita resultante apresentou pureza equivalente a até 22 quilates. O custo total do processo foi 50 vezes menor que o valor do metal recuperado.
+<br> Publicado [aqui](https://newatlas.com/materials/gold-electronic-waste/)
