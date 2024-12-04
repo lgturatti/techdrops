@@ -5,6 +5,10 @@
 Latest news are at top / Notícias mais recentes no topo
 ```
 
+<br> **2024.11.29 [SEC] Quishing: A nova tendência de ataques via QRCode**
+<br> Esta variação do phishing tradicional utiliza QRCodes maliciosos que, quando escaneados, pode redirecionar o usuário a uma página falsa para roubo credenciais, ou até mesmo iniciar downloads automáticos de malware nos dispositivos.
+<br> Publicado [aqui](https://www.linkedin.com/pulse/not%C3%ADcias-mais-acessadas-da-semana-22-29-de-novembro-hackersec-doi2f)
+
 <br> **2024.11.26 Anatel autoriza operação do 5G na frequência de 3,5 GHz em todo Brasil**
 <br> Com esta autorização as operadoras de telefonia móvel e regionais podem expandir seus serviços de alta velocidade. A restrição anterior existia devido à utilização da banda pelo serviço de TV aberta via satélite.
 <br> A tecnologia 5G na faixa de 3,5 GHz já é acessível em 820 cidades, ao menos por uma operadora. No entanto, um estudo aponta que, mesmo nos locais onde já está presente, essa rede fica disponível apenas 11% do tempo.
