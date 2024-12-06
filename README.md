@@ -4,9 +4,45 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2024.12.06 Taxis autônomos chegam a Hong Kong**
+<br> Inicialmente a concessão possui diferenças em relação a rigidez das normas de funcionamento autorizadas até 2029.
+<br> Publicado [aqui]
+
+<br> **2024.12.05 Brasileiros desvendam mistério matemático de mais de um século**
+<br> O Brasil ingressou no panteão da matemática com uma conquista grandiosa. Pesquisadores da Unesp Rio Claro, no estado de São Paulo, desvendaram o 16° enigma do matemático alemão David Hilbert. A questão permaneceu sem solução por um período de 124 anos.
+<br> Publicado [aqui](https://www.terra.com.br/byte/brasileiros-desvendam-misterio-matematico-de-mais-de-um-seculo,4bcc8a0fade7b3876a1859fda3132f46ftz2mjo5.html)
+
 <br> **2024.12.05 [SEC] Guia para fortalecer a infraestrutura de comunicações**
 <br> Agências cibernéticas internacionais estão alertando que os agentes afiliados à República Popular da China (RPC) comprometeram as redes dos principais provedores globais de telecomunicações para conduzir uma ampla e significativa campanha de espionagem cibernética. Em resposta a essa ameaça contínua, as agências lançaram um guia conjunto que pede visibilidade e fortalecimento de dispositivos contra essas ameaças 
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/enhanced-visibility-hardening-guidance-counter-sjzke)
+
+<br> **2024.12.04 Cientista brasileiro que revolucionou a eletrônica**
+<br> Joaquim da Costa Ribeiro, cientista que descobriu em 1944 o efeito termodielétrico que provavelmente serviu de ponto de partida para uma vasta gama de desenvolvimentos eletrônicos que hoje fazem parte do nosso dia a dia. Anos mais tarde, seu trabalho (usado como base em outras pesquisas) foi usado em outros trabalhos internacionais e é comumente chamado de efeito Workman-Reynolds.
+<br> Não é a primeira vez que isso acontece, assim como Santos Dumont (pai da aviação, inventor do avião) teve o primeiro sucesso com um balão dirigível em 1901 e em 1906 realizou o voo com o 14bis.
+<br> Publicado [aqui](https://www.terra.com.br/byte/ciencia/joaquim-da-costa-ribeiro-o-desconhecido-cientista-brasileiro-que-revolucionou-a-eletronica,eaddcf7843c8bdc7366569f1d5b2cb95b0ae1rip.html)
+
+<br> **2024.12.04 Governo aprovou o PL 469/24, contra o "fair share"**
+<br> A cobrança por tráfego aos provedores de conteúdos foi vetada. A análise obviamente considerou que além do traffic shapping que já acontece nas conexões; bloqueio de acesso via DNS e redução na taxa de conexão quando se usa um fluxo de dados (streaming) as operadoras também desejavam cobrar pelo tipo de dado trafegado. Isso certamente aumentaria os custos de acesso a Internet para o usuário final. 
+<br> Publicado [aqui](https://www.mobiletime.com.br/noticias/04/12/2024/comunicacao-fair-share)
+
+<br> **2024.12.03 Anatel autoriza ativação do 5G Standalone em todo o Brasil**
+<br>Empresas de telefonia já têm a capacidade de implementar esse 5G puro em qualquer cidade do país, mas mesmo com a faixa liberada, não implica que a tecnologia será aplicada de imediato em todas as cidades. O prazo para as operadoras vai até 2029.
+<br> Publicado [aqui](https://www.terra.com.br/byte/anatel-autoriza-ativacao-do-5g-standalone-em-todo-o-brasil-entenda-a-nova-tecnologia,52d07ac17207902176dc48837a981afdxckg2tsf.html)
+
+<br> **2024.12.02 Starlink oferecerá Internet para celular**
+<br>No momento está funcionando somente como serviço de mensagens de texto nos EUA, sem previsão para o Brasil.
+<br> Publicado [aqui](https://www.terra.com.br/byte/starlink-empresa-de-elon-musk-vai-passar-a-oferecer-conexao-de-internet-para-celular,5294e84d641d549086fe40d2b5782461ve1tjh8r.html)
+
+<br> **2024.12.02 Brain rot: fato ou fake?**
+<br> O artigo discute que "ainda está em estudo" o uso excessivo de telas (celular) e as consequências do consumo prolongado de conteúdos que não demandam raciocínio ou reflexão. Também é necessário verificar se tal comportamento é causa ou consequência de sofrimento psicológico ou mental. 
+<br> Publicado [aqui](https://www.terra.com.br/byte/ciencia/e-possivel-apodrecer-o-cerebro-por-excesso-de-rede-social-veja-o-que-diz-a-ciencia,b25dc8a6ff9b687a81f06d173dddccf2zy3nk04l.html)
+
+<br> **2024.11.29 Parceria Gupy + LinkedIN**
+<br> A Gupy anunciou uma nova integração com o LinkedIn Recruitment, a plataforma de recrutamento que oferece acesso à maior rede profissional global. A colaboração pretende revolucionar o recrutamento no país, unificando as plataformas e seus recursos para os recrutadores.
+<br> Publicado [aqui](https://www.terra.com.br/byte/gupy-anuncia-parceria-com-linkedin-para-diminuir-o-tempo-de-recrutamento,a1ca78c2215a9442cf68948906ae7530za5bcxof.html)
+
+<br> **2024.11.29 [SEC] U.S. Takes Down Stolen Credit Card Marketplace PopeyeTools**
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/us-takes-down-stolen-credit-card-marketplace-popeyetools-f2zge)
 
 <br> **2024.11.29 [SEC] Quishing: A nova tendência de ataques via QRCode**
 <br> Esta variação do phishing tradicional utiliza QRCodes maliciosos que, quando escaneados, pode redirecionar o usuário a uma página falsa para roubo credenciais, ou até mesmo iniciar downloads automáticos de malware nos dispositivos.
