@@ -4,6 +4,9 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2024.12.05 [SEC] Guia para fortalecer a infraestrutura de comunicações**
+<br> Agências cibernéticas internacionais estão alertando que os agentes afiliados à República Popular da China (RPC) comprometeram as redes dos principais provedores globais de telecomunicações para conduzir uma ampla e significativa campanha de espionagem cibernética. Em resposta a essa ameaça contínua, as agências lançaram um guia conjunto que pede visibilidade e fortalecimento de dispositivos contra essas ameaças 
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/enhanced-visibility-hardening-guidance-counter-sjzke)
 
 <br> **2024.11.29 [SEC] Quishing: A nova tendência de ataques via QRCode**
 <br> Esta variação do phishing tradicional utiliza QRCodes maliciosos que, quando escaneados, pode redirecionar o usuário a uma página falsa para roubo credenciais, ou até mesmo iniciar downloads automáticos de malware nos dispositivos.
