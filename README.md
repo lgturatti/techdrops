@@ -4,6 +4,18 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2024.12.09 Ideia para automação simplificada de cortinas**
+<br> Encontrei um artigo que apontou para um produto interessante e prático. A empresa RYSE criou uma solução que é simples, com baixo consumo e um aplicativo que auxilia na gestão de espaços.
+<br> Produto [aqui](https://invest.helloryse.com) Não patrocinado
+
+<br> **2024.12.06 A IA do X, GROK está permitindo o uso gratuito de 10 prompts a cada duas horas**
+<br> Os usuários também podem gerar 10 imagens a cada 2 horas. No entanto, eles estão restritos a analisar 3 imagens por dia. Qualquer uso adicional requer assinatura.
+<br> Publicado [aqui](https://techcrunch.com/2024/12/06/2927301/)
+
+<br> **2024.12.06 IA auxilia o diagnóstico de AVC com uma única varredura**
+<br> O novo software de IA pode ler os exames cerebrais de pacientes que tiveram um derrame, para identificar com mais precisão quando isso aconteceu e ajudar os médicos a descobrir se ele pode ser tratado com sucesso.
+<br> Publicado [aqui](https://www.imperial.ac.uk/news/259073/new-ai-stroke-brain-scan-readings/)
+
 <br> **2024.12.06 Taxis autônomos chegam a Hong Kong**
 <br> Inicialmente a concessão possui diferenças em relação a rigidez das normas de funcionamento autorizadas até 2029.
 <br> Publicado [aqui]
@@ -15,6 +27,10 @@ Latest news are at top / Notícias mais recentes no topo
 <br> **2024.12.05 [SEC] Guia para fortalecer a infraestrutura de comunicações**
 <br> Agências cibernéticas internacionais estão alertando que os agentes afiliados à República Popular da China (RPC) comprometeram as redes dos principais provedores globais de telecomunicações para conduzir uma ampla e significativa campanha de espionagem cibernética. Em resposta a essa ameaça contínua, as agências lançaram um guia conjunto que pede visibilidade e fortalecimento de dispositivos contra essas ameaças 
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/enhanced-visibility-hardening-guidance-counter-sjzke)
+
+<br> **2024.12.04 O problema dos 70% na programação utilizando IA**
+<br> Resumidamente o artigo traz uma verdade sobre o desenvolvimento do zero até um MVP é possível com IA, mas os 30% restantes ainda dependem do humano no desenvolvimento de soluções, legibilidade, e conhecimento do negócio a que se propõe resolver.
+<br> Publicado [aqui](https://addyo.substack.com/p/the-70-problem-hard-truths-about)
 
 <br> **2024.12.04 Cientista brasileiro que revolucionou a eletrônica**
 <br> Joaquim da Costa Ribeiro, cientista que descobriu em 1944 o efeito termodielétrico que provavelmente serviu de ponto de partida para uma vasta gama de desenvolvimentos eletrônicos que hoje fazem parte do nosso dia a dia. Anos mais tarde, seu trabalho (usado como base em outras pesquisas) foi usado em outros trabalhos internacionais e é comumente chamado de efeito Workman-Reynolds.
