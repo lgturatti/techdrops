@@ -8,6 +8,17 @@ Latest news are at top / Notícias mais recentes no topo
 <br> Encontrei um artigo que apontou para um produto interessante e prático. A empresa RYSE criou uma solução que é simples, com baixo consumo e um aplicativo que auxilia na gestão de espaços.
 <br> Produto [aqui](https://invest.helloryse.com) Não patrocinado
 
+<br> **2024.12.08 [SEC] Boletim semanal sobre cybersegurança**
+<br> Publicado [aqui](https://www.linkedin.com/pulse/weekly-cybersecurity-bulletin-data-leaks-vulnerabilities-oyzec/)
+
+<br> **2024.12.08 [SEC] Técnicas usadas por hackers para criar golpes convincentes (phishing)**
+<br> O propósito do artigo é para fins didáticos e traz uma reflexão sobre uso de TLD (Top Level Domain) e sobre como as ferramentas que auxiliam na detecção de ataques precisa de humanos para criar regras seguras.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/creating-1010-phishing-mail-techniques-used-hackers-craft-3w2bc?lipi=urn%3Ali%3Apage%3Aemail_email_series_follow_newsletter_01%3BEhEiGJzkRmWNB7e9TKosMw%3D%3D&midToken=AQG7DdU_5-rfeA&midSig=3leEn2GVMxVbw1&trkEmail=eml-email_series_follow_newsletter_01-newsletter_content_preview-0-read_more_banner_cta_-null-15a3ci~m4fh4nhw~gi-null-null&eid=15a3ci-m4fh4nhw-gi&otpToken=MTQwYzFkZTMxNzJmY2NjMGJlMmYwMmU5NDUxOGUyYjA4YWNlZDI0OTkwYWY4NTY5NzdjMjAxNmU0NjVhNThmMWZjZDM4OWU2NmRlMmY5YzM2MGUxOTdiYzUzNWFiNTYwOGE2MWExM2RjY2I3YzJlZjRiLDEsMQ%3D%3D)
+
+<br> **2024.12.07 [SEC] Windows Zero-Day Allows Hackers To Steal NTLM Credentials**
+<br> A falha afeta todas as versões, desde o W7 até o W11 24H2; e do Server 2008 R2 até Server 2022. Através da execução de um arquivo o invasor consegue as credenciais do usuário que acessou o arquivo facilitando a quebra da assinatura da senha e obtendo acesso ao sistema remotamente.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/windows-zero-day-allows-hackers-steal-ntlm-credentials-7ytve?lipi=urn%3Ali%3Apage%3Aemail_email_series_follow_newsletter_01%3BiP48%2FPS0Tf6ydtNcCHKpRA%3D%3D&midToken=AQG7DdU_5-rfeA&midSig=2SIXHlXfatUbw1&trkEmail=eml-email_series_follow_newsletter_01-newsletter_content_preview-0-read_more_banner_cta_-null-15a3ci~m4ekz8u3~4g-null-null&eid=15a3ci-m4ekz8u3-4g&otpToken=MTQwYzFkZTMxNzJmY2NjMGJlMmYwMmU5NDUxOGU3YjQ4YWNlZDI0OTkxYTY4NTY5NzdjMjAxNmU0NjVhNThmMWZjZGRhNGIxNGViNmMzZTc2MGJlY2M4ZTc4ZWFlZjVkZTU3ZjZkZWE1MGFmYjQzZTJlLDEsMQ%3D%3D)
+
 <br> **2024.12.06 A IA do X, GROK está permitindo o uso gratuito de 10 prompts a cada duas horas**
 <br> Os usuários também podem gerar 10 imagens a cada 2 horas. No entanto, eles estão restritos a analisar 3 imagens por dia. Qualquer uso adicional requer assinatura.
 <br> Publicado [aqui](https://techcrunch.com/2024/12/06/2927301/)
