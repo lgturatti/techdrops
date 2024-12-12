@@ -569,6 +569,10 @@ seis meses.
 
 <p> **2024.06.14 Iniciado o compartilhamento de notícias relevantes com os amigos**
 
+<br> **2024.04.08 Aruba Launches Digital Heritage Portal, Preserving Its History and Culture for Global Access**
+<br> As instituições de memória de Aruba vêm digitalizando materiais há anos. Inicialmente, moradores e acadêmicos internacionais só podiam visualizar os itens na biblioteca da ilha. Mas agora, com a ajuda do Internet Archive, a Coleção de Aruba (Coleccion Aruba) está disponível para qualquer pessoa gratuitamente, de qualquer lugar.
+<br> Publicado [aqui](https://blog.archive.org/2024/04/08/aruba-launches-digital-heritage-portal-preserving-its-history-and-culture-for-global-access/)
+
 <br> **2024.03.03 Recuperação de ouro do lixo eletrônico se torna sustentável**
 <br> Pesquisadores utilizam soro de leite para recuperar ouro de lixo eletrônico: o processo envolve desnaturar as proteínas do produto, criando nanofibras em forma de gel que são posteriormente transformadas em uma esponja. Em testes com 20 placas-mãe antigas, foi possível absorver 90,8% de ouro, e a pepita resultante apresentou pureza equivalente a até 22 quilates. O custo total do processo foi 50 vezes menor que o valor do metal recuperado.
 <br> Publicado [aqui](https://newatlas.com/materials/gold-electronic-waste/)
