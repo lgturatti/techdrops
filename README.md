@@ -4,6 +4,10 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2024.12.12 [SEC] Apple lança grandes atualizações de segurança**
+<br> A gigante da tecnologia destacou suas atualizações do iOS 18.2 e do macOS Sequoia 15.2, que resolvem problemas em componentes importantes, incluindo o kernel, WebKit, AppleMobileFileIntegrity (integridade de dados móveis), Passwords e ImageIO.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/apple-releases-major-security-updates-iphone-ipad-cklte)
+
 <br> **2024.12.10 Microsoft Patch Tuesday - Reparadas 71 vulnerabilidades, incluindo 1 falha Zero-day e 30 RCEs**
 <br> É recomendada a atualização do sistema. 
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/microsoft-december-2024-patch-tuesday-71-vulnerabilities-uoanc) e [aqui](https://www.linkedin.com/comm/pulse/microsofts-november-patch-tuesday-fixes-71-vulnerabilities-8xnne)
