@@ -4,6 +4,14 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2024.12.10 Microsoft Patch Tuesday - Reparadas 71 vulnerabilidades, incluindo 1 falha Zero-day e 30 RCEs**
+<br> É recomendada a atualização do sistema. 
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/microsoft-december-2024-patch-tuesday-71-vulnerabilities-uoanc) e [aqui](https://www.linkedin.com/comm/pulse/microsofts-november-patch-tuesday-fixes-71-vulnerabilities-8xnne)
+
+<br> **2024.12.09 Raspberry lança o Pi 500 e Monitor dedicado**
+<bR> O dispositivo é um computador integrado em um teclado e, assim como seu antecessor (Pi 400), permite conectar uma tela e um mouse. Ele conta com um processador ARM Quad-core de 64 bits, 8 GB de RAM, e acompanha um cartão SD de 32 GB pré-carregado com o Raspberry Pi OS. O Pi 500 está disponível por 90 dólares, enquanto o monitor (15,6 polegadas e resolução de 1080p) pode ser adquirido por 100 dólares.
+<br> Publicado [aqui](https://techcrunch.com/2024/12/09/its-a-raspberry-pi-5-in-a-keyboard-and-its-called-the-raspberry-pi-500)
+
 <br> **2024.12.09 Ideia para automação simplificada de cortinas**
 <br> Encontrei um artigo que apontou para um produto interessante e prático. A empresa RYSE criou uma solução que é simples, com baixo consumo e um aplicativo que auxilia na gestão de espaços.
 <br> Produto [aqui](https://invest.helloryse.com) Não patrocinado
@@ -18,6 +26,10 @@ Latest news are at top / Notícias mais recentes no topo
 <br> **2024.12.07 [SEC] Windows Zero-Day Allows Hackers To Steal NTLM Credentials**
 <br> A falha afeta todas as versões, desde o W7 até o W11 24H2; e do Server 2008 R2 até Server 2022. Através da execução de um arquivo o invasor consegue as credenciais do usuário que acessou o arquivo facilitando a quebra da assinatura da senha e obtendo acesso ao sistema remotamente.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/windows-zero-day-allows-hackers-steal-ntlm-credentials-7ytve?lipi=urn%3Ali%3Apage%3Aemail_email_series_follow_newsletter_01%3BiP48%2FPS0Tf6ydtNcCHKpRA%3D%3D&midToken=AQG7DdU_5-rfeA&midSig=2SIXHlXfatUbw1&trkEmail=eml-email_series_follow_newsletter_01-newsletter_content_preview-0-read_more_banner_cta_-null-15a3ci~m4ekz8u3~4g-null-null&eid=15a3ci-m4ekz8u3-4g&otpToken=MTQwYzFkZTMxNzJmY2NjMGJlMmYwMmU5NDUxOGU3YjQ4YWNlZDI0OTkxYTY4NTY5NzdjMjAxNmU0NjVhNThmMWZjZGRhNGIxNGViNmMzZTc2MGJlY2M4ZTc4ZWFlZjVkZTU3ZjZkZWE1MGFmYjQzZTJlLDEsMQ%3D%3D)
+
+<br> **2024.12.07 Use a técnica de Feynman para aprender qualquer coisa**
+<br> A chave deste método é trazer ideias complexas para um nível mais básico e tentar explicá-las de uma forma simples. 
+<br> Publicado [aqui](https://www.terra.com.br/byte/ciencia/a-tecnica-de-feynman-o-metodo-de-estudo-criado-por-nobel-para-aprender-qualquer-coisa,4c71df2c1a385fe2643cdf8091f9e207r6y79va2.html)
 
 <br> **2024.12.06 A IA do X, GROK está permitindo o uso gratuito de 10 prompts a cada duas horas**
 <br> Os usuários também podem gerar 10 imagens a cada 2 horas. No entanto, eles estão restritos a analisar 3 imagens por dia. Qualquer uso adicional requer assinatura.
