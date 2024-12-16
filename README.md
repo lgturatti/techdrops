@@ -4,6 +4,21 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2024.12.16 [SEC] CURL: vulnerabilidade na ferramenta**
+<br> Atualizações já estão disponíveis para correção do problema. Basta atualizar seu sistema.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/curl-vulnerability-let-attackers-access-sensitive-information-rai0c)
+
+<br> **2024.12.15 Ferramenta ConvoC2 - Exploração de falhas via Microsoft Teams**
+<br> A ferramenta de Comando e Controle (C2) mostra como os invasores podem explorar o Microsoft Teams para executar comandos remotamente em sistemas comprometidos. Este projeto demonstra o desafio de segurança significativo para organizações que dependem da ferramenta de colaboração da Microsoft.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/convoc2-red-teamers-tool-execute-commands-hacked-ptcsc)
+
+<br> **2024.12.15 Apple Intelligence**
+<br> A Apple lançou o iOS 18.2, iPadOS 18.2 e macOS Sequoia 15.2, com o Apple Intelligence (um sistema de inteligência pessoal). Isto inicia a expansão do idioma com suporte localizado em inglês e traz um novo conjunto de recursos que elevam a experiência dos usuários, que podem remover objetos de imagens com o Clean Up, explorar novas maneiras criativas de se expressar visualmente com o Image Playground, criar o emoji perfeito para qualquer situação com o Genmoji e tornar sua escrita ainda mais dinâmica com o Writing Tools.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/apple-intelligence-has-arrived-update-ios-182-ipados-kwi9e)
+
+<br> **2024.12.15 [SEC] Resumo das notícias da semana (09 a 15)**
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/weekly-cyber-security-news-recap-data-leaks-vulnerabilities-foync)
+
 <br> **2024.12.12 [SEC] Apple lança grandes atualizações de segurança**
 <br> A gigante da tecnologia destacou suas atualizações do iOS 18.2 e do macOS Sequoia 15.2, que resolvem problemas em componentes importantes, incluindo o kernel, WebKit, AppleMobileFileIntegrity (integridade de dados móveis), Passwords e ImageIO.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/apple-releases-major-security-updates-iphone-ipad-cklte)
