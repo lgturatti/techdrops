@@ -4,6 +4,22 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2024.12.18 Vazamento de dados da Cisco**
+<br> Embora a empresa continue negando o vazamento de código fonte, o hacker disponibilizou 2.9GB de componentes como: ISE (Identity Services Engine); SASE (Secure Access Service Edge); Webex;  Umbrella (DNS security); entre outros.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/cisco-source-code-allegedly-leaked-the-cyber-security-hub-xqzke)
+
+<br> **2024.12.18 CISA emite práticas recomendadas para proteger ambientes de nuvem do Microsoft 365**
+<br> A recomendação abrange componentes críticos como Azure Active Directory, Microsoft Teams, Exchange Online, SharePoint Online, OneDrive e Microsoft Defender. 
+<br>  Publicado [aqui](https://www.linkedin.com/comm/pulse/cisa-issues-best-practices-secure-microsoft-365-cloud-xxzrc)
+
+<br> **2024.12.17 Hackers exploram o Microsoft Teams para acesso remoto**
+<br> Através de táticas sofisticadas de engenharia social os criminosos iniciam uma enxurrada de e-mails de phishing direcionados à vítima, e iniciam uma chamada com o Microsoft Teams, se passando por um funcionário de um cliente confiável.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/hackers-exploiting-microsoft-teams-gain-remote-access-pjhuc)
+
+<br> **2024.12.16 Kali Linux 2024.4 Release**
+<br> A nova versão traz catorze novas ferramentas, Python v3.12 como padrão, customização para gerar imagens para raspberry pi e fim do suporte para i386.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/kali-linux-20244-release-python-312-goodbye-i386-wkxgc) e [aqui](https://www.linkedin.com/comm/pulse/kali-linux-20244-released-new-hacking-tools-whats-r9q7c)
+
 <br> **2024.12.16 [SEC] CURL: vulnerabilidade na ferramenta**
 <br> Atualizações já estão disponíveis para correção do problema. Basta atualizar seu sistema.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/curl-vulnerability-let-attackers-access-sensitive-information-rai0c)
@@ -18,6 +34,14 @@ Latest news are at top / Notícias mais recentes no topo
 
 <br> **2024.12.15 [SEC] Resumo das notícias da semana (09 a 15)**
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/weekly-cyber-security-news-recap-data-leaks-vulnerabilities-foync)
+
+<br> **2024.12.14 Microsoft Blocks 7000 Password Attacks/sec**
+<br> As chaves de acesso representam um salto transformador na autenticação ao utilizar credenciais biométricas, como reconhecimento facial, impressões digitais ou PINs. Ao contrário das senhas tradicionais, as chaves de acesso resistem a ataques de phishing e força bruta, eliminam as frustrações de senhas esquecidas e reduzem a dependência de códigos únicos e chamadas de suporte. A empresa reforça a substituição de 1 bilhão de senhas por "passkey".
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/microsoft-blocks-7000-password-attackssec-1-billion-u3jlf) e [aqui](https://www.linkedin.com/comm/pulse/end-password-era-microsoft-remove-passwords-1-billion-vwode)
+
+<br> **2024.12.13 [IA] Microsoft anuncia Phi-4**
+<br> O anúncio introduz o Phi-4 para competir com GPT-4o mini e Gemini 2.0 Flash. O modelo conta com 14 bilhões de parâmetros e promete desempenho superior em diversas áreas, particularmente na resolução de problemas matemáticos. A empresa atribui esse avanço em parte ao uso de “conjuntos de dados sintéticos de alta qualidade” no treinamento. O Phi-4 está disponível em acesso limitado na plataforma Azure AI Foundry, sendo restrito a fins de pesquisa.
+<br> Publicado [aqui](https://olhardigital.com.br/2024/12/13/pro/phi-4-microsoft-anuncia-mais-um-modelo-de-ia-capaz-de-fazer-contas/) e [aqui](https://techcrunch.com/2024/12/12/microsoft-debuts-phi-4-a-new-generative-ai-model-in-research-preview/)
 
 <br> **2024.12.12 [SEC] Apple lança grandes atualizações de segurança**
 <br> A gigante da tecnologia destacou suas atualizações do iOS 18.2 e do macOS Sequoia 15.2, que resolvem problemas em componentes importantes, incluindo o kernel, WebKit, AppleMobileFileIntegrity (integridade de dados móveis), Passwords e ImageIO.
