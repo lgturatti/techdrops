@@ -4,6 +4,18 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2024.12.19 [SEC] Atualização de segurança do Chrome**
+<br> Confra sua versão: 131.0.6778.204/.205 para Windows e Mac e 131.0.6778.204 para Linux.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/critical-chrome-vulnerabilities-lets-attackers-execute-2jpdc)
+
+<br> **2024.12.18 Download de aplicativos cai 2 3% em 2024**
+<br> Apesar da queda na quantidade de novas instalações, os gastos do consumidor cresceram para 127 bilhões de dólares americanos (um aumento de 15,7% em relação a 2023). Acredita-se que isso esteja relacionado à estratégia das empresas de oferecer assinaturas contínuas em apps já existentes.
+<br> Publicado [aqui](https://techcrunch.com/2024/12/18/app-downloads-decline-2-3-in-2024-but-consumer-spending-grows-to-127b/)
+
+<br> **2024.12.18 [DEV] GitHub Copilot gratuito**
+<br> O plano oferece 2.000 sugestões de código por mês, independentemente de serem aceitas ou não, e acesso aos modelos Claude 3.5 Sonnet e GPT-4o. 
+<br> Publicado [aqui](https://techcrunch.com/2024/12/18/github-launches-a-free-version-of-its-copilot/) e [aqui](https://github.blog/news-insights/product-news/github-copilot-in-vscode-free/)
+
 <br> **2024.12.18 Vazamento de dados da Cisco**
 <br> Embora a empresa continue negando o vazamento de código fonte, o hacker disponibilizou 2.9GB de componentes como: ISE (Identity Services Engine); SASE (Secure Access Service Edge); Webex;  Umbrella (DNS security); entre outros.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/cisco-source-code-allegedly-leaked-the-cyber-security-hub-xqzke)
