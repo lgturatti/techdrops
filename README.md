@@ -4,11 +4,15 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2024.12.22 [SEC] Resumo semanal de notícias sobre segurança**
+<br> Notícias sobre ataques, vulnerabilidades e violações de dados ocorridos na semana.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/weekly-cyber-security-news-recap-attack-vulnerabilities-4utoc)
+
 <br> **2024.12.19 [SEC] Atualização de segurança do Chrome**
 <br> Confra sua versão: 131.0.6778.204/.205 para Windows e Mac e 131.0.6778.204 para Linux.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/critical-chrome-vulnerabilities-lets-attackers-execute-2jpdc)
 
-<br> **2024.12.18 Download de aplicativos cai 2 3% em 2024**
+<br> **2024.12.18 Download de aplicativos cai 2,3% em 2024**
 <br> Apesar da queda na quantidade de novas instalações, os gastos do consumidor cresceram para 127 bilhões de dólares americanos (um aumento de 15,7% em relação a 2023). Acredita-se que isso esteja relacionado à estratégia das empresas de oferecer assinaturas contínuas em apps já existentes.
 <br> Publicado [aqui](https://techcrunch.com/2024/12/18/app-downloads-decline-2-3-in-2024-but-consumer-spending-grows-to-127b/)
 
