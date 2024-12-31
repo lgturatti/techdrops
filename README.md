@@ -8,7 +8,7 @@ Latest news are at top / Notícias mais recentes no topo
 <br> Um novo ataque comprometeu diversas extensões do navegador Chrome, expondo mais de 500.000 usuários a possíveis violações de dados e roubo de credenciais.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/warning-multiple-google-chrome-extensions-hacked-2ujke)
 
-<br> **2024.12.30 [SEC] Top 10 dos ataques cibernéticas de 2024**
+<br> **2024.12.30 [SEC] Top 10 dos ataques cibernéticos de 2024**
 <br> Confira [aqui](https://www.linkedin.com/comm/pulse/top-10-cyber-attacks-2024-cybersecurity-news-bfpuc)
 
 <br> **2024.12.29 [SEC] AT&T e Verizon hackeados**
