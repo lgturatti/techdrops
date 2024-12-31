@@ -4,6 +4,21 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2024.12.30 [SEC] Múltiplas extensões do Chrome hackeadas**
+<br> Um novo ataque comprometeu diversas extensões do navegador Chrome, expondo mais de 500.000 usuários a possíveis violações de dados e roubo de credenciais.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/warning-multiple-google-chrome-extensions-hacked-2ujke)
+
+<br> **2024.12.30 [SEC] Top 10 dos ataques cibernéticas de 2024**
+<br> Confira [aqui](https://www.linkedin.com/comm/pulse/top-10-cyber-attacks-2024-cybersecurity-news-bfpuc)
+
+<br> **2024.12.29 [SEC] AT&T e Verizon hackeados**
+<br>Conforme divulgado pelo governo dos EUA, ao menos nove provedores de telecomunicações foram alvos do grupo Salt Typhoon. A extensão total dos ataques à AT&T e à Verizon permanece desconhecida, entretanto o acesso ao registro de chamadas é a localização dos usuários preocupa as autoridades.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/verizon-att-hacked-peoples-republic-china-prc-affiliate-4bgce)
+
+<br> **2024.12.29 [SEC] As 30 melhores ferramentas de teste**
+<br> Uma ferramenta de teste de penetração ajuda a identificar vulnerabilidades dentro de um sistema simulando ataques do mundo real. Isso permite que as organizações detectem e tratem de fraquezas de segurança antes que agentes maliciosos as explorem.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/30-best-penetration-testing-tools-cybersecurity-news-10rac)
+
 <br> **2024.12.22 [SEC] Resumo semanal de notícias sobre segurança**
 <br> Notícias sobre ataques, vulnerabilidades e violações de dados ocorridos na semana.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/weekly-cyber-security-news-recap-attack-vulnerabilities-4utoc)
