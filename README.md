@@ -4,6 +4,10 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2024.12.31 [SEC] China viola computadores do Tesouro dos EUA**
+<br> Autoridades revelaram que no início de dezembro um hacker obteve acesso a estações de trabalho e alguns documentos não classificados como "incidente grave".
+<br> Publicado [aqui](https://www.linkedin.com/pulse/us-treasury-hacked-peoples-republic-china-prc-major-2lsxe)
+
 <br> **2024.12.30 [SEC] Múltiplas extensões do Chrome hackeadas**
 <br> Um novo ataque comprometeu diversas extensões do navegador Chrome, expondo mais de 500.000 usuários a possíveis violações de dados e roubo de credenciais.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/warning-multiple-google-chrome-extensions-hacked-2ujke)
@@ -18,6 +22,10 @@ Latest news are at top / Notícias mais recentes no topo
 <br> **2024.12.29 [SEC] As 30 melhores ferramentas de teste**
 <br> Uma ferramenta de teste de penetração ajuda a identificar vulnerabilidades dentro de um sistema simulando ataques do mundo real. Isso permite que as organizações detectem e tratem de fraquezas de segurança antes que agentes maliciosos as explorem.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/30-best-penetration-testing-tools-cybersecurity-news-10rac)
+
+<br> **2024.12.27 [AI] openAI errou nas contas**
+<br> A criadora do ChatGPT apresentou em seu blog seus primeiros planos para se converter em uma empresa com fins lucrativos. A questão é que, para tanto, a empresa já deixou claro que precisará de mais capital do que havia previsto.
+<br> Publicado [aqui](https://www.seudinheiro.com/2024/empresas/errou-nas-contas-openai-diz-que-precisa-de-mais-capital-do-que-imaginavamos-ao-apresentar-plano-com-fins-lucrativos-tvaz/)
 
 <br> **2024.12.22 [SEC] Resumo semanal de notícias sobre segurança**
 <br> Notícias sobre ataques, vulnerabilidades e violações de dados ocorridos na semana.
