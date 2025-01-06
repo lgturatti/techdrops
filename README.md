@@ -4,6 +4,10 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2025.01.03 [SEC] R.I.P. - Morre pioneiro em cibersegurança**
+<br> Amit Yoran, CEO e presidente da Tenable Holdings, faleceu, vítima de câncer. Seu legado e realizações podem ser vistos no artigo.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/rip-amit-yoran-cybersecurity-pioneer-ceo-dies-aged-3uc7e)
+
 <br> **2024.12.31 [SEC] China viola computadores do Tesouro dos EUA**
 <br> Autoridades revelaram que no início de dezembro um hacker obteve acesso a estações de trabalho e alguns documentos não classificados como "incidente grave".
 <br> Publicado [aqui](https://www.linkedin.com/pulse/us-treasury-hacked-peoples-republic-china-prc-major-2lsxe)
@@ -22,6 +26,10 @@ Latest news are at top / Notícias mais recentes no topo
 <br> **2024.12.29 [SEC] As 30 melhores ferramentas de teste**
 <br> Uma ferramenta de teste de penetração ajuda a identificar vulnerabilidades dentro de um sistema simulando ataques do mundo real. Isso permite que as organizações detectem e tratem de fraquezas de segurança antes que agentes maliciosos as explorem.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/30-best-penetration-testing-tools-cybersecurity-news-10rac)
+
+<br> **2024.12.28 [PC] 2025 é o ano das atualizações**
+<br> Preços de memórias RAM devem cair no primeiro trimestre deste ano: segundo projeções, as reduções serão de 8% a 13% para o segmento de PCs, e de 5% a 10% para servidores e VRAM — utilizadas em placas de vídeo. Essa queda foi atribuída ao excesso de oferta combinado com a baixa demanda do consumidor.
+<br> Publicado [aqui](https://www.techradar.com/computing/computing-components/why-2025-will-be-an-exciting-year-to-upgrade-your-pc)
 
 <br> **2024.12.27 [AI] openAI errou nas contas**
 <br> A criadora do ChatGPT apresentou em seu blog seus primeiros planos para se converter em uma empresa com fins lucrativos. A questão é que, para tanto, a empresa já deixou claro que precisará de mais capital do que havia previsto.
