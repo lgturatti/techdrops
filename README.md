@@ -8,6 +8,10 @@ Latest news are at top / Notícias mais recentes no topo
 <br> Amit Yoran, CEO e presidente da Tenable Holdings, faleceu, vítima de câncer. Seu legado e realizações podem ser vistos no artigo.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/rip-amit-yoran-cybersecurity-pioneer-ceo-dies-aged-3uc7e)
 
+<br> **2025.01.02 Apple indenizará consumidores**
+<br> A empresa concordou com o pagamento de 95 milhões de dólares após Siri gravar conversas privadas de forma "não intencional". Os registros teriam sido compartilhados com terceiros para anúncios direcionados. Tal coleta de dados foi feita entre 17 de setembro de 2014 e 31 de dezembro de 2024.
+<br> Publicado [aqui](https://arstechnica.com/tech-policy/2025/01/apple-agrees-to-pay-95m-delete-private-conversations-siri-recorded/)
+
 <br> **2024.12.31 [SEC] China viola computadores do Tesouro dos EUA**
 <br> Autoridades revelaram que no início de dezembro um hacker obteve acesso a estações de trabalho e alguns documentos não classificados como "incidente grave".
 <br> Publicado [aqui](https://www.linkedin.com/pulse/us-treasury-hacked-peoples-republic-china-prc-major-2lsxe)
