@@ -4,6 +4,9 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2025.01.06 [SEC] Notícias mais acessadas da semana**
+<br> Disponível [aqui](https://www.linkedin.com/pulse/not%C3%ADcias-mais-acessadas-da-semana-27-de-dezembro-03-janeiro-9xiwf)
+
 <br> **2025.01.03 [SEC] R.I.P. - Morre pioneiro em cibersegurança**
 <br> Amit Yoran, CEO e presidente da Tenable Holdings, faleceu, vítima de câncer. Seu legado e realizações podem ser vistos no artigo.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/rip-amit-yoran-cybersecurity-pioneer-ceo-dies-aged-3uc7e)
