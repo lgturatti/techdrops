@@ -4,6 +4,10 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2025.01.10 [SEC] Coleto dados,  mas não é bem assim...**
+<br> Após concordar com indenização a Apple nega que a  Siri coleta dados de conversas para direcionamento de anúncios. A companhia afirma que nunca utilizou informações da ferramenta para disponibilizá-las para publicidade ou vendê-las a terceiros. Além disso, ela ressalta que apenas retém conversas caso o usuário permita explicitamente nas configurações, com a única finalidade de melhorar a Siri.
+<br> Publicado no site The Verge.
+
 <br> **2025.01.08 [SEC] Investigação pós incidente**
 <br> A Casio concluiu sua investigação sobre um ataque de ransomware em outubro de 2024. Foram comprometidos dados de 8.500 indivíduos entre parceiros,  funcionários e clientes.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/casio-investigation-reveals-extent-data-breach-y7xpe)
