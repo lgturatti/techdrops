@@ -8,6 +8,10 @@ Latest news are at top / Notícias mais recentes no topo
 <br> Após concordar com indenização a Apple nega que a  Siri coleta dados de conversas para direcionamento de anúncios. A companhia afirma que nunca utilizou informações da ferramenta para disponibilizá-las para publicidade ou vendê-las a terceiros. Além disso, ela ressalta que apenas retém conversas caso o usuário permita explicitamente nas configurações, com a única finalidade de melhorar a Siri.
 <br> Publicado no site The Verge.
 
+<br> **2025.01.09 Raspberry Pi 5 com 16GB RAM**
+<br> A empresa anuncia seu mini computador com 16 GB de RAM destacando o desempenho e a execução de LLMs. Agora conta com o processador Broadcom BCM2712 e está disponível a partir de 120 dólares.
+<br> Publicado [aqui](https://www.raspberrypi.com/news/16gb-raspberry-pi-5-on-sale-now-at-120/) e [aqui](https://www.raspberrypi.com/products/raspberry-pi-5/)
+
 <br> **2025.01.08 [SEC] Investigação pós incidente**
 <br> A Casio concluiu sua investigação sobre um ataque de ransomware em outubro de 2024. Foram comprometidos dados de 8.500 indivíduos entre parceiros,  funcionários e clientes.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/casio-investigation-reveals-extent-data-breach-y7xpe)
