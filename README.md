@@ -7,6 +7,10 @@ Latest news are at top / Notícias mais recentes no topo
 <br> **2025.01.13 [SEC] Notícias mais acessadas da semana**
 <br> Disponível [aqui](https://www.linkedin.com/comm/pulse/weekly-cybersecurity-newsletter-cyber-attack-news-vulnerabilities-0vygc)
 
+<br> **2025.01.11 [SEC] Disponível Wireshark v4.4.3**
+<br> Ferramenta para aprendizado e avaliação de segurança cibernética capaz de rastrear conexões, visualizar o conteúdo de transações de rede suspeitas e identificar picos de tráfego de rede dentre outras funcionalidades.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/wireshark-version-443-ready-download-the-cyber-security-hub-0lbve)
+
 <br> **2025.01.10 [SEC] Coleto dados,  mas não é bem assim...**
 <br> Após concordar com indenização a Apple nega que a  Siri coleta dados de conversas para direcionamento de anúncios. A companhia afirma que nunca utilizou informações da ferramenta para disponibilizá-las para publicidade ou vendê-las a terceiros. Além disso, ela ressalta que apenas retém conversas caso o usuário permita explicitamente nas configurações, com a única finalidade de melhorar a Siri.
 <br> Publicado no site The Verge.
