@@ -4,6 +4,10 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2025.01.14 [SEC] Fortinet corrige falha de dia zero**
+<br> A atualização corrige falhas dos produtos firewall FortiGate (FortiOS e FortiProxy) expostos (acessíveis) publicamente 
+<br> Publicado [aqui](https://www.linkedin.com/pulse/fortinet-patches-zero-day-vulnerability-fortios-eotxe)
+
 <br> **2025.01.13 [SEC] Notícias mais acessadas da semana**
 <br> Disponível [aqui](https://www.linkedin.com/comm/pulse/weekly-cybersecurity-newsletter-cyber-attack-news-vulnerabilities-0vygc)
 
