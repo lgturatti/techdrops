@@ -69,6 +69,10 @@ Latest news are at top / Notícias mais recentes no topo
 <br> A criadora do ChatGPT apresentou em seu blog seus primeiros planos para se converter em uma empresa com fins lucrativos. A questão é que, para tanto, a empresa já deixou claro que precisará de mais capital do que havia previsto.
 <br> Publicado [aqui](https://www.seudinheiro.com/2024/empresas/errou-nas-contas-openai-diz-que-precisa-de-mais-capital-do-que-imaginavamos-ao-apresentar-plano-com-fins-lucrativos-tvaz/)
 
+<br> **2024.12.25 [DEV] Empresário demite toda a equipe de desenvolvedores**
+<br> Wes Winder demite equipe inteira de programadores para substituí-la por IA, mas volta atrás. Ele afirmou que a  tecnologia permite a entrega de resultados "100 vezes mais rápida" com um código "10 vezes mais limpo". O detalhe é que percebeu depois que a realidade não é como um belo filme de ficção. 
+<br> Publicado [aqui](https://content.techgig.com/technology/developer-fires-entire-team-for-ai-now-ends-up-searching-for-engineers-on-linkedin/articleshow/116659064.cms)
+
 <br> **2024.12.22 [SEC] Resumo semanal de notícias sobre segurança**
 <br> Notícias sobre ataques, vulnerabilidades e violações de dados ocorridos na semana.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/weekly-cyber-security-news-recap-attack-vulnerabilities-4utoc)
