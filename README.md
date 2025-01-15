@@ -27,6 +27,10 @@ Latest news are at top / Notícias mais recentes no topo
 <br> A empresa anuncia seu mini computador com 16 GB de RAM destacando o desempenho e a execução de LLMs. Agora conta com o processador Broadcom BCM2712 e está disponível a partir de 120 dólares.
 <br> Publicado [aqui](https://www.raspberrypi.com/news/16gb-raspberry-pi-5-on-sale-now-at-120/) e [aqui](https://www.raspberrypi.com/products/raspberry-pi-5/)
 
+<br> **2025.01.09 Como verificar a segurança de um website - 2025**
+<br> O artigo menciona verificação de URL, reputação, domínio e grafia do dominio, grafia e contexto do conteúdo, verificação contra malwares, informações para contato entre outros pontos de atenção 
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/website-safe-how-check-safety-2025-cybersecurity-news-v5bkc)
+
 <br> **2025.01.09 [SEC] SonicWall critical auth bypass**
 <br> A empresa solicita atualização urgente do firmware SonicOS do firewall para resolver a vulnerabilidade relacionada a autenticação e que afeta o gerenciamento de SSL, VPN e SSH. 
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/warning-sonicwall-firewall-hit-critical-authentication-qybie)
