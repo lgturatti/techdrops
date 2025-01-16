@@ -4,6 +4,10 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2025.01.16 [SEC] Manual de segurança cibernética**
+<br> O documento orienta o compartilhamento voluntário de informações para abordar vulnerabilidades e ameaças cibernéticas, promovendo a colaboração entre governo, indústria e parceiros internacionais.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/cisa-joint-cyber-defense-collaborative-jcdc-release-bgzze)
+
 <br> **2025.01.15 [SEC] Atualização Microsoft**
 <br> A atualização de janeiro apresenta atualizações de segurança para 159 vulnerabilidades, incluindo 8 falhas de dia zero, 3 das quais são ativamente exploradas em ataques.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/microsofts-january-2025-patch-tuesday-fixes-159-anhoe)
