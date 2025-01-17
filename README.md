@@ -4,6 +4,14 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2025.01.17 [SEC] Let’s Encrypt anuncia certificados com validade de 6 dias**
+<br> A autoridade certificadora sem fins lucrativos introduziu certificados com validade curta porque métodos tradicionais como Certificate Revocation Lists (CRLs) e o Online Certificate Status Protocol (OCSP) têm sido frequentemente criticados por ineficiência e falta de confiabilidade. Quando uma chave privada é comprometida, esses mecanismos informam aos usuários que um certificado não deve mais ser confiável. No entanto, certificados comprometidos podem permanecer válidos até a expiração devido a atrasos e deficiências operacionais.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/lets-encrypt-announces-6-day-validity-certificates-zysmc)
+
+<br> **2025.01.16 [SEC] EUA corrigindo falhas de software**
+<br> NSA & CISA apontam disparidade de investimento técnico, onde a produção de software superou o investimento em melhorar o entendimento do software para confiar que o sistema é funcional, seguro e protegido, e apoiar a confiança na segurança nacional e nos sistemas de infraestrutura crítica.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/nsa-cisa-release-report-closing-software-understanding-izbse)
+
 <br> **2025.01.16 [SEC] Manual de segurança cibernética**
 <br> O documento orienta o compartilhamento voluntário de informações para abordar vulnerabilidades e ameaças cibernéticas, promovendo a colaboração entre governo, indústria e parceiros internacionais.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/cisa-joint-cyber-defense-collaborative-jcdc-release-bgzze)
