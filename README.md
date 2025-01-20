@@ -4,6 +4,21 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2025.01.19 [SEC] Resumo semanal de 12 a 18**
+<br> Disponível [aqui](https://www.linkedin.com/comm/pulse/weekly-cybersecurity-digest-latest-cyber-attacks-vulnerabilities-4ufoc)
+
+<br> **2025.01.18 [SEC] EUA libera lista atualizada de produtos com mas práticas de segurança**
+<br> Esta atualização traz esclarecimentos e modificações em várias seções, como segurança de memória, autenticação multifator para tecnologia operacional e MFA resistente a phishing
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/cisa-fbi-updates-product-security-bad-practices-7r8ae) é [aqui](https://www.cisa.gov/sites/default/files/2025-01/joint-guidance-product-security-bad-practices-508c_0.pdf)
+
+<br> **2025.01.17 Bitcoin em risco?**
+<br> Segundo a publicação, o Bitcoin precisaria de mais de 300 dias de inatividade para se defender adequadamente da ameaça "iminente" da computação quântica.
+<br> Publicado [aqui](https://fortune.com/2024/12/17/bitcoin-downtime-update-quantum-computing-attack-study/)
+
+<br> **2025.01.17 Uso intenso de IA no Brasil**
+<br> Pesquisa do Google indica que o Brasil supera média global no uso de IA em 2024. A amostra possui um mil indivíduos de cada um dos 21 países participantes. A adoção da tecnologia pelos brasileiros no período chegou a 54%, em contraste com os 48% do resto do mundo. No país, os modelos são utilizados principalmente para escrita (78%), brainstorming (78%), resolução de problemas (87%), simplificação de documentos extensos (72%) e entendimento de informações complexas (78%).
+<br> Publicado [aqui](https://convergenciadigital.com.br/mercado/brasileiro-elege-e-confia-na-ia-generativa-para-resolver-problemas-complexos/)
+
 <br> **2025.01.17 [SEC] Let’s Encrypt anuncia certificados com validade de 6 dias**
 <br> A autoridade certificadora sem fins lucrativos introduziu certificados com validade curta porque métodos tradicionais como Certificate Revocation Lists (CRLs) e o Online Certificate Status Protocol (OCSP) têm sido frequentemente criticados por ineficiência e falta de confiabilidade. Quando uma chave privada é comprometida, esses mecanismos informam aos usuários que um certificado não deve mais ser confiável. No entanto, certificados comprometidos podem permanecer válidos até a expiração devido a atrasos e deficiências operacionais.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/lets-encrypt-announces-6-day-validity-certificates-zysmc)
