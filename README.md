@@ -8,6 +8,10 @@ Latest news are at top / Notícias mais recentes no topo
 <br> Além do destaque de problemas de controle de acesso, erros de lógica, problemas com validação de entradas, dentre outros há um atalho para baixar outros guias sobre segurança. Boa leitura!
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/owasp-reveals-top-10-smart-contract-vulnerabilities-eyfte)
 
+<br> **2025.01.21 TSMC interrompe produção após forte terremoto atingir Taiwan**
+<br> Antes de retornar ao funcionamento a empresa está verificando se houve algum problema é se os equipamentos de alta precisão estão prontos para retomar as atividades. 
+<br> Publicado [aqui](https://www.theregister.com/2025/01/21/taiwan_earthquake_tsmc/)
+
 <br> **2025.01.19 [SEC] Resumo semanal de 12 a 18**
 <br> Disponível [aqui](https://www.linkedin.com/comm/pulse/weekly-cybersecurity-digest-latest-cyber-attacks-vulnerabilities-4ufoc)
 
