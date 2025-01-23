@@ -4,6 +4,10 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2025.01.23 [SEC] Cloudflare conteve novo ataque histórico**
+<br> A empresa líder em infraestrutura e segurança da web, relatou o maior ataque de Negação de Serviço Distribuída (DDoS) já registrado, um ataque massivo de 5,6 terabits por segundo (Tbps) sem intervenção humana.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/cloudflare-mitigates-historic-world-record-56-tbps-hoccc)
+
 <br> **2025.01.22 [SEC] Dez principais vulnerabilidades para 2025**
 <br> Além do destaque de problemas de controle de acesso, erros de lógica, problemas com validação de entradas, dentre outros há um atalho para baixar outros guias sobre segurança. Boa leitura!
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/owasp-reveals-top-10-smart-contract-vulnerabilities-eyfte)
