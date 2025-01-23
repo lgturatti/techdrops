@@ -4,6 +4,10 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2025.01.22 [SEC] Dez principais vulnerabilidades para 2025**
+<br> Além do destaque de problemas de controle de acesso, erros de lógica, problemas com validação de entradas, dentre outros há um atalho para baixar outros guias sobre segurança. Boa leitura!
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/owasp-reveals-top-10-smart-contract-vulnerabilities-eyfte)
+
 <br> **2025.01.19 [SEC] Resumo semanal de 12 a 18**
 <br> Disponível [aqui](https://www.linkedin.com/comm/pulse/weekly-cybersecurity-digest-latest-cyber-attacks-vulnerabilities-4ufoc)
 
