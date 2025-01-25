@@ -4,6 +4,10 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2025.01.24 ANPD suspende a coleta de íris em troca de moedas digitais**
+<br> A Autoridade Nacional de Proteção de Dados (ANPD) determinou hoje a suspensão da "venda de íris" realizada startup Tools for Humanity em troca do escaneamento de íris por "moedas digitais" da própria empresa.
+<br> Publicado [aqui](https://www.terra.com.br/byte/anpd-suspende-a-coleta-de-iris-em-troca-de-moedas-digitais-da-startup-tools-for-humanity-entenda,70d78274b5b71965f6bb4c6f68f5c72doega0mfi.html)
+
 <br> **2025.01.23 [SEC] Cloudflare conteve novo ataque histórico**
 <br> A empresa líder em infraestrutura e segurança da web, relatou o maior ataque de Negação de Serviço Distribuída (DDoS) já registrado, um ataque massivo de 5,6 terabits por segundo (Tbps) sem intervenção humana.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/cloudflare-mitigates-historic-world-record-56-tbps-hoccc)
