@@ -43,6 +43,14 @@ Latest news are at top / Notícias mais recentes no topo
 <br> A autoridade certificadora sem fins lucrativos introduziu certificados com validade curta porque métodos tradicionais como Certificate Revocation Lists (CRLs) e o Online Certificate Status Protocol (OCSP) têm sido frequentemente criticados por ineficiência e falta de confiabilidade. Quando uma chave privada é comprometida, esses mecanismos informam aos usuários que um certificado não deve mais ser confiável. No entanto, certificados comprometidos podem permanecer válidos até a expiração devido a atrasos e deficiências operacionais.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/lets-encrypt-announces-6-day-validity-certificates-zysmc)
 
+<br> **2025.01.17 Primeiro chatbot da história é reativado**
+<br> ELIZA, primeiro chatbot do mundo da década de 1960, é reativado. O programa, criado pelo professor Joseph Weizenbaum do MIT entre 1964 e 1967, marcou o início das interações entre humanos e máquinas por meio de linguagem natural. Ele simulava conversas utilizando um script chamado DOCTOR, que fazia o sistema atuar como um psicoterapeuta. O código original, com apenas 420 linhas, foi considerado perdido por décadas, até que em 2021 um cientista e um arquivista do MIT o encontraram nos arquivos de Weizenbaum.
+<br> Publicado [aqui](https://www.livescience.com/technology/eliza-the-worlds-1st-chatbot-was-just-resurrected-from-60-year-old-computer-code)
+
+<br> **2025.01.16 "Salvei os celulares!"**
+<br> Cofundador do Android afirma que sistema foi criado para impedir que Microsoft dominasse mercado de dispositivos móveis. Para Rich Miner, isso teria sufocado a inovação, assim como ocorreu no segmento de PCs, que atualmente é liderado pelo Windows. O Windows Phone foi descontinuado em 2019.
+<br> Publicado [aqui](https://in.mashable.com/tech/88193/android-co-founder-blames-bill-gates-for-microsofts-400-billion-smartphone-failure)
+
 <br> **2025.01.16 [SEC] EUA corrigindo falhas de software**
 <br> NSA & CISA apontam disparidade de investimento técnico, onde a produção de software superou o investimento em melhorar o entendimento do software para confiar que o sistema é funcional, seguro e protegido, e apoiar a confiança na segurança nacional e nos sistemas de infraestrutura crítica.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/nsa-cisa-release-report-closing-software-understanding-izbse)
@@ -50,6 +58,10 @@ Latest news are at top / Notícias mais recentes no topo
 <br> **2025.01.16 [SEC] Manual de segurança cibernética**
 <br> O documento orienta o compartilhamento voluntário de informações para abordar vulnerabilidades e ameaças cibernéticas, promovendo a colaboração entre governo, indústria e parceiros internacionais.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/cisa-joint-cyber-defense-collaborative-jcdc-release-bgzze)
+
+<br> **2025.01.15 [SEC] FTC notifica GoDaddy**
+<br> A Comissão Federal de Comércio dos EUA notificou o GoDaddy por falhas graves em segurança. Segundo o órgão, a empresa teria se mostrado alheia às vulnerabilidades e ameaças em seu ambiente de hospedagem. A reclamação aponta a ausência de autenticação multifator (MFA) e de softwares capazes de detectar riscos.
+<br> Publicado [aqui](https://www.ftc.gov/news-events/news/press-releases/2025/01/ftc-takes-action-against-godaddy-alleged-lax-data-security-its-website-hosting-services)
 
 <br> **2025.01.15 [SEC] Atualização Microsoft**
 <br> A atualização de janeiro apresenta atualizações de segurança para 159 vulnerabilidades, incluindo 8 falhas de dia zero, 3 das quais são ativamente exploradas em ataques.
