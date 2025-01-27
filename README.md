@@ -4,6 +4,10 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2025.01.27 [SEC] 2024: Um Ano de Ataques de Identidade**
+<br> As principais histórias de segurança cibernética de 2024 foram relacionadas a ataques de identidade, com campanhas baseadas em: identidade do APT29 e Scattered Spider, infostealer e roubo de credenciais em escala industrial.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/2024-year-identity-attacks-get-latest-ebook-the-cyber-security-hub-e4sgc) e e-book disponível [aqui](https://pushsecurity.com/resources/2024-identity-attacks)
+
 <br> **2025.01.27 [SEC] Resumo semanal de 19 a 25**
 <br> Disponível [aqui](https://www.linkedin.com/comm/pulse/weekly-cybersecurity-update-recent-cyber-attacks-vulnerabilities-cg2yc)
 
