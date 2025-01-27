@@ -4,6 +4,9 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2025.01.27 [SEC] Resumo semanal de 19 a 25**
+<br> Disponível [aqui](https://www.linkedin.com/comm/pulse/weekly-cybersecurity-update-recent-cyber-attacks-vulnerabilities-cg2yc)
+
 <br> **2025.01.25 Subconsumo: a prática do 'não gastar'**
 <br> As gerações Z e Alfa começaram a questionar as formas de consumo de artigos considerados de luxo ou descartáveis. O movimento prega, entre outras ações, optar por produtos de usados e o respectivo impacto ambiental. Além disso, tem como objetivo o minimalismo e não acumular coisas repetidas ou desnecessárias.
 <br> Publicado [aqui](https://g1.globo.com/df/distrito-federal/noticia/2025/01/25/subconsumo-a-pratica-do-nao-gastar-chega-ao-brasil-entenda.ghtml) em complemento a ideias [daqui](https://www.marieclaire.com.au/life/marie-kondo-effect/)
