@@ -4,6 +4,14 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2025.01.29 [GitHub] Mudanças na plataforma**
+<br> GitHub revela planos para se tornar "mais parecido com um aplicativo", de acordo com o desenvolvedor Joel Hawksley. As razões para essa mudança incluem a competição crescente com soluções como Linear e Cursor, além do aumento do uso de dispositivos móveis.
+<br> Publicado [aqui](https://devclass.com/2025/01/29/more-react-more-app-like-github-engineer-outlines-future-ui-for-its-devops-platform/)
+
+<br> **2025.01.29 [AI] Armadilha para raspagem de dados**
+<br> Desenvolvedor cria armadilha para IAs que ignoram “robots.txt”. O [Nepenthes](https://zadzmo.org/code/nepenthes/) direciona crawlers para um labirinto infinito de páginas falsas, onde podem ficar presos por meses, consumindo recursos computacionais sem obter dados úteis. A abordagem, chamada de “tarpitting”, é tradicionalmente utilizada para dificultar a atuação de spammers.
+<br> Publicado [aqui](https://socialbarrel.com/software-developer-creates-infinite-maze-to-trap-ai-crawlers/146392/)
+
 <br> **2025.01.27 [SEC] 2024: Um Ano de Ataques de Identidade**
 <br> As principais histórias de segurança cibernética de 2024 foram relacionadas a ataques de identidade, com campanhas baseadas em: identidade do APT29 e Scattered Spider, infostealer e roubo de credenciais em escala industrial.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/2024-year-identity-attacks-get-latest-ebook-the-cyber-security-hub-e4sgc) e e-book disponível [aqui](https://pushsecurity.com/resources/2024-identity-attacks)
