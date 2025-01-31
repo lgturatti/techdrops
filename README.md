@@ -86,6 +86,10 @@ Latest news are at top / Notícias mais recentes no topo
 <br> A atualização de janeiro apresenta atualizações de segurança para 159 vulnerabilidades, incluindo 8 falhas de dia zero, 3 das quais são ativamente exploradas em ataques.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/microsofts-january-2025-patch-tuesday-fixes-159-anhoe)
 
+<br> **2025.01.14 [SEC] FBI força malware a se desinstalar**
+<br> O FBI invadiu milhares de computadores pessoais nos EUA para fazer com que o malware se desinstalasse sozinho. O PlugX, de origem chinesa, infecta máquinas Windows por meio de portas USB, e permite que invasores acessem e executem scripts remotamente. A agência obteve acesso ao servidor de comando e controle com o qual os dispositivos estabeleciam comunicação, identificando endereços IP comprometidos e enviando instruções para que o malware excluísse seus próprios arquivos.
+<br> Publicado [aqui](https://www.theverge.com/2025/1/14/24343495/fbi-computer-hack-uninstall-plugx-malware)
+
 <br> **2025.01.14 [SEC] Fortinet corrige falha de dia zero**
 <br> A atualização corrige falhas dos produtos firewall FortiGate (FortiOS e FortiProxy) expostos (acessíveis) publicamente 
 <br> Publicado [aqui](https://www.linkedin.com/pulse/fortinet-patches-zero-day-vulnerability-fortios-eotxe)
