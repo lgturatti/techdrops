@@ -4,6 +4,10 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2025.01.30 [AI] Vazamento banco de dados da DeepSeek**
+<br> Falha permitia controle total sobre chaves secretas do banco de dados, logs e histórico de bate-papo.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/deepseek-database-leaked-full-control-over-db-secret-thmdc)
+
 <br> **2025.01.29 [GitHub] Mudanças na plataforma**
 <br> GitHub revela planos para se tornar "mais parecido com um aplicativo", de acordo com o desenvolvedor Joel Hawksley. As razões para essa mudança incluem a competição crescente com soluções como Linear e Cursor, além do aumento do uso de dispositivos móveis.
 <br> Publicado [aqui](https://devclass.com/2025/01/29/more-react-more-app-like-github-engineer-outlines-future-ui-for-its-devops-platform/)
