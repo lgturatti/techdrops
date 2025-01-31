@@ -4,7 +4,7 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
-<br> **2025.01.30 [AI] Vazamento banco de dados da DeepSeek**
+<br> **2025.01.30 [AI] Vazamento do banco de dados da DeepSeek**
 <br> Falha permitia controle total sobre chaves secretas do banco de dados, logs e histórico de bate-papo.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/deepseek-database-leaked-full-control-over-db-secret-thmdc)
 
