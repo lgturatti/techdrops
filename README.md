@@ -4,7 +4,7 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
-br> **2025.02.02 [SEC] Resumo semanal de 27 a 02**
+<br> **2025.02.02 [SEC] Resumo semanal de 27 a 02**
 <br> Disponível [aqui](https://www.linkedin.com/comm/pulse/weekly-cybersecurity-update-recent-cyber-attacks-vulnerabilities-9nedc)
 
 <br> **2025.01.31 [SEC] Lançado o ParrotOS 6.3**
