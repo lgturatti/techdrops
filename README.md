@@ -38,6 +38,10 @@ Latest news are at top / Notícias mais recentes no topo
 <br> A Autoridade Nacional de Proteção de Dados (ANPD) determinou hoje a suspensão da "venda de íris" realizada startup Tools for Humanity em troca do escaneamento de íris por "moedas digitais" da própria empresa.
 <br> Publicado [aqui](https://www.terra.com.br/byte/anpd-suspende-a-coleta-de-iris-em-troca-de-moedas-digitais-da-startup-tools-for-humanity-entenda,70d78274b5b71965f6bb4c6f68f5c72doega0mfi.html)
 
+<br> **2025.01.23 JavaScript substituirá Date por Temporal**
+<br> O novo objeto que substitui [Date](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date) ao lidar com datas e horários é o [Temporal](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Temporal) que foi criado para superar limitações atuais, como falta de suporte a fusos horários, comportamento imprevisível ao realizar conversões de datas e cálculos envolvendo o horário de verão. Ainda está em fase experimental em navegadores como Firefox Nightly, mas desenvolvedores interessados podem testá-lo no console de qualquer navegador, acessando a página da proposta no [site do comitê](https://tc39.es) [TC39](https://ecma-international.org/technical-committees/tc39/)
+<br> Publicado [aqui](https://developer.mozilla.org/en-US/blog/javascript-temporal-is-coming/)
+
 <br> **2025.01.23 [SEC] Cloudflare conteve novo ataque histórico**
 <br> A empresa líder em infraestrutura e segurança da web, relatou o maior ataque de Negação de Serviço Distribuída (DDoS) já registrado, um ataque massivo de 5,6 terabits por segundo (Tbps) sem intervenção humana.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/cloudflare-mitigates-historic-world-record-56-tbps-hoccc)
