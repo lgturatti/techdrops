@@ -7,6 +7,10 @@ Latest news are at top / Notícias mais recentes no topo
 br> **2025.02.02 [SEC] Resumo semanal de 27 a 02**
 <br> Disponível [aqui](https://www.linkedin.com/comm/pulse/weekly-cybersecurity-update-recent-cyber-attacks-vulnerabilities-9nedc)
 
+<br> **2025.01.31 [SEC] Lançado o ParrotOS 6.3**
+<br> Sistema operacional baseado em Debian com foco em segurança e com versões desktop e servidor (pentest).
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/parrotos-63-out-now-download-install-the-cyber-security-hub-kzzge) e disponível [aqui](https://www.parrotsec.org/download/)
+
 <br> **2025.01.30 [AI] Vazamento do banco de dados da DeepSeek**
 <br> Falha permitia controle total sobre chaves secretas do banco de dados, logs e histórico de bate-papo.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/deepseek-database-leaked-full-control-over-db-secret-thmdc)
