@@ -4,6 +4,10 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2025.02.03 [GPGPU] NVidia performance 800x aumentada**
+<br> Algoritmo desenvolvido na China aumenta em até 800 vezes o desempenho de GPUs Nvidia. A instrução foi elaborada para melhorar a eficiência de simulações baseadas na peridinâmica, método utilizado em setores como engenharia civil para analisar materiais sujeitos a fraturas e falhas. Para isso, pesquisadores utilizaram a tecnologia CUDA da Nvidia para otimizar o gerenciamento de memória do chip. Os testes foram conduzidos em uma RTX 4070, o que pode eventualmente reduzir a dependência de clusters de alto desempenho e custo elevado.
+<br> Publicado [aqui](https://www.tomshardware.com/pc-components/gpus/chinese-algorithm-claimed-to-boost-nvidia-gpu-performance-by-up-to-800x-for-advanced-science-applications)
+
 <br> **2025.02.02 [SEC] Resumo semanal de 27 a 02**
 <br> Disponível [aqui](https://www.linkedin.com/comm/pulse/weekly-cybersecurity-update-recent-cyber-attacks-vulnerabilities-9nedc)
 
