@@ -4,6 +4,11 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2025.02.05 [SEC] Lançado Ghidra 11.3**
+<br> É uma poderosa ferramenta da NSA, ofertada como solução de código aberto que permite realizar engenharia reversa de software. Oferece recursos de desmontagem, descompilação, depuração, emulação e script, o que a torna um recurso vital para profissionais de segurança cibernética.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/ghidra-113-released-nsas-powerful-reverse-engineering-b6vqc), [aqui](https://www.linkedin.com/comm/pulse/nsa-release-ghidra-113-software-reverse-engineering-fdhre) e [aqui](https://gbhackers.com/ghidra-free-reverse-engineering/)
+<br> Disponível [aqui](https://ghidra-sre.org) e respectivo [github](https://github.com/NationalSecurityAgency/ghidra/releases)
+
 <br> **2025.02.04 [SEC] NSA divulga orientações e estratégias para proteger dispositivos de borda de rede**
 <br> Um grupo de agências internacionais disponibilizou três guias para cybersegurança com estratégias críticas de mitigação para proteger sistemas de dispositivos de borda, incluindo firewalls, roteadores e gateways de rede privada virtual (VPN).
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/nsa-releases-guidance-securing-edge-devices-the-cyber-security-hub-mwlsc)
