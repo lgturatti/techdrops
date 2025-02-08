@@ -4,6 +4,11 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2025.02.08 [SEC] Reino Unido força Apple a criar acesso  para espionar dados criptografados**
+<br> O Reino Unido emitiu uma ordem secreta para a Apple, exigindo a criação de um backdoor que daria às autoridades britânicas acesso a todos os dados criptografados armazenados no iCloud, independentemente da localização do usuário.
+<br> O único problema é que se houver brecha, a privacidade de qualquer usuário (britânico ou não) é inexistente. 
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/uk-forces-apple-create-backdoor-access-spy-encrypted-1a7oc)
+
 <br> **2025.02.05 [SEC] Lançado Ghidra 11.3**
 <br> É uma poderosa ferramenta da NSA, ofertada como solução de código aberto que permite realizar engenharia reversa de software. Oferece recursos de desmontagem, descompilação, depuração, emulação e script, o que a torna um recurso vital para profissionais de segurança cibernética.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/ghidra-113-released-nsas-powerful-reverse-engineering-b6vqc), [aqui](https://www.linkedin.com/comm/pulse/nsa-release-ghidra-113-software-reverse-engineering-fdhre) e [aqui](https://gbhackers.com/ghidra-free-reverse-engineering/)
