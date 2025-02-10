@@ -14,6 +14,10 @@ Latest news are at top / Notícias mais recentes no topo
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/ghidra-113-released-nsas-powerful-reverse-engineering-b6vqc), [aqui](https://www.linkedin.com/comm/pulse/nsa-release-ghidra-113-software-reverse-engineering-fdhre) e [aqui](https://gbhackers.com/ghidra-free-reverse-engineering/)
 <br> Disponível [aqui](https://ghidra-sre.org) e respectivo [github](https://github.com/NationalSecurityAgency/ghidra/releases)
 
+<br> **2025.02.05 [SEC] SparkCat: OCR crypto stealers**
+<br> Foram encontrados programas nas lojas de aplicativos oficiais do Google Play e Apple Store. Vestígios indicam que os programas ficaram disponíveis desde 2023, com classificações baixas de usuários indicando problemas desde março de 2024. Dentre os aplicativos removidos estão: ComeCome, AnyGPT, ChatAI. WeTink... 
+<br> Análise publicada [aqui](https://securelist.com/sparkcat-stealer-in-app-store-and-google-play/115385/)
+
 <br> **2025.02.04 [SEC] NSA divulga orientações e estratégias para proteger dispositivos de borda de rede**
 <br> Um grupo de agências internacionais disponibilizou três guias para cybersegurança com estratégias críticas de mitigação para proteger sistemas de dispositivos de borda, incluindo firewalls, roteadores e gateways de rede privada virtual (VPN).
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/nsa-releases-guidance-securing-edge-devices-the-cyber-security-hub-mwlsc)
