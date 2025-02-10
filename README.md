@@ -4,6 +4,9 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2025.02.10 [SEC] Resumo semanal de 03 a 09.Fev**
+<br> Disponível [aqui](https://www.linkedin.com/comm/pulse/cybersecurity-weekly-brief-latest-attacks-vulnerabilities-xa6lc)
+
 <br> **2025.02.08 [SEC] Reino Unido força Apple a criar acesso  para espionar dados criptografados**
 <br> O Reino Unido emitiu uma ordem secreta para a Apple, exigindo a criação de um backdoor que daria às autoridades britânicas acesso a todos os dados criptografados armazenados no iCloud, independentemente da localização do usuário.
 <br> O único problema é que se houver brecha, a privacidade de qualquer usuário (britânico ou não) é inexistente. 
