@@ -4,6 +4,10 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2025.02.11 [SEC] Atualizações Microsoft**
+<br> O pacote de atualizações de hoje traz mais de 60 correções de vulnerabilidades, incluindo 4 falhas de dia zero. Os tipos de falhas e CVEs corrigidos estão no documento.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/microsofts-february-patch-tuesday-fixes-57-vulnerabilities-p5pgc)
+
 <br> **2025.02.10 [SEC] Resumo semanal de 03 a 09.Fev**
 <br> Disponível [aqui](https://www.linkedin.com/comm/pulse/cybersecurity-weekly-brief-latest-attacks-vulnerabilities-xa6lc)
 
