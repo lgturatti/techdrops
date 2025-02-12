@@ -4,6 +4,10 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2025.02.12 [SEC] Falha no YouTube permite obter e-mail**
+<br> O Google informou que corrigiu o problema no último dia 9. A notificação inicial ocorreu em setembro de 2024. A falha em questão envolvia APIs de dois serviços que. quando combinadas permitia o vazamento de endereços de e-mail. Isso é preocupante no sentido que vários canais no YouTube permitem a divulgação de informações anônimas "teoricamente" protegendo o autor/jornalista.
+<br> Publicado [aqui](https://cybersecuritynews.com/youtube-bug-exploited-email-addresses/)
+
 <br> **2025.02.11 [SEC] Atualizações Microsoft**
 <br> O pacote de atualizações de hoje traz mais de 60 correções de vulnerabilidades, incluindo 4 falhas de dia zero. Os tipos de falhas e CVEs corrigidos estão no documento.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/microsofts-february-patch-tuesday-fixes-57-vulnerabilities-p5pgc)
