@@ -4,6 +4,14 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2025.02.13 [SEC] Jailbreaking Generative AI**
+<br> O artigo discute a segurança em inteligência artificial e riscos sobre a divulgação de dados sensíveis caso a camada de proteção seja violada. 
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/analyzing-deepseeks-system-prompt-jailbreaking-tzp3c)
+
+<br> **2025.02.12 [SEC] Eliminando riscos de buffet overflow**
+<br> O alerta do governo norte-americano descreve métodos comprovados para prevenir ou mitigar vulnerabilidades de estouro de buffer com base em princípios de segurança por design e práticas recomendadas de desenvolvimento de software.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/cisa-fbi-secure-design-alert-eliminating-buffer-yxc8c)
+
 <br> **2025.02.12 [SEC] Falha no YouTube permite obter e-mail**
 <br> O Google informou que corrigiu o problema no último dia 9. A notificação inicial ocorreu em setembro de 2024. A falha em questão envolvia APIs de dois serviços que. quando combinadas permitia o vazamento de endereços de e-mail. Isso é preocupante no sentido que vários canais no YouTube permitem a divulgação de informações anônimas "teoricamente" protegendo o autor/jornalista.
 <br> Publicado [aqui](https://cybersecuritynews.com/youtube-bug-exploited-email-addresses/)
