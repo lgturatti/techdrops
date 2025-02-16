@@ -4,6 +4,10 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2025.02.15 [SEC] Falha no Cisco IOS XE**
+<br> O grupo Salt Typhoon, ligado à China, continua a ter como alvo provedores de telecomunicações em todo o mundo, atacando dispositivos físicos e virtuais.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/warning-peoples-republic-china-prc-breach-global-xj65e)
+
 <br> **2025.02.13 [SEC] Jailbreaking Generative AI**
 <br> O artigo discute a segurança em inteligência artificial e riscos sobre a divulgação de dados sensíveis caso a camada de proteção seja violada. 
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/analyzing-deepseeks-system-prompt-jailbreaking-tzp3c)
