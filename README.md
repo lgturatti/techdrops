@@ -4,6 +4,9 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2025.02.17 [SEC] Resumo semanal de 10 a 16.Fev**
+<br> Disponível [aqui](https://www.linkedin.com/comm/pulse/cybersecurity-weekly-recap-latest-attacks-vulnerabilities-yi6oc)
+
 <br> **2025.02.15 [SEC] Falha no Cisco IOS XE**
 <br> O grupo Salt Typhoon, ligado à China, continua a ter como alvo provedores de telecomunicações em todo o mundo, atacando dispositivos físicos e virtuais.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/warning-peoples-republic-china-prc-breach-global-xj65e)
