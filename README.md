@@ -4,6 +4,10 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2025.02.18 [SEC] Cinco maneiras que a IA pode automatizar ataques de identidade**
+<br> Computer-Using Agents (CUAs) - como o Operator da OpenAI - são um novo tipo de agente de IA que controla seu navegador ou sistema operacional por você. Essas ferramentas são essencialmente plataformas de automação sem código, de baixo custo e baixo esforço para realizar tarefas comuns da web, incluindo aquelas frequentemente executadas por invasores.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/webinar-5-ways-new-ai-agents-can-automate-identity-fgane)
+
 <br> **2025.02.17 [SEC] Resumo semanal de 10 a 16.Fev**
 <br> Disponível [aqui](https://www.linkedin.com/comm/pulse/cybersecurity-weekly-recap-latest-attacks-vulnerabilities-yi6oc)
 
