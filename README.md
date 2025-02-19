@@ -43,6 +43,10 @@ Latest news are at top / Notícias mais recentes no topo
 <br> O único problema é que se houver brecha, a privacidade de qualquer usuário (britânico ou não) é inexistente. 
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/uk-forces-apple-create-backdoor-access-spy-encrypted-1a7oc)
 
+<br> **2025.02.06 [DEV] Copilot Agent Mode**
+<br> O GitHub anuncia modo agente para o Copilot, que permite que o sistema seja capaz de detectar e corrigir erros de seu próprio código automaticamente, além de sugerir comandos de terminal e analisar falhas de execução. A ferramenta está disponível no VS Code Insiders; o Copilot Edits agora está acessível para todos os usuários do VS Code, permitindo que desenvolvedores realizem alterações interativas em múltiplo arquivos, podendo revisá-las e, posteriormente, aceitar ou rejeitar as edições; O Project Padawan, previsto para ser lançado neste ano, é projetado para auxiliar engenheiros de software em tarefas como geração, revisão, refatoração e otimização de código, além de automação de testes e pipelines de CI/CD.
+<br> Publicado [aqui](https://github.blog/news-insights/product-news/github-copilot-the-agent-awakens/)
+
 <br> **2025.02.06 [SEC] Vulnerabilidade crítica do MS Outlook**
 <br> Pesquisadores da Check Point descreveram uma técnica, chamada "Moniker Link", que permite que agentes de ameaças ignorem as proteções integradas do Outlook. Eles conseguem isso incorporando links maliciosos em e-mails usando o protocolo file:// e adicionando um ponto de exclamação a URLs que apontam para servidores controlados pelo invasor.
 <br> Produtos Microsoft afetados: Office LTSC 2021, 365 Apps for Enterprise, Outlook 2016 e Office 2019.
