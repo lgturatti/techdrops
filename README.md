@@ -52,6 +52,10 @@ Latest news are at top / Notícias mais recentes no topo
 <br> Foram encontrados programas nas lojas de aplicativos oficiais do Google Play e Apple Store. Vestígios indicam que os programas ficaram disponíveis desde 2023, com classificações baixas de usuários indicando problemas desde março de 2024. Dentre os aplicativos removidos estão: ComeCome, AnyGPT, ChatAI. WeTink... 
 <br> Análise publicada [aqui](https://securelist.com/sparkcat-stealer-in-app-store-and-google-play/115385/)
 
+<br> **2025.02.04 [DEV] Apple disponibiliza Swift Build como código aberto**
+<br> Esse é o mecanismo utilizado pelo Xcode para a construção de aplicações em Swift no macOS. O recurso conta com plugins para suportar outros sistemas como Android, Linux e Windows, e oferece compatibilidade com diversos tipos de projetos, incluindo bibliotecas e aplicativos de linha de comando, além de otimizações para construção paralela com código C.
+<br> Publicado [aqui](https://devclass.com/2025/02/04/apple-open-sources-swift-build/) e disponível [aqui](https://github.com/swiftlang/swift-build)
+
 <br> **2025.02.04 [SEC] NSA divulga orientações e estratégias para proteger dispositivos de borda de rede**
 <br> Um grupo de agências internacionais disponibilizou três guias para cybersegurança com estratégias críticas de mitigação para proteger sistemas de dispositivos de borda, incluindo firewalls, roteadores e gateways de rede privada virtual (VPN).
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/nsa-releases-guidance-securing-edge-devices-the-cyber-security-hub-mwlsc)
