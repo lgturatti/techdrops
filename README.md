@@ -4,6 +4,10 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2025.02.19 [SEC] Vulnerabilidade crítica no OpenSSH**
+<br> Esta vulnerabilidade permite um ataque ativo de máquina no meio no cliente (MITM) quando a opção VerifyHostKeyDNS está habilitada (ou selecionado para perguntar) no cliente OpenSSH. A falha afeta tanto a aplicação cliente como servidores que podem considerar ataque mesmo para clientes legítimos. Como sintomas do ataque foram observados maio consumo de CPU e/ou memória.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/critical-openssh-vulnerabilities-allows-mitm-dos-ecuye)
+
 <br> **2025.02.18 [SEC] Cinco maneiras que a IA pode automatizar ataques de identidade**
 <br> Computer-Using Agents (CUAs) - como o Operator da OpenAI - são um novo tipo de agente de IA que controla seu navegador ou sistema operacional por você. Essas ferramentas são essencialmente plataformas de automação sem código, de baixo custo e baixo esforço para realizar tarefas comuns da web, incluindo aquelas frequentemente executadas por invasores.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/webinar-5-ways-new-ai-agents-can-automate-identity-fgane)
