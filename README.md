@@ -43,6 +43,11 @@ Latest news are at top / Notícias mais recentes no topo
 <br> O único problema é que se houver brecha, a privacidade de qualquer usuário (britânico ou não) é inexistente. 
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/uk-forces-apple-create-backdoor-access-spy-encrypted-1a7oc)
 
+<br> **2025.02.06 [SEC] Vulnerabilidade crítica do MS Outlook**
+<br> Pesquisadores da Check Point descreveram uma técnica, chamada "Moniker Link", que permite que agentes de ameaças ignorem as proteções integradas do Outlook. Eles conseguem isso incorporando links maliciosos em e-mails usando o protocolo file:// e adicionando um ponto de exclamação a URLs que apontam para servidores controlados pelo invasor.
+<br> Produtos Microsoft afetados: Office LTSC 2021, 365 Apps for Enterprise, Outlook 2016 e Office 2019.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/warning-critical-microsoft-outlook-vulnerability-zh4fe)
+
 <br> **2025.02.05 [SEC] Lançado Ghidra 11.3**
 <br> É uma poderosa ferramenta da NSA, ofertada como solução de código aberto que permite realizar engenharia reversa de software. Oferece recursos de desmontagem, descompilação, depuração, emulação e script, o que a torna um recurso vital para profissionais de segurança cibernética.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/ghidra-113-released-nsas-powerful-reverse-engineering-b6vqc), [aqui](https://www.linkedin.com/comm/pulse/nsa-release-ghidra-113-software-reverse-engineering-fdhre) e [aqui](https://gbhackers.com/ghidra-free-reverse-engineering/)
