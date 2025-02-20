@@ -52,6 +52,10 @@ Latest news are at top / Notícias mais recentes no topo
 <br> Produtos Microsoft afetados: Office LTSC 2021, 365 Apps for Enterprise, Outlook 2016 e Office 2019.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/warning-critical-microsoft-outlook-vulnerability-zh4fe)
 
+<br> **2025.02.05 [AI] Pesquisadores criaram um rival aberto para o modelo de ‘raciocínio’ o1 da OpenAI por menos de US$ 50**
+<br> O s1 apresenta desempenho comparável a outros modelos avançados, incluindo o R1 da DeepSeek, em testes de matemática e programação. A equipe utilizou como base o Qwen, do Alibaba, e aplicou a técnica de destilação a partir do Gemini 2.0 Flash Thinking Experimental. O treinamento levou apenas 30 minutos e foi realizado utilizando 16 GPUs Nvidia H100.
+<br> Publicado [aqui](https://techcrunch.com/2025/02/05/researchers-created-an-open-rival-to-openais-o1-reasoning-model-for-under-50/) e código fonte [aqui](https://github.com/simplescaling/s1)
+
 <br> **2025.02.05 [SEC] Lançado Ghidra 11.3**
 <br> É uma poderosa ferramenta da NSA, ofertada como solução de código aberto que permite realizar engenharia reversa de software. Oferece recursos de desmontagem, descompilação, depuração, emulação e script, o que a torna um recurso vital para profissionais de segurança cibernética.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/ghidra-113-released-nsas-powerful-reverse-engineering-b6vqc), [aqui](https://www.linkedin.com/comm/pulse/nsa-release-ghidra-113-software-reverse-engineering-fdhre) e [aqui](https://gbhackers.com/ghidra-free-reverse-engineering/)
