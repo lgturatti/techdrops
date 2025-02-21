@@ -4,6 +4,10 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2025.02.21 [SEC] ATENÇÃO: Apple remove proteção avançada de segurança do iPhone no Reino Unido**
+<br> Atendendo ao governo britânico, a Apple está removendo sua ferramenta de segurança de dados de mais alto nível, a Advanced Data Protection (ADP), dos clientes no Reino Unido. A partir desse momento os dados dos usuários não serão criptografados entre dispositivos e respectivas contas iCloud.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/warning-apple-removes-advanced-iphone-security-5t9he)
+
 <br> **2025.02.19 [SEC] Vulnerabilidade crítica no OpenSSH**
 <br> Esta vulnerabilidade permite um ataque ativo de máquina no meio no cliente (MITM) quando a opção VerifyHostKeyDNS está habilitada (ou selecionado para perguntar) no cliente OpenSSH. A falha afeta tanto a aplicação cliente como servidores que podem considerar ataque mesmo para clientes legítimos. Como sintomas do ataque foram observados maio consumo de CPU e/ou memória.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/critical-openssh-vulnerabilities-allows-mitm-dos-ecuye)
