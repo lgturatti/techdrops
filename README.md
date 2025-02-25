@@ -4,6 +4,10 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2025.02.24 [Tool] Wireshark 4.4.4**
+<br> Esta versão traz atualizações de protocolos e diversos reparos de falhas encontradas em versões anteriores.
+<br> Publicado [aqui](https://www.linkedin.com/pulse/wireshark-version-444-ready-download-the-cyber-security-hub-vnnwc)
+
 <br> **2025.02.21 [SEC] ATENÇÃO: Apple remove proteção avançada de segurança do iPhone no Reino Unido**
 <br> Atendendo ao governo britânico, a Apple está removendo sua ferramenta de segurança de dados de mais alto nível, a Advanced Data Protection (ADP), dos clientes no Reino Unido. A partir desse momento os dados dos usuários não serão criptografados entre dispositivos e respectivas contas iCloud.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/warning-apple-removes-advanced-iphone-security-5t9he)
