@@ -4,6 +4,10 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2025.02.26 [SEC] Webinar gratuito! - Masterização em Segurança de API em 2025**
+<br> Acontece amanhã, dia 27, com uma hora de duração.
+<br> Publicado [aqui](https://www.linkedin.com/pulse/free-webinar-mastering-api-security-2025-cybersecurity-news-ndyec/)
+
 <br> **2025.02.24 [Tool] Wireshark 4.4.4**
 <br> Esta versão traz atualizações de protocolos e diversos reparos de falhas encontradas em versões anteriores.
 <br> Publicado [aqui](https://www.linkedin.com/pulse/wireshark-version-444-ready-download-the-cyber-security-hub-vnnwc)
