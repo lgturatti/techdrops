@@ -4,9 +4,21 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2025.02.27 [DEV] Anthropic lança versão prévia do Claude Code para desenvolvedores**
+<br> O sistema é capaz de realizar tarefas como automação de operações do Git, correção de bugs, adição de funcionalidades, e geração de documentação e testes. Ele funciona exclusivamente via linha de comando, com base no Node.js 18 ou superior, o que permite que seja utilizado em praticamente qualquer ambiente.
+<br> Publicado [aqui](https://devclass.com/2025/02/27/anthropic-previews-claude-code-agentic-coding-capable-but-costly/)
+
+<br> **2025.02.26 [DEV] Extensões maliciosas no VSCode**
+<br> Complementos criados por Mattia Astorino (equinusocio), foram excluídos e desativados após pesquisadores reportarem à Microsoft a presença de código suspeito, possivelmente devido a um ataque à cadeia de suprimentos ou à conta do desenvolvedor.
+<br> Publicado [aqui](https://www.bleepingcomputer.com/news/security/vscode-extensions-with-9-million-installs-pulled-over-security-risks/)
+
 <br> **2025.02.26 [SEC] Webinar gratuito! - Masterização em Segurança de API em 2025**
 <br> Acontece amanhã, dia 27, com uma hora de duração.
 <br> Publicado [aqui](https://www.linkedin.com/pulse/free-webinar-mastering-api-security-2025-cybersecurity-news-ndyec/)
+
+<br> **2025.02.25 [SEC] Mais de 284 milhões de contas comprometidas**
+<br> Have I Been Pwned adiciona mais de 284 milhões de contas comprometidas por malware infostealer. Os registros foram encontrados no canal “ALIEN TXTBASE” do Telegram. O banco de dados do Pwned Password também foi atualizado com 244 milhões de senhas inéditas. Devido ao grande volume, as informações podem incluir credenciais tanto antigas quanto recentes, possivelmente obtidas em ataques anteriores.
+<br> Publicado [aqui](https://www.bleepingcomputer.com/news/security/have-i-been-pwned-adds-284m-accounts-stolen-by-infostealer-malware/)
 
 <br> **2025.02.24 [Tool] Wireshark 4.4.4**
 <br> Esta versão traz atualizações de protocolos e diversos reparos de falhas encontradas em versões anteriores.
