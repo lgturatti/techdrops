@@ -4,6 +4,10 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2025.03.03 [SEC] Modelo de Plano de Resposta a Incidentes**
+<br> O artigo contextualiza a importância de ter um Plano de Resposta a Incidentes (IRP) testado trimestralmente, onde as organizações que o implementam economizam uma média de US$ 2,66 milhões em custos de violação, segundo levantamentoda IBM em 2023.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/incident-response-plan-template-the-cyber-security-hub-qbx6e)
+
 <br> **2025.02.27 [DEV] Anthropic lança versão prévia do Claude Code para desenvolvedores**
 <br> O sistema é capaz de realizar tarefas como automação de operações do Git, correção de bugs, adição de funcionalidades, e geração de documentação e testes. Ele funciona exclusivamente via linha de comando, com base no Node.js 18 ou superior, o que permite que seja utilizado em praticamente qualquer ambiente.
 <br> Publicado [aqui](https://devclass.com/2025/02/27/anthropic-previews-claude-code-agentic-coding-capable-but-costly/)
