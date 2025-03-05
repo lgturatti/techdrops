@@ -4,6 +4,10 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2025.03.04 [REDE] Internet em risco**
+<br> Aconteceu novamente rompimento de cabos entre Finlândia e Alemanha; e entre Letônia e Suécia. Suspeita-se da Rússia e de uma frota de "navios fantasma" que estariam transportando recursos para burlar sanções impostas desde o início da guerra com a Ucrânia.
+<br> Publicado [aqui](https://www.uol.com.br/tilt/noticias/redacao/2025/03/04/internet-em-risco-corte-de-cabos-submarinos-dispara-alerta-de-otan-e-onu.htm)
+
 <br> **2025.03.03 [SEC] Modelo de Plano de Resposta a Incidentes**
 <br> O artigo contextualiza a importância de ter um Plano de Resposta a Incidentes (IRP) testado trimestralmente, onde as organizações que o implementam economizam uma média de US$ 2,66 milhões em custos de violação, segundo levantamentoda IBM em 2023.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/incident-response-plan-template-the-cyber-security-hub-qbx6e)
