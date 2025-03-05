@@ -4,6 +4,10 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2025.03.05 [SEC] Microsoft detectou ataque em sua cadeia de suprimentos de TI**
+<br> O grupo chinês Silk Typhoon está explorando falhas de dia zero (inéditas) e chaves obtidas no vazamento do final de 2024. A Microsoft recomenda a troca de chaves utilizadas, assim como o monitoramento de logs e auditoria sobre novos ambientes e usuários criados recentemente nas organizações.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/peoples-republic-china-prc-affiliate-targeting-ma4vc)
+
 <br> **2025.03.04 [REDE] Internet em risco**
 <br> Aconteceu novamente rompimento de cabos entre Finlândia e Alemanha; e entre Letônia e Suécia. Suspeita-se da Rússia e de uma frota de "navios fantasma" que estariam transportando recursos para burlar sanções impostas desde o início da guerra com a Ucrânia.
 <br> Publicado [aqui](https://www.uol.com.br/tilt/noticias/redacao/2025/03/04/internet-em-risco-corte-de-cabos-submarinos-dispara-alerta-de-otan-e-onu.htm)
