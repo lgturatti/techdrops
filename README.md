@@ -4,6 +4,10 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2025.03.06 [SEC] Novo recorde em ataque DDoS**
+<br> Botnet realiza ataque DDoS recorde de 6,5 terabits por segundo. Segundo pesquisadores da Nokia, a Eleven11bot surgiu repentinamente, infectando cerca de 30 mil webcams e gravadores de vídeo simultaneamente ao redor do mundo, muitos dos quais nunca haviam sido utilizados para esse tipo de operação. Acredita-se que ela seja uma variante do malware Mirai, conhecido por comprometer dispositivos IoT desde 2016.
+<br> Publicado [aqui](https://arstechnica.com/security/2025/03/massive-botnet-that-appeared-overnight-is-delivering-record-size-ddoses/)
+
 <br> **2025.03.05 [SEC] Microsoft detectou ataque em sua cadeia de suprimentos de TI**
 <br> O grupo chinês Silk Typhoon está explorando falhas de dia zero (inéditas) e chaves obtidas no vazamento do final de 2024. A Microsoft recomenda a troca de chaves utilizadas, assim como o monitoramento de logs e auditoria sobre novos ambientes e usuários criados recentemente nas organizações.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/peoples-republic-china-prc-affiliate-targeting-ma4vc)
@@ -141,6 +145,10 @@ Latest news are at top / Notícias mais recentes no topo
 
 <br> **2025.01.27 [SEC] Resumo semanal de 19 a 25**
 <br> Disponível [aqui](https://www.linkedin.com/comm/pulse/weekly-cybersecurity-update-recent-cyber-attacks-vulnerabilities-cg2yc)
+
+<br> **2025.01.26 [AI] Exército de um homem só**
+<br> Estudo da DARPA investiga quantos robôs autônomos um único operador humano pode controlar: mesmo atuando sozinhos, os equipamentos necessitam de supervisão humana. O experimento envolveu dois profissionais que se revezaram em turnos de 1,5 a 3 horas por dia ao longo de três semanas em um ambiente urbano desafiador, com o objetivo de neutralizar um alvo adversário. A quantidade máxima operada foi de 110 drones, 30 veículos terrestres e 50 veículos virtuais. Sensores coletavam dados como frequência cardíaca, postura e ritmo de fala. Os resultados indicam que os operadores relataram sobrecarga em apenas 3% do tempo total da missão.
+<br> Publicado [aqui](https://spectrum.ieee.org/darpa-robot)
 
 <br> **2025.01.25 Subconsumo: a prática do 'não gastar'**
 <br> As gerações Z e Alfa começaram a questionar as formas de consumo de artigos considerados de luxo ou descartáveis. O movimento prega, entre outras ações, optar por produtos de usados e o respectivo impacto ambiental. Além disso, tem como objetivo o minimalismo e não acumular coisas repetidas ou desnecessárias.
