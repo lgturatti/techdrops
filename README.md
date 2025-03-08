@@ -4,6 +4,10 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2025.03.08 [SEC] Backdoor encontrado em chip bluetooth presente em mais de um bilhão de dispositivos**
+<br> Pesquisadores da Tarlogic Security detectaram um conjunto de comandos não documentados no ESP32, que permitem conexão WiFi e Bluetooth. A empresa Espressif Sistemas ainda não comentou a descoberta. 
+<br> Publicado [aqui](https://www.bleepingcomputer.com/news/security/undocumented-backdoor-found-in-bluetooth-chip-used-by-a-billion-devices/)
+
 <br> **2025.03.06 [SEC] Novo recorde em ataque DDoS**
 <br> Botnet realiza ataque DDoS recorde de 6,5 terabits por segundo. Segundo pesquisadores da Nokia, a Eleven11bot surgiu repentinamente, infectando cerca de 30 mil webcams e gravadores de vídeo simultaneamente ao redor do mundo, muitos dos quais nunca haviam sido utilizados para esse tipo de operação. Acredita-se que ela seja uma variante do malware Mirai, conhecido por comprometer dispositivos IoT desde 2016.
 <br> Publicado [aqui](https://arstechnica.com/security/2025/03/massive-botnet-that-appeared-overnight-is-delivering-record-size-ddoses/)
