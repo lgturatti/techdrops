@@ -4,6 +4,14 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2025.03.12 [DEV] Atualização do Firefox**
+<br> A Mozilla pede aos usuários que atualizem o navegador devido à expiração de certificado (root certificate) que não será mais válido após o dia 14. A versão corrigida para Windows, Linux, macOS e Android é a 128 (e posteriores) enquanto na versão ESR, 115.13 ou posterior.
+<br> Publicado [aqui](https://support.mozilla.org/en-US/kb/root-certificate-expiration)
+
+<br> **2025.03.11 [DEV] TypeScript até dez vezes mais rápido**
+<br> A Microsoft anunciou otimizações para tornar TypeScript até dez vezes mais rápido através da reescrita do compilador e das ferramentas da tecnologia em código Go. Em um teste com o repositório do VS Code, que possui 1,5 milhão de linhas de código, o tempo de compilação caiu de 77,8 para 7,5 segundos (10,4x), e o de carregamento do projeto no editor foi reduzido de 9,6 para 1,2 segundo (8x). A empresa pretende lançar um protótipo funcional do novo tsc em meados deste ano. A melhoria será implementada na futura versão TypeScript 7 (native).
+<br> Publicado [aqui](https://devblogs.microsoft.com/typescript/typescript-native-port/)
+
 <br> **2025.03.11 [SEC] Atualizações Microsoft**
 <br> A Microsoft lançou suas atualizações de segurança (Patch Tuesday de março de 2025), abordando 57 vulnerabilidades, incluindo seis falhas de dia zero exploradas ativamente. Além disso, a atualização corrige três vulnerabilidades de execução remota de código consideradas críticas.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/microsofts-march-2025-patch-tuesday-fixes-57-vulnerabilities-ra4re)
