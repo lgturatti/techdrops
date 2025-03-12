@@ -4,6 +4,14 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2025.03.11 [SEC] Atualizações Microsoft**
+<br> A Microsoft lançou suas atualizações de segurança (Patch Tuesday de março de 2025), abordando 57 vulnerabilidades, incluindo seis falhas de dia zero exploradas ativamente. Além disso, a atualização corrige três vulnerabilidades de execução remota de código consideradas críticas.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/microsofts-march-2025-patch-tuesday-fixes-57-vulnerabilities-ra4re)
+
+<br> **2025.03.10 [SEC] Ataque cibernético massivo derruba X (twitter)**
+<br> Através dos dados do website downdetector.com, cerca de 40.000 usuários enfrentaram problemas de acesso, com relatos de interrupções atingindo o pico às 10h na segunda-feira. A autoria do ataque foi assumida pelo  grupo Dark Storm Team em postagem no Telegram.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/massive-cyber-attack-takes-down-twitter-the-cyber-security-hub-eydoe)
+
 <br> **2025.03.08 [SEC] Backdoor encontrado em chip bluetooth presente em mais de um bilhão de dispositivos**
 <br> Pesquisadores da Tarlogic Security detectaram um conjunto de comandos não documentados no ESP32, que permitem conexão WiFi e Bluetooth. A empresa Espressif Sistemas ainda não comentou a descoberta. 
 <br> Publicado [aqui](https://www.bleepingcomputer.com/news/security/undocumented-backdoor-found-in-bluetooth-chip-used-by-a-billion-devices/)
