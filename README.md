@@ -16,6 +16,10 @@ Latest news are at top / Notícias mais recentes no topo
 <br> A Mozilla pede aos usuários que atualizem o navegador devido à expiração de certificado (root certificate) que não será mais válido após o dia 14. A versão corrigida para Windows, Linux, macOS e Android é a 128 (e posteriores) enquanto na versão ESR, 115.13 ou posterior.
 <br> Publicado [aqui](https://support.mozilla.org/en-US/kb/root-certificate-expiration)
 
+<br> **2025.03.11 [DEV] Windows RDP recebe atualização**
+<br> A Microsoft encerrará suporte ao aplicativo Área de Trabalho Remota do Windows. A partir de 27 maio, a ferramenta será desativada e as conexões com Windows 365, Azure Virtual Desktop e Microsoft Dev Box bloqueadas. Em seu lugar, a empresa recomenda o novo aplicativo “Windows”. Essa mudança não afeta o recurso Conexão de Área de Trabalho Remota, presente nativamente no sistema.
+<br> Publicado [aqui](https://www.theverge.com/news/627483/microsoft-remote-desktop-windows-app-replacement)
+
 <br> **2025.03.11 [DEV] TypeScript até dez vezes mais rápido**
 <br> A Microsoft anunciou otimizações para tornar TypeScript até dez vezes mais rápido através da reescrita do compilador e das ferramentas da tecnologia em código Go. Em um teste com o repositório do VS Code, que possui 1,5 milhão de linhas de código, o tempo de compilação caiu de 77,8 para 7,5 segundos (10,4x), e o de carregamento do projeto no editor foi reduzido de 9,6 para 1,2 segundo (8x). A empresa pretende lançar um protótipo funcional do novo tsc em meados deste ano. A melhoria será implementada na futura versão TypeScript 7 (native).
 <br> Publicado [aqui](https://devblogs.microsoft.com/typescript/typescript-native-port/)
