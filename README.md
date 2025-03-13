@@ -4,6 +4,14 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2025.03.13 [SEC] Ataque crítico a infraestrutura**
+<br> A Agência de Segurança Cibernética e de Infraestrutura dos EUA (CISA) revelou que a operação de ransomware Medusa impactou mais de 300 organizações em setores de infraestrutura crítica nos Estados Unidos até o mês passado. Em função dos ataques persistentes desde 2021 é solicitado aumentar as medidas de segurança. 
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/cisa-300-critical-infrastructure-organizations-zxc3e)
+
+<br> **2025.03.12 [SEC] Atualização urgente de dispositivos da Apple**
+<br> Falha de dia zero expõe dispositivos através de vulnerabilidade no navegador Safari.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/warning-update-your-apple-devices-immediately-bimce)
+
 <br> **2025.03.12 [DEV] Atualização do Firefox**
 <br> A Mozilla pede aos usuários que atualizem o navegador devido à expiração de certificado (root certificate) que não será mais válido após o dia 14. A versão corrigida para Windows, Linux, macOS e Android é a 128 (e posteriores) enquanto na versão ESR, 115.13 ou posterior.
 <br> Publicado [aqui](https://support.mozilla.org/en-US/kb/root-certificate-expiration)
