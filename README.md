@@ -4,6 +4,14 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2025.03.14 [SEC] Google rastreia usuários**
+<br> Google adiciona rastreamento de usuários ao aplicativo Encontre Meu Dispositivo. A visualização será centralizada na nova aba “Pessoas”. Além de receber a posição de outros indivíduos, também será possível compartilhar o próprio local, com opção de definir um período de tempo.
+<br> Publicado [aqui](https://www.theverge.com/news/630222/android-march-find-my-device-people-location-sharing-update)
+
+<br> **2025.03.14 [SEC] Adeus privacidade**
+<br> Amazon removerá no próximo dia 28 a opção da Alexa de não enviar gravações de voz para a nuvem. O recurso está disponível desde 2019 (somente nos EUA) onde as iterações são processadas diretamente no aparelho. A partir dessa data, a opção será substituída pela equivalente “Excluir gravações automaticamente”.
+<br> Publicado [aqui](https://www.theverge.com/news/630049/amazon-echo-discontinues-do-not-send-voice-recording-setting)
+
 <br> **2025.03.13 [SEC] Ataque crítico a infraestrutura**
 <br> A Agência de Segurança Cibernética e de Infraestrutura dos EUA (CISA) revelou que a operação de ransomware Medusa impactou mais de 300 organizações em setores de infraestrutura crítica nos Estados Unidos até o mês passado. Em função dos ataques persistentes desde 2021 é solicitado aumentar as medidas de segurança. 
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/cisa-300-critical-infrastructure-organizations-zxc3e)
