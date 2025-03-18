@@ -4,6 +4,10 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2025.03.18 [SEC] Google comprará startup de segurança em nuvem**
+<br> O Google anunciou que assinou um "acordo definitivo" para adquirir a Wiz, uma startup israelense de segurança em nuvem sediada em Nova York, em um acordo totalmente em dinheiro avaliado em US$ 32 bilhões.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/google-acquire-cloud-security-leader-wiz-record-ojqve)
+
 <br> **2025.03.17 [DEV] Nova Gemini 2.0 do Google**
 <br> A versão Flash 2.0 é realmente boa em remover marcas d’água. Exemplos no artigo publicado. 
 <br> Disponível [aqui](https://www.theverge.com/news/631203/google-gemini-flash-2-native-image-generation-watermark-removal)
