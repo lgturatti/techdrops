@@ -111,6 +111,10 @@ Latest news are at top / Notícias mais recentes no topo
 <br> O artigo discute a segurança em inteligência artificial e riscos sobre a divulgação de dados sensíveis caso a camada de proteção seja violada. 
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/analyzing-deepseeks-system-prompt-jailbreaking-tzp3c)
 
+<br> **2025.02.12 [DEV] Novo Flutter 3.29**
+<br> A nova versão traz mudanças para a abordagem de linha de execução única no Dart. As versões do SDK oferecem uma série de benefícios para os desenvolvedores, incluindo transições de página mais suaves, acessibilidade aprimorada e muito mais.
+<br> Publicado [aqui](https://medium.com/flutter/whats-new-in-flutter-3-29-f90c380c2317)
+
 <br> **2025.02.12 [SEC] Eliminando riscos de buffet overflow**
 <br> O alerta do governo norte-americano descreve métodos comprovados para prevenir ou mitigar vulnerabilidades de estouro de buffer com base em princípios de segurança por design e práticas recomendadas de desenvolvimento de software.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/cisa-fbi-secure-design-alert-eliminating-buffer-yxc8c)
