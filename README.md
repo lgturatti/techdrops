@@ -4,6 +4,10 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2025.03.19 [SEC] Kali Linux 2025.1a**
+<br> Nova versão disponível. Maiores detalhes na publicação
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/kali-linux-20251a-release-2025-theme-raspberry-kfgjc)
+
 <br> **2025.03.18 [SEC] Google comprará startup de segurança em nuvem**
 <br> O Google anunciou que assinou um "acordo definitivo" para adquirir a Wiz, uma startup israelense de segurança em nuvem sediada em Nova York, em um acordo totalmente em dinheiro avaliado em US$ 32 bilhões.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/google-acquire-cloud-security-leader-wiz-record-ojqve)
