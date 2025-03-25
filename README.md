@@ -4,6 +4,10 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2025.03.25 [SEC] Microsoft revela segurança avançada de IA e proteção BYOD para usuários empresariais**
+<br> A Microsoft anunciou um novo recurso chamado proteção de dados em linha para seu navegador da web Edge for Business focado em empresas.Essa medida de segurança integrada foi projetada para evitar que funcionários compartilhem dados confidenciais da empresa com aplicativos de IA generativa, tais como: ChatGPT da OpenAI, Google Gemini e DeepSeek.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/microsoft-unveils-advanced-ai-security-byod-protection-axxze)
+
 <br> **2025.03.23 [SEC] Cloudflare apresenta criptografia pós-quântica**
 <br> A empresa líder em mitigação de DDoS, trouxe uma grande proteção contra futuras ameaças quânticas ao integrar proteções de criptografia pós-quântica (PQC) em sua plataforma Zero Trust.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/cloudflare-introduces-post-quantum-encryption-defend-gq7se)
