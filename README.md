@@ -4,6 +4,10 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2025.03.23 [SEC] Cloudflare apresenta criptografia pós-quântica**
+<br> A empresa líder em mitigação de DDoS, trouxe uma grande proteção contra futuras ameaças quânticas ao integrar proteções de criptografia pós-quântica (PQC) em sua plataforma Zero Trust.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/cloudflare-introduces-post-quantum-encryption-defend-gq7se)
+
 <br> **2025.03.22 [SEC] Reino Unido propõe cronograma de melhorias sobre criptografia**
 <br> A agência de segurança cibernética do Reino Unido, o National Cyber ​​Security Centre (NCSC) publicou um guia com orientações para ajudar a nação a se preparar e se defender contra ameaças emergentes da computação quântica. Vale a pena acompanhar as instruções sobre o tema.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/uk-reveals-timeline-organisations-transition-quantum-resistant-fuqie)
