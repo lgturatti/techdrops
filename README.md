@@ -8,6 +8,9 @@ Latest news are at top / Notícias mais recentes no topo
 <br> A Microsoft anunciou um novo recurso chamado proteção de dados em linha para seu navegador da web Edge for Business focado em empresas.Essa medida de segurança integrada foi projetada para evitar que funcionários compartilhem dados confidenciais da empresa com aplicativos de IA generativa, tais como: ChatGPT da OpenAI, Google Gemini e DeepSeek.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/microsoft-unveils-advanced-ai-security-byod-protection-axxze)
 
+<br> **2025.03.24 [DEV] Falha crítica no Next.js**
+<br> Permite contornar a autorização. A vulnerabilidade CVE-2025-29927 possibilita que solicitações acessem rotas protegidas sem passar por verificações de segurança, ao enviar o cabeçalho “x-middleware-subrequest” com um valor específico. O problema está presente em todas as versões anteriores a 15.2.3 em  projetos auto-hospedados que utilizam “next start” com “output: standalone”. Aplicações hospedadas na Vercel e Netlify ou exportadas como estáticas não são impactadas. <br> Publicado [aqui](https://www.bleepingcomputer.com/news/security/critical-flaw-in-nextjs-lets-hackers-bypass-authorization/)
+
 <br> **2025.03.23 [SEC] Cloudflare apresenta criptografia pós-quântica**
 <br> A empresa líder em mitigação de DDoS, trouxe uma grande proteção contra futuras ameaças quânticas ao integrar proteções de criptografia pós-quântica (PQC) em sua plataforma Zero Trust.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/cloudflare-introduces-post-quantum-encryption-defend-gq7se)
