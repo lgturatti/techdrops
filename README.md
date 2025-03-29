@@ -4,6 +4,10 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2025.03.29 [TEC] Solução ao monopólio da China**
+<br> Com os embargos e sobretaxas aplicadas aos produtos chineses, o país utiliza o domínio de 90% do mercado sobre os metais de terras raras para fazer suas barganhas. Uma solução? Reciclagem de discos rígidos.
+<br> Publicado [aqui](https://www.xataka.com.br/diversos/uma-startup-afirma-ter-a-solucao-para-acabar-com-monopolio-da-china-os-metais-terras-raras-discos-rigidos)
+
 <br> **2025.03.26 [DEV] Pacotes NPM maliciosos**
 <br> A ameaça descoberta foi no “ethers-provider2” e no “ethers-providerz”. Quando o primeiro é instalado, ele procura repetidamente pelo pacote legítimo “ethers” no ambiente, substituindo o arquivo “provider-jsonrpc.js” por outro idêntico visualmente, mas com código malicioso que estabelece um shell reverso e permite ao invasor controle e execução de comandos remotos na máquina da vítima. O “ethers-providerz” atua de maneira similar, direcionando-se ao também legítimo “@ethersproject/providers”. Ambos foram removidos do repositório NPM.
 <br> Publicado [aqui](https://www.reversinglabs.com/blog/malicious-npm-patch-delivers-reverse-shell)
