@@ -4,6 +4,10 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2025.03.26 [DEV] Pacotes NPM maliciosos**
+<br> A ameaça descoberta foi no “ethers-provider2” e no “ethers-providerz”. Quando o primeiro é instalado, ele procura repetidamente pelo pacote legítimo “ethers” no ambiente, substituindo o arquivo “provider-jsonrpc.js” por outro idêntico visualmente, mas com código malicioso que estabelece um shell reverso e permite ao invasor controle e execução de comandos remotos na máquina da vítima. O “ethers-providerz” atua de maneira similar, direcionando-se ao também legítimo “@ethersproject/providers”. Ambos foram removidos do repositório NPM.
+<br> Publicado [aqui](https://www.reversinglabs.com/blog/malicious-npm-patch-delivers-reverse-shell)
+
 <br> **2025.03.26 [SEC] Vulnerabilidade de dia zero**
 <br> O Google lançou atualizações críticas de segurança para seu navegador Chrome e plataformas ChromeOS após a descoberta de uma vulnerabilidade de dia zero explorada ativamente na versão desktop.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/google-chrome-zero-day-vulnerability-actively-exploited-wpric) e [aqui](https://www.linkedin.com/comm/pulse/google-patches-chrome-zero-day-vulnerability-targeted-5pase)
