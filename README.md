@@ -4,9 +4,17 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2025.04.01 [SEC] Exploit on Wordpress MU-plugins**
+<br> Hackers estão explorando o diretório WordPress Must-Use Plugins (mu-plugins) para executar códigos maliciosos a cada carregamento de página, evitando a detecção.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/warning-hackers-exploit-wordpress-mu-plugins-conceal-ubwve)
+
 <br> **2025.03.29 [TEC] Solução ao monopólio da China**
 <br> Com os embargos e sobretaxas aplicadas aos produtos chineses, o país utiliza o domínio de 90% do mercado sobre os metais de terras raras para fazer suas barganhas. Uma solução? Reciclagem de discos rígidos.
 <br> Publicado [aqui](https://www.xataka.com.br/diversos/uma-startup-afirma-ter-a-solucao-para-acabar-com-monopolio-da-china-os-metais-terras-raras-discos-rigidos)
+
+<br> **2025.03.28 [W11] E-mail Microsoft e Internet serão requisitos na próxima atualização**
+<br> Microsoft elimina método que permitia instalar Windows 11 sem login e conexão com internet. Na versão mais recente do Insider Preview, a empresa desativou o comando “bypassnro”, que podia ser utilizado tanto por usuários individuais quanto administradores que configuram máquinas para empresas. A companhia justifica a mudança como uma medida para "aprimorar a segurança".
+<br> Publicado [aqui](https://www.theverge.com/news/638967/microsoft-windows-11-account-internet-bypass-blocked)
 
 <br> **2025.03.26 [DEV] Pacotes NPM maliciosos**
 <br> A ameaça descoberta foi no “ethers-provider2” e no “ethers-providerz”. Quando o primeiro é instalado, ele procura repetidamente pelo pacote legítimo “ethers” no ambiente, substituindo o arquivo “provider-jsonrpc.js” por outro idêntico visualmente, mas com código malicioso que estabelece um shell reverso e permite ao invasor controle e execução de comandos remotos na máquina da vítima. O “ethers-providerz” atua de maneira similar, direcionando-se ao também legítimo “@ethersproject/providers”. Ambos foram removidos do repositório NPM.
