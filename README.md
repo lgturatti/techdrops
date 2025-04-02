@@ -4,6 +4,10 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2025.04.01 [SEC] Apple corrige falhas do SO**
+<br> A Apple lançou atualizações críticas de segurança para abordar três vulnerabilidades de dia zero que afetam principalmente dispositivos iOS e macOS mais antigos. A recomendação é atualizar os dispositivos imediatamente.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/apple-fixes-multiple-vulnerabilities-iphones-ipads-1rqce)
+
 <br> **2025.04.01 [SEC] Exploit on Wordpress MU-plugins**
 <br> Hackers estão explorando o diretório WordPress Must-Use Plugins (mu-plugins) para executar códigos maliciosos a cada carregamento de página, evitando a detecção.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/warning-hackers-exploit-wordpress-mu-plugins-conceal-ubwve)
