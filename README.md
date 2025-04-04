@@ -4,6 +4,10 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2025.04.04 [DEV] Python define padrão de arquivo de trava**
+<br> O time oficial da linguagem Python aprovou a proposta PEP 751, adotando o TOML (pylock.toml) como formato padrão de arquivo de lock para pacotes, amplamente suportado e de fácil leitura. Paul Moore, um dos desenvolvedores centrais, destaca que isso é algo definitivo. No entanto, a adoção do novo padrão por outros gerenciadores de pacotes, que atualmente utilizam seu próprio formato, deve ocorrer de forma gradual.
+<br> Publicado [aqui](https://devclass.com/2025/04/04/python-now-has-a-standard-package-lock-file-format-though-winning-full-adoption-will-be-a-challenge/)
+
 <br> **2025.04.03 [SEC] Fast Flux é declarado como uma ameaça à segurança nacional**
 <br> Fast flux é uma técnica de evasão baseada em DNS usada por criminosos cibernéticos para ocultar sites de phishing e hospedagem de malware por trás de uma rede em constante mudança de hosts comprometidos. Esses hosts agem como proxies reversos, ocultando a verdadeira localização do mestre da botnet, que frequentemente opera dentro de uma infraestrutura resiliente e difícil de derrubar.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/fast-flux-declared-national-security-threat-the-cyber-security-hub-5ndhe)
@@ -19,6 +23,10 @@ Latest news are at top / Notícias mais recentes no topo
 <br> **2025.03.29 [TEC] Solução ao monopólio da China**
 <br> Com os embargos e sobretaxas aplicadas aos produtos chineses, o país utiliza o domínio de 90% do mercado sobre os metais de terras raras para fazer suas barganhas. Uma solução? Reciclagem de discos rígidos.
 <br> Publicado [aqui](https://www.xataka.com.br/diversos/uma-startup-afirma-ter-a-solucao-para-acabar-com-monopolio-da-china-os-metais-terras-raras-discos-rigidos)
+
+<br> **2025.03.28 [W11] Windows Remote Recovery**
+<br> A Microsoft está testando uma ferramenta que restaura remotamente PCs que não inicializam. O Quick Machine Recovery é projetado para evitar incidentes como o da CrowdStrike em julho de 2024. Ele faz com que o sistema entre no ambiente de recuperação, conecte-se à rede e envie informações de diagnóstico à Microsoft. As correções podem então ser aplicadas remotamente pelo Windows Update. O recurso está disponível na versão mais recente do Windows Insider Preview.
+<br> Publicado [aqui](https://www.theverge.com/news/638890/microsoft-quick-machine-recovery-restore-pcs-crowdstrike)
 
 <br> **2025.03.28 [W11] E-mail Microsoft e Internet serão requisitos na próxima atualização**
 <br> Microsoft elimina método que permitia instalar Windows 11 sem login e conexão com internet. Na versão mais recente do Insider Preview, a empresa desativou o comando “bypassnro”, que podia ser utilizado tanto por usuários individuais quanto administradores que configuram máquinas para empresas. A companhia justifica a mudança como uma medida para "aprimorar a segurança".
