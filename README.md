@@ -4,6 +4,10 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2025.04.03 [SEC] Fast Flux é declarado como uma ameaça à segurança nacional**
+<br> Fast flux é uma técnica de evasão baseada em DNS usada por criminosos cibernéticos para ocultar sites de phishing e hospedagem de malware por trás de uma rede em constante mudança de hosts comprometidos. Esses hosts agem como proxies reversos, ocultando a verdadeira localização do mestre da botnet, que frequentemente opera dentro de uma infraestrutura resiliente e difícil de derrubar.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/fast-flux-declared-national-security-threat-the-cyber-security-hub-5ndhe)
+
 <br> **2025.04.01 [SEC] Apple corrige falhas do SO**
 <br> A Apple lançou atualizações críticas de segurança para abordar três vulnerabilidades de dia zero que afetam principalmente dispositivos iOS e macOS mais antigos. A recomendação é atualizar os dispositivos imediatamente.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/apple-fixes-multiple-vulnerabilities-iphones-ipads-1rqce)
