@@ -4,6 +4,15 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2025.04.06 [SEC] NICE Cybersecurity Workforce Framework versão 2.0.0**
+<br> Esta atualização inclui áreas de competência adicionais, funções de trabalho e declarações de tarefa, conhecimento e habilidade (TKS), bem como a remoção de duas categorias de funções de trabalho.
+<br> Seguindo o avanço da tecnologia, o trabalho de profissionais de segurança cibernética tem o apoio do National Initiative for Cybersecurity Careers and Studies (NICCS), que ajuda os usuários a encontrar a educação e o treinamento em segurança de que precisam para progredir em suas carreiras e fechar as lacunas de habilidades em toda a força de trabalho.
+<br> Publicado [aqui](https://www.linkedin.com/pulse/cisas-niccs-releases-nice-workforce-framework-cybersecurity-sicze/)
+
+<br> **2025.04.06 [SEC] Resumo semanal de 31.Mar a 06.Abr**
+<br> Boletim informativo sobre segurança cibernética, fornecendo as últimas atualizações e insights essenciais.
+<br> Disponível [aqui](https://www.linkedin.com/pulse/cybersecurity-weekly-recap-key-updates-attacks-vulnerabilities-gktxc/)
+
 <br> **2025.04.04 [DEV] Python define padrão de arquivo de trava**
 <br> O time oficial da linguagem Python aprovou a proposta PEP 751, adotando o TOML (pylock.toml) como formato padrão de arquivo de lock para pacotes, amplamente suportado e de fácil leitura. Paul Moore, um dos desenvolvedores centrais, destaca que isso é algo definitivo. No entanto, a adoção do novo padrão por outros gerenciadores de pacotes, que atualmente utilizam seu próprio formato, deve ocorrer de forma gradual.
 <br> Publicado [aqui](https://devclass.com/2025/04/04/python-now-has-a-standard-package-lock-file-format-though-winning-full-adoption-will-be-a-challenge/)
