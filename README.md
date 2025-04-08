@@ -4,6 +4,11 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2025.04.07 [SEC] Atualização crítica do WinRAR**
+<br> A falha permitir que invasores ignorem os avisos de segurança Mark of the Web (MotW) do Windows e executem código malicioso no sistema da vítima.
+<br> A correção está disponível na versão 7.11
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/update-immediatelycritical-winrar-vulnerability-bpkfe). Atualize [aqui](https://www.win-rar.com/download.html)
+
 <br> **2025.04.06 [SEC] NICE Cybersecurity Workforce Framework versão 2.0.0**
 <br> Esta atualização inclui áreas de competência adicionais, funções de trabalho e declarações de tarefa, conhecimento e habilidade (TKS), bem como a remoção de duas categorias de funções de trabalho.
 <br> Seguindo o avanço da tecnologia, o trabalho de profissionais de segurança cibernética tem o apoio do National Initiative for Cybersecurity Careers and Studies (NICCS), que ajuda os usuários a encontrar a educação e o treinamento em segurança de que precisam para progredir em suas carreiras e fechar as lacunas de habilidades em toda a força de trabalho.
