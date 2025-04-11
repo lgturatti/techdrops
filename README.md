@@ -4,6 +4,14 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2025.04.11 [SEC] NVidia expõe infraestrutura e dados**
+<br> Pesquisadores da Trend Micro descobriram que a atualização de segurança de setembro de 2024 da NVIDIA para uma vulnerabilidade crítica (CVE-2024-0132) no NVIDIA Container Toolkit estava incompleta, deixando os sistemas potencialmente vulneráveis ​​a ataques de escape de contêiner. Além disso, os pesquisadores descobriram uma vulnerabilidade de negação de serviço (DoS) que afeta o Docker no Linux.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/incomplete-nvidia-patch-exposes-ai-infrastructure-qdxke)
+
+<br> **2025.04.09 [SEC] Vulnerabilidade do Kerberos no Windows**
+<br> A Microsoft lançou uma atualização (patch) para uma vulnerabilidade crítica do Kerberos do Windows (CVE-2025-29809) que permite que invasores contornem recursos de segurança e potencialmente acessem credenciais de autenticação confidenciais. A falha, corrigida nas atualizações do Patch Tuesday de abril de 2025, dá continuidade a uma tendência preocupante de vulnerabilidades relacionadas ao Kerberos que têm afetado os sistemas Windows nos últimos anos.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/windows-kerberos-vulnerability-let-attackers-bypass-ykxtf)
+
 <br> **2025.04.08 [SEC] Falha crítica no WhatsApp**
 <br> Foi descoberta uma vulnerabilidade que permite a invasores a execução de código malicioso no Windows através de anexos no WhatsApp. De acordo com o Meta, esse problema de segurança afetou todas as versões do WhatsApp para Windows anteriores a versão 2.2450.6.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/critical-whatsapp-flaw-allows-remote-code-execution-tgwac)
