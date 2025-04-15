@@ -105,6 +105,10 @@ Latest news are at top / Notícias mais recentes no topo
 <br> A versão Flash 2.0 é realmente boa em remover marcas d’água. Exemplos no artigo publicado. 
 <br> Disponível [aqui](https://www.theverge.com/news/631203/google-gemini-flash-2-native-image-generation-watermark-removal)
 
+<br> **2025.04.14 [SEC] Resumo semanal de 10 a 16.Mar**
+<br> Boletim informativo sobre segurança cibernética, fornecendo as últimas atualizações e insights essenciais.
+<br> Disponível [aqui](https://www.linkedin.com/comm/pulse/cybersecurity-weekly-recap-key-updates-attacks-vulnerabilities-mqzvc)
+
 <br> **2025.03.14 [SEC] Google rastreia usuários**
 <br> Google adiciona rastreamento de usuários ao aplicativo Encontre Meu Dispositivo. A visualização será centralizada na nova aba “Pessoas”. Além de receber a posição de outros indivíduos, também será possível compartilhar o próprio local, com opção de definir um período de tempo.
 <br> Publicado [aqui](https://www.theverge.com/news/630222/android-march-find-my-device-people-location-sharing-update)
