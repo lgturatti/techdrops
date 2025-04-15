@@ -4,6 +4,18 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2025.04.14 [SEC] Resumo semanal de 7 a 13.Abr**
+<br> Boletim informativo sobre segurança cibernética, fornecendo as últimas atualizações e insights essenciais.
+<br> Disponível [aqui](https://www.linkedin.com/comm/pulse/cybersecurity-weekly-recap-key-updates-attacks-vulnerabilities-ikmrc)
+
+<br> **2025.04.13 [SEC] Microsoft Defender colocará endpoints desconhecidos em quarentena para evitar possíveis ataques**
+<br> A Microsoft está testando um novo recurso do Defender for Endpoint, projetado para bloquear o tráfego de rede de e para dispositivos não descobertos ou não gerenciados. O objetivo é impedir que invasores se movam lateralmente pela rede.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/microsoft-defender-quarantine-unknown-endpoints-qwope)
+
+<br> **2025.04.11 [SEC] Falha na atualização do FortiGate**
+<br> A Fortinet emitiu um alerta urgente aos clientes após descobrir que agentes maliciosos estão usando uma técnica de pós-exploração para manter acesso somente leitura a dispositivos FortiGate VPN comprometidos — mesmo depois que as vulnerabilidades originais foram corrigidas.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/warning-patch-failed-attackers-retain-fortigate-wdxxe)
+
 <br> **2025.04.11 [SEC] NVidia expõe infraestrutura e dados**
 <br> Pesquisadores da Trend Micro descobriram que a atualização de segurança de setembro de 2024 da NVIDIA para uma vulnerabilidade crítica (CVE-2024-0132) no NVIDIA Container Toolkit estava incompleta, deixando os sistemas potencialmente vulneráveis ​​a ataques de escape de contêiner. Além disso, os pesquisadores descobriram uma vulnerabilidade de negação de serviço (DoS) que afeta o Docker no Linux.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/incomplete-nvidia-patch-exposes-ai-infrastructure-qdxke)
