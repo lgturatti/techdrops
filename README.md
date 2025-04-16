@@ -4,6 +4,10 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2025.04.16 [SEC] Android reiniciará automaticamente após 72 horas de inatividade**
+<br> A atualização do Play Services a partir da versão 25.14 pretende aprimorar a proteção de telefones e tables que estão bloqueados e sem efetuar desbloqueio após 3 dias. Logo após a reinicialização, e antes de ser desbloqueado pela primeira vez, o dispositivo retorna ao estado “Before First Unlock”, no qual todas as informações permanecem criptografadas. Há previsão desta atualização a partir da próxima semana.
+<br> Publicado [aqui](https://9to5google.com/2025/04/16/android-auto-restart-security/)
+
 <br> **2025.04.14 [SEC] Resumo semanal de 7 a 13.Abr**
 <br> Boletim informativo sobre segurança cibernética, fornecendo as últimas atualizações e insights essenciais.
 <br> Disponível [aqui](https://www.linkedin.com/comm/pulse/cybersecurity-weekly-recap-key-updates-attacks-vulnerabilities-ikmrc)
