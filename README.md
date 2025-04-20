@@ -32,6 +32,10 @@ Latest news are at top / Notícias mais recentes no topo
 <br> Foi descoberta uma vulnerabilidade que permite a invasores a execução de código malicioso no Windows através de anexos no WhatsApp. De acordo com o Meta, esse problema de segurança afetou todas as versões do WhatsApp para Windows anteriores a versão 2.2450.6.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/critical-whatsapp-flaw-allows-remote-code-execution-tgwac)
 
+<br> **2025.04.07 [SEC] Chrome fix**
+<br> Chrome corrige vulnerabilidade de 23 anos que permitia rastrear histórico do usuário. A falha explorava um recurso do CSS, possibilitando que sites maliciosos utilizassem JavaScript para verificar se links visitados em outras páginas possuíam a pseudo-classe “:visited”. Isso podia ser feito de várias formas, inclusive por meio do método “window.getComputedStyle”. A correção está disponível a partir da versão 136.
+<br> Publicado [aqui](https://www.theregister.com/2025/04/07/chrome_135_history_sniffing/)
+
 <br> **2025.04.07 [SEC] Atualização crítica do WinRAR**
 <br> A falha permitir que invasores ignorem os avisos de segurança Mark of the Web (MotW) do Windows e executem código malicioso no sistema da vítima.
 <br> A correção está disponível na versão 7.11
