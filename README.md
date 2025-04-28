@@ -4,6 +4,31 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2025.04.26 [SEC] Verizon 2025 Data Breach Investigations Report (DBIR)**
+<br> O relatório DBIR analisou mais de 22.000 incidentes de segurança, incluindo 12.195 violações de dados confirmadas. Constatou que o abuso de credenciais (22%) e a exploração de vulnerabilidades (20%) continuam sendo os métodos de ataque inicial mais comuns, enfatizando a necessidade urgente de defesas de segurança cibernética mais fortes.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/verizon-2025-data-breach-investigations-dbir-report-4pwfe)
+
+<br> **2025.04.24 [SEC] WhatsApp lança recurso avançado de privacidade**
+<br> O novo recurso de privacidade avançada de bate-papo tem o objetivo de fortalecer a proteção de informações confidenciais compartilhadas em conversas individuais e em grupo.
+<br> Publicado [aqui](http://www.linkedin.com/comm/pulse/whatsapp-launches-advanced-chat-privacy-feature-nyfce)
+
+<br> **2025.04.24 [SEC] Ferramenta SafeLine: O WAF de código aberto mais amado do ano**
+<br> O SafeLine é um firewall (WAF) poderoso, gratuito e de código aberto, projetado para proteção e experimentação de segurança no mundo real. Se você é um pesquisador aperfeiçoando técnicas de bypass, um caçador de recompensas de bugs criando payloads ou um desenvolvedor que deseja apenas que seu projeto paralelo sobreviva na internet — o SafeLine merece um lugar no seu kit de ferramentas.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/tool-drop-safeline-most-loved-open-source-waf-2025-penetester-squad-zqgee)
+
+<br> **2025.04.23 [SEC] Hackers exploram o recurso de "controle remoto" do Zoom que permite acesso ao sistema**
+<br> Cibercriminosos norte-coreanos estão explorando um recurso pouco conhecido do Controle Remoto do Zoom para implantar malware infostealer nos sistemas de traders de criptomoedas e investidores de capital de risco.
+<br> De acordo com relatos da organização sem fins lucrativos Security Alliance (SEAL) e da empresa de segurança cibernética Trail of Bits, os criminosos têm orquestrado campanhas de phishing disfarçadas de reuniões legítimas do Zoom.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/warninghackers-exploit-zoom-remote-control-feature-jopie)
+
+<br> **2025.04.22 [SEC] Microsoft divulga relatório 'Secure Future Initiative' (SFI)**
+<br> SFI é o maior esforço de engenharia de segurança cibernética do setor. Desde o seu lançamento, a Microsoft investiu o equivalente a 34.000 engenheiros trabalhando em tempo integral durante 11 meses para reduzir riscos e atingir objetivos de segurança de alta prioridade.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/microsoft-releases-secure-future-initiative-sfi-vgnwc)
+
+<br> **2025.04.21 [SEC] Resumo semanal de 14 a 21.Abr**
+<br> Boletim informativo sobre segurança cibernética, fornecendo as últimas atualizações e insights essenciais.
+<br> Disponível [aqui](https://www.linkedin.com/comm/pulse/cyber-security-news-letter-key-updates-attacks-vulnerabilities-ds1pc)
+
 <br> **2025.04.16 [SEC] Android reiniciará automaticamente após 72 horas de inatividade**
 <br> A atualização do Play Services a partir da versão 25.14 pretende aprimorar a proteção de telefones e tables que estão bloqueados e sem efetuar desbloqueio após 3 dias. Logo após a reinicialização, e antes de ser desbloqueado pela primeira vez, o dispositivo retorna ao estado “Before First Unlock”, no qual todas as informações permanecem criptografadas. Há previsão desta atualização a partir da próxima semana.
 <br> Publicado [aqui](https://9to5google.com/2025/04/16/android-auto-restart-security/)
