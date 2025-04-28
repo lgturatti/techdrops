@@ -74,6 +74,7 @@ Latest news are at top / Notícias mais recentes no topo
 <br> A correção está disponível na versão 7.11
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/update-immediatelycritical-winrar-vulnerability-bpkfe). Atualize [aqui](https://www.win-rar.com/download.html)
 
+
 <br> **2025.04.06 [SEC] NICE Cybersecurity Workforce Framework versão 2.0.0**
 <br> Esta atualização inclui áreas de competência adicionais, funções de trabalho e declarações de tarefa, conhecimento e habilidade (TKS), bem como a remoção de duas categorias de funções de trabalho.
 <br> Seguindo o avanço da tecnologia, o trabalho de profissionais de segurança cibernética tem o apoio do National Initiative for Cybersecurity Careers and Studies (NICCS), que ajuda os usuários a encontrar a educação e o treinamento em segurança de que precisam para progredir em suas carreiras e fechar as lacunas de habilidades em toda a força de trabalho.
@@ -82,6 +83,10 @@ Latest news are at top / Notícias mais recentes no topo
 <br> **2025.04.06 [SEC] Resumo semanal de 31.Mar a 06.Abr**
 <br> Boletim informativo sobre segurança cibernética, fornecendo as últimas atualizações e insights essenciais.
 <br> Disponível [aqui](https://www.linkedin.com/pulse/cybersecurity-weekly-recap-key-updates-attacks-vulnerabilities-gktxc/)
+
+<br> **2025.04.05 [SEC] Google apresenta o Sec-Gemini v1 - um novo modelo experimental de segurança cibernética**
+<br> Conforme o Google destacou no ano passado, a segurança cibernética continua sendo um campo excepcionalmente desafiador. Os defensores precisam se proteger contra uma gama infinita de ameaças, enquanto os invasores precisam explorar apenas uma única vulnerabilidade. Esse desequilíbrio torna a proteção de sistemas incrivelmente complexa, intensiva em recursos e propensa a erros humanos. A IA tem o potencial de mudar essa dinâmica atuando como um multiplicador de força para as equipes de segurança cibernética e capacitando os defensores como nunca vivenciado anteriormente.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/google-announces-sec-gemini-v1-new-experimental-smfxe)
 
 <br> **2025.04.04 [SEC] Oracle assume grande violação de dados**
 <br> A Oracle divulgou uma violação de dados que afetou seus servidores mais antigos da Geração 1, marcando o segundo incidente de segurança cibernética relatado pela empresa nas últimas semanas. Após inicialmente negar o incidente, a multinacional de tecnologia com sede em Austin, Texas, reconheceu a alguns clientes que invasores roubaram credenciais antigas de clientes após violar um "ambiente legado" usado pela última vez em 2017.
