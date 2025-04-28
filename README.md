@@ -83,6 +83,10 @@ Latest news are at top / Notícias mais recentes no topo
 <br> Boletim informativo sobre segurança cibernética, fornecendo as últimas atualizações e insights essenciais.
 <br> Disponível [aqui](https://www.linkedin.com/pulse/cybersecurity-weekly-recap-key-updates-attacks-vulnerabilities-gktxc/)
 
+<br> **2025.04.04 [SEC] Oracle assume grande violação de dados**
+<br> A Oracle divulgou uma violação de dados que afetou seus servidores mais antigos da Geração 1, marcando o segundo incidente de segurança cibernética relatado pela empresa nas últimas semanas. Após inicialmente negar o incidente, a multinacional de tecnologia com sede em Austin, Texas, reconheceu a alguns clientes que invasores roubaram credenciais antigas de clientes após violar um "ambiente legado" usado pela última vez em 2017.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/oracle-confirms-major-data-breach-the-cyber-security-hub-bnnde)
+
 <br> **2025.04.04 [DEV] Python define padrão de arquivo de trava**
 <br> O time oficial da linguagem Python aprovou a proposta PEP 751, adotando o TOML (pylock.toml) como formato padrão de arquivo de lock para pacotes, amplamente suportado e de fácil leitura. Paul Moore, um dos desenvolvedores centrais, destaca que isso é algo definitivo. No entanto, a adoção do novo padrão por outros gerenciadores de pacotes, que atualmente utilizam seu próprio formato, deve ocorrer de forma gradual.
 <br> Publicado [aqui](https://devclass.com/2025/04/04/python-now-has-a-standard-package-lock-file-format-though-winning-full-adoption-will-be-a-challenge/)
