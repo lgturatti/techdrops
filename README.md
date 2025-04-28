@@ -4,6 +4,10 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2025.04.28 [SEC] Falha em atualizações do Kali Linux**
+<br> A Offensive Security (OffSec) alertou os usuários do Kali Linux para instalarem manualmente uma nova chave de assinatura de repositório para evitar problemas de atualização.
+<br> Publicado  [aqui](https://www.linkedin.com/comm/pulse/kali-linux-issues-warning-update-failures-following-attbe)
+
 <br> **2025.04.26 [SEC] Verizon 2025 Data Breach Investigations Report (DBIR)**
 <br> O relatório DBIR analisou mais de 22.000 incidentes de segurança, incluindo 12.195 violações de dados confirmadas. Constatou que o abuso de credenciais (22%) e a exploração de vulnerabilidades (20%) continuam sendo os métodos de ataque inicial mais comuns, enfatizando a necessidade urgente de defesas de segurança cibernética mais fortes.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/verizon-2025-data-breach-investigations-dbir-report-4pwfe)
