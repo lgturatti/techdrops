@@ -8,6 +8,10 @@ Latest news are at top / Notícias mais recentes no topo
 <br> O relatório DBIR analisou mais de 22.000 incidentes de segurança, incluindo 12.195 violações de dados confirmadas. Constatou que o abuso de credenciais (22%) e a exploração de vulnerabilidades (20%) continuam sendo os métodos de ataque inicial mais comuns, enfatizando a necessidade urgente de defesas de segurança cibernética mais fortes.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/verizon-2025-data-breach-investigations-dbir-report-4pwfe)
 
+<br> **2025.04.24 [SEC] Aplicativo de monitoramento de funcionários vaza 21 milhões de capturas de tela em tempo real**
+<br> O aplicativo WorkComposer, utilizado por mais de 200 mil usuários em diversas empresas, registra essas imagens em intervalos regulares, e as armazena em um bucket da Amazon S3, que não possuía medidas de segurança para acesso indevido. As fotos podem conter informações sensíveis, como e-mails, credenciais de acesso e chaves de API, que podem ser exploradas em ataques direcionados. A empresa responsável pelo app restringiu o acesso ao bucket.
+<br> Publicado [aqui](https://cybernews.com/security/employee-monitoring-app-leaks-millions-screenshots/)
+
 <br> **2025.04.24 [SEC] WhatsApp lança recurso avançado de privacidade**
 <br> O novo recurso de privacidade avançada de bate-papo tem o objetivo de fortalecer a proteção de informações confidenciais compartilhadas em conversas individuais e em grupo.
 <br> Publicado [aqui](http://www.linkedin.com/comm/pulse/whatsapp-launches-advanced-chat-privacy-feature-nyfce)
