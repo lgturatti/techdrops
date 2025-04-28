@@ -29,6 +29,10 @@ Latest news are at top / Notícias mais recentes no topo
 <br> Boletim informativo sobre segurança cibernética, fornecendo as últimas atualizações e insights essenciais.
 <br> Disponível [aqui](https://www.linkedin.com/comm/pulse/cyber-security-news-letter-key-updates-attacks-vulnerabilities-ds1pc)
 
+<br> **2025.04.16 [HW] TechTuber investiga  SSDs**
+<br> YouTuber investiga como SSDs que permanecem desligados por longos períodos podem perder dados. O experimento realizado pelo canal HTWingNut envolveu quatro unidades SATA com memória TLC de 128 GB de capacidade, sendo dois novos e dois usados, e cada um recebeu 100 GB de dados aleatórios. Após dois anos sem uso, as informações nos dispositivos novos estavam 100% intactas, mas no segundo grupo, quatro arquivos foram identificados como corrompidos. Isso pode estar relacionado ao fato de que os dispositivos usados já tinham sido submetidos a uma taxa de 280 terabytes de dados gravados — acima da capacidade nominal de resistência de 60 terabytes.
+<br> Publicado [aqui](https://www.tomshardware.com/pc-components/storage/unpowered-ssd-endurance-investigation-finds-severe-data-loss-and-performance-issues-reminds-us-of-the-importance-of-refreshing-backups)
+
 <br> **2025.04.16 [SEC] Android reiniciará automaticamente após 72 horas de inatividade**
 <br> A atualização do Play Services a partir da versão 25.14 pretende aprimorar a proteção de telefones e tables que estão bloqueados e sem efetuar desbloqueio após 3 dias. Logo após a reinicialização, e antes de ser desbloqueado pela primeira vez, o dispositivo retorna ao estado “Before First Unlock”, no qual todas as informações permanecem criptografadas. Há previsão desta atualização a partir da próxima semana.
 <br> Publicado [aqui](https://9to5google.com/2025/04/16/android-auto-restart-security/)
