@@ -4,6 +4,14 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2025.04.30 [SEC] Falhas críticas no Apple AirPlay**
+<br> O protocolo AirPlay e SDK da Apple que podem ser explorados para espalhar malware entre dispositivos conectados na mesma rede. A recomendação é aplicar atualizações em todos os dispositivos. 
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/warning-critical-apple-airplay-security-flaws-yeh5e)
+
+<br> **2025.04.29 [SEC] Provedor de Segurança**
+<br> Uma história de troca de provedor de segurança (e as lições que se tornaram um guia). O artigo traz reflexões sobre ruído excessivo, falhas e soluções.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/we-doing-job-security-provider-switch-story-lessons-loogc)
+
 <br> **2025.04.28 [SEC] Falha em atualizações do Kali Linux**
 <br> A Offensive Security (OffSec) alertou os usuários do Kali Linux para instalarem manualmente uma nova chave de assinatura de repositório para evitar problemas de atualização.
 <br> Publicado  [aqui](https://www.linkedin.com/comm/pulse/kali-linux-issues-warning-update-failures-following-attbe)
@@ -11,6 +19,10 @@ Latest news are at top / Notícias mais recentes no topo
 <br> **2025.04.26 [SEC] Verizon 2025 Data Breach Investigations Report (DBIR)**
 <br> O relatório DBIR analisou mais de 22.000 incidentes de segurança, incluindo 12.195 violações de dados confirmadas. Constatou que o abuso de credenciais (22%) e a exploração de vulnerabilidades (20%) continuam sendo os métodos de ataque inicial mais comuns, enfatizando a necessidade urgente de defesas de segurança cibernética mais fortes.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/verizon-2025-data-breach-investigations-dbir-report-4pwfe)
+
+<br> **2025.04.24 [MS] Assinatura mensal do Windows Server**
+<br> A Microsoft anunciou uma assinatura mensal que permite atualizar Windows Server sem a necessidade decreinicializar o sistema.  O "hotpatching" atua modificando diretamente o código em execução na memória. Ele já estava disponível gratuitamente em versão prévia, mas a partir de 1º julho, será cobrado 1,50 dólar por núcleo de CPU para sua utilização. As máquinas ainda precisarão ser reiniciadas cerca de quatro vezes por ano para aplicar atualizações de “baseline”, ou em casos excepcionais de updates críticos. Para usar o recurso, é necessário ter o Windows Server 2025 Standard ou Datacenter e conectar os servidores ao Azure Arc, sem custo adicional.
+<br> Publicado [aqui](https://www.microsoft.com/en-us/windows-server/blog/2025/04/24/tired-of-all-the-restarts-get-hotpatching-for-windows-server/)
 
 <br> **2025.04.24 [SEC] Aplicativo de monitoramento de funcionários vaza 21 milhões de capturas de tela em tempo real**
 <br> O aplicativo WorkComposer, utilizado por mais de 200 mil usuários em diversas empresas, registra essas imagens em intervalos regulares, e as armazena em um bucket da Amazon S3, que não possuía medidas de segurança para acesso indevido. As fotos podem conter informações sensíveis, como e-mails, credenciais de acesso e chaves de API, que podem ser exploradas em ataques direcionados. A empresa responsável pelo app restringiu o acesso ao bucket.
