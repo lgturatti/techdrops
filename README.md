@@ -12,6 +12,10 @@ Latest news are at top / Notícias mais recentes no topo
 <br> Uma história de troca de provedor de segurança (e as lições que se tornaram um guia). O artigo traz reflexões sobre ruído excessivo, falhas e soluções.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/we-doing-job-security-provider-switch-story-lessons-loogc)
 
+<br> **2025.04.29 [AI] Google anuncia ferramenta para aprendizado de idiomas**
+<br> A ferramenta que utiliza IA é composta por três "experimentos". No "Tiny Lesson" os usuários podem descrever situações específicas do cotidiano para receber dicas de vocabulário e gramática; o "Slang Hang" busca ajudar os aprendizes a soarem menos formais nas conversas; e o "Word Cam" permite tirar uma foto do ambiente, a partir da qual o Gemini identifica e rotula objetos na língua escolhida. A ferramenta está disponível no Google Labs e suporta 15 idiomas, incluindo inglês, espanhol, alemão e português..
+<br> Publicado [aqui](https://techcrunch.com/2025/04/29/google-launches-ai-tools-for-practicing-languages-through-personalized-lessons/)
+
 <br> **2025.04.28 [SEC] Falha em atualizações do Kali Linux**
 <br> A Offensive Security (OffSec) alertou os usuários do Kali Linux para instalarem manualmente uma nova chave de assinatura de repositório para evitar problemas de atualização.
 <br> Publicado  [aqui](https://www.linkedin.com/comm/pulse/kali-linux-issues-warning-update-failures-following-attbe)
