@@ -4,6 +4,10 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2025.05.01 [SEC] Onda de ataques a varejistas**
+<br> Após um ataque cibernético vinculado ao grupo de hackers Scattered Spider, a rede M&S (Marks & Spencer) interrompeu severamente as operações, levando a uma queda estimada em £ 650 milhões no valor de mercado. A empresa suspendeu os pedidos online por quase uma semana, enfrentou escassez de estoque nas lojas devido a sistemas de inventário com defeito e suspendeu seus serviços de fidelidade e vale-presente. Também suspendeu o recrutamento, removendo todas as vagas de emprego de seu site. Uma mensagem no site diz: "Desculpe, você não pode pesquisar ou se candidatar a vagas no momento, estamos trabalhando duro para voltar a estar online o mais rápido possível." A varejista, que emprega aproximadamente 65.000 funcionários.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/luxury-retailer-harrods-latest-targeted-ongoing-iaxge)
+
 <br> **2025.04.30 [SEC] Ataques de kits de phishing**
 <br> O artigo traz informação sobre kits de phishing, os novos riscos para as empresas e como atuar para impedi-los precocemente.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/phishing-kit-attacks-how-businesses-can-stop-them-early-ta6bf)
