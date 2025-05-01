@@ -4,6 +4,10 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2025.04.30 [SEC] Ataques de kits de phishing**
+<br> O artigo traz informação sobre kits de phishing, os novos riscos para as empresas e como atuar para impedi-los precocemente.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/phishing-kit-attacks-how-businesses-can-stop-them-early-ta6bf)
+
 <br> **2025.04.30 [SEC] Falhas críticas no Apple AirPlay**
 <br> O protocolo AirPlay e SDK da Apple que podem ser explorados para espalhar malware entre dispositivos conectados na mesma rede. A recomendação é aplicar atualizações em todos os dispositivos. 
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/warning-critical-apple-airplay-security-flaws-yeh5e)
