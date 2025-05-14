@@ -16,6 +16,10 @@ Latest news are at top / Notícias mais recentes no topo
 <br> A finalidade do recurso é impedir capturas não autorizadas durante reuniões, ajudando a proteger informações comerciais confidenciais. Estará disponível a partir de julho de 2025, nas plataformas Android, desktop (Windows e macOS), iOS e web.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/microsoft-teams-block-screen-captures-during-meetings-gkp0e)
 
+<br> **2025.05.10 [SEC] Resumo semanal de 1 a 8.Maio**
+<br> Boletim informativo sobre segurança cibernética, fornecendo as últimas atualizações e insights essenciais.
+<br> Disponível [aqui](https://www.linkedin.com/pulse/principais-not%C3%ADcias-de-ciberseguran%C3%A7a-da-semana-01-08-maio-5qg9f)
+
 <br> **2025.05.06 [SEC] CISA e FBI divulgam medidas para reduzir ameaças cibernéticas à tecnologia operacional**
 <br> Incidentes cibernéticos que visam tecnologia operacional (TO) e sistemas de controle industrial (SCI) de infraestrutura crítica estão aumentando rapidamente nos Estados Unidos, ressaltando a necessidade urgente de fortalecimento de segurança em ambientes conectados à internet.
 <br> Publicado [aqui](https://www.linkedin.com/pulse/cisa-fbi-release-mitigations-reduce-cyber-threats-a9vdc)
