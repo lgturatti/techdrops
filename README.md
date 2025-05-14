@@ -4,6 +4,18 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2025.05.13 [SEC] UE lança seu próprio banco de dados CVE**
+<br> Após a crise temporária e o risco de perder uma funcionalidade tão importante como a gestão de falhas, a Europa criou o próprio banco de dados de vulnerabilidades (EUVD).
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/eu-officially-launches-its-own-cve-database-european-wqnae)
+
+<br> **2025.05.13 [SEC] Atualizações da Microsoft**
+<br> O "Patch Tuesday" de maio corrige mais de 70 vulnerabilidades, incluindo 5 vulnerabilidades de dia zero exploradas ativamente.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/microsofts-may-2025-patch-tuesday-fixes-over-70-bpzke)
+
+<br> **2025.05.12 [SEC] Microsoft Teams bloqueará capturas de tela durante reuniões**
+<br> A finalidade do recurso é impedir capturas não autorizadas durante reuniões, ajudando a proteger informações comerciais confidenciais. Estará disponível a partir de julho de 2025, nas plataformas Android, desktop (Windows e macOS), iOS e web.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/microsoft-teams-block-screen-captures-during-meetings-gkp0e)
+
 <br> **2025.05.06 [SEC] CISA e FBI divulgam medidas para reduzir ameaças cibernéticas à tecnologia operacional**
 <br> Incidentes cibernéticos que visam tecnologia operacional (TO) e sistemas de controle industrial (SCI) de infraestrutura crítica estão aumentando rapidamente nos Estados Unidos, ressaltando a necessidade urgente de fortalecimento de segurança em ambientes conectados à internet.
 <br> Publicado [aqui](https://www.linkedin.com/pulse/cisa-fbi-release-mitigations-reduce-cyber-threats-a9vdc)
