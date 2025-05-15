@@ -28,9 +28,17 @@ Latest news are at top / Notícias mais recentes no topo
 <br> Boletim informativo sobre segurança cibernética, fornecendo as últimas atualizações e insights essenciais.
 <br> Disponível [aqui](https://www.linkedin.com/pulse/principais-not%C3%ADcias-de-ciberseguran%C3%A7a-da-semana-01-08-maio-5qg9f)
 
+<br> **2025.05.09 [DEV] Apple é obrigada a  abrir App store no Brasil**
+<br> A Justiça Federal impõe a Apple a permitir meios de pagamento alternativos no iOS. Em março p.p., o TRF-1 havia derrubado a liminar que suspendia a decisão do Cade. A empresa chegou a recorrer e obteve nova suspensão, que agora foi revertida. A ação contesta as regras da companhia que restringem a atuação de desenvolvedores em seu ecossistema. Ela terá 90 dias, contados a partir de 7 de maio para implementar as mudanças.
+<br> Publicado [aqui](https://tecnoblog.net/noticias/justica-confirma-decisao-do-cade-e-obriga-apple-a-abrir-app-store-no-brasil/)
+
 <br> **2025.05.08 [SEC] Nmap 7.96 traz recursos aprimorados e bibliotecas atualizadas**
 <br> A nova versão traz resolução de DNS aprimorado com pesquisas paralelas e atualização das bibliotecas: OpenSSL 3.0.16, Lua 5.4.7, libssh2 1.11.1, libpcap 1.10.5, e libpcre2 10.45; além de 612 scrpts para aumentar a performance e segurança.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/nmap-796-launches-enhanced-scanning-features-upgraded-5izre)
+
+<br> **2025.05.07 [SEC] Grupo de ransomware LockBit é hackeado**
+<br> As negociações com vítimas foram expostas; os painéis de administração passaram a exibir a mensagem “Não cometa crimes, CRIME É RUIM”, acompanhada de um link para download de um arquivo com registros do banco de dados do sistema, contendo mais de 4 mil mensagens trocadas entre operadores e vítimas, além de cerca de 60 mil endereços únicos de Bitcoin e 75 contas de administradores e afiliados, com suas senhas armazenadas em texto puro.
+<br> Publicado [aqui](https://www.bleepingcomputer.com/news/security/lockbit-ransomware-gang-hacked-victim-negotiations-exposed/)
 
 <br> **2025.05.06 [SEC] CISA e FBI divulgam medidas para reduzir ameaças cibernéticas à tecnologia operacional**
 <br> Incidentes cibernéticos que visam tecnologia operacional (TO) e sistemas de controle industrial (SCI) de infraestrutura crítica estão aumentando rapidamente nos Estados Unidos, ressaltando a necessidade urgente de fortalecimento de segurança em ambientes conectados à internet.
