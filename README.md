@@ -32,6 +32,10 @@ Latest news are at top / Notícias mais recentes no topo
 <br> A Justiça Federal impõe a Apple a permitir meios de pagamento alternativos no iOS. Em março p.p., o TRF-1 havia derrubado a liminar que suspendia a decisão do Cade. A empresa chegou a recorrer e obteve nova suspensão, que agora foi revertida. A ação contesta as regras da companhia que restringem a atuação de desenvolvedores em seu ecossistema. Ela terá 90 dias, contados a partir de 7 de maio para implementar as mudanças.
 <br> Publicado [aqui](https://tecnoblog.net/noticias/justica-confirma-decisao-do-cade-e-obriga-apple-a-abrir-app-store-no-brasil/)
 
+<br> **2025.05.09 [Remoto] Cafeterias dos EUA limitam uso de Internet**
+<br> Para conter ocupação excessiva de trabalhadores remotos os estabelecimentos aboliram completamente Wi-Fi, notebooks e até o uso de tomadas, dentre outras medidas. O foco é manter a rotatividade de clientes.
+<br> Publicado [](https://www.axios.com/2025/05/09/coffee-shops-no-wifi-laptops-remote-work) e [aqui](https://www.axios.com/2025/05/12/coffee-shops-ditch-wifi-ban-laptops-pm)
+
 <br> **2025.05.08 [SEC] Nmap 7.96 traz recursos aprimorados e bibliotecas atualizadas**
 <br> A nova versão traz resolução de DNS aprimorado com pesquisas paralelas e atualização das bibliotecas: OpenSSL 3.0.16, Lua 5.4.7, libssh2 1.11.1, libpcap 1.10.5, e libpcre2 10.45; além de 612 scrpts para aumentar a performance e segurança.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/nmap-796-launches-enhanced-scanning-features-upgraded-5izre)
@@ -43,6 +47,10 @@ Latest news are at top / Notícias mais recentes no topo
 <br> **2025.05.06 [SEC] CISA e FBI divulgam medidas para reduzir ameaças cibernéticas à tecnologia operacional**
 <br> Incidentes cibernéticos que visam tecnologia operacional (TO) e sistemas de controle industrial (SCI) de infraestrutura crítica estão aumentando rapidamente nos Estados Unidos, ressaltando a necessidade urgente de fortalecimento de segurança em ambientes conectados à internet.
 <br> Publicado [aqui](https://www.linkedin.com/pulse/cisa-fbi-release-mitigations-reduce-cyber-threats-a9vdc)
+
+<br> **2025.05.06 [WEB] Google Chrome é o maior coletor de dados**
+<br> Segudo a VPN Surfshark, é o navegador que mais coleta dados de usuários em comparação a outros programas similares;  seguido pelo app do Bing (12), Pi Browser (9), e Safari e Firefox (8).
+<br> Publicado [aqui](https://surfshark.com/research/chart/data-collection-mobile-browsers)
 
 <br> **2025.05.01 [SEC] Onda de ataques a varejistas**
 <br> Após um ataque cibernético vinculado ao grupo de hackers Scattered Spider, a rede M&S (Marks & Spencer) interrompeu severamente as operações, levando a uma queda estimada em £ 650 milhões no valor de mercado. A empresa suspendeu os pedidos online por quase uma semana, enfrentou escassez de estoque nas lojas devido a sistemas de inventário com defeito e suspendeu seus serviços de fidelidade e vale-presente. Também suspendeu o recrutamento, removendo todas as vagas de emprego de seu site. Uma mensagem no site diz: "Desculpe, você não pode pesquisar ou se candidatar a vagas no momento, estamos trabalhando duro para voltar a estar online o mais rápido possível." A varejista, que emprega aproximadamente 65.000 funcionários.
