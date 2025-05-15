@@ -4,6 +4,10 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2025.05.14 [SEC] Apple disponibiliza atualizações em todas as plataformas**
+<br> Atualizações para correções críticas de segurança corrigem mais de 30 vulnerabilidades. É recomendado a atualização para iOS v.18.5.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/apple-issues-major-security-updates-across-platforms-qnj9e)
+
 <br> **2025.05.13 [SEC] UE lança seu próprio banco de dados CVE**
 <br> Após a crise temporária e o risco de perder uma funcionalidade tão importante como a gestão de falhas, a Europa criou o próprio banco de dados de vulnerabilidades (EUVD).
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/eu-officially-launches-its-own-cve-database-european-wqnae)
@@ -16,9 +20,17 @@ Latest news are at top / Notícias mais recentes no topo
 <br> A finalidade do recurso é impedir capturas não autorizadas durante reuniões, ajudando a proteger informações comerciais confidenciais. Estará disponível a partir de julho de 2025, nas plataformas Android, desktop (Windows e macOS), iOS e web.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/microsoft-teams-block-screen-captures-during-meetings-gkp0e)
 
+<br> **2025.05.10 [SEC] FBI alerta sobre falhas em roteadores antigos (EOL)**
+<br> Dispositivos antigos que não recebem mais atualizações de segurança, são altamente vulneráveis ​​a exploits de conhecimento público. Os invasores usam essas vulnerabilidades para instalar malware que os transforma em proxies para as redes 5Socks e Anyproxy.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/fbi-warns-cyber-criminals-exploiting-end-of-life-ckgce)
+
 <br> **2025.05.10 [SEC] Resumo semanal de 1 a 8.Maio**
 <br> Boletim informativo sobre segurança cibernética, fornecendo as últimas atualizações e insights essenciais.
 <br> Disponível [aqui](https://www.linkedin.com/pulse/principais-not%C3%ADcias-de-ciberseguran%C3%A7a-da-semana-01-08-maio-5qg9f)
+
+<br> **2025.05.08 [SEC] Nmap 7.96 traz recursos aprimorados e bibliotecas atualizadas**
+<br> A nova versão traz resolução de DNS aprimorado com pesquisas paralelas e atualização das bibliotecas: OpenSSL 3.0.16, Lua 5.4.7, libssh2 1.11.1, libpcap 1.10.5, e libpcre2 10.45; além de 612 scrpts para aumentar a performance e segurança.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/nmap-796-launches-enhanced-scanning-features-upgraded-5izre)
 
 <br> **2025.05.06 [SEC] CISA e FBI divulgam medidas para reduzir ameaças cibernéticas à tecnologia operacional**
 <br> Incidentes cibernéticos que visam tecnologia operacional (TO) e sistemas de controle industrial (SCI) de infraestrutura crítica estão aumentando rapidamente nos Estados Unidos, ressaltando a necessidade urgente de fortalecimento de segurança em ambientes conectados à internet.
