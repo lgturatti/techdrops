@@ -4,6 +4,10 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2025.05.15 [SEC] Falhas de dia zero no Windows**
+<br> As vulnerabilidades afetam todas as versões suportadas do Windows, e a exploração pode levar ao comprometimento total do sistema, roubo de dados, instalação de malware e movimentação lateral entre redes.
+<br> Publicado [aqui](https://cybersecuritynews.com/five-actively-exploited-windows-0-day/)
+
 <br> **2025.05.15 [SEC] Atualização urgente do Google Chrome**
 <br>O problema identificado é que o cabeçalho de uma URL pode definir uma política de referência. Ao usar uma referência insegura é possível capturar parâmetros de consulta completos. Esses parâmetros geralmente incluem dados confidenciais (especialmente em fluxos OAuth) o que pode levar ao roubo total da conta. Os desenvolvedores geralmente ignoram esse tipo de vazamento de dados por meio de imagens carregadas de fontes de terceiros.
 <br> A solução é atualizar para versão 136.0.7103.113+
