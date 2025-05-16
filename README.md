@@ -4,6 +4,11 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2025.05.15 [SEC] Atualização urgente do Google Chrome**
+<br>O problema identificado é que o cabeçalho de uma URL pode definir uma política de referência. Ao usar uma referência insegura é possível capturar parâmetros de consulta completos. Esses parâmetros geralmente incluem dados confidenciais (especialmente em fluxos OAuth) o que pode levar ao roubo total da conta. Os desenvolvedores geralmente ignoram esse tipo de vazamento de dados por meio de imagens carregadas de fontes de terceiros.
+<br> A solução é atualizar para versão 136.0.7103.113+
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/google-releases-emergency-chrome-update-fix-critical-9egme)
+
 <br> **2025.05.14 [SEC] Apple disponibiliza atualizações em todas as plataformas**
 <br> Atualizações para correções críticas de segurança corrigem mais de 30 vulnerabilidades. É recomendado a atualização para iOS v.18.5.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/apple-issues-major-security-updates-across-platforms-qnj9e)
