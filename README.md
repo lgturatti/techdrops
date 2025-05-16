@@ -4,6 +4,10 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2025.05.16 [SEC] Processadores Intel & Spectre v2**
+<br> Nas CPUs da Intel, foi descoberta uma nova vulnerabilidade conhecidas como "Branch Privilege Injection" (BPI). Isto permitem aos invasores vazamento de dados confidenciais de regiões protegidas da memória usadas por softwares privilegiados, e geralmente contêm informações críticas, como senhas, chaves de criptografia e estruturas de dados do kernel, tornando-as alvos de alto valor para invasores.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/new-intel-cpu-vulnerabilities-allows-memory-leaks-cajne)
+
 <br> **2025.05.15 [SEC] Falhas de dia zero no Windows**
 <br> As vulnerabilidades afetam todas as versões suportadas do Windows, e a exploração pode levar ao comprometimento total do sistema, roubo de dados, instalação de malware e movimentação lateral entre redes.
 <br> Publicado [aqui](https://cybersecuritynews.com/five-actively-exploited-windows-0-day/)
