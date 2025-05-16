@@ -8,6 +8,10 @@ Latest news are at top / Notícias mais recentes no topo
 <br> Atualizações para correções críticas de segurança corrigem mais de 30 vulnerabilidades. É recomendado a atualização para iOS v.18.5.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/apple-issues-major-security-updates-across-platforms-qnj9e)
 
+<br> **2025.05.13 [DEV] Stack Overflow anuncia reforma da marca**
+<br> Em meio a queda de tráfego constante a empresa anuncia reformulação da marca. O número total de perguntas e respostas publicadas em abril de 2025 caiu mais de 64% em relação ao mesmo mês de 2024 e se comparado a 2020, mais de 90%. O CEO afirma que a empresa deixará de atuar exclusivamente nesse modelo, e também investirá nas áreas de comunidade e carreira.
+<br> Publicado [aqui](https://devclass.com/2025/05/13/stack-overflow-seeks-rebrand-as-traffic-continues-to-plummet-which-is-bad-news-for-developers/)
+
 <br> **2025.05.13 [SEC] UE lança seu próprio banco de dados CVE**
 <br> Após a crise temporária e o risco de perder uma funcionalidade tão importante como a gestão de falhas, a Europa criou o próprio banco de dados de vulnerabilidades (EUVD).
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/eu-officially-launches-its-own-cve-database-european-wqnae)
@@ -51,6 +55,10 @@ Latest news are at top / Notícias mais recentes no topo
 <br> **2025.05.06 [WEB] Google Chrome é o maior coletor de dados**
 <br> Segudo a VPN Surfshark, é o navegador que mais coleta dados de usuários em comparação a outros programas similares;  seguido pelo app do Bing (12), Pi Browser (9), e Safari e Firefox (8).
 <br> Publicado [aqui](https://surfshark.com/research/chart/data-collection-mobile-browsers)
+
+<br> **2025.05.02 [DEV] Google Desktop para Android**
+<br> Finalmente a empresa está desenvolvendo um modo desktop para Android, onde o recurso transforma o celular em uma espécie de computador quando conectado a um monitor externo. A interface inclui barra de tarefas, janelas redimensionáveis e execução simultânea de múltiplos aplicativos, semelhante a interface de computadores. A funcionalidade ainda está em fase de testes e não há previsão oficial de lançamento.
+<br> Publicado [aqui](https://www.androidauthority.com/android-desktop-mode-leak-3550321/)
 
 <br> **2025.05.01 [SEC] Onda de ataques a varejistas**
 <br> Após um ataque cibernético vinculado ao grupo de hackers Scattered Spider, a rede M&S (Marks & Spencer) interrompeu severamente as operações, levando a uma queda estimada em £ 650 milhões no valor de mercado. A empresa suspendeu os pedidos online por quase uma semana, enfrentou escassez de estoque nas lojas devido a sistemas de inventário com defeito e suspendeu seus serviços de fidelidade e vale-presente. Também suspendeu o recrutamento, removendo todas as vagas de emprego de seu site. Uma mensagem no site diz: "Desculpe, você não pode pesquisar ou se candidatar a vagas no momento, estamos trabalhando duro para voltar a estar online o mais rápido possível." A varejista, que emprega aproximadamente 65.000 funcionários.
