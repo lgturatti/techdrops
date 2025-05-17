@@ -57,6 +57,10 @@ Latest news are at top / Notícias mais recentes no topo
 <br> A nova versão traz resolução de DNS aprimorado com pesquisas paralelas e atualização das bibliotecas: OpenSSL 3.0.16, Lua 5.4.7, libssh2 1.11.1, libpcap 1.10.5, e libpcre2 10.45; além de 612 scrpts para aumentar a performance e segurança.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/nmap-796-launches-enhanced-scanning-features-upgraded-5izre)
 
+<br> **2025.05.08 [DEV] Android 15 e paginação de 16KB**
+<br> A partir de novembro deste ano, a Google Play Store exigirá que todos os novos apps e atualizações para apps direcionados ao Android 15 (API 35) ou superior, suportem páginas de 16KB. Isso significa que, a partir dessa data, os desenvolvedores precisarão garantir que seus apps sejam compatíveis com essa configuração, sob pena de não serem aceitos na loja. Essa mudança tem o objetivo de otimizar o desempenho de dispositivos com maior quantidade de RAM, que se beneficiam do maior tamanho de página e reduz a fragmentação da memória.
+<br> Publicado [aqui](https://android-developers.googleblog.com/2025/05/prepare-play-apps-for-devices-with-16kb-page-size.html)
+
 <br> **2025.05.07 [SEC] Grupo de ransomware LockBit é hackeado**
 <br> As negociações com vítimas foram expostas; os painéis de administração passaram a exibir a mensagem “Não cometa crimes, CRIME É RUIM”, acompanhada de um link para download de um arquivo com registros do banco de dados do sistema, contendo mais de 4 mil mensagens trocadas entre operadores e vítimas, além de cerca de 60 mil endereços únicos de Bitcoin e 75 contas de administradores e afiliados, com suas senhas armazenadas em texto puro.
 <br> Publicado [aqui](https://www.bleepingcomputer.com/news/security/lockbit-ransomware-gang-hacked-victim-negotiations-exposed/)
