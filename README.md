@@ -8,6 +8,10 @@ Latest news are at top / Notícias mais recentes no topo
 <br> Um artigo publicado recentemente por Peter Mell e Jonathan Spring, apresentaram uma métrica de exploração de vulnerabilidades que se baseia no Sistema de Pontuação de Previsão de Exploração (EPSS) existente e no catálogo de Vulnerabilidades Exploradas Conhecidas (KEV) da CISA. Os pesquisadores observaram que os estudos mostram que apenas cerca de 5% das vulnerabilidades conhecidas são exploradas in loco, enquanto as organizações normalmente corrigem apenas 16% das vulnerabilidades descobettas por mês.
 <br> Publicado [aqui](https://www.linkedin.com/pulse/nist-cisa-create-new-metric-predict-probability-arw7c)
 
+<br> **2025.05.19 [SEC] Mozilla corrige falhas críticas de dia zero no Firefox**
+<br> As falhas foram exploradas ativamente na competição de hackers PWN2Own Berlin 2025. Logo após a demonstração pública as atualizações foram liberadas poucashorasdepois, e cobrem o navegador em plataformas de desktop e Android, bem como as versões de suporte estendido (ESR).
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/mozilla-patches-two-critical-zero-day-vulnerabilities-nlthe)
+
 <br> **2025.05.16 [SEC] Processadores Intel & Spectre v2**
 <br> Nas CPUs da Intel, foi descoberta uma nova vulnerabilidade conhecidas como "Branch Privilege Injection" (BPI). Isto permite aos invasores o vazamento de dados confidenciais de regiões protegidas da memória usadas por softwares privilegiados, que geralmente contêm informações críticas, como senhas, chaves de criptografia e estruturas de dados do kernel, tornando-as alvos de alto valor para invasores.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/new-intel-cpu-vulnerabilities-allows-memory-leaks-cajne)
