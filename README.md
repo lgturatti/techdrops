@@ -12,6 +12,10 @@ Latest news are at top / Notícias mais recentes no topo
 <br> As falhas foram exploradas ativamente na competição de hackers PWN2Own Berlin 2025. Logo após a demonstração pública as atualizações foram liberadas poucashorasdepois, e cobrem o navegador em plataformas de desktop e Android, bem como as versões de suporte estendido (ESR).
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/mozilla-patches-two-critical-zero-day-vulnerabilities-nlthe)
 
+<br> **2025.05.19 [DEV] WSL Open Source**
+<br> O WSL (Subsistema do Windows para Linux) com código aberto, editor de texto para linha de comando e outras novidades no Microsoft Build 2025: o código do WSL está disponível no repositório “microsoft/WSL” do GitHub; o Edit on Windows, disponível em breve para Insiders, poderá ser aberto no terminal com o comando “edit”, seguido pelo nome do arquivo. Seu código pode ser acessado no repositório “microsoft/edit”; aplicativos web agora podem usar APIs do navegador Edge (Canary e Dev) para integrar-se ao modelo Phi-4-mini da Microsoft, possibilitando funcionalidades como escrita, edição e resumo de textos; a partir de junho, desenvolvedores individuais poderão publicar apps na Microsoft Store sem pagar taxa de inscrição — atualmente, são cobrados 19 dólares. 
+<br> Publicado [aqui](https://windowsforum.com/threads/microsoft-opens-source-of-windows-subsystem-for-linux-wsl-what-you-need-to-know.366783/)
+
 <br> **2025.05.16 [SEC] Processadores Intel & Spectre v2**
 <br> Nas CPUs da Intel, foi descoberta uma nova vulnerabilidade conhecidas como "Branch Privilege Injection" (BPI). Isto permite aos invasores o vazamento de dados confidenciais de regiões protegidas da memória usadas por softwares privilegiados, que geralmente contêm informações críticas, como senhas, chaves de criptografia e estruturas de dados do kernel, tornando-as alvos de alto valor para invasores.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/new-intel-cpu-vulnerabilities-allows-memory-leaks-cajne)
