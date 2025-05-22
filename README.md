@@ -8,6 +8,14 @@ Latest news are at top / Notícias mais recentes no topo
 <br> Um artigo publicado recentemente por Peter Mell e Jonathan Spring, apresentaram uma métrica de exploração de vulnerabilidades que se baseia no Sistema de Pontuação de Previsão de Exploração (EPSS) existente e no catálogo de Vulnerabilidades Exploradas Conhecidas (KEV) da CISA. Os pesquisadores observaram que os estudos mostram que apenas cerca de 5% das vulnerabilidades conhecidas são exploradas in loco, enquanto as organizações normalmente corrigem apenas 16% das vulnerabilidades descobettas por mês.
 <br> Publicado [aqui](https://www.linkedin.com/pulse/nist-cisa-create-new-metric-predict-probability-arw7c)
 
+<br> **2025.05.20 [SCI] Maior laser dos EUA**
+<br> Zeus, o laser mais poderoso dos EUA atingiu dois petawatts de potência. A Universidade de Michigan informou que o número representa mais de 100 vezes a produção elétrica global. O dispositivo está instalado em uma estrutura do tamanho de um ginásio escolar. Seus pulsos duram apenas 25 quintilionésimos de segundo e serão utilizados em pesquisas nas áreas de medicina, física quântica e ciência dos materiais. O recorde pertence ao laser ELI-NP, da Romênia, com 10 petawatts de potência.
+<br> Publicado [aqui](https://www.theverge.com/news/670781/university-of-michigan-zeus-laser-facility-two-quadrillion-watts-most-powerful)
+
+<br> **2025.05.20 [SEC] W11 mais resistente**
+<br> O Windows 11 receberá criptografia resistente a computadores quânticos a partir da build 27852. A biblioteca SymCrypt do sistema operacional agora conta com os algoritmos ML-KEM e ML-DSA, selecionados pelo Instituto Nacional de Padrões e Tecnologia dos EUA (NIST). O primeiro garante troca segura de chaves criptográficas, enquanto o segundo permite criação de assinaturas digitais.
+<br> Publicado [aqui](https://arstechnica.com/security/2025/05/heres-how-windows-11-aims-to-make-the-world-safe-in-the-post-quantum-era/)
+
 <br> **2025.05.19 [SEC] Mozilla corrige falhas críticas de dia zero no Firefox**
 <br> As falhas foram exploradas ativamente na competição de hackers PWN2Own Berlin 2025. Logo após a demonstração pública as atualizações foram liberadas poucashorasdepois, e cobrem o navegador em plataformas de desktop e Android, bem como as versões de suporte estendido (ESR).
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/mozilla-patches-two-critical-zero-day-vulnerabilities-nlthe)
