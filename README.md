@@ -4,6 +4,10 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2025.05.22 [SEC] Google Chrome modificará automaticamente senhas comprometidas**
+<br> O Google revelou um novo recurso em seu navegador Chrome que permite que o gerenciador de senhas interno atualize automaticamente senhas comprometidas. Hoje o usuário é notificado quando suas credenciais estão comprometidas e o gerenciador ajuda a automatizar partes do processo de atualização de senhas. Antes os usuários precisavam concluir as alterações manualmente para cada conta. Este novo recurso quer simplificar completamente esse processo.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/google-chrome-automatically-change-compromised-g3uee)
+
 <br> **2025.05.20 [SEC] NIST & CISA Create New Metric To Predict Probability Of Vulnerability Exploitation**
 <br> Um artigo publicado recentemente por Peter Mell e Jonathan Spring, apresentaram uma métrica de exploração de vulnerabilidades que se baseia no Sistema de Pontuação de Previsão de Exploração (EPSS) existente e no catálogo de Vulnerabilidades Exploradas Conhecidas (KEV) da CISA. Os pesquisadores observaram que os estudos mostram que apenas cerca de 5% das vulnerabilidades conhecidas são exploradas in loco, enquanto as organizações normalmente corrigem apenas 16% das vulnerabilidades descobettas por mês.
 <br> Publicado [aqui](https://www.linkedin.com/pulse/nist-cisa-create-new-metric-predict-probability-arw7c)
