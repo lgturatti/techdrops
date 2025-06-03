@@ -4,6 +4,15 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2025.06.02 [SEC] Falhas críticas no Linux expõem senhas criptografadas em milhões de sistemas**
+<br> Os riscos em relação ao vazamento deste tipo de informação são: ataques por força bruta, ataques de dicionário, rainbow tables (comparação de senhas criptografadas em tabelas com as fontes obtidas), uso direto das senhas cifradas em ambientes vinculados com Windows (pass-the-hash), ataques combinados e engenharia social. 
+<br> Solução temporária: echo 0 > /proc/sys/fs/suid_dumpable
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/critical-linux-flaws-expose-password-hashes-millions-fi6ve)
+
+<br> **2025.05.30 [SEC] FBI desativa site de comércio de ferramentas para cybercriminosos**
+<br> Como parte da Operação Endgame, foi desarticulado   um sindicato global de criptografia de software online, onde eram comercializadas ferramentas para dificultar a detecção de malware por programas antivírus e similares.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/fbi-takes-down-websites-selling-hacking-tools-cybercriminals-zzh4e)
+
 <br> **2025.05.26 [DEV] Linux Kernel v.6.15**
 <br> Esta versão traz recursos inovadores, incluindo o primeiro driver Direct Rendering Manager (DRM) escrito em Rust, melhorias significativas no desempenho do sistema de arquivos e suporte de hardware expandido.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/linus-torvalds-announces-linux-kernel-615-major-afi0e)
