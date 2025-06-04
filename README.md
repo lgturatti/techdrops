@@ -9,6 +9,10 @@ Latest news are at top / Notícias mais recentes no topo
 <br> Solução temporária: echo 0 > /proc/sys/fs/suid_dumpable
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/critical-linux-flaws-expose-password-hashes-millions-fi6ve)
 
+<br> **2025.06.01 [DEV] Programa de certificação do Windows 11**
+<br> O Windows 11 exigirá funcionalidades padrão em portas USB-C de dispositivos compatíveis, segundo a atualização mais recente do programa Windows Hardware Compatibility Program, onde todos os aparelhos devem garantir que essas portas ofereçam suporte simultâneo a transferência de dados, carregamento de energia e saída de vídeo. As novas regras já estão aplicadas a dispositivos com o sistema operacional pré-instalado na versão 24H2.
+<br> Publicado [aqui](https://www.tomshardware.com/software/windows/microsoft-promises-it-is-ending-usb-c-port-confusion-with-updated-windows-11-certified-program)
+
 <br> **2025.05.30 [SEC] FBI desativa site de comércio de ferramentas para cybercriminosos**
 <br> Como parte da Operação Endgame, foi desarticulado   um sindicato global de criptografia de software online, onde eram comercializadas ferramentas para dificultar a detecção de malware por programas antivírus e similares.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/fbi-takes-down-websites-selling-hacking-tools-cybercriminals-zzh4e)
