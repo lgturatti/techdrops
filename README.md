@@ -4,6 +4,10 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2025.06.03 [SEC] Meta rastreia navegação**
+<br> O método secreto que a Meta usa para rastrear a navegação móvel sem consentimento, mesmo utilizando o modo anônimo ou com uma VPN. A reportagem é o artigo acadêmico encontram-se na publicação.
+<br> Publicado [aqui](https://english.elpais.com/technology/2025-06-03/the-covert-method-meta-uses-to-track-mobile-browsing-without-consent-even-in-incognito-mode-or-with-a-vpn.html)
+
 <br> **2025.06.02 [SEC] Falhas críticas no Linux expõem senhas criptografadas em milhões de sistemas**
 <br> Os riscos em relação ao vazamento deste tipo de informação são: ataques por força bruta, ataques de dicionário, rainbow tables (comparação de senhas criptografadas em tabelas com as fontes obtidas), uso direto das senhas cifradas em ambientes vinculados com Windows (pass-the-hash), ataques combinados e engenharia social. 
 <br> Solução temporária: echo 0 > /proc/sys/fs/suid_dumpable
