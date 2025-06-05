@@ -4,6 +4,10 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2025.06.04 [SEC] Wireshark Certified Analyst**
+<br> Este programa desenvolvido pela fundação oferece uma certificação abrangente. Desenvolvido por especialistas do setor, incluindo o criador do Wireshark, Gerald Combs, valida proficiência avançada em análise de pacotes e solução de problemas de rede utilizando a ferramenta.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/wireshark-certified-analyst-released-official-certification-ncqcc)
+
 <br> **2025.06.03 [SEC] Correção urgente do Google Chrome**
 <br> A falha permite a leitura e gravação fora dos limites seguros do mecanismo JavaScript V8 e WebAssembly. A atualização para a versão ^137.0.7151.68 resolve o problema. 
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/google-releases-emergency-security-patch-actively-vrzme)
