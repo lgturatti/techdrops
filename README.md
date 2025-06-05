@@ -4,6 +4,10 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2025.06.03 [SEC] Correção urgente do Google Chrome**
+<br> A falha permite a leitura e gravação fora dos limites seguros do mecanismo JavaScript V8 e WebAssembly. A atualização para a versão ^137.0.7151.68 resolve o problema. 
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/google-releases-emergency-security-patch-actively-vrzme)
+
 <br> **2025.06.03 [SEC] Meta rastreia navegação**
 <br> O método secreto que a Meta usa para rastrear a navegação móvel sem consentimento, mesmo utilizando o modo anônimo ou com uma VPN. A reportagem é o artigo acadêmico encontram-se na publicação.
 <br> Publicado [aqui](https://english.elpais.com/technology/2025-06-03/the-covert-method-meta-uses-to-track-mobile-browsing-without-consent-even-in-incognito-mode-or-with-a-vpn.html)
