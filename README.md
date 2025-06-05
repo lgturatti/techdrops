@@ -4,6 +4,14 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2025.06.04 [SEC] Polícia dos EUA bloqueia mais de 145 domínios**
+<br> O Departamento de Justiça dos EUA (DoJ), anunciaram a apreensão de criptomoedas e bloqueio de aproximadamente 145 domínios associados ao mercado criminoso BidenCash, que gerou milhões em receita com o tráfico de dados roubados. Antes da interrupção, o sistema suportava mais de 117.000 clientes. Os domínios criminosos serão redirecionados para um servidor controlado pelas autoridades policiais dos EUA, impedindo futuras atividades criminosas nesses sites.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/fbi-us-department-justice-seize-145-domains-cryptocurrency-zq94e)
+
+<br> **2025.06.04 [SEC] Hackers atacam conta da Salesforce**
+<br> Os atacantes estão usando phishing de voz (vishing) para se passar por funcionários de suporte de TI e enganar funcionários falantes de inglês de empresas multinacionais. O objetivo é induzir as vítimas a instalar uma versão modificada do Data Loader da Salesforce - uma ferramenta legítima usada para importar, exportar ou manipular dados de CRM.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/warning-hackers-target-salesforce-accounts-sophisticated-qs8re)
+
 <br> **2025.06.04 [SEC] Wireshark Certified Analyst**
 <br> Este programa desenvolvido pela fundação oferece uma certificação abrangente. Desenvolvido por especialistas do setor, incluindo o criador do Wireshark, Gerald Combs, valida proficiência avançada em análise de pacotes e solução de problemas de rede utilizando a ferramenta.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/wireshark-certified-analyst-released-official-certification-ncqcc)
