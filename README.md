@@ -4,6 +4,14 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2025.06.07 [SEC] KaliGPT: cibersegurança com IA**
+<br> A ferramenta consiste num assistente de IA baseado na arquitetura GPT-4 e integrado ao Kali Linux para oferecer suporte a profissionais e estudantes de segurança ofensiva. É um copiloto inteligente que redefine o fluxo de trabalho da segurança cibernética em tempo real que pode gerar payloads, explicar ferramentas como Metasploit e Nmap e recomendar exploits apropriados através de iteração diretamente no terminal.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/kali-gpt-revolutionizing-cybersecurity-ai-powered-j31re)
+
+<br> **2025.06.06 [SEC] Dispositivos domésticos em perigo**
+<br> O FBI emitiu alerta público urgente sobre a exploração de dispositivos de Internet das Coisas (IoT), fabricados na China, conectados a redes domésticas através da botnet conhecida como BADBOX 2.0. Dentre os dispositivos comprometidos estão: caixas de streaming de TV, projetores digitais, multimídia veicular, porta-retratos digitais além de outros produtos com acesso à internet.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/millions-home-internet-devices-targeted-cyber-criminals-zanle)
+
 <br> **2025.06.05 [SEC] Correção crítica da Cisco**
 <br> A Cisco lançou correções para três vulnerabilidades de segurança em seu Identity Services Engine (ISE) e Customer Collaboration Platform (CCP), todos com código de exploração público disponível e que podem permitir que invasores não autenticados realizem ações maliciosas em sistemas vulneráveis.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/cisco-patches-critical-cloud-vulnerability-identity-burle)
