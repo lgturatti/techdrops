@@ -45,6 +45,10 @@ Latest news are at top / Notícias mais recentes no topo
 <br> Esta versão traz recursos inovadores, incluindo o primeiro driver Direct Rendering Manager (DRM) escrito em Rust, melhorias significativas no desempenho do sistema de arquivos e suporte de hardware expandido.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/linus-torvalds-announces-linux-kernel-615-major-afi0e)
 
+<br> **2025.05.26 [SEC] Falha no github MCP**
+<br> A falha no GitHub MCP permite acessar dados de repositórios privados. A vulnerabilidade explora técnicas de prompt injection aplicadas em issues públicas. Com isso, um indivíduo mal-intencionado pode manipular um agente de IA induzindo-o a expor dados sensíveis armazenados em projetos fechados, e publicar essas informações em um pull request visível a todos. Recomenda-se restringir o acesso do modelo apenas aos repositórios estritamente necessários.
+<br> Publicado [aqui](https://invariantlabs.ai/blog/mcp-github-vulnerability)
+
 <br> **2025.05.22 [SEC] Google Chrome modificará automaticamente senhas comprometidas**
 <br> O Google revelou um novo recurso em seu navegador Chrome que permite que o gerenciador de senhas interno atualize automaticamente senhas comprometidas. Hoje o usuário é notificado quando suas credenciais estão comprometidas e o gerenciador ajuda a automatizar partes do processo de atualização de senhas. Antes os usuários precisavam concluir as alterações manualmente para cada conta. Este novo recurso quer simplificar completamente esse processo.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/google-chrome-automatically-change-compromised-g3uee)
