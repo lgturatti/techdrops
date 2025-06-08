@@ -41,6 +41,10 @@ Latest news are at top / Notícias mais recentes no topo
 <br> Como parte da Operação Endgame, foi desarticulado   um sindicato global de criptografia de software online, onde eram comercializadas ferramentas para dificultar a detecção de malware por programas antivírus e similares.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/fbi-takes-down-websites-selling-hacking-tools-cybercriminals-zzh4e)
 
+<br> **2025.05.28 [PCS] Aumento global de computadores**
+<br> O volume global de PCs deve chegar a 274 milhões em 2025. No relatório da International Data Corporation, que abrange desktops, notebooks e workstations, a migração para o Windows 11 é apontada como um dos principais impulsionadores dessa alta, devido ao fim do suporte da versão anterior em 14 de outubro. O número representa um crescimento de 4,1% em relação a 2024.
+<br> Publicado [aqui](https://my.idc.com/getdoc.jsp?containerId=prUS53540825)
+
 <br> **2025.05.26 [DEV] Linux Kernel v.6.15**
 <br> Esta versão traz recursos inovadores, incluindo o primeiro driver Direct Rendering Manager (DRM) escrito em Rust, melhorias significativas no desempenho do sistema de arquivos e suporte de hardware expandido.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/linus-torvalds-announces-linux-kernel-615-major-afi0e)
