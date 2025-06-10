@@ -4,6 +4,14 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2025.06.09 [SEC] OtterCookie Malware**
+<br> Através do que parece ser uma simples correção de bug freelancer acaba sendo uma infecção de malware completa. O OtterCookie, uma nova ferramenta do Lazarus Group APT, se esconde atrás de código limpo e ofertas de emprego falsas, roubando credenciais silenciosamente e muito mais.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/ottercookie-lazarus-group-malware-attack-finance-tech-vcvqc)
+
+<br> **2025.06.09 [SEC] Campanha global de espionagem**
+<br> Fornecedores de segurança cibernética verificam ataques e espionagem ligados à China. Pesquisadores da SentinelOne (empresa norte-americana) revelaram que a empresa bloqueou com sucesso vários ataques cibernéticos ligados à China no ano passado, alguns dos quais tiveram como alvo direto a própria empresa de segurança cibernética.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/global-campaign-china-linked-cyber-espionage-group-qxmme)
+
 <br> **2025.06.07 [SEC] KaliGPT: cibersegurança com IA**
 <br> A ferramenta consiste num assistente de IA baseado na arquitetura GPT-4 e integrado ao Kali Linux para oferecer suporte a profissionais e estudantes de segurança ofensiva. É um copiloto inteligente que redefine o fluxo de trabalho da segurança cibernética em tempo real que pode gerar payloads, explicar ferramentas como Metasploit e Nmap e recomendar exploits apropriados através de iteração diretamente no terminal.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/kali-gpt-revolutionizing-cybersecurity-ai-powered-j31re)
