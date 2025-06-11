@@ -4,6 +4,10 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2025.06.10 [SEC] Atualizações Microsoft**
+<br> Nesta atualização mais de 60 falhas de segurança foram corrigidas, incluindo 2 de dia zero, além de execução remota de código e escalada de privilégios.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/microsoft-june-2025-patch-tuesday-fixes-60-vulnerabilities-wxxue)
+
 <br> **2025.06.09 [SEC] OtterCookie Malware**
 <br> Através do que parece ser uma simples correção de bug freelancer acaba sendo uma infecção de malware completa. O OtterCookie, uma nova ferramenta do Lazarus Group APT, se esconde atrás de código limpo e ofertas de emprego falsas, roubando credenciais silenciosamente e muito mais.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/ottercookie-lazarus-group-malware-attack-finance-tech-vcvqc)
