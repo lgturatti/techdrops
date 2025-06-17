@@ -4,6 +4,27 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2025.06.16 [SEC] Vulnerabilidade da ASUS permite acesso de administrador**
+<br> Através do ASUS Armoury Crate, que é um programa para configuração de dispositivos, um invasor pode obter acesso privilegiado em sistemas Windows, incluindo acesso à memória física, portas de E/S e registradores específicos do modelo (MSRs), abrindo caminho para o comprometimento total do sistema.
+<br> A solução é atualizar o aplicativo para uma versão posterior a 6.1.18.0.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/critical-asus-vulnerability-allows-attackers-admin-3he1e)
+
+<br> **2025.06.15 [SEC] Vulnerabilidade crítica no Microsoft 365 Copilot**
+<br> O assistente de IA integrado a aplicativos do Office, como Word, Excel, Outlook e Teams possui uma vulnerabilidade de clique zero conhecida que visa sistemas de IA. Ele permite que invasores extraiam silenciosamente dados confidenciais do Microsoft 365 Copilot, sem qualquer interação do usuário. O ataque utiliza grandes modelos de linguagem (GPT da OpenAI) e se integra aos seus dados no Microsoft Graph para fornecer assistência inteligente em tempo real e ajudar os usuários a gerar conteúdo, automatizar tarefas, melhorar a colaboração, analisar dados e responder a perguntas usando documentos organizacionais, e-mails e chats.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/critical-vulnerability-uncovered-microsoft-365-ilsee)
+
+<br> **2025.06.14 [SEC] Kali GPT-AI Assistant**
+<br> É um modelo de IA especializado criado na arquitetura GPT-4, foi desenvolvido especificamente para se integrar perfeitamente ao Kali Linux, oferecendo suporte sem precedentes para profissionais e estudantes de segurança ofensiva. Este assistente de IA inovador serve como um copiloto inteligente para testadores de penetração, gerando automaticamente cargas úteis, explicando ferramentas complexas como Metasploit e Nmap e sugerindo explorações apropriadas diretamente no ambiente do terminal.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/kali-gpt-ai-assistant-transforms-penetration-testing-6imzc)
+
+<br> **2025.06.14 [SEC] Microsoft lança recurso de compartilhamento seguro de senhas no Edge para empresas**
+<br> Disponível para usuários do Microsoft Edge for Business com assinatura do Microsoft 365 Business Premium, E3 ou E5. A implantação segura de senhas permite que administradores de TI distribuam senhas compartilhadas criptografadas para usuários específicos em sua organização. Essas credenciais aparecem diretamente no gerenciador de senhas do Edge do usuário, prontas para preenchimento automático, sem serem visualizáveis ​​ou compartilháveis. Isso minimiza o risco de uso indevido ou vazamento de credenciais, fortalecendo a segurança geral da organização.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/microsoft-launches-secure-password-sharing-feature-96d4e)
+
+<br> **2025.06.13 [SEC] Lançado o Kali Linux 2025.2**
+<br> Após três meses da disponibilidade da versão 2025.1, a nova versão traz um menu totalmente redesenhado, organizado de acordo com a estrutura MITRE ATT&CK. Essa nova estrutura facilita a localização das ferramentas apropriadas para diversas tarefas de segurança.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/kali-linux-20252-released-menu-refresh-bloodhound-efb4e)
+
 <br> **2025.06.10 [SEC] Atualizações Microsoft**
 <br> Nesta atualização mais de 60 falhas de segurança foram corrigidas, incluindo 2 de dia zero, além de execução remota de código e escalada de privilégios.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/microsoft-june-2025-patch-tuesday-fixes-60-vulnerabilities-wxxue)
