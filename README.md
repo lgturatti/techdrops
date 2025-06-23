@@ -4,6 +4,10 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2025.06.22 [SEC] Ataques cibernéticos iranianos contra EUA após neutralização de instalações nucleares**
+<br> As retaliações visam infraestrutura, tais como o setor bancário ou a rede elétrica.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/department-homeland-security-warns-iranian-cyberattacks-hkrme)
+
 <br> **2025.06.16 [SEC] Vulnerabilidade da ASUS permite acesso de administrador**
 <br> Através do ASUS Armoury Crate, que é um programa para configuração de dispositivos, um invasor pode obter acesso privilegiado em sistemas Windows, incluindo acesso à memória física, portas de E/S e registradores específicos do modelo (MSRs), abrindo caminho para o comprometimento total do sistema.
 <br> A solução é atualizar o aplicativo para uma versão posterior a 6.1.18.0.
