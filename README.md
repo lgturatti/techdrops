@@ -4,6 +4,15 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2025.06.24 [SEC] OWASP divulga guia de testes de IA**
+<br> O Open Web Application Security Project (OWASP) revelou o Guia de Teste de IA (AITG), uma estrutura abrangente projetada para abordar as ameaças de segurança em rápida evolução associadas à inteligência artificial (IA) em todos os setores.
+<br> O guia serve como um recurso para desenvolvedores de software, arquitetos, cientistas de dados, pesquisadores e agentes de risco. Ele fornece uma metodologia estruturada para ajudar a identificar e gerenciar riscos relacionados à IA por meio de testes sistemáticos para descobrir vulnerabilidades.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/owasp-reveals-ai-testing-guide-uncover-vulnerabilities-xmkcf)
+
+<br> **2025.06.24 [SEC] Câmara dos representantes dos EUA bane uso de WhatsApp**
+<br> Está proibido oficialmente o uso do aplicativo de mensagens WhatsApp em todos os dispositivos fornecidos pelo governo, sejam smartphones, laptops, computadores de mesa e quaisquer navegadores acessados ​​nesses dispositivos. O uso em dispositivos pessoais está liberado, entretanto tais dispositivos são proibidos em áreas seguras, incluindo briefings e instalações confidenciais.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/us-house-representatives-bans-whatsapp-all-devices-svspe)
+
 <br> **2025.06.22 [SEC] Ataques cibernéticos iranianos contra EUA após neutralização de instalações nucleares**
 <br> As retaliações visam infraestrutura, tais como o setor bancário ou a rede elétrica.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/department-homeland-security-warns-iranian-cyberattacks-hkrme)
