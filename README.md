@@ -8,6 +8,10 @@ Latest news are at top / Notícias mais recentes no topo
 <br> As agências de segurança dos EUA pedem que as empresas mantenham o empenho na atualização de softwares e alteração de senhas padrão de equipamentos para evitar possíveis ataques de cibercriminosos.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/iranian-cyber-actors-pose-ongoing-threat-us-critical-tlese)
 
+<br> **2025.06.29 [SEC] Indústria de aviação sob ataque**
+<br> Os invasores utilizam principalmente táticas de engenharia social para burlar a autenticação multifator (MFA), persuadindo a equipe de suporte a registrar dispositivos MFA fraudulentos em contas comprometidas.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/warning-fbi-says-notorious-hacker-group-now-targeting-nnare)
+
 <br> **2025.06.24 [SEC] OWASP divulga guia de testes de IA**
 <br> O Open Web Application Security Project (OWASP) revelou o Guia de Teste de IA (AITG), uma estrutura abrangente projetada para abordar as ameaças de segurança em rápida evolução associadas à inteligência artificial (IA) em todos os setores.
 <br> O guia serve como um recurso para desenvolvedores de software, arquitetos, cientistas de dados, pesquisadores e agentes de risco. Ele fornece uma metodologia estruturada para ajudar a identificar e gerenciar riscos relacionados à IA por meio de testes sistemáticos para descobrir vulnerabilidades.
