@@ -4,6 +4,10 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2025.06.30 [SEC] Irã representa ameaça contínua à infraestrutura crítica dos EUA**
+<br> As agências de segurança dos EUA pedem que as empresas mantenham o empenho na atualização de softwares e alteração de senhas padrão de equipamentos para evitar possíveis ataques de cibercriminosos.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/iranian-cyber-actors-pose-ongoing-threat-us-critical-tlese)
+
 <br> **2025.06.24 [SEC] OWASP divulga guia de testes de IA**
 <br> O Open Web Application Security Project (OWASP) revelou o Guia de Teste de IA (AITG), uma estrutura abrangente projetada para abordar as ameaças de segurança em rápida evolução associadas à inteligência artificial (IA) em todos os setores.
 <br> O guia serve como um recurso para desenvolvedores de software, arquitetos, cientistas de dados, pesquisadores e agentes de risco. Ele fornece uma metodologia estruturada para ajudar a identificar e gerenciar riscos relacionados à IA por meio de testes sistemáticos para descobrir vulnerabilidades.
