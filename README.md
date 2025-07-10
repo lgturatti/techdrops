@@ -4,6 +4,14 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2025.07.02 [SEC] Microsoft Authenticator remove o suporte para senhas**
+<br> Em breve, a capacidade de armazenar e preencher automaticamente senhas usando o aplicativo Authenticator será descontinuada. A partir de julho, os usuários não poderão mais preencher automaticamente senhas salvas pelo Authenticator e precisarão migrar para o Microsoft Edge ou outro gerenciador de senhas. Em agosto, as senhas salvas serão sincronizadas automaticamente com sua conta Microsoft, tornando-as acessíveis pelo Edge. Para usar o Edge como seu provedor de preenchimento automático padrão, acesse as configurações do seu dispositivo e selecione Edge em vez de Authenticator. Se preferir não usar o Edge, certifique-se de exportar suas senhas para outro serviço antes de agosto.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/microsoft-authenticator-removes-support-passwords-uqnle)
+
+<br> **2025.07.01 [SEC] Atualização crítica do Google Chrome**
+<br> O Google ainda não divulgou todos os detalhes da exploração, dando tempo para a ampla adoção de correções nos sistemas. No entanto, como a falha foi descoberta por Clément Lecigne, do Google TAG — um grupo conhecido por rastrear ameaças patrocinadas por governos, é provável que ela esteja sendo usada em ataques altamente direcionados. O TAG frequentemente descobre vulnerabilidades de dia zero exploradas em ataques direcionados contra indivíduos de alto risco, como jornalistas, ativistas e figuras políticas.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/update-nowactively-exploited-google-chrome-zero-day-ocnqe)
+
 <br> **2025.06.30 [SEC] Irã representa ameaça contínua à infraestrutura crítica dos EUA**
 <br> As agências de segurança dos EUA pedem que as empresas mantenham o empenho na atualização de softwares e alteração de senhas padrão de equipamentos para evitar possíveis ataques de cibercriminosos.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/iranian-cyber-actors-pose-ongoing-threat-us-critical-tlese)
@@ -11,6 +19,14 @@ Latest news are at top / Notícias mais recentes no topo
 <br> **2025.06.29 [SEC] Indústria de aviação sob ataque**
 <br> Os invasores utilizam principalmente táticas de engenharia social para burlar a autenticação multifator (MFA), persuadindo a equipe de suporte a registrar dispositivos MFA fraudulentos em contas comprometidas.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/warning-fbi-says-notorious-hacker-group-now-targeting-nnare)
+
+<br> **2025.06.26 [SEC] CISCO alerta sobre execução de código remoto**
+<br> Diversas vulnerabilidades encontradas relacionadas a gestão de identidade (Identity Services Engine(ISE) e no ISE Passive Identity Connector (ISE-PIC)) podem permitir acesso com usuário administrador através do sistema operacional dos equipamentos (escalação de privilégios). É recomendada a atualização para as versões 3.3 e 3.4.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/cisco-warns-critical-rce-vulnerabilities-identity-kpbie)
+
+<br> **2025.06.25 [SEC] Atualização do WinRAR**
+<br> O aplicativo pode permitir que invasores remotos executem código em sistemas vulneráveis ​​através da navegação para diretórios indesejados na extração de arquivos. São afetadas versões anteriores a 7.11
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/update-nowcritical-winrar-vulnerability-fixed-jh8ke)
 
 <br> **2025.06.24 [SEC] OWASP divulga guia de testes de IA**
 <br> O Open Web Application Security Project (OWASP) revelou o Guia de Teste de IA (AITG), uma estrutura abrangente projetada para abordar as ameaças de segurança em rápida evolução associadas à inteligência artificial (IA) em todos os setores.
