@@ -8,6 +8,10 @@ Latest news are at top / Notícias mais recentes no topo
 <br> Quatro pessoas foram presas em Londres na madrugada de hoje, assim como foram apreendidos diversos dispositivos eletrônicos, sob suspeita de crimes previstos na Lei de Uso Indevido de Computadores, bem como de chantagem, lavagem de dinheiro e envolvimento com uma organização criminosa. A ação está relacionada aos ataques cibernéticos que interromperam gravemente as operações da Marks & Spencer (M&S), Harrods e Co-op.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/nca-arrest-4-suspects-cyberattacks-ms-co-op-harrods-bp85c)
 
+<br> **2025.07.08 [$$$] Bitcoin**
+<br> Foram movimentadas 80 mil Bitcoins pela primeira vez desde 2011: essa é a maior transferência, em um único dia, de moedas antigas (carteiras legacy) na história do setor – o recorde anterior era de 3,7 mil BTC. As carteiras, cujas identidades seguem desconhecidas, são provenientes da chamada “era Satoshi”, quando cada unidade do ativo era negociada por menos de 4 dólares. Observou-se que tais ativos somente migraram para carteiras novas e portanto, mais seguras.
+<br> Publicado [aqui](https://timesbrasil.com.br/cripto-brasil/movimentacao-de-80-mil-bitcoins-levanta-especulacoes-sobre-possivel-roubo-bilionario)
+
 <br> **2025.07.02 [SEC] Microsoft Authenticator remove o suporte para senhas**
 <br> Em breve, a capacidade de armazenar e preencher automaticamente senhas usando o aplicativo Authenticator será descontinuada. A partir de julho, os usuários não poderão mais preencher automaticamente senhas salvas pelo Authenticator e precisarão migrar para o Microsoft Edge ou outro gerenciador de senhas. Em agosto, as senhas salvas serão sincronizadas automaticamente com sua conta Microsoft, tornando-as acessíveis pelo Edge. Para usar o Edge como seu provedor de preenchimento automático padrão, acesse as configurações do seu dispositivo e selecione Edge em vez de Authenticator. Se preferir não usar o Edge, certifique-se de exportar suas senhas para outro serviço antes de agosto.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/microsoft-authenticator-removes-support-passwords-uqnle)
