@@ -4,6 +4,10 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2025.07.12 [SEC] Milhões de carros com vulnerabilidade em Bluetooth**
+<br> Pesquisadores da PCA Cyber Security descobriram um conjunto de vulnerabilidades críticas, coletivamente denominadas PerfektBlue, na pilha Bluetooth BlueSDK do OpenSynergy. A exploração dessas falhas pode permitir a execução remota de código (RCE) em milhões de veículos, permitindo que invasores comprometam remotamente os sistemas automotivos.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/warning-millions-cars-exposed-remote-hacking-via-pkgqe)
+
 <br> **2025.07.10 [SEC] Microsoft atualiza  JS no W11**
 <br> A substituição do JavaScript legado (com mais de 30 anos) para o [JScript9](https://support.microsoft.com/pt-br/topic/ms15-009-descri%C3%A7%C3%A3o-da-atualiza%C3%A7%C3%A3o-de-seguran%C3%A7a-para-o-jscript9-dll-no-internet-explorer-10-de-fevereiro-de-2015-7670b59c-732b-c5f0-f8e1-0e2de6661534) automaticamente no Windows 11 24H2 pretende oferecer desempenho aprimorado e recursos de segurança melhores. A versão mais recente, no momento, é o ECMAScript 2024 (também conhecido como ECMAScript 15 ou ES2024). Mantendo o navegador atualizado é o suficiente para usar a versão mais recente no sistema. 
 <br> Publicado [aqui](https://www.techspot.com/news/108625-microsoft-replaced-legacy-javascript-engine-improve-security-windows.html)
