@@ -65,6 +65,10 @@ Latest news are at top / Notícias mais recentes no topo
 <br> As retaliações visam infraestrutura, tais como o setor bancário ou a rede elétrica.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/department-homeland-security-warns-iranian-cyberattacks-hkrme)
 
+<br> **2025.06.20 [SEC] Proteção familiar da Microsoft causando conflitos**
+<br> A Microsoft confirma que Family Safety está bloqueando Chrome e outros navegadores no Windows: o problema, segundo a empresa, acontece quando o browser é atualizado para uma nova versão, mesmo que ele tenha sido aprovado anteriormente pelos pais. O erro afeta sistemas com Windows 10 e 11 a partir da versão 22H2, e a companhia afirma estar trabalhando em uma correção. Por ora, recomenda-se ativar o recurso de relatório de atividade, que permite o envio correto dos pedidos de autorização dos responsáveis.
+<br> Publicado [aqui](https://www.theverge.com/news/690179/microsoft-block-google-chrome-family-safety-feature)
+
 <br> **2025.06.16 [SEC] Vulnerabilidade da ASUS permite acesso de administrador**
 <br> Através do ASUS Armoury Crate, que é um programa para configuração de dispositivos, um invasor pode obter acesso privilegiado em sistemas Windows, incluindo acesso à memória física, portas de E/S e registradores específicos do modelo (MSRs), abrindo caminho para o comprometimento total do sistema.
 <br> A solução é atualizar o aplicativo para uma versão posterior a 6.1.18.0.
