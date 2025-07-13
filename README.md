@@ -4,6 +4,9 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2025.07.13 [SEC] Resumo semanal sobre segurança cibernética**
+<br> Disponível [aqui](https://www.linkedin.com/comm/pulse/weekly-cybersecurity-roundup-key-vulnerabilities-threats-rnk1c)
+
 <br> **2025.07.12 [SEC] Milhões de carros com vulnerabilidade em Bluetooth**
 <br> Pesquisadores da PCA Cyber Security descobriram um conjunto de vulnerabilidades críticas, coletivamente denominadas PerfektBlue, na pilha Bluetooth BlueSDK do OpenSynergy. A exploração dessas falhas pode permitir a execução remota de código (RCE) em milhões de veículos, permitindo que invasores comprometam remotamente os sistemas automotivos.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/warning-millions-cars-exposed-remote-hacking-via-pkgqe)
