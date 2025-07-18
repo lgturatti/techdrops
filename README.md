@@ -4,6 +4,18 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2025.07.16 [SEC] Atualização Google Chrome**
+<br> Resolve diversos CVEs atualizando para a versão  138.0.7204.157 ou superior. 
+<br> Publicado [aqui](https://www.linkedin.com/pulse/google-patches-6-chrome-security-flaws-including-0ow9e)
+
+<br> **2025.07.16 [SEC] Códigos de Verificação de Identidade: uma nova camada de segurança do Help Desk**
+<br> A solução é baseada em navegador, que oferece uma maneira rápida e segura de verificar a identidade de quem liga. Esse recurso uma maneira confiável de confirmar se a pessoa está realmente falando com alguém da sua organização, e não com um impostor.
+<br> Publicado [aqui](https://www.linkedin.com/pulse/introducing-employee-identity-verification-codes-gxtxe)
+
+<br> **2025.07.15 [SEC] NCSC-UK lança iniciativa de pesquisa de vulnerabilidades**
+<br> O programa pretende fortalecer a pesquisa em cibersegurança. Como parte da iniciativa, o NCSC contratará pesquisadores qualificados para: examinar produtos específicos de interesse; avaliar as mitigações propostas e relatar vulnerabilidades por meio de seu procedimento do processo de equidades.
+<br> Publicado [aqui](https://www.linkedin.com/pulse/uks-national-cyber-security-centre-ncsc-launches-90mge)
+
 <br> **2025.07.13 [SEC] Resumo semanal sobre segurança cibernética**
 <br> Disponível [aqui](https://www.linkedin.com/comm/pulse/weekly-cybersecurity-roundup-key-vulnerabilities-threats-rnk1c)
 
