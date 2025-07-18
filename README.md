@@ -16,6 +16,10 @@ Latest news are at top / Notícias mais recentes no topo
 <br> O programa pretende fortalecer a pesquisa em cibersegurança. Como parte da iniciativa, o NCSC contratará pesquisadores qualificados para: examinar produtos específicos de interesse; avaliar as mitigações propostas e relatar vulnerabilidades por meio de seu procedimento do processo de equidades.
 <br> Publicado [aqui](https://www.linkedin.com/pulse/uks-national-cyber-security-centre-ncsc-launches-90mge)
 
+<br> **2025.07.14 [SEC] Android malware**
+<br> Triada teve sua primeira menção em 2016 por se tratar de um malware modular para dispositivos móveis. Recentemente uma análise desse software malicioso foi encontrada em um falso app do Telegram. O estudo revelou que o empacotador Ducex é um avançado compactador Android chinês encontrado em amostras da Triada, cujo objetivo principal é complicar a análise e confundir a detecção de sua carga útil.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/ducex-most-advanced-android-triada-malware-technical-qxjlc)
+
 <br> **2025.07.13 [SEC] Resumo semanal sobre segurança cibernética**
 <br> Disponível [aqui](https://www.linkedin.com/comm/pulse/weekly-cybersecurity-roundup-key-vulnerabilities-threats-rnk1c)
 
