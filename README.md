@@ -4,6 +4,10 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2025.07.17 [SEC] Vulnerabilidade no Cisco ISE**
+<br> Diversas vulnerabilidades em uma API específica do Cisco ISE e do Cisco ISE-PIC podem permitir que um invasor remoto não autenticado execute código arbitrário como administrador no sistema operacional subjacente. A exploração não requer credenciais válidas.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/warningcisco-maximum-severity-vulnerability-impacting-o7r3e)
+
 <br> **2025.07.16 [SEC] Atualização Google Chrome**
 <br> Resolve diversos CVEs atualizando para a versão  138.0.7204.157 ou superior. 
 <br> Publicado [aqui](https://www.linkedin.com/pulse/google-patches-6-chrome-security-flaws-including-0ow9e)
