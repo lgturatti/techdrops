@@ -4,6 +4,10 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2025.07.18 [SEC] DNS usado como repositório para malware**
+<br> Agentes maliciosos estão explorando um ponto cego crítico na infraestrutura de segurança da maioria das organizações. Os registros do Sistema de Nomes de Domínio (DNS), que mapeiam nomes de domínio para endereços IP, são frequentemente ignorados pelas ferramentas de segurança. Essa técnica transforma o DNS  em um sistema de armazenamento de arquivos não convencional, permitindo que invasores distribuam malware enquanto escapam dos métodos tradicionais de detecção. Ela permite que scripts maliciosos e malware em estágio inicial recuperem arquivos binários sem baixá-los de sites suspeitos ou anexá-los a e-mails, onde podem ser sinalizados por ferramentas antivírus. O tráfego DNS, ao contrário do tráfego da web e de e-mail, normalmente é menos examinado, criando um ponto cego para os defensores.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/threat-actors-leverage-dns-records-hide-deliver-alb7e)
+
 <br> **2025.07.17 [SEC] Vulnerabilidade no Cisco ISE**
 <br> Diversas vulnerabilidades em uma API específica do Cisco ISE e do Cisco ISE-PIC podem permitir que um invasor remoto não autenticado execute código arbitrário como administrador no sistema operacional subjacente. A exploração não requer credenciais válidas.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/warningcisco-maximum-severity-vulnerability-impacting-o7r3e)
