@@ -4,6 +4,10 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2025.07.22 [SEC] Reino Unido contra ransomware**
+<br> O governo britânico planeja proibir o setor público e organizações de infraestrutura crítica de pagar resgates após ataques de ransomware, enquanto empresas privadas terão que notificar as autoridades caso pretendam atender aos pedidos de resgate.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/united-kingdom-ban-public-sector-ransomware-payments-mkrfe)
+
 <br> **2025.07.20 [SEC] Risco crítico no  SharePoint Server da Microsoft**
 <br> A empresa reconheceu a vulnerabilidade e confirmou que nenhum patch está disponível no momento, mas que seu centro de resposta de segurança está "trabalhando ativamente para lançar uma atualização de segurança" e fornecerá mais orientações à medida que estiver disponível. A Microsoft confirmou que o SharePoint Online (Microsoft 365) não é afetado. A empresa está trabalhando em uma atualização de segurança abrangente.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/critical-unpatched-vulnerability-microsoft-office-zv0ue)
