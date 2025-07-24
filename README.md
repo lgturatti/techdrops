@@ -4,6 +4,10 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2025.07.24 [SEC] Atualizações Mozilla**
+<br> A versão 141 corrige 18 problemas importantes do Firefox e Thunderbird.
+<br> Publicado [aqui](https://www.linkedin.com/pulse/firefox-141-launches-critical-security-fixes-update-ddrjc)
+
 <br> **2025.07.22 [SEC] Reino Unido contra ransomware**
 <br> O governo britânico planeja proibir o setor público e organizações de infraestrutura crítica de pagar resgates após ataques de ransomware, enquanto empresas privadas terão que notificar as autoridades caso pretendam atender aos pedidos de resgate.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/united-kingdom-ban-public-sector-ransomware-payments-mkrfe)
