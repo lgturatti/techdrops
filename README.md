@@ -4,6 +4,10 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2025.07.24 [SEC] Interlock Ransomware**
+<br> O ransomware, que foi detectado pela primeira vez em 2024 e frequentemente tem como alvo máquinas virtuais Windows e Linux. Para reduzir o risco de ataques são sugeridas as seguintes medidas: filtrar acesso inicial com restrições de DNS; manter sistemas operacionais atualizados assim como firmware de equipamentos; segmentar redes internas para limitar movimentação entre dispositivos; e fortalecer o gerenciamento de identidade e acesso, habilitando a autenticação multifator sempre que possível. O Guia completo está no artigo. 
+<br> Publicado [aqui](https://www.linkedin.com/pulse/fbi-cisa-advisory-protecting-against-interlock-fapoe)
+
 <br> **2025.07.24 [SEC] Atualizações Mozilla**
 <br> A versão 141 corrige 18 problemas importantes do Firefox e Thunderbird.
 <br> Publicado [aqui](https://www.linkedin.com/pulse/firefox-141-launches-critical-security-fixes-update-ddrjc)
