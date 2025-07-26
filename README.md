@@ -4,6 +4,10 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2025.07.25 [SEC] Kaspersky revela que vulnerabilidades do SharePoint tem origem em correção incompleta de 2020**
+<br> Pesquisadores descobriram semelhanças impressionantes com a vulnerabilidade CVE-2020-1147. A análise indica que a correção recente CVE-2025-53770 aborda efetivamente o mesmo problema que a atualização de 2020 não conseguiu resolver. 
+<br> Publicado [aqui](https://www.linkedin.com/pulse/kaspersky-reveals-sharepoint-toolshell-vulnerabilities-rbkpe)
+
 <br> **2025.07.24 [SEC] Interlock Ransomware**
 <br> O ransomware, que foi detectado pela primeira vez em 2024 e frequentemente tem como alvo máquinas virtuais Windows e Linux. Para reduzir o risco de ataques são sugeridas as seguintes medidas: filtrar acesso inicial com restrições de DNS; manter sistemas operacionais atualizados assim como firmware de equipamentos; segmentar redes internas para limitar movimentação entre dispositivos; e fortalecer o gerenciamento de identidade e acesso, habilitando a autenticação multifator sempre que possível. O Guia completo está no artigo. 
 <br> Publicado [aqui](https://www.linkedin.com/pulse/fbi-cisa-advisory-protecting-against-interlock-fapoe)
