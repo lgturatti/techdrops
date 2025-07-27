@@ -4,6 +4,10 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2025.07.25 [SEC] Copilot permite acesso em ambientes corporativos**
+<br> A versão Microsoft Copilot Enterprise permite acesso administrativo não autorizado no sistema onde estiver funcionando. A falha tem como origem uma atualização de abril de 2025 que introduziu um sandbox Python ativo com o Jupyter Notebook, projetado para executar código perfeitamente. O que começou como uma melhoria de recurso se transformou em um campo de exploração, destacando os riscos em sistemas integrados de IA.
+<br> Publicado [aqui](https://cybersecuritynews.com/microsoft-copilot-rooted/)
+
 <br> **2025.07.25 [SEC] Kaspersky revela que vulnerabilidades do SharePoint tem origem em correção incompleta de 2020**
 <br> Pesquisadores descobriram semelhanças impressionantes com a vulnerabilidade CVE-2020-1147. A análise indica que a correção recente CVE-2025-53770 aborda efetivamente o mesmo problema que a atualização de 2020 não conseguiu resolver. 
 <br> Publicado [aqui](https://www.linkedin.com/pulse/kaspersky-reveals-sharepoint-toolshell-vulnerabilities-rbkpe)
