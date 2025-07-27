@@ -4,6 +4,20 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2025.07.27 [SEC] Violação de dados na Allianz Life afeta a maioria dos clientes**
+<br> A maioria dos 1,4 milhão de clientes e funcionários teve dados pessoais (incluindo informações financeiras) comprometidos no ataque de 16 de julho, através da técnica de engenharia social.
+<br> Publicado [aqui](https://www.linkedin.com/pulse/major-data-breach-allianz-life-affects-majority-eljve)
+
+<br> **2025.07.27 [SEC] Wireshark 4.4.8**
+<br> Melhorias e correções aplicadas com foco em estabilidade. 
+<br> Divulgado [aqui](https://www.linkedin.com/pulse/wireshark-version-448-ready-download-the-cyber-security-hub-m8k8e)
+
+<br> **2025.07.27 [SEC] Resumo de notícias de 17 a 24 de julho**
+<br> Disponível [aqui](https://www.linkedin.com/pulse/principais-not%C3%ADcias-de-ciberseguran%C3%A7a-da-semana-17-24-julho-rlttf)
+
+<br> **2025.07.27 [SEC] Resumo de notícias CSN da semana**
+<br> Disponível [aqui](https://www.linkedin.com/pulse/weekly-cybersecurity-news-recap-sharepoint-0-day-vmware-viewc)
+
 <br> **2025.07.25 [SEC] Copilot permite acesso em ambientes corporativos**
 <br> A versão Microsoft Copilot Enterprise permite acesso administrativo não autorizado no sistema onde estiver funcionando. A falha tem como origem uma atualização de abril de 2025 que introduziu um sandbox Python ativo com o Jupyter Notebook, projetado para executar código perfeitamente. O que começou como uma melhoria de recurso se transformou em um campo de exploração, destacando os riscos em sistemas integrados de IA.
 <br> Publicado [aqui](https://cybersecuritynews.com/microsoft-copilot-rooted/)
