@@ -4,6 +4,10 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2025.07.28 [SEC] Agentes de IA mais seguros**
+<br> O Projeto de Segurança de Aplicações Abertas em Todo o Mundo (OWASP) compartilhou um guia para desenvolvedores e equipes de segurança sobre como tornar os agentes de IA mais seguros. 
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/owasp-release-securing-agentic-applications-guide-igebe)
+
 <br> **2025.07.27 [SEC] Violação de dados na Allianz Life afeta a maioria dos clientes**
 <br> A maioria dos 1,4 milhão de clientes e funcionários teve dados pessoais (incluindo informações financeiras) comprometidos no ataque de 16 de julho, através da técnica de engenharia social.
 <br> Publicado [aqui](https://www.linkedin.com/pulse/major-data-breach-allianz-life-affects-majority-eljve)
