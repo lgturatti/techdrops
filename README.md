@@ -4,6 +4,10 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2025.07.30 [SEC] Palo Alto Networks adquire CyberArk por US$ 25 bilhões para combater as crescentes ameaças com inteligência artificial**
+<br> Essa aquisição estratégica está pronta para remodelar o setor de segurança cibernética ao estabelecer a segurança de identidade como um elemento fundamental da abordagem multiplataforma da empresa.
+<br> Publicado [aqui](https://www.linkedin.com/pulse/palo-altos-25-billion-acquisition-cyberark-aims-w6zye)
+
 <br> **2025.07.28 [SEC] Agentes de IA mais seguros**
 <br> O Projeto de Segurança de Aplicações Abertas em Todo o Mundo (OWASP) compartilhou um guia para desenvolvedores e equipes de segurança sobre como tornar os agentes de IA mais seguros. 
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/owasp-release-securing-agentic-applications-guide-igebe)
