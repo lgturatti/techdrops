@@ -4,6 +4,18 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2025.08.01 [SEC] Conversas com ChatGPT podem ser divulgadas em casos legais**
+<br> O CEO da OpenAI, pediu que os usuários sejam cautelosos ao recorrer ao ChatGPT para suporte emocional ou conversas terapêuticas, alertando que atualmente não há proteções legais em vigor para essas interações e portanto não existe a questão de sigilo médico/paciente.
+<br> Publicado [aqui](https://www.linkedin.com/pulse/warning-chatgpt-therapy-chats-could-disclosed-legal-mamhe)
+
+<br> **2025.08.01 [SEC] Apple apresenta conteinerização nativa**
+<br> Revelada na WWDC 2025, essa estrutura permite que os computadores Apple Silicon executem distribuições Linux isoladas em um ambiente virtualizado, semelhante ao Windows Subsystem for Linux 2 (WSL2) da Microsoft. a partir da atualização de outono o Docker Desktop não será mais necessário.
+<br> Publicado [aqui](https://www.linkedin.com/pulse/apple-introduces-native-containerization-run-kali-hlrme)
+
+<br> **2025.07.31 [SEC] Thorium: Plataforma de código aberto para análise de malware**
+<br> À medida que ameaças persistentes avançadas crescem em volume e sofisticação, uma análise de malware precisa e oportuna é essencial. O Thorium aborda esses desafios permitindo que os defensores incorporem suas ferramentas preferidas em uma plataforma única e personalizável. Ele suporta fluxos de trabalho de análise automatizados em escala, facilitando o processamento de grandes volumes de malware, a adaptação a ameaças emergentes e o gerenciamento eficiente de conjuntos de ferramentas. A ferramenta foi desenvolvido para lidar com mais de 10 milhões de ingestões de arquivos por hora por grupo de permissão e pode agendar mais de 1.700 tarefas por segundo, ao mesmo tempo em que fornece resultados rápidos e pesquisáveis.
+<br> Publicado [aqui](https://www.linkedin.com/pulse/cisa-announces-release-thorium-malware-analysis-zzpae)
+
 <br> **2025.07.30 [SEC] Palo Alto Networks adquire CyberArk por US$ 25 bilhões para combater as crescentes ameaças com inteligência artificial**
 <br> Essa aquisição estratégica está pronta para remodelar o setor de segurança cibernética ao estabelecer a segurança de identidade como um elemento fundamental da abordagem multiplataforma da empresa.
 <br> Publicado [aqui](https://www.linkedin.com/pulse/palo-altos-25-billion-acquisition-cyberark-aims-w6zye)
