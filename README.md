@@ -4,6 +4,10 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2025.08.03 [SEC] Cybersecurity News Recap**
+<br> Notícias de 28/07 a 03/08/2025
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/cybersecurity-news-recap-chrome-gemini-vulnerabilities-vnvxc)
+
 <br> **2025.08.03 [SEC] Backdoor no Linux escapou da detecção por um ano**
 <br> Descoberto por especialistas em segurança cibernética da Nextron Systems, o Plague marca uma evolução significativa nos ataques cibernéticos baseados em Linux. Ele utiliza Módulos de Autenticação Plugáveis (PAM) para obter furtividade e persistência profunda do sistema.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/new-linux-backdoor-plague-evades-detection-year-pnife)
