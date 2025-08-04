@@ -4,6 +4,10 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2025.08.03 [SEC] Backdoor no Linux escapou da detecção por um ano**
+<br> Descoberto por especialistas em segurança cibernética da Nextron Systems, o Plague marca uma evolução significativa nos ataques cibernéticos baseados em Linux. Ele utiliza Módulos de Autenticação Plugáveis (PAM) para obter furtividade e persistência profunda do sistema.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/new-linux-backdoor-plague-evades-detection-year-pnife)
+
 <br> **2025.08.01 [SEC] Conversas com ChatGPT podem ser divulgadas em casos legais**
 <br> O CEO da OpenAI, pediu que os usuários sejam cautelosos ao recorrer ao ChatGPT para suporte emocional ou conversas terapêuticas, alertando que atualmente não há proteções legais em vigor para essas interações e portanto não existe a questão de sigilo médico/paciente.
 <br> Publicado [aqui](https://www.linkedin.com/pulse/warning-chatgpt-therapy-chats-could-disclosed-legal-mamhe)
