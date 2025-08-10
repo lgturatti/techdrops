@@ -4,6 +4,17 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2025.08.07 [SEC] Principais notícias de 01 a 07 de Agosto**
+<br> Disponível [aqui](https://www.linkedin.com/comm/pulse/principais-not%C3%ADcias-de-ciberseguran%C3%A7a-da-semana-01-07-agosto-8hdkf)
+
+<br> **2025.08.07 [SEC] Vulnerabilidade crítica do Microsoft Exchange**
+<br> A falha pode permitir que invasores com acesso pós-autenticação se movam lateralmente do Exchange local para ambientes do Microsoft 365, representando um grave risco aos sistemas.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/cisa-issues-emergency-directive-mitigate-critical-nop9e)
+
+<br> **2025.08.06 [SEC] Google confirma vazamento de dados de seu próprio Salesforce CRM**
+<br> O Google foi a mais recente vítima de phishing direcionadas às plataformas de CRM da Salesforce. Em uma reviravolta irônica, o Google alertou recentemente sobre o grupo de extorsão conhecido como ShinyHunters.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/google-confirms-hackers-accessed-customer-data-9tvre)
+
 <br> **2025.08.06 [SEC] Milhões de notebooks Dell vulneráveis**
 <br> As vulnerabilidades, chamadas coletivamente de "ReVault", têm como alvo o chip de segurança Broadcom BCM5820X incorporado ao firmware ControlVault3 da Dell, criando oportunidades para invasores roubarem senhas, dados biométricos e manterem acesso persistente aos sistemas comprometidos.
 <br> Publicado [aqui](https://cybersecuritynews.com/dell-laptops-vulnerability/)
