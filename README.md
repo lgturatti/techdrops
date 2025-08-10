@@ -4,6 +4,18 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2025.08.06 [SEC] Milhões de notebooks Dell vulneráveis**
+<br> As vulnerabilidades, chamadas coletivamente de "ReVault", têm como alvo o chip de segurança Broadcom BCM5820X incorporado ao firmware ControlVault3 da Dell, criando oportunidades para invasores roubarem senhas, dados biométricos e manterem acesso persistente aos sistemas comprometidos.
+<br> Publicado [aqui](https://cybersecuritynews.com/dell-laptops-vulnerability/)
+
+<br> **2025.08.05 [SEC] Cisco hackeada**
+<br> Invasores roubaram detalhes de perfil de usuários registrados no domínio cisco.com
+<br> Publicado [aqui](https://cybersecuritynews.com/cisco-hacked-users-data/)
+
+<br> **2025.08.05 [IA] OpenAI se rende as LLM Abertas**
+<br> Após cinco anos afastada da comunidade, foram liberados os modelos GPT-OSS 20B e 120B sob a licença Apache 2.0.
+<br> Publicado [aqui](https://assuntonerd.com.br/2025/08/05/openai-se-rende-as-llm-abertas/)
+
 <br> **2025.08.03 [SEC] Cybersecurity News Recap**
 <br> Notícias de 28/07 a 03/08/2025
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/cybersecurity-news-recap-chrome-gemini-vulnerabilities-vnvxc)
