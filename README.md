@@ -4,6 +4,10 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2025.08.13 [SEC] Atualizações Microsoft**
+<br> Mais de cem correções, dentre as quais temos vulnerabilidades críticas, tais como 9 sobre Execução Remota de Código (RCE), 3 relacionadas a divulgação de informações e uma envolvendo elevação de privilégio.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/microsoft-august-2025-patch-tuesday-fixes-100-vulnerabilities-e60re)
+
 <br> **2025.08.12 [SEC] IngressNightmare: Novas ameaças de injeção no Kubernetes**
 <br> Uma pesquisa recente da Pentera revela vulnerabilidades críticas de injeção no controlador Kubernetes ingress-nginx amplamente utilizado.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/ingressnightmare-returns-3-new-injection-points-cdrle)
