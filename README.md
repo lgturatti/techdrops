@@ -4,6 +4,10 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2025.08.12 [SEC] IngressNightmare: Novas ameaças de injeção no Kubernetes**
+<br> Uma pesquisa recente da Pentera revela vulnerabilidades críticas de injeção no controlador Kubernetes ingress-nginx amplamente utilizado.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/ingressnightmare-returns-3-new-injection-points-cdrle)
+
 <br> **2025.08.07 [SEC] Principais notícias de 01 a 07 de Agosto**
 <br> Disponível [aqui](https://www.linkedin.com/comm/pulse/principais-not%C3%ADcias-de-ciberseguran%C3%A7a-da-semana-01-07-agosto-8hdkf)
 
