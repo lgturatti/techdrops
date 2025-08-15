@@ -4,6 +4,14 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2025.08.15 [SEC] Atualização sobre gerenciamento de identidade**
+<br> As diretrizes revisadas incluem especificações técnicas e recomendações organizacionais, com o objetivo de fortalecer a gestão de identidade e acesso (IAM) em todos os setores. Embora algumas atualizações se baseiem em práticas existentes, outras marcam uma mudança significativa na forma como as organizações abordam a autenticação e a gestão de riscos.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/nist-updates-digital-identity-guidelines-address-yfjdc)
+
+<br> **2025.08.14 [SEC] Microsegmentation in Zero Trust**
+<br> A arquitetura de confiança zero por meio da implementação de microssegmentação exige uma mudança significativa na cultura tecnológica, política e de segurança de uma organização. Ela pode ser aplicada a qualquer ambiente tecnológico, como tecnologia da informação (TI), tecnologia operacional (TO), sistema de controle industrial (ICS), internet das coisas (IoT), bem como a qualquer modelo de implementação, incluindo nuvem, on-premise e híbrido.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/cisa-releases-zero-trust-microsegmentation-guidance-ebrme)
+
 <br> **2025.08.13 [SEC] Atualizações Microsoft**
 <br> Mais de cem correções, dentre as quais temos vulnerabilidades críticas, tais como 9 sobre Execução Remota de Código (RCE), 3 relacionadas a divulgação de informações e uma envolvendo elevação de privilégio.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/microsoft-august-2025-patch-tuesday-fixes-100-vulnerabilities-e60re)
