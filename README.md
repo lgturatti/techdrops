@@ -4,6 +4,9 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2025.08.17 [SEC] Resumo semanal de 11 a 17 de Agosto**
+<br> Disponível [aqui](https://www.linkedin.com/comm/pulse/weekly-cybersecurity-news-recap-microsoft-cisco-fortinet-8cctc)
+
 <br> **2025.08.15 [SEC] Atualização sobre gerenciamento de identidade**
 <br> As diretrizes revisadas incluem especificações técnicas e recomendações organizacionais, com o objetivo de fortalecer a gestão de identidade e acesso (IAM) em todos os setores. Embora algumas atualizações se baseiem em práticas existentes, outras marcam uma mudança significativa na forma como as organizações abordam a autenticação e a gestão de riscos.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/nist-updates-digital-identity-guidelines-address-yfjdc)
