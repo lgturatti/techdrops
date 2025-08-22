@@ -19,6 +19,12 @@ Latest news are at top / Notícias mais recentes no topo
 <br> Mais de cem correções, dentre as quais temos vulnerabilidades críticas, tais como 9 sobre Execução Remota de Código (RCE), 3 relacionadas a divulgação de informações e uma envolvendo elevação de privilégio.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/microsoft-august-2025-patch-tuesday-fixes-100-vulnerabilities-e60re)
 
+<br> **2025.08.12 [DEV] React Native 0.81 e o futuro sem a bridge**
+<br> A versão 0.81 continua com o foco claro: consolidar a nova arquitetura. O modo "Bridgeless" promete uma comunicação mais direta e performática com os módulos nativos. E agora ainda mais estável.
+<br> As melhorias no motor Hermes também trouxeram ganhos de performance, principalmente no tempo de inicialização do app (o famoso TTI). Mas a grande surpresa (e o que deu o que falar) foi a introdução de uma nova API experimental para computação espacial, que promete facilitar a criação de interfaces para dispositivos como o Vision Pro.
+<br> O React Native não está só resolvendo algumas dívidas técnicas do passado, a gente diria até que ele está se posicionando para ser uma ferramenta relevante na próxima onda de interfaces imersivas.
+<br> Publicado [aqui](https://reactnative.dev/blog/2025/08/12/react-native-0.81)
+
 <br> **2025.08.12 [SEC] IngressNightmare: Novas ameaças de injeção no Kubernetes**
 <br> Uma pesquisa recente da Pentera revela vulnerabilidades críticas de injeção no controlador Kubernetes ingress-nginx amplamente utilizado.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/ingressnightmare-returns-3-new-injection-points-cdrle)
@@ -53,6 +59,10 @@ Latest news are at top / Notícias mais recentes no topo
 <br> **2025.08.03 [SEC] Backdoor no Linux escapou da detecção por um ano**
 <br> Descoberto por especialistas em segurança cibernética da Nextron Systems, o Plague marca uma evolução significativa nos ataques cibernéticos baseados em Linux. Ele utiliza Módulos de Autenticação Plugáveis (PAM) para obter furtividade e persistência profunda do sistema.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/new-linux-backdoor-plague-evades-detection-year-pnife)
+
+<br> **2025.08.01 [DEV] TypeScript 5.9: o terror do 'any'**
+<br> A versão 5.9 chegou para deixar o compilador ainda mais inteligente e nosso código mais seguro. A estrela da versão é o que eles chamaram de "Type Predicate Scopes", um aprimoramento que torna os type guards (com is e asserts) muito mais poderosos dentro de closures e callbacks. Sabe quando você validava um tipo, mas dentro de uma Promise o TS "esquecia" essa validação? A ideia é que isso aconteça com muito menos frequência. É mais um passo para eliminar a necessidade de tipos any e outras gambiarras no código. Um compilador mais inteligente significa tipos mais precisos, menos bugs em produção e um autocompletar que realmente te ajuda.
+<br> Publicado [aqui](https://devblogs.microsoft.com/typescript/announcing-typescript-5-9/)
 
 <br> **2025.08.01 [SEC] Conversas com ChatGPT podem ser divulgadas em casos legais**
 <br> O CEO da OpenAI, pediu que os usuários sejam cautelosos ao recorrer ao ChatGPT para suporte emocional ou conversas terapêuticas, alertando que atualmente não há proteções legais em vigor para essas interações e portanto não existe a questão de sigilo médico/paciente.
