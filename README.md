@@ -4,6 +4,10 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2025.08.22 [SEC] Operação Africa**
+<br> Na operação coordenada pela INTERPOL, autoridades em toda a África prenderam 1.209 cibercriminosos que tinham como alvo quase 88.000 vítimas. A operação recuperou US$ 97,4 milhões e desmantelou 11.432 infraestruturas maliciosas, ressaltando o alcance global do cibercrime e a necessidade urgente de cooperação transfronteiriça.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/interpol-dismantles-massive-african-cybercrime-uyskc)
+
 <br> **2025.08.22 [SEC] Sem Fronteiras: Por que IA e SaaS agora são a mesma superfície de ataque e como fechar lacunas de segurança**
 <br> O artigo traz a seguinte reflexão: "Imagine a seguinte situação: o conjunto de SaaS da sua organização nunca foi tão grande — nem tão interligado, com agentes de IA que automatizam, analisam e tomam decisões em alta velocidade. Mas, à medida que seus negócios crescem, seus riscos também crescem. As linhas tradicionais entre segurança de SaaS e segurança de IA? Elas desapareceram. Hoje, sua empresa enfrenta uma superfície de ataque única e sem fronteiras. Você está realmente preparado?"
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/boundaries-why-ai-saas-now-same-attack-surface-lbx3e)
