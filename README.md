@@ -4,6 +4,22 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2025.08.22 [SEC] Sem Fronteiras: Por que IA e SaaS agora são a mesma superfície de ataque e como fechar lacunas de segurança**
+<br> O artigo traz a seguinte reflexão: "Imagine a seguinte situação: o conjunto de SaaS da sua organização nunca foi tão grande — nem tão interligado, com agentes de IA que automatizam, analisam e tomam decisões em alta velocidade. Mas, à medida que seus negócios crescem, seus riscos também crescem. As linhas tradicionais entre segurança de SaaS e segurança de IA? Elas desapareceram. Hoje, sua empresa enfrenta uma superfície de ataque única e sem fronteiras. Você está realmente preparado?"
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/boundaries-why-ai-saas-now-same-attack-surface-lbx3e)
+
+<br> **2025.08.21 [SEC] FBI ALERTA: Cyberguerra com a Rússia**
+<br> Atores cibernéticos do governo russo têm como alvo dispositivos de rede e infraestrutura crítica, particularmente dispositivos que aceitam protocolos legados não criptografados, como SMI e SNMP versões 1 e 2, focadas em certos dispositivos Cisco.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/fbi-warns-russian-government-cyber-actors-targeting-ykxxe)
+
+<br> **2025.08.20 [SEC] Correção de emergência da Apple**
+<br> Apple corrige vulnerabilidade de dia zero explorada em "ataque extremamente sofisticado". O problema está no framework de E/S de Imagem, que lida com imagens (abertura, decodificação e exibição). Se um usuário de iPhone alvo abrisse um arquivo de imagem malicioso, isso poderia causar corrupção de memória, o que poderia ser explorado por hackers. Em alguns casos, isso poderia levar à execução remota de código.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/apple-emergency-patch-fixes-zero-day-vulnerability-xw9ae)
+
+<br> **2025.08.18 [SEC] Novo guia OWASP**
+<br> A Open Worldwide Application Security Project (OWASP) publicou atualização do documento: Agentic Security Solutions Landscape For Agentic AI Q3 2025. O guia mapeia o ciclo de vida do aplicativo definindo funções, responsabilidades e marcos de segurança para cada estágio e alinhando-os à estrutura de ameaças e mitigações do OWASP Agentic.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/owasp-releases-ai-security-solutions-landscape-qyavf)
+
 <br> **2025.08.17 [SEC] Resumo semanal de 11 a 17 de Agosto**
 <br> Disponível [aqui](https://www.linkedin.com/comm/pulse/weekly-cybersecurity-news-recap-microsoft-cisco-fortinet-8cctc)
 
