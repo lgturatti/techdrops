@@ -4,6 +4,9 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2025.08.23 [SEC] Principais notícias de 15 a 22 de agosto**
+<br> Disponível [aqui](https://www.linkedin.com/comm/pulse/principais-not%C3%ADcias-de-ciberseguran%C3%A7a-da-semana-15-21-agosto-uvklf)
+
 <br> **2025.08.22 [SEC] Operação Africa**
 <br> Na operação coordenada pela INTERPOL, autoridades em toda a África prenderam 1.209 cibercriminosos que tinham como alvo quase 88.000 vítimas. A operação recuperou US$ 97,4 milhões e desmantelou 11.432 infraestruturas maliciosas, ressaltando o alcance global do cibercrime e a necessidade urgente de cooperação transfronteiriça.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/interpol-dismantles-massive-african-cybercrime-uyskc)
