@@ -4,6 +4,9 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2025.08.24 [SEC] Resumo semanal de 18 a 24 de agosto**
+<br> Disponível [aqui](https://www.linkedin.com/comm/pulse/weekly-cybersecurity-news-recap-apple-0-day-chrome-kdh4c)
+
 <br> **2025.08.24 [SEC] NIST finaliza padrão de criptografia leve para proteger dispositivos de Internet das Coisas**
 <br> Aplicações de IoT não têm poder de processamento e memória suficientes para executar métodos de criptografia convencionais. O novo padrão de criptografia leve do NIST aborda esse desafio, oferecendo algoritmos que exigem significativamente menos poder de computação e tempo, ao mesmo tempo em que oferecem forte proteção contra ataques cibernéticos.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/nist-finalizes-lightweight-cryptography-standard-hsgme)
