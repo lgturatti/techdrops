@@ -4,6 +4,14 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2025.08.26 [SEC] IA não consegue ser SOC**
+<br> Um SOC (Security Office Center, Centro de Operações de Segurança) é uma unidade formada por uma equipe que monitora ameaças, vulnerabilidades ou atividades incomuns. O artigo aborda o porque a Inteligência Artificial não consegue controlar isso e oferece um guia que comprova esses argumentos.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/ai-cant-run-your-soc-heres-guide-proves-the-cyber-security-hub-awa9e)
+
+<br> **2025.08.25 [SEC] Salty 2FA: PhaaS não detectado**
+<br> O novo framework descoberto estava roubando credenciais do Microsoft 365 dos EUA e Europa. A disponibilidade de plataformas de Phishing-as-a-Service (PhaaS) de baixo custo e fáceis de usar, como Tycoon2FA, EvilProxy e Sneaky2FA, só piora o problema. Esses serviços são mantidos ativamente por seus operadores; novas técnicas de evasão são adicionadas regularmente, e a infraestrutura multicamadas por trás dos kits de phishing continua a evoluir e se expandir.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/salty-2fa-undetected-phaas-stealing-microsoft-365-credentials-ruofc)
+
 <br> **2025.08.24 [SEC] Resumo semanal de 18 a 24 de agosto**
 <br> Disponível [aqui](https://www.linkedin.com/comm/pulse/weekly-cybersecurity-news-recap-apple-0-day-chrome-kdh4c)
 
