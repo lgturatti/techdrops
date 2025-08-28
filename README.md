@@ -43,6 +43,10 @@ Latest news are at top / Notícias mais recentes no topo
 <br> Apple corrige vulnerabilidade de dia zero explorada em "ataque extremamente sofisticado". O problema está no framework de E/S de Imagem, que lida com imagens (abertura, decodificação e exibição). Se um usuário de iPhone alvo abrisse um arquivo de imagem malicioso, isso poderia causar corrupção de memória, o que poderia ser explorado por hackers. Em alguns casos, isso poderia levar à execução remota de código.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/apple-emergency-patch-fixes-zero-day-vulnerability-xw9ae)
 
+<br> **2025.08.19 [SEC] Segurança além das fronteiras**
+<br> A Arquitetura Zero Trust (ZTA) e a Segurança Centrada em Dados (DCS) tornaram-se o padrão ouro para a proteção de dados sensíveis dentro de uma empresa. No entanto, a pressão para conectar-se além das fronteiras só cresce. Operações multidomínio, a integração de IA/ML na tomada de decisões e a demanda insaciável por mais dados de mais fontes significam que as organizações estão constantemente expandindo além de seu alcance tradicional. Para atender essa demanda, entram as Soluções de Domínio Cruzado (CDS). A CDS fornece o gateway confiável entre ambientes seguros. Sem ela, você corre o risco de expor redes sensíveis a parceiros não confiáveis ​​ou comprometidos, um risco que nenhuma missão pode correr.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/why-zero-trust-needs-bridge-security-across-boundaries-kr6ze)
+
 <br> **2025.08.18 [SEC] Novo guia OWASP**
 <br> A Open Worldwide Application Security Project (OWASP) publicou atualização do documento: Agentic Security Solutions Landscape For Agentic AI Q3 2025. O guia mapeia o ciclo de vida do aplicativo definindo funções, responsabilidades e marcos de segurança para cada estágio e alinhando-os à estrutura de ameaças e mitigações do OWASP Agentic.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/owasp-releases-ai-security-solutions-landscape-qyavf)
