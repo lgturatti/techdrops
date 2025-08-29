@@ -4,6 +4,26 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2025.08.29 [SEC] Guia para monitorar ameaças na AWS**
+<br> Os Provedores de Serviços de Segurança Gerenciada (MSSPs) tradicionais podem coletar logs, mas em um ambiente de instâncias EC2 efêmeras e funções Lambda, os alertas por si só deixam enormes pontos cegos. O guia traz informações sobre como o Managed Detection and Response (MDR) se integra à AWS e como construir uma defesa nativa em nuvem que se expande para toda a sua organização.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/how-monitor-threats-aws-cloud-security-architecture-jhbke)
+
+<br> **2025.08.29 [SEC] Correção do WhatsApp no iOS**
+<br> O aviso de segurança publicado pela empresa, comunica que o problema decorreu de uma autorização incompleta de mensagens de sincronização de dispositivos vinculados. Essa brecha possibilitou que um agente malicioso, sem a interação da vítima, forçasse o WhatsApp a processar conteúdo de uma URL arbitrária diretamente no dispositivo do alvo.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/active-exploitation-whatsapp-0-day-vulnerability-pbece)
+
+<br> **2025.08.28 [SEC] Campanhas de phishing contra a Turquia - Parte 1**
+<br> O ataque teve como alvo sistemas com Windows através de e-mails que distribuem uma botnet avançada que vem com um carregador de 3 estágios em arquivos como "TEKLIFALINACAKURUNLER.jar". A disseminação depende do proprietário do C2 por meio das contas de e-mail dos clientes infectados.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/technical-analysis-stealth-java-loader-used-phishing-e6wbe)
+
+<br> **2025.08.27 [SEC] Dispositivos Citrix expostos**
+<br> Risco de execução remota de código (RCE), identificada como CVE-2025-7775 (pontuação CVSS: 9,2), que já está sendo ativamente explorada. A vulnerabilidade afeta o NetScaler ADC e o NetScaler Gateway.  É descrito como uma vulnerabilidade de estouro de memória que leva à execução remota de código e/ou negação de serviço.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/warning-citrix-devices-exposed-critical-rce-vulnerability-xy7we)
+
+<br> **2025.08.27 [USR] Windows salvará arquivos Word na nuvem**
+<br> O Windows salvará automaticamente documentos do Word na nuvem: o arquivo poderá ser armazenado tanto no OneDrive (padrão) quanto em um serviço de preferência do usuário. A mudança começa a valer a partir da versão 2509 do aplicativo, e será implementada no Excel e PowerPoint futuramente. A configuração pode ser desabilitada nas opções do Word, na categoria "Salvar".
+<br> Publicado [aqui](https://www.ghacks.net/2025/08/27/your-word-documents-will-be-saved-to-the-cloud-automatically-on-windows-going-forward/)
+
 <br> **2025.08.26 [SEC] IA não consegue ser SOC**
 <br> Um SOC (Security Office Center, Centro de Operações de Segurança) é uma unidade formada por uma equipe que monitora ameaças, vulnerabilidades ou atividades incomuns. O artigo aborda o porque a Inteligência Artificial não consegue controlar isso e oferece um guia que comprova esses argumentos.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/ai-cant-run-your-soc-heres-guide-proves-the-cyber-security-hub-awa9e)
@@ -38,6 +58,10 @@ Latest news are at top / Notícias mais recentes no topo
 <br> **2025.08.21 [SEC] FBI ALERTA: Cyberguerra com a Rússia**
 <br> Atores cibernéticos do governo russo têm como alvo dispositivos de rede e infraestrutura crítica, particularmente dispositivos que aceitam protocolos legados não criptografados, como SMI e SNMP versões 1 e 2, focadas em certos dispositivos Cisco.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/fbi-warns-russian-government-cyber-actors-targeting-ykxxe)
+
+<br> **2025.08.20 [SEC] Docker Contêiner vazando**
+<br> Uma correção crítica foi liberada pela Docker para uma vulnerabilidade de escape de contêineres, classificada como CVE-2025-9074 com pontuação CVSS 9.3. A falha permitia a contêineres maliciosos no Docker Desktop para Windows e macOS acessar a API do Docker Engine sem autenticação, possibilitando montar o disco local (C:) e ler/escrever arquivos do sistema hospedeiro. É importante atualizar para a versão 4.44.3, que elimina a exposição da API. O Linux ficou imune por utilizar mecanismo diferente de comunicação.
+<br> Atualize [aqui](https://www.docker.com/products/docker-desktop/)
 
 <br> **2025.08.20 [SEC] Vulnerabilidade do Copilot**
 <br> Uma vulnerabilidade descoberta no Copilot da Microsoft para M365 que permitia que usuários, incluindo potenciais invasores mal-intencionados, acessassem e interagissem com arquivos confidenciais sem deixar nenhum registro nos logs de auditoria oficiais.
