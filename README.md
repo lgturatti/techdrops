@@ -39,6 +39,11 @@ Latest news are at top / Notícias mais recentes no topo
 <br> Atores cibernéticos do governo russo têm como alvo dispositivos de rede e infraestrutura crítica, particularmente dispositivos que aceitam protocolos legados não criptografados, como SMI e SNMP versões 1 e 2, focadas em certos dispositivos Cisco.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/fbi-warns-russian-government-cyber-actors-targeting-ykxxe)
 
+<br> **2025.08.20 [SEC] Vulnerabilidade do Copilot**
+<br> Uma vulnerabilidade descoberta no Copilot da Microsoft para M365 que permitia que usuários, incluindo potenciais invasores mal-intencionados, acessassem e interagissem com arquivos confidenciais sem deixar nenhum registro nos logs de auditoria oficiais.
+<br> O problema foi corrigido e a falha consistia simplesmente em adicionar um comando para o Copilot não fornecer um link de referência para o arquivo resumido, fazendo assim com que o resultado não adicionasse nenhuma entrada de registro.
+<br> Publicado [aqui](https://cybersecuritynews.com/copilot-vulnerability-breaks-audit-logs)
+
 <br> **2025.08.20 [SEC] Correção de emergência da Apple**
 <br> Apple corrige vulnerabilidade de dia zero explorada em "ataque extremamente sofisticado". O problema está no framework de E/S de Imagem, que lida com imagens (abertura, decodificação e exibição). Se um usuário de iPhone alvo abrisse um arquivo de imagem malicioso, isso poderia causar corrupção de memória, o que poderia ser explorado por hackers. Em alguns casos, isso poderia levar à execução remota de código.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/apple-emergency-patch-fixes-zero-day-vulnerability-xw9ae)
