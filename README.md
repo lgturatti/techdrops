@@ -4,6 +4,13 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2025.08.30 [SEC] Alerta de segurança do Gmail**
+<br> O Google renovou seus alertas aos seus 2,5 bilhões de assinantes do Gmail após uma onda de ataques de coleta de credenciais vinculados a grupos de ameaças de alto perfil. Esses alertas, emitidos no final de julho e novamente em 8 de agosto, destacam um aumento nas tentativas de phishing projetadas para induzir os usuários a fornecer suas credenciais de login.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/gmail-security-alert-why-you-should-change-your-hvpge)
+
+<br> **2025.08.30 [SEC] Principais notícias de 22 a 28 de agosto**
+<br> Disponível [aqui](https://www.linkedin.com/comm/pulse/principais-not%C3%ADcias-de-ciberseguran%C3%A7a-da-semana-22-28-agosto-uyd9f)
+
 <br> **2025.08.29 [SEC] Guia para monitorar ameaças na AWS**
 <br> Os Provedores de Serviços de Segurança Gerenciada (MSSPs) tradicionais podem coletar logs, mas em um ambiente de instâncias EC2 efêmeras e funções Lambda, os alertas por si só deixam enormes pontos cegos. O guia traz informações sobre como o Managed Detection and Response (MDR) se integra à AWS e como construir uma defesa nativa em nuvem que se expande para toda a sua organização.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/how-monitor-threats-aws-cloud-security-architecture-jhbke)
