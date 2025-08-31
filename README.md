@@ -112,6 +112,10 @@ Latest news are at top / Notícias mais recentes no topo
 <br> Uma pesquisa recente da Pentera revela vulnerabilidades críticas de injeção no controlador Kubernetes ingress-nginx amplamente utilizado.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/ingressnightmare-returns-3-new-injection-points-cdrle)
 
+<br> **2025.08.11 [SEC] Atualização WinRAR**
+<br> Falha zero-day no WinRAR é explorada por grupos cibercriminosos: a vulnerabilidade CVE-2025-8088 permite instalar backdoors em computadores cujos usuários abrem arquivos maliciosos anexados a mensagens de phishing. Os ataques foram atribuídos aos grupos RomCom e Paper Werewolf. A empresa já disponibilizou uma correção para o problema, incluída a partir da versão 7.13.
+<br> Publicado [aqui](https://arstechnica.com/security/2025/08/high-severity-winrar-0-day-exploited-for-weeks-by-2-groups/)
+
 <br> **2025.08.07 [SEC] Principais notícias de 01 a 07 de Agosto**
 <br> Disponível [aqui](https://www.linkedin.com/comm/pulse/principais-not%C3%ADcias-de-ciberseguran%C3%A7a-da-semana-01-07-agosto-8hdkf)
 
