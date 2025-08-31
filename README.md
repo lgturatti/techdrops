@@ -4,6 +4,10 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2025.08.31 [SEC] Microsoft exigirá MFA para o gerenciamento de recursos do Azure a partir de outubro**
+<br> A autenticação multifator (MFA) para todas as ações que envolvam o gerenciamento de recursos do Azure visa proteger os clientes de tentativas de acesso não autorizado e faz parte de sua Secure Future Initiative (SFI), um programa lançado para reforçar a segurança em todo o seu ecossistema de nuvem.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/microsoft-mandate-mfa-azure-resource-management-ffjte)
+
 <br> **2025.08.30 [SEC] Alerta de segurança do Gmail**
 <br> O Google renovou seus alertas aos seus 2,5 bilhões de assinantes do Gmail após uma onda de ataques de coleta de credenciais vinculados a grupos de ameaças de alto perfil. Esses alertas, emitidos no final de julho e novamente em 8 de agosto, destacam um aumento nas tentativas de phishing projetadas para induzir os usuários a fornecer suas credenciais de login.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/gmail-security-alert-why-you-should-change-your-hvpge)
