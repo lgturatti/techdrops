@@ -4,6 +4,9 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2025.08.31 [SEC] Resumo semanal de 25 a 31 de agosto**
+<br> Disponível [aqui](https://www.linkedin.com/comm/pulse/weekly-cybersecurity-news-recap-whatsapp-chrome-0-day-zx6oc)
+
 <br> **2025.08.31 [SEC] Microsoft exigirá MFA para o gerenciamento de recursos do Azure a partir de outubro**
 <br> A autenticação multifator (MFA) para todas as ações que envolvam o gerenciamento de recursos do Azure visa proteger os clientes de tentativas de acesso não autorizado e faz parte de sua Secure Future Initiative (SFI), um programa lançado para reforçar a segurança em todo o seu ecossistema de nuvem.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/microsoft-mandate-mfa-azure-resource-management-ffjte)
