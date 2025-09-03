@@ -4,6 +4,10 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2025.09.03 [SEC] Cloudflare confirma violação**
+<br> A Cloudflare é a mais recente vítima a ser impactada pela violação de dados do Salesloft Drift, que permitiu que um agente externo obtivesse acesso não autorizado ao seu ambiente. O invasor extraiu campos de texto de objetos do Salesforce, que continham comunicações de suporte ao cliente e informações de contatos.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/cloudfare-confirms-breach-hackers-access-customer-229qe)
+
 <br> **2025.08.31 [SEC] Resumo semanal de 25 a 31 de agosto**
 <br> Disponível [aqui](https://www.linkedin.com/comm/pulse/weekly-cybersecurity-news-recap-whatsapp-chrome-0-day-zx6oc)
 
