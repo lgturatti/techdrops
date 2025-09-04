@@ -4,6 +4,10 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2025.09.04 [SEC] Cloudflare Novo Recode**
+<br> A gigante de infraestrutura de internet Cloudflare revelou que mitigou com sucesso o maior ataque de negação de serviço distribuída (DDoS) volumétrico registrado até o momento, que atingiu o pico sem precedentes de 11,5 terabits por segundo (Tbps). O incidente ressalta tanto a crescente sofisticação dos adversários cibernéticos quanto a crescente dependência de defesas automatizadas para proteger serviços críticos de internet.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/cloudflare-mitigates-historic-world-record-115-dn3ac)
+
 <br> **2025.09.03 [SEC] Cloudflare confirma violação**
 <br> A Cloudflare é a mais recente vítima a ser impactada pela violação de dados do Salesloft Drift, que permitiu que um agente externo obtivesse acesso não autorizado ao seu ambiente. O invasor extraiu campos de texto de objetos do Salesforce, que continham comunicações de suporte ao cliente e informações de contatos.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/cloudfare-confirms-breach-hackers-access-customer-229qe)
