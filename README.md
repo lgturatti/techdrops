@@ -4,6 +4,10 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2025.09.05 [SEC] SAP sob ataque**
+<br> Uma falha grave de segurança no SAP S/4HANA, a plataforma de Planejamento de Recursos Empresariais (ERP) amplamente utilizada, está sendo ativamente explorada em ataques. A vulnerabilidade envolve uma falha de injeção de comando em um módulo de função exposto a RFC, que permite que invasores com privilégios básicos de usuário injetem código ABAP arbitrário no sistema, ignorando as verificações de autorização de chaves.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/sap-s4hana-under-threat-critical-vulnerability-udtoe)
+
 <br> **2025.09.04 [SEC] Cloudflare Novo Recode**
 <br> A gigante de infraestrutura de internet Cloudflare revelou que mitigou com sucesso o maior ataque de negação de serviço distribuída (DDoS) volumétrico registrado até o momento, que atingiu o pico sem precedentes de 11,5 terabits por segundo (Tbps). O incidente ressalta tanto a crescente sofisticação dos adversários cibernéticos quanto a crescente dependência de defesas automatizadas para proteger serviços críticos de internet.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/cloudflare-mitigates-historic-world-record-115-dn3ac)
