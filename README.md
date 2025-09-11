@@ -4,6 +4,18 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2025.09.11 [SEC] 48% dos aplicativos armazena credenciais em texto puro**
+<br> Para revelar o verdadeiro estado da segurança de identidade corporativa, a Orchid Security Research analisou o comportamento e a telemetria de aplicativos de empresas da Fortune 500, de diversos setores e do mundo todo. As descobertas estão no relatório, "The Identity Gap: 2025 Snapshot", são um alerta para todos os CISOs e profissionais de segurança.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/you-think-enterprise-identity-covered-our-data-vbvee)
+
+<br> **2025.09.09 [SEC] Atualizações Microsoft**
+<br> Neste mês as atualizações corrigem problemas incluindo 22 vulnerabilidades de Execução Remota de Código (RCE), muito importante para administradores de sistemas, dentre outras.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/microsoft-september-2025-patch-tuesday-fixes-80-buguc)
+
+<br> **2025.09.09 [SEC] Correções importantes para SAP**
+<br> Nesta atualização são abordadas 21 vulnerabilidades recém-identificadas que afetam diversos aplicativos e plataformas SAP, incluindo três falhas críticas na solução de software NetWeaver além de outras melhorias.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/sap-security-patch-day-september-2025-the-cyber-security-hub-jwayc)
+
 <br> **2025.09.05 [SEC] SAP sob ataque**
 <br> Uma falha grave de segurança no SAP S/4HANA, a plataforma de Planejamento de Recursos Empresariais (ERP) amplamente utilizada, está sendo ativamente explorada em ataques. A vulnerabilidade envolve uma falha de injeção de comando em um módulo de função exposto a RFC, que permite que invasores com privilégios básicos de usuário injetem código ABAP arbitrário no sistema, ignorando as verificações de autorização de chaves.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/sap-s4hana-under-threat-critical-vulnerability-udtoe)
