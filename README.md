@@ -4,6 +4,10 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2025.09.12 [SEC] Avisos de links maliciosos no MS-TEAMS**
+<br> A Microsoft está reforçando significativamente os recursos de segurança de sua plataforma de colaboração, o Microsoft Teams, com a introdução iminente de avisos de links maliciosos para mensagens privadas. Esta atualização, que começará a ser disponibilizada em versão prévia pública em setembro de 2025, visa proteger melhor os usuários contra a crescente ameaça de ataques de phishing, distribuição de malware e campanhas de spam direcionadas a ferramentas de comunicação corporativa.
+<br> Publicado [aqui](https://www.linkedin.com/pulse/microsoft-introduce-malicious-link-warnings-teams-ysgge)
+
 <br> **2025.09.11 [SEC] 48% dos aplicativos armazena credenciais em texto puro**
 <br> Para revelar o verdadeiro estado da segurança de identidade corporativa, a Orchid Security Research analisou o comportamento e a telemetria de aplicativos de empresas da Fortune 500, de diversos setores e do mundo todo. As descobertas estão no relatório, "The Identity Gap: 2025 Snapshot", são um alerta para todos os CISOs e profissionais de segurança.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/you-think-enterprise-identity-covered-our-data-vbvee)
