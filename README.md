@@ -4,6 +4,19 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2025.09.16 [SEC] Guia de preços SIEM Gerenciado**
+<br> Líderes de segurança acreditam ter os números garantidos. No papel, o orçamento parece sólido: uma licença, algum armazenamento e monitoramento. Mas, na realidade? Tipos de log fora do escopo, taxas de ingestão em camadas, integrações "opcionais" que se revelam essenciais e níveis de suporte que você nem sabia que precisava. É por isso que o Guia de Preços de SIEM Gerenciado — uma análise clara e prática de como os fornecedores realmente precificam seus serviços, o que aumenta ou diminui seus custos e como prever o custo total de propriedade a longo prazo.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/managed-siem-you-know-real-cost-maybe-the-cyber-security-hub-ypjze)
+
+<br> **2025.09.14 [SEC] Cybersecurity News Recap**
+<br> Notícias de 08 a 13 de setembro
+<br> Disponível [aqui](https://www.linkedin.com/comm/pulse/weekly-cybersecurity-news-recap-tenable-qualys-workday-pfbxc)
+
+<br> **2025.09.13 [SEC] Defesa contra ameças oriundas de IA generativa**
+<br> O Open Worldwide Application Security Project (OWASP) publicou um tutorial. À medida que as organizações adotam a IA Generativa e os sistemas agênticos, as equipes de segurança enfrentam um desafio em rápida evolução: como liberar o potencial da IA ​​e, ao mesmo tempo, se manter à frente de novas ameaças e superfícies de ataque.
+<br> O Threat Defense COMPASS, consolida ameaças, vulnerabilidades, defesas e mitigações de IA em um Painel de Estratégia de Resiliência a Ameaças de IA unificado. Tal material é fornecido como um modelo de planilha do Google.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/owasp-genai-security-project-releases-threat-defense-5aqre)
+
 <br> **2025.09.12 [SEC] Avisos de links maliciosos no MS-TEAMS**
 <br> A Microsoft está reforçando significativamente os recursos de segurança de sua plataforma de colaboração, o Microsoft Teams, com a introdução iminente de avisos de links maliciosos para mensagens privadas. Esta atualização, que começará a ser disponibilizada em versão prévia pública em setembro de 2025, visa proteger melhor os usuários contra a crescente ameaça de ataques de phishing, distribuição de malware e campanhas de spam direcionadas a ferramentas de comunicação corporativa.
 <br> Publicado [aqui](https://www.linkedin.com/pulse/microsoft-introduce-malicious-link-warnings-teams-ysgge)
