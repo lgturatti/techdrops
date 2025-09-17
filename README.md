@@ -33,6 +33,26 @@ Latest news are at top / Notícias mais recentes no topo
 <br> Nesta atualização são abordadas 21 vulnerabilidades recém-identificadas que afetam diversos aplicativos e plataformas SAP, incluindo três falhas críticas na solução de software NetWeaver além de outras melhorias.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/sap-security-patch-day-september-2025-the-cyber-security-hub-jwayc)
 
+<br> **2025.09.08 [SEC] Ataque com malware de IA**
+<br> As consequências do ataque à cadeia de suprimentos "s1ngularity" da Nx continuam a aumentar, com novas pesquisas revelando a verdadeira escala da violação. De acordo com uma análise pós-incidente realizada por pesquisadores de segurança da Wiz, o ataque resultou na exposição de 2.180 contas do GitHub e 7.200 repositórios em três ondas de ataque distintas — e os danos ainda estão se espalhando.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/ai-malware-strikes-s1ngularity-attack-hijacks-2000-uyaee)
+
+<br> **2025.09.08 [SEC] Visão geral dos serviços de segurança da AWS**
+<br> Perguntas sobre segurança na nuvem são simples de fazer e surpreendentemente difíceis de responder. Uma resposta curta, mas útil, é ter uma lista de verificação. É uma ferramenta prática, de nível executivo, que permite que você veja o essencial rapidamente — onde você está protegido, onde está exposto e quem é o responsável pela correção. Sem jargões. Sem longas análises técnicas aprofundadas. Apenas os controles que você deve verificar hoje mesmo.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/aws-security-services-snapshot-10-point-executive-7bere)
+
+<br> **2025.09.08 [SEC] Cybersecurity News Recap**
+<br> Resumo com as notícias de 01 a 07 de setembro.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/weekly-cybersecurity-news-recap-palo-alto-networks-qj5oc)
+
+<br> **2025.09.06 [SEC] NIST lança sobreposições de controle para proteger sistemas de IA**
+<br> A agência divulgou um documento conceitual e um plano de ação proposto para o desenvolvimento de uma série de Sobreposições de Controle NIST SP 800-53 para a Segurança de Sistemas de IA, além de lançar um canal no Slack para esta comunidade de interesse. A iniciativa responde à necessidade urgente de medidas de segurança padronizadas, à medida que a IA se torna profundamente incorporada à infraestrutura crítica e às operações comerciais.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/nist-releases-control-overlays-securing-ai-systems-acuve)
+
+<br> **2025.09.06 [SEC] Principais notícias de cibersegurança da semana**
+<br> Resumo com as notícias de 28 de Agosto a 04 de Setembro.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/principais-not%C3%ADcias-de-ciberseguran%C3%A7a-da-semana-28-agosto-nr60f)
+
 <br> **2025.09.05 [SEC] SAP sob ataque**
 <br> Uma falha grave de segurança no SAP S/4HANA, a plataforma de Planejamento de Recursos Empresariais (ERP) amplamente utilizada, está sendo ativamente explorada em ataques. A vulnerabilidade envolve uma falha de injeção de comando em um módulo de função exposto a RFC, que permite que invasores com privilégios básicos de usuário injetem código ABAP arbitrário no sistema, ignorando as verificações de autorização de chaves.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/sap-s4hana-under-threat-critical-vulnerability-udtoe)
