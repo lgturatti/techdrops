@@ -4,6 +4,18 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2025.09.19 [SEC] Segurança de identidade**
+<br> Artigo sobre a lacuna de segurança de identidade e acesso relação do tema com código.
+<br> Disponível [aqui](https://www.linkedin.com/comm/pulse/identity-security-gap-on-demand-the-cyber-security-hub-mkehe)
+
+<br> **2025.09.18 [SEC] Atualização emergencial do Google Chrome**
+<br> O problema está no motor V8 e JavaScript. Recomenda-se atualizar para a versão 140.0.7339.185 ou superior, conforme seu sistema operacional.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/google-issues-critical-security-update-chrome-including-nhqhe)
+
+<br> **2025.09.17 [SEC] RaccoonO365 Derrubado**
+<br> Em uma operação conjunta significativa, a Unidade de Crimes Digitais (DCU) da Microsoft e a Cloudflare desmantelaram com sucesso uma importante infraestrutura cibernética responsável por ataques de phishing generalizados em todo o mundo. A colaboração resultou na apreensão de 338 domínios vinculados ao RaccoonO365, um kit de ferramentas de phishing como serviço (PhaaS) usado por agentes de ameaças com motivação financeira para roubar milhares de credenciais corporativas de organizações em quase 100 países.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/microsoft-cloudflare-takes-down-raccoono365-notorious-qyk1e)
+
 <br> **2025.09.16 [SEC] Guia de preços SIEM Gerenciado**
 <br> Líderes de segurança acreditam ter os números garantidos. No papel, o orçamento parece sólido: uma licença, algum armazenamento e monitoramento. Mas, na realidade? Tipos de log fora do escopo, taxas de ingestão em camadas, integrações "opcionais" que se revelam essenciais e níveis de suporte que você nem sabia que precisava. É por isso que o Guia de Preços de SIEM Gerenciado — uma análise clara e prática de como os fornecedores realmente precificam seus serviços, o que aumenta ou diminui seus custos e como prever o custo total de propriedade a longo prazo.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/managed-siem-you-know-real-cost-maybe-the-cyber-security-hub-ypjze)
