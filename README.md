@@ -5,7 +5,7 @@
 Latest news are at top / Notícias mais recentes no topo
 ```
 <br> **2025.09.19 [SEC] Segurança de identidade**
-<br> Artigo sobre a lacuna de segurança de identidade e acesso relação do tema com código.
+<br> Artigo sobre a lacuna de segurança de identidade e acesso relacionadas ao código.
 <br> Disponível [aqui](https://www.linkedin.com/comm/pulse/identity-security-gap-on-demand-the-cyber-security-hub-mkehe)
 
 <br> **2025.09.18 [SEC] Atualização emergencial do Google Chrome**
