@@ -4,6 +4,10 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2025.09.20 [SEC] Ataque cibernético interrompe aeroportos europeus**
+<br> O alvo foi a Collins Aerospace, empresa americana especializada em soluções de tecnologia para aviação. A empresa fornece infraestrutura crítica para sistemas de processamento de passageiros usados ​​por diversas companhias aéreas em todo o mundo, o que significa que mesmo uma breve interrupção pode repercutir em todos os continentes. Segundo comunicado da empresa: "O impacto se limita ao check-in eletrônico de clientes e ao despacho de bagagem e pode ser mitigado com operações de check-in manual".
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/major-cyberattack-disrupts-european-airports-the-cyber-security-hub-5sqpe)
+
 <br> **2025.09.19 [SEC] Segurança de identidade**
 <br> Artigo sobre a lacuna de segurança de identidade e acesso relacionadas ao código.
 <br> Disponível [aqui](https://www.linkedin.com/comm/pulse/identity-security-gap-on-demand-the-cyber-security-hub-mkehe)
