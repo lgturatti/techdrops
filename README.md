@@ -4,6 +4,10 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2025.09.21 [SEC] Cybersecurity Newsletter Weekly**
+<br> Nesta semana, pesquisadores expuseram alianças ocultas entre grupos de ransomware e vulnerabilidades em larga escala que afetam sistemas de telecomunicações e  corporativos. Grandes violações de dados em serviços financeiros e marcas de luxo destacaram ameaças internas e riscos na cadeia de suprimentos, enquanto prisões de hackers do Scattered Spider sinalizaram raras vitórias policiais. Confira na publicação as vulnerabilidades destacadas dentre outras notícias. 
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/cybersecurity-newsletter-weekly-shai-halud-attack-ivanti-31mxc)
+
 <br> **2025.09.20 [SEC] Ataque cibernético interrompe aeroportos europeus**
 <br> O alvo foi a Collins Aerospace, empresa americana especializada em soluções de tecnologia para aviação. A empresa fornece infraestrutura crítica para sistemas de processamento de passageiros usados ​​por diversas companhias aéreas em todo o mundo, o que significa que mesmo uma breve interrupção pode repercutir em todos os continentes. Segundo comunicado da empresa: "O impacto se limita ao check-in eletrônico de clientes e ao despacho de bagagem e pode ser mitigado com operações de check-in manual".
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/major-cyberattack-disrupts-european-airports-the-cyber-security-hub-5sqpe)
