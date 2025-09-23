@@ -4,6 +4,10 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2025.09.23 [SEC] Novo recorde de bloqueio de ataque DDoS**
+<br> O ataque hipervolumétrico atingiu um pico sem precedentes de 22,2 terabits por segundo (Tbps) e 10,6 bilhões de pacotes por segundo (Bpps), estabelecendo um novo e alarmante padrão para a escala de ameaças cibernéticas.
+<br> Publicado [aqui](https://cybersecuritynews.com/ddos-attack-world-record/)
+
 <br> **2025.09.21 [SEC] Cybersecurity Newsletter Weekly**
 <br> Nesta semana, pesquisadores expuseram alianças ocultas entre grupos de ransomware e vulnerabilidades em larga escala que afetam sistemas de telecomunicações e  corporativos. Grandes violações de dados em serviços financeiros e marcas de luxo destacaram ameaças internas e riscos na cadeia de suprimentos, enquanto prisões de hackers do Scattered Spider sinalizaram raras vitórias policiais. Confira na publicação as vulnerabilidades destacadas dentre outras notícias. 
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/cybersecurity-newsletter-weekly-shai-halud-attack-ivanti-31mxc)
