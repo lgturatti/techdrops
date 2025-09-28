@@ -4,6 +4,26 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2025.09.28 [SEC] Cybersecurity News**
+<br> Resumo com as notícias de 22 a 28 de setembro.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/cybersecurity-newsletter-weekly-chrome-0-day-222-tbps-qfcnc)
+
+<br> **2025.09.28 [SEC] Falso instalador do Teams**
+<br> Graças às regras de Redução da Superfície de Ataque (ASR) do Microsoft Defender foi impedido que o malware estabelecesse comunicação com seu servidor de comando e controle (C2), neutralizando efetivamente a ameaça antes que o roubo de dados ou a implantação de payloads adicionais pudessem ocorrer. Essa nova onda de ataques faz com que os agentes de ameaças utilizem técnicas de envenenamento de SEO e anúncios em mecanismos de busca para induzir usuários desavisados ​​a baixar instaladores falsos do Microsoft Teams. Esses downloads enganosos acabam infectando sistemas Windows com o backdoor Oyster, proporcionando aos invasores uma entrada em ambientes corporativos.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/sophisticated-campaign-targets-microsoft-teams-irk6e)
+
+<br> **2025.09.25 [SEC] Cisco Patches**
+<br> A atualização de segurança corrige 14 vulnerabilidades críticas, incluindo falhas de dia zero. São reparadas as plataformas de software iOS e iOS XE. É necessária a correção imediata para organizações que dependem da infraestrutura de rede da Cisco.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/cisco-patches-14-security-vulnerabilities-including-wcdae)
+
+<br> **2025.09.24 [SEC] Kali Linux 25.3**
+<br> Dentre as atualizações, vale destacar o suporte ao Nexmon — um firmware "corrigido" para chipsets sem fio específicos. Essa melhoria habilita o modo monitor e o modo de injeção no Wi-Fi integrado do Raspberry Pi, expandindo significativamente suas capacidades sem fio.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/kali-linux-20253-released-vagrant-nexmon-introducing-opebe)
+
+<br> **2025.09.23 [SEC] Vulnerabilidade crítica no SolarWinds**
+<br> A SolarWinds emitiu um aviso de segurança urgente sobre uma vulnerabilidade crítica de execução remota de código (RCE) em sua plataforma Web Help Desk (WHD), alertando os clientes sobre uma falha ativamente explorável que pode permitir que invasores não autenticados obtenham controle total sobre os sistemas afetados.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/warning-critical-solarwinds-web-help-desk-vulnerability-e3bje)
+
 <br> **2025.09.23 [SEC] Novo recorde de bloqueio de ataque DDoS**
 <br> O ataque hipervolumétrico atingiu um pico sem precedentes de 22,2 terabits por segundo (Tbps) e 10,6 bilhões de pacotes por segundo (Bpps), estabelecendo um novo e alarmante padrão para a escala de ameaças cibernéticas.
 <br> Publicado [aqui](https://cybersecuritynews.com/ddos-attack-world-record/)
