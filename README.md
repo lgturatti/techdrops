@@ -4,6 +4,18 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2025.09.30 [SEC] VMware sob ataque de dia zero**
+<br> Um usuário sem privilégios administrativos em uma VM  (ou seja, um usuário local sem privilégios) pode explorar a falha (quando o VMware Tools é instalado e gerenciado via Aria Ops com o módulo SDMP/descoberta de serviço habilitado). A falha permite escalar para acesso como administrador na mesma VM. Maiores detalhes na publicação.
+<br> Publicado [aqui](https://www.linkedin.com/pulse/warning-vmware-zero-day-under-attack-china-linked-6an3e)
+
+<br> **2025.09.29 [SEC] Maior esquema de lavagem de dinheiro com criptomoedas**
+<br> Uma estelionatária chinesa aplicou uma fraude de investimento entre 2014 a 2017 que alcançou mais de 128.000 pessoas, alegando que estava envolvida na mineração de bitcoin. A prisão da pessoa e cúmplice em outubro de 2018 recolheu 61.000 Bitcoins, algo em torno de 5 bilhões em libras esterlinas. Estima-se que a fraude foi de 5.5 bilhões.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/yadi-zhang-worlds-largest-cryptocurrency-laundering-xuube)
+
+<br> **2025.09.29 [SEC] Salvem a coroa**
+<br> O governo do Reino Unido concederá garantia de empréstimo de £ 1,5 bilhão à Jaguar Land Rover após ataque cibernético devastador. O ataque paralisou as linhas de produção por quase um mês. O empréstimo será pago em cinco anos e reforçará as reservas de caixa da JLR para que ela possa dar suporte à sua cadeia de suprimentos, que foi fortemente impactada pela paralisação. O apoio financeiro foi cedido para proteger milhares de empregos e estabilizar a rede de fornecedores de pequeno e médio porte que formam a espinha dorsal do setor automotivo britânico.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/uk-government-underwrite-15-billion-loan-guarantee-5dj6e)
+
 <br> **2025.09.28 [SEC] Cybersecurity News**
 <br> Resumo com as notícias de 22 a 28 de setembro.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/cybersecurity-newsletter-weekly-chrome-0-day-222-tbps-qfcnc)
