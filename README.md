@@ -4,6 +4,10 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2025.10.02 [SEC] RedHat confirma vazamento de dados**
+<br> Foi investigada e comprovada a alegação do coletivo Crimson, divulgado em 24 de setembro, sobre o acesso não autorizado. Maiores detalhes na publicação.
+<br> Publicado [aqui](https://www.linkedin.com/pulse/red-hat-confirms-major-data-breach-the-cyber-security-hub-cf9re)
+
 <br> **2025.10.01 [SEC] Google Drive apresenta detecção de ransomware por IA**
 <br> Em resposta à ameaça persistente, o Google anunciou uma atualização significativa em sua plataforma de armazenamento em nuvem: a implementação da detecção de ransomware com tecnologia de IA no Google Drive para desktop. O novo recurso foi projetado para interromper automaticamente a sincronização de arquivos quando um ransomware é detectado, ajudando os usuários a evitar que os arquivos infectados se espalhem para a nuvem. Assim que o problema for resolvido, os usuários podem restaurar seus arquivos com apenas alguns cliques.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/google-drive-introduces-ai-ransomware-detection-omtie)
