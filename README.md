@@ -4,6 +4,21 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2025.10.10 [SEC] BreachForums Encerado pelo FBI**
+<br> Esta remoção de website representa mais um grande golpe na luta contra o grupo cibercriminoso ShinyHunters e seus afiliados, que agora operam sob o nome Scattered Lapsus$ Hunters. A ação mais recente ressalta a luta contínua para desmantelar um ecossistema resiliente de vazamento de dados.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/fbi-takes-down-breachforums-notorious-cybercrime-r4g1e)
+
+<br> **2025.10.09 [SEC] Vulnerabilidades no CrowdStrike Falcon**
+<br> A empresa afirmou que as vulnerabilidades recentes não podem ser usadas para obter acesso inicial ou executar código remotamente, mas elas podem ampliar significativamente os danos após uma violação, permitindo que invasores excluam arquivos críticos do sistema ou de segurança. Atualizações já foram disponibilizadas.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/crowdstrike-falcon-windows-sensor-vulnerabilities-9qqxe)
+
+<br> **2025.10.09 [SEC] Safeline: um firewall gratuito**
+<br> A aplicação é gratuita para uso pessoal e tem um custo bem acessível para empresas. Trabalha em sistemas baseados em Linux. 
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/safeline-free-zero-trust-web-application-firewall-2026-jbk7c)
+<br> Disponível [aqui](https://github.com/chaitin/SafeLine)
+
+
+
 <br> **2025.10.02 [SEC] RedHat confirma vazamento de dados**
 <br> Foi investigada e comprovada a alegação do coletivo Crimson, divulgado em 24 de setembro, sobre o acesso não autorizado. Maiores detalhes na publicação.
 <br> Publicado [aqui](https://www.linkedin.com/pulse/red-hat-confirms-major-data-breach-the-cyber-security-hub-cf9re)
