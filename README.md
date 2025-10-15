@@ -4,6 +4,18 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2025.10.14 [SEC] Atualizações Microsoft**
+<br> Fim do suporte ao Windows 10 hoje e as atualizações de outubro corrigem mais de 170 vulnerabilidades, incluindo várias falhas de dia zero.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/microsoft-september-2025-patch-tuesday-fixes-170-kndae) e [aqui](https://www.linkedin.com/comm/pulse/microsoft-october-2025-patch-tuesday-4-zero-days-172-ag9ec)
+
+<br> **2025.10.12 [SEC] Cybersecurity Newsletter Weekly**
+<br> Resumo das notícias de 06 a 10 de outubro.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/cybersecurity-newsletter-weekly-discord-red-hat-data-wa6zc)
+
+<br> **2025.10.12 [SEC] SonicWall SSL VPN dob ataque**
+<br> A onda de ataques explora uma vulnerabilidade que torna-se especialmente perigosa quando contas de usuários locais (por exemplo, contas administrativas ou de VPN SSL) são transferidas durante a migração do firewall da Geração 6 para a Geração 7 sem a redefinição de senhas. Os invasores podem explorar a confiança residual nessas contas inalteradas.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/warning-sonicwall-under-attack-following-breach-0tx3e)
+
 <br> **2025.10.10 [SEC] BreachForums Encerado pelo FBI**
 <br> Esta remoção de website representa mais um grande golpe na luta contra o grupo cibercriminoso ShinyHunters e seus afiliados, que agora operam sob o nome Scattered Lapsus$ Hunters. A ação mais recente ressalta a luta contínua para desmantelar um ecossistema resiliente de vazamento de dados.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/fbi-takes-down-breachforums-notorious-cybercrime-r4g1e)
