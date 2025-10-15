@@ -4,6 +4,10 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2025.10.15 [SEC] Cibersegurança UK**
+<br> O Centro Nacional de Segurança Cibernética (NCSC) do Reino Unido divulgou sua revisão anual de 2025 e revela uma dura realidade: as ameaças cibernéticas estão crescendo mais rápido do que nunca — e ações decisivas são necessárias agora. Foi constatado aumento de 50% em relação a quantidade de ataques comparada ao período anterior e as autoridades estão convocando todas as organizações a preparar planos de contingência para a possibilidade de apagão digital. É necessária ação imediata e postura defensiva.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/ncsc-annual-review-2025-time-act-now-the-cyber-security-hub-7pq8e)
+
 <br> **2025.10.14 [SEC] Atualizações Microsoft**
 <br> Fim do suporte ao Windows 10 hoje e as atualizações de outubro corrigem mais de 170 vulnerabilidades, incluindo várias falhas de dia zero.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/microsoft-september-2025-patch-tuesday-fixes-170-kndae) e [aqui](https://www.linkedin.com/comm/pulse/microsoft-october-2025-patch-tuesday-4-zero-days-172-ag9ec)
