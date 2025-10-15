@@ -4,6 +4,11 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2025.10.15 [INFO] Atualização do CNPJ**
+<br> O novo número de identificação do CNPJ terá 14 posições. Essa mudança não afetará os CNPJs já existentes. No novo código os oito primeiros caracteres identificarão a raiz do novo número, composto por letras e números. Os quatro caracteres seguintes representarão a ordem do estabelecimento, também alfanuméricos. As duas últimas posições, que correspondem aos dígitos verificadores, continuarão a ser numéricas.
+<br> Embora a rotina de cálculo do dígito verificador (DV) seja ajustada, a fórmula de cálculo pelo módulo 11 seguirá sendo utilizada. 
+<br> Documentação e exemplos [aqui](https://www.gov.br/receitafederal/pt-br/centrais-de-conteudo/publicacoes/documentos-tecnicos/cnpj)
+
 <br> **2025.10.15 [SEC] Cibersegurança UK**
 <br> O Centro Nacional de Segurança Cibernética (NCSC) do Reino Unido divulgou sua revisão anual de 2025 e revela uma dura realidade: as ameaças cibernéticas estão crescendo mais rápido do que nunca — e ações decisivas são necessárias agora. Foi constatado aumento de 50% em relação a quantidade de ataques comparada ao período anterior e as autoridades estão convocando todas as organizações a preparar planos de contingência para a possibilidade de apagão digital. É necessária ação imediata e postura defensiva.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/ncsc-annual-review-2025-time-act-now-the-cyber-security-hub-7pq8e)
