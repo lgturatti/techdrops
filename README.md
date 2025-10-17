@@ -4,6 +4,10 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2025.10.16 [SEC] Vulnerabilidade SNMP da Cisco**
+<br> Pesquisadores da Trend Micro revelaram os detalhes de uma nova e sofisticada campanha cibernética denominada Operação Zero Disco, que explora uma vulnerabilidade recentemente divulgada nos softwares Cisco IOS e IOS XE para comprometer infraestruturas de rede obsoletas. Os invasores estariam explorando essa falha para implantar rootkits baseados em Linux em dispositivos desprotegidos ou em fim de vida útil, garantindo acesso furtivo e de longo prazo a ambientes corporativos
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/threat-actors-exploit-cisco-snmp-vulnerability-kvpse)
+
 <br> **2025.10.15 [INFO] Atualização do CNPJ**
 <br> O novo número de identificação do CNPJ terá 14 posições. Essa mudança não afetará os CNPJs já existentes. No novo código os oito primeiros caracteres identificarão a raiz do novo número, composto por letras e números. Os quatro caracteres seguintes representarão a ordem do estabelecimento, também alfanuméricos. As duas últimas posições, que correspondem aos dígitos verificadores, continuarão a ser numéricas.
 <br> Embora a rotina de cálculo do dígito verificador (DV) seja ajustada, a fórmula de cálculo pelo módulo 11 seguirá sendo utilizada. 
