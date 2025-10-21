@@ -4,6 +4,14 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2025.10.19 [UPD] Falha na atualização do Windows 11**
+<br> A atualização KB5066835 para a compilação 26100.6899 do sistema operacional tornou teclados e mouses USB inoperantes no Ambiente de Recuperação do Windows (WinRE). A falha surgiu logo após a instalação, impedindo os usuários de navegar pelas opções de recuperação durante a solução de problemas do sistema.
+<br> Publicado [aqui](https://cybersecuritynews.com/windows-11-24h2-25h2-update-blocks-recovery/)
+
+<br> **2025.10.19 [SEC] Volkswagen nega ataque de ransomware**
+<br> O grupo 8Base é conhecido por listou os dados roubados em seu site na dark web, incluindo faturas, recibos, documentos contábeis, arquivos pessoais de funcionários, contratos de trabalho, certificados, registros pessoais e diversos acordos de confidencialidade. Essa suposta alegação pode abranger registros financeiros e informações pessoais confidenciais das operações globais da Volkswagen, abrangendo marcas como Audi, Porsche, Bentley, Lamborghini, Skoda, SEAT e Cupra.
+<br> Publicado [aqui](https://cybersecuritynews.com/volkswagen-ransomware-attack/)
+
 <br> **2025.10.16 [SEC] Vulnerabilidade SNMP da Cisco**
 <br> Pesquisadores da Trend Micro revelaram os detalhes de uma nova e sofisticada campanha cibernética denominada Operação Zero Disco, que explora uma vulnerabilidade recentemente divulgada nos softwares Cisco IOS e IOS XE para comprometer infraestruturas de rede obsoletas. Os invasores estariam explorando essa falha para implantar rootkits baseados em Linux em dispositivos desprotegidos ou em fim de vida útil, garantindo acesso furtivo e de longo prazo a ambientes corporativos
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/threat-actors-exploit-cisco-snmp-vulnerability-kvpse)
