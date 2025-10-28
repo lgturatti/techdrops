@@ -4,6 +4,10 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2025.10.28 [SEC] Chrome sofre novo ataque**
+<br> A falha compromete o navegador em versões anteriores a 134.0.6998.177; permitindo que o invasor execute código arbitrário através de um arquivo malicioso, foram do sandbox. Dessa forma é possível acessar diretamente o computador.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/chrome-browser-hit-sophisticated-zero-day-spyware-203he)
+
 <br> **2025.10.22 [SEC] Novo kit de phishing**
 <br> O Tykit demonstra maturidade por meio de técnicas consistentes de ofuscação e interações de comando e controle (C2) em vários estágios, tornando-se uma ferramenta potente para roubo de credenciais em organizações globais. A ascensão do kit se alinha a um aumento em ataques baseados em SVG, nos quais arquivos de imagem aparentemente inofensivos incorporam payloads JavaScript que redirecionam as vítimas para sites de login falsos, com objetivo de roubar credenciais de contas corporativas.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/new-tykit-phishing-kit-mimics-microsoft-365-login-pages-svaae)
