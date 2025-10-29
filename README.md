@@ -5,7 +5,7 @@
 Latest news are at top / Notícias mais recentes no topo
 ```
 <br> **2025.10.28 [SEC] Chrome sofre novo ataque**
-<br> A falha compromete o navegador em versões anteriores a 134.0.6998.177; permitindo que o invasor execute código arbitrário através de um arquivo malicioso, foram do sandbox. Dessa forma é possível acessar diretamente o computador.
+<br> A falha compromete o navegador em versões anteriores a 134.0.6998.177; permitindo que o invasor execute código arbitrário através de um arquivo malicioso, fora do sandbox. Dessa forma é possível acessar diretamente o computador.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/chrome-browser-hit-sophisticated-zero-day-spyware-203he)
 
 <br> **2025.10.22 [SEC] Novo kit de phishing**
