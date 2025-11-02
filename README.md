@@ -4,6 +4,18 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2025.11.02 [SEC] Cybersecurity News**
+<br> Notícias de 27.out a 02.nov
+<br> Publicado [aqui](https://www.linkedin.com/pulse/cybersecurity-news-weekly-newsletter-ey-data-leak-bind-mi5rc)
+
+<br> **2025.11.02 [SEC] Cisco ASA Scan&Exploit**
+<br> Observou-se que equipamentos em final de vida/suporte são alvos de ataque chinês desde o mês de outubro, em busca de sistemas desatualizados. Esses equipamentos são geralmente usados por governos e empresas de grande porte.
+<br> Publicado [aqui](https://www.linkedin.com/pulse/warning-chinese-threat-actors-continue-scan-exploit-epioe)
+
+<br> **2025.11.01 [SEC] Database exposed**
+<br> Foi detectada a exposição de 4 terabytes de dados pertencente à Ernst & Young (EY), acessíveis publicamente  através do Microsoft Azure Storage devido à falhas de configuração; disponível como um arquivo de backup do SQL Server.
+<br> Publicado [aqui](https://www.linkedin.com/pulse/ernst-young-ey-exposes-4tb-database-online-what-qypre)
+
 <br> **2025.10.28 [SEC] Chrome sofre novo ataque**
 <br> A falha compromete o navegador em versões anteriores a 134.0.6998.177; permitindo que o invasor execute código arbitrário através de um arquivo malicioso, fora do sandbox. Dessa forma é possível acessar diretamente o computador.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/chrome-browser-hit-sophisticated-zero-day-spyware-203he)
