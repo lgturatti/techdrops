@@ -16,6 +16,14 @@ Latest news are at top / Notícias mais recentes no topo
 <br> Foi detectada a exposição de 4 terabytes de dados pertencente à Ernst & Young (EY), acessíveis publicamente  através do Microsoft Azure Storage devido à falhas de configuração; disponível como um arquivo de backup do SQL Server.
 <br> Publicado [aqui](https://www.linkedin.com/pulse/ernst-young-ey-exposes-4tb-database-online-what-qypre)
 
+<br> **2025.10.31 [SEC] Ransomware Medusa**
+<br> Em função da escala deste ataque ter dobrado a cada ano, foi elaborado um manual de resposta a essa ameaça, disponível no link da publicação.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/medusa-ransomware-response-playbook-2025-the-cyber-security-hub-ofupe)
+
+<br> **2025.10.30 [SEC] Guia sobre segurança no Microsoft Exchange Server**
+<br> Quatro das principais agências de cibersegurança do mundo divulgaram um guia com as melhores práticas para proteger servidores Microsoft Exchange locais. O relatório surge em meio à contínua exploração global de vulnerabilidades.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/nsa-international-cyber-agencies-release-guidance-o9qie)
+
 <br> **2025.10.28 [SEC] Chrome sofre novo ataque**
 <br> A falha compromete o navegador em versões anteriores a 134.0.6998.177; permitindo que o invasor execute código arbitrário através de um arquivo malicioso, fora do sandbox. Dessa forma é possível acessar diretamente o computador.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/chrome-browser-hit-sophisticated-zero-day-spyware-203he)
