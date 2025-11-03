@@ -24,6 +24,10 @@ Latest news are at top / Notícias mais recentes no topo
 <br> Quatro das principais agências de cibersegurança do mundo divulgaram um guia com as melhores práticas para proteger servidores Microsoft Exchange locais. O relatório surge em meio à contínua exploração global de vulnerabilidades.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/nsa-international-cyber-agencies-release-guidance-o9qie)
 
+<br> **2025.10.29 [SEC] Apagão no Azure**
+<br> Após a falha na AWS, agora foi a vez da Microsoft. Segundo a empresa, um erro de configuração no Azure Front Door  (sistema que distribui o tráfego entre servidores) causou pane global e afetou Microsoft 365, Xbox e companhias aéreas por cerca de oito horas.
+<br> Publicado [aqui](https://xpert.digital/pt/o-erro-de-16-bilhoes-de-dolares/) e [aqui](https://www.reuters.com/technology/microsoft-azure-down-thousands-users-downdetector-shows-2025-10-29/)
+
 <br> **2025.10.28 [SEC] Chrome sofre novo ataque**
 <br> A falha compromete o navegador em versões anteriores a 134.0.6998.177; permitindo que o invasor execute código arbitrário através de um arquivo malicioso, fora do sandbox. Dessa forma é possível acessar diretamente o computador.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/chrome-browser-hit-sophisticated-zero-day-spyware-203he)
