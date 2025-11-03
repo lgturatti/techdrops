@@ -40,6 +40,10 @@ Latest news are at top / Notícias mais recentes no topo
 <br> O AWS CloudTrail é um gravador de eventos, não um respondedor. Ele é essencial para auditoria e perícia, mas, por si só, não impede que invasores se movam, escalem e infiltrem na velocidade da nuvem. A lista de verificação disponivel neste artigo auxilia a identificar se sua equipe é reativa (busca de logs) ou proativa (detecção em tempo real + resposta automatizada). Use-a para comparar sua configuração atual, identificar lacunas e priorizar correções.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/aws-cloudtrail-checklist-spot-risk-before-attackers-vzu4e)
 
+<br> **2025.10.20 [SEC] Apagão na AWS**
+<br> A AWS informou que o problema teve relação com o seu serviço de banco de dados DynamoDB em data centers na Virgínia, nos Estados Unidos (us-east-1). Segundo a agência Reuters, mais de 500 empresas que usam a AWS enfrentaram problemas. Entre elas, estão a própria Amazon e a assistente virtual Alexa, além de iFood, Mercado Livre, Mercado Pago, PicPay, entre outras.
+<br> Publicado [aqui](https://www.reuters.com/business/retail-consumer/amazon-cloud-outage-online-services-hit-recovery-uneven-2025-10-20/) e [aqui](https://aws.amazon.com/pt/message/101925/)
+
 <br> **2025.10.19 [UPD] Falha na atualização do Windows 11**
 <br> A atualização KB5066835 para a compilação 26100.6899 do sistema operacional tornou teclados e mouses USB inoperantes no Ambiente de Recuperação do Windows (WinRE). A falha surgiu logo após a instalação, impedindo os usuários de navegar pelas opções de recuperação durante a solução de problemas do sistema.
 <br> Publicado [aqui](https://cybersecuritynews.com/windows-11-24h2-25h2-update-blocks-recovery/)
