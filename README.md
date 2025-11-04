@@ -4,6 +4,10 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2025.11.03 [W11] Atualização quebrada**
+<br> A atualização, KB5067036, está mantendo o Gerenciador de Tarefas em execução em segundo plano mesmo após o fechamento do aplicativo. O problema foi reconhecido pela Microsoft, que evidenciou que essa é uma atualização opcional, projetada para melhorar a funcionalidade, o desempenho e a confiabilidade em todos os sistemas Windows 11.
+<br> Publicado [aqui](https://cybersecuritynews.com/windows-11-update-task-manager/)
+
 <br> **2025.11.02 [SEC] Cybersecurity News**
 <br> Notícias de 27.out a 02.nov
 <br> Publicado [aqui](https://www.linkedin.com/pulse/cybersecurity-news-weekly-newsletter-ey-data-leak-bind-mi5rc)
