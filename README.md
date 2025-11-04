@@ -4,6 +4,11 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2025.11.04 [SEC] Vulnerabilidade no Android**
+<br> O Google emitiu um alerta de segurança destacando uma grave vulnerabilidade de execução remota de código (RCE) em componentes essenciais do sistema, que poderia permitir que invasores executassem código malicioso remotamente sem qualquer interação do usuário. A preocupação com os dispositivos é a presença de credenciais bancárias e comunicações pessoais.
+<br> Apesar de ser uma falha no sistema Android, o Google tenta causar maior ruído insinuando que invasores poderiam explorá-la por meio de pacotes de rede manipulados ou aplicativos maliciosos distribuídos por meio de sideloads ou lojas de terceiros. Mais uma vez criando um contexto de pânico para impor maiores restrições no ecossistema Android. 
+<br> Publicado [aqui](https://cybersecuritynews.com/android-0-click-rce-vulnerability/)
+
 <br> **2025.11.03 [W11] Atualização quebrada**
 <br> A atualização, KB5067036, está mantendo o Gerenciador de Tarefas em execução em segundo plano mesmo após o fechamento do aplicativo. O problema foi reconhecido pela Microsoft, que evidenciou que essa é uma atualização opcional, projetada para melhorar a funcionalidade, o desempenho e a confiabilidade em todos os sistemas Windows 11.
 <br> Publicado [aqui](https://cybersecuritynews.com/windows-11-update-task-manager/)
