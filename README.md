@@ -17,6 +17,10 @@ Latest news are at top / Notícias mais recentes no topo
 <br> Notícias de 27.out a 02.nov
 <br> Publicado [aqui](https://www.linkedin.com/pulse/cybersecurity-news-weekly-newsletter-ey-data-leak-bind-mi5rc)
 
+<br> **2025.11.02 [SEC] Windows Defender **
+<br> Uma versão atualizada da ferramenta EDR-Redir(V2), projetada para burlar sistemas de Detecção e Resposta de Endpoint (EDR) explorando a tecnologia de vinculação de diretórios do Windows de uma maneira inovadora. Esta versão tem como alvo os diretórios raiz das instalações do EDR, como a pasta Arquivos de Programas, para criar loops de redirecionamento que ocultam o software de segurança sem interromper os aplicativos legítimos. É feito o redirecionamento de subpastas de volta para si mesmas, enquanto isola o caminho do EDR para manipulação. A ferramenta utiliza o driver bindflt.sys sem privilégios de kernel.
+<br> Publicado [aqui](https://cybersecuritynews.com/edr-redir-v2-blinds-windows-defender/)
+
 <br> **2025.11.02 [SEC] Cisco ASA Scan&Exploit**
 <br> Observou-se que equipamentos em final de vida/suporte são alvos de ataque chinês desde o mês de outubro, em busca de sistemas desatualizados. Esses equipamentos são geralmente usados por governos e empresas de grande porte.
 <br> Publicado [aqui](https://www.linkedin.com/pulse/warning-chinese-threat-actors-continue-scan-exploit-epioe)
