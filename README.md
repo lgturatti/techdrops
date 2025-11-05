@@ -4,6 +4,19 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2025.11.04 [SEC] Atualização emergencial da Apple**
+<br> Atualizações para iOS 26.1 visam corrigir diversas vulnerabilidades de alto risco que poderiam permitir que agentes maliciosos explorassem processos essenciais do sistema, comprometessem dados do usuário e degradassem o desempenho do dispositivo. Entre as falhas mais alarmantes corrigidas nesta atualização estão aquelas que afetam o Apple Neural Engine (ANE) — o hardware especializado responsável pelas tarefas de aprendizado de máquina em dispositivos Apple.
+<br> Publicado [aqui](https://www.linkedin.com/pulse/apple-issues-emergency-security-update-multiple-6vkfe)
+e [aqui](https://cybersecuritynews.com/apple-patches-critical-vulnerabilities/)
+
+<br> **2025.11.04 [SEC] PuTTY e Teams ADS modificados para distribuir malware**
+<br> Uma campanha contínua de publicidade maliciosa está utilizando downloads legítimos de software para implantar o malware OysterLoader, anteriormente identificado como Broomstick e CleanUpLoader. Ela permite que cibercriminosos estabeleçam pontos de entrada em redes corporativas, servindo como mecanismo de distribuição para o notório grupo de ransomware Rhysida.
+<br> Publicado [aqui](https://cybersecuritynews.com/weaponized-putty-and-teams-ads/)
+
+<br> **2025.11.04 [SEC] Microsoft TEAMS Exploit**
+<br> A plataforma essencial para a comunicação no ambiente de trabalho de mais de 320 milhões de usuários em todo o mundo, permitiam que invasores se passassem por executivos e adulterassem mensagens sem serem detectados. Essas vulnerabilidades, agora corrigidas, permitiam que tanto convidados externos quanto funcionários falsificassem identidades em chats, notificações e chamadas, podendo levar a fraudes, distribuição de malware e desinformação.
+<br> Publicado [aqui](https://cybersecuritynews.com/microsoft-teams-vulnerabilities/)
+
 <br> **2025.11.04 [SEC] Vulnerabilidade no Android**
 <br> O Google emitiu um alerta de segurança destacando uma grave vulnerabilidade de execução remota de código (RCE) em componentes essenciais do sistema, que poderia permitir que invasores executassem código malicioso remotamente sem qualquer interação do usuário. A preocupação com os dispositivos é a presença de credenciais bancárias e comunicações pessoais.
 <br> Apesar de ser uma falha no sistema Android, o Google tenta causar maior ruído insinuando que invasores poderiam explorá-la por meio de pacotes de rede manipulados ou aplicativos maliciosos distribuídos por meio de sideloads ou lojas de terceiros. Mais uma vez criando um contexto de pânico para impor maiores restrições no ecossistema Android. 
