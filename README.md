@@ -51,6 +51,10 @@ e [aqui](https://cybersecuritynews.com/apple-patches-critical-vulnerabilities/)
 <br> Foi detectada a exposição de 4 terabytes de dados pertencente à Ernst & Young (EY), acessíveis publicamente  através do Microsoft Azure Storage devido à falhas de configuração; disponível como um arquivo de backup do SQL Server.
 <br> Publicado [aqui](https://www.linkedin.com/pulse/ernst-young-ey-exposes-4tb-database-online-what-qypre)
 
+<br> **2025.10.31 [SEC] Linux rootkit**
+<br> Um rootkit sofisticado para o kernel Linux, projetado para burlar as defesas do Elastic Security, uma plataforma líder em Detecção e Resposta de Endpoints (EDR) foi compartilhado no github. Embora apresentado estritamente para fins educacionais, o Singularity destaca os desafios crescentes na detecção de ameaças em nível de kernel, podendo fornecer informações úteis tanto para atacantes quanto para defensores na corrida armamentista da segurança cibernética.
+<br> Publicado [aqui](https://cybersecuritynews.com/singularity-linux-rootkit-evades-elastic-edr/)
+
 <br> **2025.10.31 [SEC] Ransomware Medusa**
 <br> Em função da escala deste ataque ter dobrado a cada ano, foi elaborado um manual de resposta a essa ameaça, disponível no link da publicação.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/medusa-ransomware-response-playbook-2025-the-cyber-security-hub-ofupe)
