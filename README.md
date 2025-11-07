@@ -9,6 +9,10 @@ Latest news are at top / Notícias mais recentes no topo
 <br> O convidado entra como visitante por e-mail, possibilitando uma comunicação externa perfeita em dispositivos Android, desktop, iOS, Linux e Mac. Embora tenha como objetivo promover flexibilidade no trabalho, esse recurso ativado por padrão amplia as brechas para golpes de phishing e infiltração de malware, podendo vazar dados confidenciais.
 <br> Publicado [aqui](https://cybersecuritynews.com/microsoft-teams-chat-with-anyone-feature/)
 
+<br> **2025.11.07 [SEC] Explorando falhas de EDR**
+<br> Pesquisadores de segurança conseguiram burlar a detecção de assinaturas de pilha de chamadas do Elastic EDR explorando uma técnica que envolve "gadgets de chamada" para contornar a análise comportamental da ferramenta de segurança. O Elastic EDR depende fortemente da análise da pilha de chamadas para identificar comportamentos maliciosos, principalmente para detectar quando operações sensíveis se originam de código em memória não armazenada em backup, carregado em tempo de execução, em vez de arquivos executáveis ​​no sistema de arquivos.
+<br> Publicado [aqui](https://cybersecuritynews.com/elastic-edr-evaded/)
+
 <br> **2025.11.06 [SEC] Vulnerabilidades CISCO**
 <br> A Cisco divulgou duas vulnerabilidades extremamente graves em sua solução de contact center, o Cisco Unified Contact Center Express (Unified CCX), que potencialmente permitem que invasores remotos não autenticados assumam o controle total dos sistemas afetados.
 <br> Publicado [aqui](https://www.linkedin.com/pulse/warning-critical-cisco-vulnerabilities-enables-vehre)
