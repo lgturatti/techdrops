@@ -4,6 +4,10 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2025.11.08 [SEC] Vulnerabilidades Samsung Galaxy**
+<br> Uma falha de dia zero foi aproveitada para incrementar uma campanha com spyware, ativa desde meados de 2024, para infiltração em celulares através de imagens aparentemente inofensivas compartilhadas no WhatsApp. Através dessa contaminação é possível realizar vigilância completa do dispositivo sem interação do usuário.
+<br> Publicado [aqui](https://cybersecuritynews.com/samsung-0-day-exploited-via-whatsapp/)
+
 <br> **2025.11.07 [SEC] Teams’ "Chat with Anyone"**
 <br> A próxima atualização do Microsoft Teams, com lançamentos programados para o início de novembro de 2025 e para todo o mundo até janeiro de 2026, permitirá que os usuários iniciem chats apenas com um endereço de e-mail, mesmo que o destinatário não seja usuário do Teams. Esse recurso levanta preocupações de segurança entre especialistas.
 <br> O convidado entra como visitante por e-mail, possibilitando uma comunicação externa perfeita em dispositivos Android, desktop, iOS, Linux e Mac. Embora tenha como objetivo promover flexibilidade no trabalho, esse recurso ativado por padrão amplia as brechas para golpes de phishing e infiltração de malware, podendo vazar dados confidenciais.
