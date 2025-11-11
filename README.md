@@ -4,6 +4,10 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2025.11.10 [SEC] Engenheiro copia arquivos secretos da Intel**
+<br> Um engenheiro demitido copiou cerca de 18.000 arquivos da empresa, dentre os quais continham informações classificadas como ultrasecretas. A Intel tentou contato com o ex-funcionário e abriu um processo para ressarcimento, mas o paradeiro de Jinfeng Luo permanece desconhecido. 
+<br> Publicado [aqui](https://cybersecuritynews.com/intel-engineer-stolen-confidential-files/)
+
 <br> **2025.11.08 [SEC] Vulnerabilidades Samsung Galaxy**
 <br> Uma falha de dia zero foi aproveitada para incrementar uma campanha com spyware, ativa desde meados de 2024, para infiltração em celulares através de imagens aparentemente inofensivas compartilhadas no WhatsApp. Através dessa contaminação é possível realizar vigilância completa do dispositivo sem interação do usuário.
 <br> Publicado [aqui](https://cybersecuritynews.com/samsung-0-day-exploited-via-whatsapp/)
