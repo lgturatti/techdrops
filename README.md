@@ -33,6 +33,10 @@ Latest news are at top / Notícias mais recentes no topo
 <br> A Cisco divulgou duas vulnerabilidades extremamente graves em sua solução de contact center, o Cisco Unified Contact Center Express (Unified CCX), que potencialmente permitem que invasores remotos não autenticados assumam o controle total dos sistemas afetados.
 <br> Publicado [aqui](https://www.linkedin.com/pulse/warning-critical-cisco-vulnerabilities-enables-vehre)
 
+<br> **2025.11.05 [SEC] Vulnerabilidades no ChatGPT**
+<br> A Tenable Research publicou um conjunto alarmante de descobertas em seu relatório “HackedGPT: Novas vulnerabilidades em IA abrem as portas para vazamento de dados privados”, revelando sete vulnerabilidades fundamentalmente graves na plataforma ChatGPT da OpenAI, que afetam tanto o GPT-4o quanto o recém-lançado GPT-5 e permitem que invasores extraiam dados privados de usuários.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/tenable-uncovers-critical-chatgpt-vulnerabilities-nif3e)
+
 <br> **2025.11.04 [SEC] Atualização emergencial da Apple**
 <br> Atualizações para iOS 26.1 visam corrigir diversas vulnerabilidades de alto risco que poderiam permitir que agentes maliciosos explorassem processos essenciais do sistema, comprometessem dados do usuário e degradassem o desempenho do dispositivo. Entre as falhas mais alarmantes corrigidas nesta atualização estão aquelas que afetam o Apple Neural Engine (ANE) — o hardware especializado responsável pelas tarefas de aprendizado de máquina em dispositivos Apple.
 <br> Publicado [aqui](https://www.linkedin.com/pulse/apple-issues-emergency-security-update-multiple-6vkfe)
