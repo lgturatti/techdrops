@@ -4,6 +4,10 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2025.11.14 [SEC] Primeiro ataque cibernético com IA**
+<br> A Anthropic revelou uma operação cibernética em larga escala na qual um grupo de ameaças alinhado à China utilizou o modelo Claude Code para automatizar a exploração, a coleta de credenciais e a exfiltração de dados em aproximadamente 30 alvos globais. A IA foi usada não apenas para geração de código, mas também para sistematizar dados roubados e produzir registros operacionais — atividades tipicamente associadas a operadores humanos de intrusão.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/chinese-state-sponsored-threat-actors-used-anthropics-b2jae)
+
 <br> **2025.11.11 [SEC] Atualizações Microsoft**
 <br> Nesta atualização 63 CVEs corrigidos. Dentre as correções críticas estão 5 relacionadas a execução de código remoto e escala de privilégios. 
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/microsoft-november-2025-patch-tuesday-fixes-60-n1ade)
