@@ -4,6 +4,11 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2025.11.16 [SEC] OWASP MCP Terceirizado**
+<br> O Open Worldwide Application Security Project (OWASP) publicou: Um Guia Prático para o Uso Seguro de Servidores Model Context Protocol (MCP) de Terceiros versão 1.0.
+<br> O guia descreve os riscos de segurança exclusivos introduzidos pela conexão de modelos de IA a ferramentas e fontes de dados de terceiros, incluindo envenenamento de ferramentas, injeção de código, envenenamento de memória e interferência de ferramentas. Ele oferece medidas práticas de mitigação que abrangem autenticação, autorização, sandbox do cliente, descoberta segura de servidores e fluxos de trabalho de governança, enfatizando o princípio do menor privilégio e a supervisão humana.
+<br> Publicado [aqui](https://www.linkedin.com/pulse/owasp-releases-cheatsheet-practical-guide-securely-w5hpe)
+
 <br> **2025.11.14 [SEC] Primeiro ataque cibernético com IA**
 <br> A Anthropic revelou uma operação cibernética em larga escala na qual um grupo de ameaças alinhado à China utilizou o modelo Claude Code para automatizar a exploração, a coleta de credenciais e a exfiltração de dados em aproximadamente 30 alvos globais. A IA foi usada não apenas para geração de código, mas também para sistematizar dados roubados e produzir registros operacionais — atividades tipicamente associadas a operadores humanos de intrusão.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/chinese-state-sponsored-threat-actors-used-anthropics-b2jae)
