@@ -4,6 +4,10 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2025.11.18 [SEC] Vulnerabilidade FortiWeb WAF**
+<br> A vulnerabilidade permite que agentes maliciosos obtenham acesso administrativo a sistemas destinados a servir como defesa de linha de frente. Permite que invasores criem solicitações HTTP ou HTTPS maliciosas que burlam a autenticação e executam comandos administrativos diretamente no dispositivo.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/cisa-warns-active-exploitation-critical-fortiweb-to15e)
+
 <br> **2025.11.16 [SEC] OWASP MCP Terceirizado**
 <br> O Open Worldwide Application Security Project (OWASP) publicou: Um Guia Prático para o Uso Seguro de Servidores Model Context Protocol (MCP) de Terceiros versão 1.0.
 <br> O guia descreve os riscos de segurança exclusivos introduzidos pela conexão de modelos de IA a ferramentas e fontes de dados de terceiros, incluindo envenenamento de ferramentas, injeção de código, envenenamento de memória e interferência de ferramentas. Ele oferece medidas práticas de mitigação que abrangem autenticação, autorização, sandbox do cliente, descoberta segura de servidores e fluxos de trabalho de governança, enfatizando o princípio do menor privilégio e a supervisão humana.
