@@ -21,6 +21,10 @@ Latest news are at top / Notícias mais recentes no topo
 <br> Nesta atualização 63 CVEs corrigidos. Dentre as correções críticas estão 5 relacionadas a execução de código remoto e escala de privilégios. 
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/microsoft-november-2025-patch-tuesday-fixes-60-n1ade)
 
+<br> **2025.11.10 [TEC] Primeira versão do Unix em C**
+<br> Pesquisadores da Universidade de Utah encontraram uma fita magnética com o Unix V4, de 1973, a primeira versão escrita em C e considerada um marco na história da computação.
+<br> Publicado [aqui](https://tecnoblog.net/noticias/fita-com-primeira-versao-do-unix-em-c-e-encontrada-apos-mais-de-50-anos/)
+
 <br> **2025.11.10 [SEC] Anúncios Fraudulentos da Meta**
 <br> Registros internos da Meta revelam que até 10% de sua receita publicitária projetada para 2024 — aproximadamente US$ 16 bilhões — foi atribuída a anúncios classificados internamente como "golpes" ou "de alto risco", incluindo ofertas fraudulentas de comércio eletrônico, esquemas de investimento, jogos de azar online ilegais e produtos médicos proibidos.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/metas-multimillion-billion-dollar-scam-ad-problem-9fxie)
