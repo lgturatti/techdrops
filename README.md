@@ -4,6 +4,10 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2025.11.20 [SEC] Risco de segurança no Chrome**
+<br> A Agência de Segurança Cibernética e de Infraestrutura dos EUA (CISA) emitiu um alerta urgente sobre uma vulnerabilidade  de dia zero no navegador Google Chrome, que pode permitir a execução remota de código e violações de dados. O problema está relacionado ao tratamento de tipos de dados e corrupção da pilha de memória.
+<br> Publicado [aqui](https://cybersecuritynews.com/cisa-warns-chrome-0-day-vulnerability-exploited/)
+
 <br> **2025.11.18 [SEC] Vulnerabilidade FortiWeb WAF**
 <br> A vulnerabilidade permite que agentes maliciosos obtenham acesso administrativo a sistemas destinados a servir como defesa de linha de frente. Permite que invasores criem solicitações HTTP ou HTTPS maliciosas que burlam a autenticação e executam comandos administrativos diretamente no dispositivo.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/cisa-warns-active-exploitation-critical-fortiweb-to15e)
