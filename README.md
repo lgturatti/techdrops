@@ -4,6 +4,10 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2025.11.22 [SEC] API do WhatsApp vaza 3.5 bilhões de dados de usuários**
+<br> A falha é conhecida desde 2017 e a Meta não implementou uma solução robusta para controle desde então. 
+<br> Publicado [aqui](https://www.linkedin.com/pulse/critical-whatsapp-api-flaw-exposed-35-billion-phone-6ne5e)
+
 <br> **2025.11.22 [SEC] Cybersegurança Notícias de 14 a 20**
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/principais-not%C3%ADcias-de-ciberseguran%C3%A7a-da-semana-14-20-novembro-hdphf)
 
