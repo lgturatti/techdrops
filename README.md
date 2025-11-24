@@ -8,6 +8,9 @@ Latest news are at top / Notícias mais recentes no topo
 <br> A reportagem mostra as vulnerabilidades da telefonia e avanços desde o início do serviço telefônico até os dias atuais. Se o 5G fosse o único padrão vigente hoje, não haveria problema, mas o desligamento de redes 2G e 3G é inviável hoje.
 <br> Publicado [aqui](https://m.youtube.com/watch?v=BDMMWjKHFTA)
 
+<br> **2025.11.23 [SEC] Notícias de 17 a 23 de novembro**
+<br> Publicado [aqui](https://www.linkedin.com/pulse/cybersecurity-news-weekly-newsletter-fortinet-chrome-ymkhc)
+
 <br> **2025.11.23 [SEC] ENISA eleva participação no CVE**
 <br> A rede de segurança europeia (ENISA, European Network and Information Security Agency) assumiu nova condição, tornando-se "Raiz" no programa global CVE (Common Vulnerabilities and Exposures), originalmente denominado Common Vulnerability Enumeration, que fornece um método de referência para vulnerabilidades e exposições de segurança da informação publicamente conhecidas. Esses dados permitem a automação do gerenciamento de vulnerabilidades, da medição de segurança e da conformidade.
 <br> Publicado [aqui](https://www.linkedin.com/pulse/enisa-elevatated-cve-program-root-marking-milestone-ddqge)
