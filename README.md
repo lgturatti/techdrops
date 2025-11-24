@@ -4,6 +4,10 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2025.11.23 [SEC] SS7: A falha da telefonia**
+<br> A reportagem mostra as vulnerabilidades da telefonia e avanços desde o início do serviço telefônico até os dias atuais. Se o 5G fosse o único padrão vigente hoje, não haveria problema, mas o desligamento de redes 2G e 3G é inviável hoje.
+<br> Publicado [aqui](https://m.youtube.com/watch?v=BDMMWjKHFTA)
+
 <br> **2025.11.22 [SEC] API do WhatsApp vaza 3.5 bilhões de dados de usuários**
 <br> A falha é conhecida desde 2017 e a Meta não implementou uma solução robusta para controle desde então. 
 <br> Publicado [aqui](https://www.linkedin.com/pulse/critical-whatsapp-api-flaw-exposed-35-billion-phone-6ne5e)
