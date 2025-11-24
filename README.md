@@ -8,6 +8,10 @@ Latest news are at top / Notícias mais recentes no topo
 <br> A reportagem mostra as vulnerabilidades da telefonia e avanços desde o início do serviço telefônico até os dias atuais. Se o 5G fosse o único padrão vigente hoje, não haveria problema, mas o desligamento de redes 2G e 3G é inviável hoje.
 <br> Publicado [aqui](https://m.youtube.com/watch?v=BDMMWjKHFTA)
 
+<br> **2025.11.23 [SEC] ENISA eleva participação no CVE**
+<br> A rede de segurança europeia (ENISA, European Network and Information Security Agency) assumiu nova condição, tornando-se "Raiz" no programa global CVE (Common Vulnerabilities and Exposures), originalmente denominado Common Vulnerability Enumeration, que fornece um método de referência para vulnerabilidades e exposições de segurança da informação publicamente conhecidas. Esses dados permitem a automação do gerenciamento de vulnerabilidades, da medição de segurança e da conformidade.
+<br> Publicado [aqui](https://www.linkedin.com/pulse/enisa-elevatated-cve-program-root-marking-milestone-ddqge)
+
 <br> **2025.11.22 [SEC] API do WhatsApp vaza 3.5 bilhões de dados de usuários**
 <br> A falha é conhecida desde 2017 e a Meta não implementou uma solução robusta para controle desde então. 
 <br> Publicado [aqui](https://www.linkedin.com/pulse/critical-whatsapp-api-flaw-exposed-35-billion-phone-6ne5e)
