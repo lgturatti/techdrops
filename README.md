@@ -4,6 +4,10 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2025.11.23 [COM] O verdadeiro motivo pelo qual a criptografia de ponta a ponta é permitida**
+<br> Explicação sobre o porque a criptografia usada não interfere nas formas de controle e monitoramento do Estado.
+<br> Publicado [aqui](https://m.youtube.com/watch?v=B9Syj555RQc)
+
 <br> **2025.11.23 [SEC] SS7: A falha da telefonia**
 <br> A reportagem mostra as vulnerabilidades da telefonia e avanços desde o início do serviço telefônico até os dias atuais. Se o 5G fosse o único padrão vigente hoje, não haveria problema, mas o desligamento de redes 2G e 3G é inviável hoje.
 <br> Publicado [aqui](https://m.youtube.com/watch?v=BDMMWjKHFTA)
