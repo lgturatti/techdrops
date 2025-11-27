@@ -4,6 +4,10 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2025.11.26 [SEC] Novo protocolo no TOR**
+<br> O Projeto Tor anunciou a adoção de um novo protocolo de criptografia de retransmissão conhecido como Counter Galois Onion (CGO), substituindo o antigo sistema de criptografia de retransmissão Tor1.
+<br> Publicado [aqui](https://www.linkedin.com/pulse/tor-overhauls-relay-encryption-new-counter-galois-ve0me)
+
 <br> **2025.11.23 [COM] O verdadeiro motivo pelo qual a criptografia de ponta a ponta é permitida**
 <br> Explicação sobre o porque a criptografia usada não interfere nas formas de controle e monitoramento do Estado.
 <br> Publicado [aqui](https://m.youtube.com/watch?v=B9Syj555RQc)
