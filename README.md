@@ -8,6 +8,14 @@ Latest news are at top / Notícias mais recentes no topo
 <br> O Projeto Tor anunciou a adoção de um novo protocolo de criptografia de retransmissão conhecido como Counter Galois Onion (CGO), substituindo o antigo sistema de criptografia de retransmissão Tor1.
 <br> Publicado [aqui](https://www.linkedin.com/pulse/tor-overhauls-relay-encryption-new-counter-galois-ve0me)
 
+<br> **2025.11.25 [SEC] Programas de mensagens sob ataque**
+<br> Mesmo a privacidade sendo algo completamente relativo atualmente, a CISA alerta sobre o crescente ataque a plataformas de mensagens criptografadas, incluindo Signal e WhatsApp. O comunicado se refere à exploração de dispositivos móveis, onde estão combinando spyware de nível comercial, trojans de acesso remoto (RATs) e esquemas de engenharia social. 
+<br> Publicado [aqui](https://www.linkedin.com/pulse/cisa-warns-threat-actors-using-commercial-spyware-rti4e)
+
+<br> **2025.11.24 [SEC] Falha crítica na Oracle**
+<br> Vulnerabilidade do Oracle Identity Manager (OIM) consta como problema conhecido e já explorado. O problema reside na ausência de uma verificação de autenticação no Oracle Identity Manager, um componente principal do pacote Oracle Fusion Middleware, amplamente utilizado em ambientes governamentais, financeiros e em empresas da Fortune 500 para gerenciar o acesso de usuários e a governança de identidades.
+<br> Publicado [aqui](https://www.linkedin.com/pulse/us-cyber-agency-flags-critical-oracle-identity-5otkc)
+
 <br> **2025.11.23 [COM] O verdadeiro motivo pelo qual a criptografia de ponta a ponta é permitida**
 <br> Explicação sobre o porque a criptografia usada não interfere nas formas de controle e monitoramento do Estado.
 <br> Publicado [aqui](https://m.youtube.com/watch?v=B9Syj555RQc)
