@@ -38,6 +38,10 @@ Latest news are at top / Notícias mais recentes no topo
 <br> **2025.11.22 [SEC] Cybersegurança Notícias de 14 a 20**
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/principais-not%C3%ADcias-de-ciberseguran%C3%A7a-da-semana-14-20-novembro-hdphf)
 
+<br> **2025.11.20 [W11] Microsoft admite falhas no sistema**
+<br> Em um computador com W11 versão 24H2, instalado em ou após julho de 2025 (KB5062553), vários aplicativos, como StartMenuExperienceHost, Pesquisa, Configurações do Sistema, Barra de Tarefas ou Explorador de Arquivos, podem apresentar problemas. A falha será observada no primeiro acesso do usuário após a aplicação de uma atualização cumulativa, ou ainda em todos os logons de usuários em uma instalação de SO não persistente, como uma infraestrutura de desktop virtual (VDI) ou equivalente, pois os pacotes de aplicativos devem ser instalados a cada logon nesses cenários.
+<br> Publicado [aqui](https://www.neowin.net/news/microsoft-finally-admits-almost-all-major-windows-11-core-features-are-broken/)
+
 <br> **2025.11.20 [SEC] Risco de segurança no Chrome**
 <br> A Agência de Segurança Cibernética e de Infraestrutura dos EUA (CISA) emitiu um alerta urgente sobre uma vulnerabilidade  de dia zero no navegador Google Chrome, que pode permitir a execução remota de código e violações de dados. O problema está relacionado ao tratamento de tipos de dados e corrupção da pilha de memória.
 <br> Publicado [aqui](https://cybersecuritynews.com/cisa-warns-chrome-0-day-vulnerability-exploited/)
