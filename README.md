@@ -4,6 +4,10 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2025.11.29 [SEC] Convidados do MS-Teams expõe uma brecha de segurança**
+<br> Uma vulnerabilidade crítica de segurança no recurso de acesso de convidados do Microsoft Teams foi identificada, permitindo que invasores contornem as proteções do Microsoft Defender para Office 365, atraindo usuários para ambientes externos maliciosos. Essa falha, decorrente de uma lacuna arquitetônica fundamental, significa que, quando um usuário aceita um convite para o ambiente Teams de outra organização, suas proteções de segurança são determinadas exclusivamente pelas políticas do ambiente externo, e não pela segurança da sua organização de origem.
+<br> Publicado [aqui](https://www.linkedin.com/pulse/microsoft-teams-guest-access-exposes-cross-tenant-ly48e)
+
 <br> **2025.11.26 [SEC] Novo protocolo no TOR**
 <br> O Projeto Tor anunciou a adoção de um novo protocolo de criptografia de retransmissão conhecido como Counter Galois Onion (CGO), substituindo o antigo sistema de criptografia de retransmissão Tor1.
 <br> Publicado [aqui](https://www.linkedin.com/pulse/tor-overhauls-relay-encryption-new-counter-galois-ve0me)
