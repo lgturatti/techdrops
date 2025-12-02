@@ -4,6 +4,14 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2025.12.01 [SEC] Shai Hulud 2.0 worm**
+<br> A praga comprometeu mais de 1.200 organizações, expondo segredos críticos de execução. Embora os relatos iniciais descrevessem o ataque como uma simples violação da cadeia de suprimentos do npm, pesquisadores da Entro Security observaram que o malware não se limitou a gerar ruído; ele conseguiu exfiltrar dados confidenciais de memória de execução e credenciais de locais profundos em pipelines de CI/CD corporativos.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/shai-hulud-20-compromises-1200-organizations-exposing-xxxrc)
+
+<br> **2025.12.01 [SEC] ShadyPanda espiona usuários**
+<br> A paciência dos hackers permitiu uma extensa campanha de infiltração de sete anos, conduzida pelo grupo de cibercriminosos ShadyPanda, que comprometeu silenciosamente os navegadores de mais de 4,3 milhões de usuários, transformando o que pareciam ser ferramentas legítimas de produtividade em poderosos spywares e plataformas de execução remota de código. Em 1º de dezembro de 2025, a empresa de segurança Koi Security revelou a dimensão e a sofisticação dessa operação de longa duração, que teve como alvo tanto o Google Chrome quanto o Microsoft Edge.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/sleeper-extensions-how-shadypanda-weaponised-trust-dfjhe)
+
 <br> **2025.11.29 [SEC] Convidados do MS-Teams expõe uma brecha de segurança**
 <br> Uma vulnerabilidade crítica de segurança no recurso de acesso de convidados do Microsoft Teams foi identificada, permitindo que invasores contornem as proteções do Microsoft Defender para Office 365, atraindo usuários para ambientes externos maliciosos. Essa falha, decorrente de uma lacuna arquitetônica fundamental, significa que, quando um usuário aceita um convite para o ambiente Teams de outra organização, suas proteções de segurança são determinadas exclusivamente pelas políticas do ambiente externo, e não pela segurança da sua organização de origem.
 <br> Publicado [aqui](https://www.linkedin.com/pulse/microsoft-teams-guest-access-exposes-cross-tenant-ly48e)
