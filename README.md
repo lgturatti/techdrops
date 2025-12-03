@@ -4,6 +4,10 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2025.12.02 [SEC] Android tem 107 bugfixes**
+<br> Em sua última atualização de segurança do ano, o Google lançou um abrangente boletim do Android para dezembro de 2025 que corrige 107 vulnerabilidades de segurança em todo o ecossistema móvel, incluindo duas falhas de dia zero que já são exploradas em ataques reais.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/google-fixes-107-android-vulnerabilities-including-tmcce)
+
 <br> **2025.12.01 [SEC] Shai Hulud 2.0 worm**
 <br> A praga comprometeu mais de 1.200 organizações, expondo segredos críticos de execução. Embora os relatos iniciais descrevessem o ataque como uma simples violação da cadeia de suprimentos do npm, pesquisadores da Entro Security observaram que o malware não se limitou a gerar ruído; ele conseguiu exfiltrar dados confidenciais de memória de execução e credenciais de locais profundos em pipelines de CI/CD corporativos.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/shai-hulud-20-compromises-1200-organizations-exposing-xxxrc)
