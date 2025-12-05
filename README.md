@@ -4,6 +4,18 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2025.12.04 [SEC] React2Shell: websites em risco**
+<br> Falha crítica no React e Next.js afeta 6% de todos os sites e 39% de todos os ambientes em nuvem. Se usada as configurações padrão, o ambiente pode permitir a execução remota de código (RCE) não autenticada em servidores, o que essencialmente dá aos invasores controle total dos sistemas de back-end vulneráveis.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/critical-react-nextjs-flaw-impacts-6-all-websites-9rwqe)
+
+<br> **2025.12.04 [SEC] Esquema de trabalho do grupo hacker Lázaro é flagrado ao vivo por câmeras**
+<br> A investigação expõe, com detalhes sem precedentes, como operadores norte-coreanos usam roubo de identidade, identidades alugadas e ferramentas prontas para uso para se infiltrarem discretamente em empresas financeiras e de criptomoedas ocidentais.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/lazarus-groups-workers-scheme-hacker-group-caught-live-2qm4c)
+
+<br> **2025.12.03 [SEC] Cloudflare: novo recorde**
+<br> Mais um ataque de DDOS sofrido com picos de 29.7 terabits por segundo (Tbps) e cerca de 14.1 bilhões de pacotes por segundo (Bpps).
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/cloudflare-mitigates-historic-world-record-297-azjde)
+
 <br> **2025.12.02 [SEC] Android tem 107 bugfixes**
 <br> Em sua última atualização de segurança do ano, o Google lançou um abrangente boletim do Android para dezembro de 2025 que corrige 107 vulnerabilidades de segurança em todo o ecossistema móvel, incluindo duas falhas de dia zero que já são exploradas em ataques reais.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/google-fixes-107-android-vulnerabilities-including-tmcce)
