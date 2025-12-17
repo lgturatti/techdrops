@@ -4,6 +4,10 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2025.12.17 [SEC] Newsletter sobre riscos em Firmware e Hardware**
+<br> Índice com notícias sobre atualizações importantes.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/firmware-hardware-cyber-threat-news-the-cyber-security-hub-vrxue)
+
 <br> **2025.12.11 [SEC] Vulnerabilidade no Notepad++**
 <br> Foi observado tráfego suspeito relacionado ao WinGUp, o atualizador integrado do Notepad++, onde solicitações de atualização estavam sendo redirecionadas para servidores maliciosos, criando um canal silencioso de distribuição de malware.
 <br> Publicado [aqui](https://cybersecuritynews.com/notepad-vulnerability-exploited/)
