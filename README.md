@@ -4,6 +4,10 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2025.12.18 [SEC] Acesso a VPNs da Cisco e da Palo Alto Networks sob ataque**
+<br> Foram observados ataques automatizados em larga escala, baseados em credenciais, direcionada à infraestrutura de redes corporativas, em busca de credenciais fracas.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/massive-credential-spraying-campaign-targets-cisco-paqse)
+
 <br> **2025.12.18 [SEC] Identidade: o método de entrada mais rápido**
 <br> A afirmação é verdadeira tanto para funcionários quanto para hackers, é o que aponta estudo da Orchid Security. O artigo aborda o tema e traz sugestões para evitar este tipo de aborrecimento. 
 <br> Publicado [aqui](https://www.linkedin.com/pulse/identity-the-fastest-entry-method-employees-hackers-7ifce)
