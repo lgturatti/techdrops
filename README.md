@@ -4,9 +4,17 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2025.12.22 [SEC] MS TEAMS reparado**
+<br> Depois dos problemas onde usuários foram da organização podiam ingressar em reuniões, agora os  administradores podem bloquear usuários externos no Microsoft Teams pelo portal do Windows Defender.
+<br> Publicado [aqui](https://cybersecuritynews.com/microsoft-teams-defender-portal/)
+
 <br> **2025.12.21 [SEC];Resumo de 15 a 21.dez**
 <br> Destaques da semana
 <br> Publicado [aqui](https://www.linkedin.com/pulse/cybersecurity-weekly-recap-pornhub-breach-cisco-0-day-gn3gc)
+
+<br> **2025.12.19 [SEC] PuTTY usado para extração de dados**
+<br> A ferramenta legítima para acesso remoto seguro tem sido usada devido à sua natureza "integrada ao sistema" (salva chaves de hosts no registrodo sistema), que mescla atividades maliciosas com tarefas administrativas normais. Através de túneis SSH, extraem arquivos confidenciais sem implantar malware personalizado.
+<br> Publicado [aqui](https://cybersecuritynews.com/putty-lateral-movement-and-data-exfiltration/)
 
 <br> **2025.12.18 [SEC] Lista gratuita para auditoria de segurança com IA**
 <br> Realizar uma auditoria por ano já não é mais suficiente. É necessário estar em dia com atualizações e acompanhar informações sobre falhas de hardware e correções ou atualizações de equipamentos. 
