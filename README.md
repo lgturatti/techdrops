@@ -28,6 +28,11 @@ Latest news are at top / Notícias mais recentes no topo
 <br> Notícias com atalhos para documentos completos relacionados à falhas observadas e relatório com os 25 maiores problemas do ano.
 <br> Publicado [aqui](https://www.linkedin.com/pulse/cybersecurity-news-weekly-newsletter-windows-chrome-xrgpc)
 
+<br> **2025.12.11 [SEC] Correção emergencial do Google Chrome**
+<br> A correção trata uma falha na bufferização da biblioteca de tradução gráfica ANGLE (Almost Native Graphics Layer Engine). O ataque poderia escapar da sandbox e permitir acesso ao sistema.
+<br> Publicado [aqui](
+https://www.linkedin.com/pulse/google-releases-emergency-chrome-patch-mystery-wsa5e)
+
 <br> **2025.12.11 [SEC] Vulnerabilidade no Notepad++**
 <br> Foi observado tráfego suspeito relacionado ao WinGUp, o atualizador integrado do Notepad++, onde solicitações de atualização estavam sendo redirecionadas para servidores maliciosos, criando um canal silencioso de distribuição de malware.
 <br> Publicado [aqui](https://cybersecuritynews.com/notepad-vulnerability-exploited/)
