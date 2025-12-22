@@ -24,9 +24,17 @@ Latest news are at top / Notícias mais recentes no topo
 <br> Índice com notícias sobre atualizações importantes.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/firmware-hardware-cyber-threat-news-the-cyber-security-hub-vrxue)
 
+<br> **2025.12.14 [SEC] Cybersecurity News**
+<br> Notícias com atalhos para documentos completos relacionados à falhas observadas e relatório com os 25 maiores problemas do ano.
+<br> Publicado [aqui](https://www.linkedin.com/pulse/cybersecurity-news-weekly-newsletter-windows-chrome-xrgpc)
+
 <br> **2025.12.11 [SEC] Vulnerabilidade no Notepad++**
 <br> Foi observado tráfego suspeito relacionado ao WinGUp, o atualizador integrado do Notepad++, onde solicitações de atualização estavam sendo redirecionadas para servidores maliciosos, criando um canal silencioso de distribuição de malware.
 <br> Publicado [aqui](https://cybersecuritynews.com/notepad-vulnerability-exploited/)
+
+<br> **2025.12.10 [SEC] Artigo sobre a vulnerabilidade React2Shell**
+<br> Investigando o bug descoberto.
+<br> Publicado [aqui](https://medium.com/profusion-engineering/react2shell-critical-vulnerability-in-react-server-explained-with-technical-details-of-code-b75a84e76a1c)
 
 <br> **2025.12.04 [SEC] React2Shell: websites em risco**
 <br> Falha crítica no React e Next.js afeta 6% de todos os sites e 39% de todos os ambientes em nuvem. Se usada as configurações padrão, o ambiente pode permitir a execução remota de código (RCE) não autenticada em servidores, o que essencialmente dá aos invasores controle total dos sistemas de back-end vulneráveis.
