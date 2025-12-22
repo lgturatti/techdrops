@@ -5,7 +5,7 @@
 Latest news are at top / Notícias mais recentes no topo
 ```
 <br> **2025.12.22 [SEC] MS TEAMS reparado**
-<br> Depois dos problemas onde usuários foram da organização podiam ingressar em reuniões, agora os  administradores podem bloquear usuários externos no Microsoft Teams pelo portal do Windows Defender.
+<br> Depois dos problemas onde usuários de fora da organização podiam ingressar em reuniões, agora os  administradores podem bloquear usuários externos no Microsoft Teams pelo portal do Windows Defender.
 <br> Publicado [aqui](https://cybersecuritynews.com/microsoft-teams-defender-portal/)
 
 <br> **2025.12.21 [SEC];Resumo de 15 a 21.dez**
