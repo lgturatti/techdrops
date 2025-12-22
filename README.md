@@ -8,6 +8,10 @@ Latest news are at top / Notícias mais recentes no topo
 <br> Destaques da semana
 <br> Publicado [aqui](https://www.linkedin.com/pulse/cybersecurity-weekly-recap-pornhub-breach-cisco-0-day-gn3gc)
 
+<br> **2025.12.18 [SEC] Lista gratuita para auditoria de segurança com IA**
+<br> Realizar uma auditoria por ano já não é mais suficiente. É necessário estar em dia com atualizações e acompanhar informações sobre falhas de hardware e correções ou atualizações de equipamentos. 
+<br> Publicado [aqui](https://www.linkedin.com/pulse/ai-powered-free-security-audit-checklist-2026-iso-27001-ilpyc)
+
 <br> **2025.12.18 [SEC] Acesso a VPNs da Cisco e da Palo Alto Networks sob ataque**
 <br> Foram observados ataques automatizados em larga escala, baseados em credenciais, direcionada à infraestrutura de redes corporativas, em busca de credenciais fracas.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/massive-credential-spraying-campaign-targets-cisco-paqse)
