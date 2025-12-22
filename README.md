@@ -4,6 +4,10 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2025.12.21 [SEC];Resumo de 15 a 21.dez**
+<br> Destaques da semana
+<br> Publicado [aqui](https://www.linkedin.com/pulse/cybersecurity-weekly-recap-pornhub-breach-cisco-0-day-gn3gc)
+
 <br> **2025.12.18 [SEC] Acesso a VPNs da Cisco e da Palo Alto Networks sob ataque**
 <br> Foram observados ataques automatizados em larga escala, baseados em credenciais, direcionada à infraestrutura de redes corporativas, em busca de credenciais fracas.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/massive-credential-spraying-campaign-targets-cisco-paqse)
