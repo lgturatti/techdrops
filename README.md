@@ -4,6 +4,18 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2025.12.28 [SEC] Ubisoft atacada**
+<br> Servidores do Rainbow Six Siege da Ubisoft sofrem violação de segurança devido à vulnerabilidade MongoBleed. Jogadores do mundo todo estão relatando um aumento massivo de moeda do jogo, banimentos injustificados e mensagens provocativas transmitidas diretamente pelos canais administrativos. Desde o início da manhã de hoje, milhares de jogadores encontraram suas contas inexplicavelmente creditadas com milhões em Créditos R6, Renome e Pacotes Alfa. Relatos indicam que skins e itens exclusivos, geralmente bloqueados por conteúdo pago ou eventos antigos, foram desbloqueados para usuários aleatórios.
+<br> Publicado [aqui](https://cybersecuritynews.com/ubisoft-rainbow-six-siege-servers-breached/)
+
+<br> **2025.12.28 [SEC] Mongobleed**
+<br> A vulnerabilidade no servidor MongoDB permite a extração de dados do banco que estejam em memória, através da zlib.
+<br> Publicado [aqui](https://cybersecuritynews.com/mongobleed/)
+
+<br> **2025.12.25 [TIP] Google permite alterar o endereço de e-mail**
+<br> Google iniciou a implementação gradual de um recurso que permite aos usuários alterar o endereço de e-mail de sua conta para um novo endereço, mantendo todos os seus dados, compras e histórico.
+<br> Publicado [aqui](https://cybersecuritynews.com/change-gmail-address/)
+
 <br> **2025.12.22 [SEC] MS TEAMS reparado**
 <br> Depois dos problemas onde usuários de fora da organização podiam ingressar em reuniões, agora os  administradores podem bloquear usuários externos no Microsoft Teams pelo portal do Windows Defender.
 <br> Publicado [aqui](https://cybersecuritynews.com/microsoft-teams-defender-portal/)
@@ -445,6 +457,10 @@ e [aqui](https://cybersecuritynews.com/apple-patches-critical-vulnerabilities/)
 <br> **2025.08.28 [SEC] Campanhas de phishing contra a Turquia - Parte 1**
 <br> O ataque teve como alvo sistemas com Windows através de e-mails que distribuem uma botnet avançada que vem com um carregador de 3 estágios em arquivos como "TEKLIFALINACAKURUNLER.jar". A disseminação depende do proprietário do C2 por meio das contas de e-mail dos clientes infectados.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/technical-analysis-stealth-java-loader-used-phishing-e6wbe)
+
+<br> **2025.08.27 [SEC] IA e segurança**
+<br> BruteForceAI, uma ferramenta para testes de segurança, identifica formulários de login com uma precisão de até 95% em testes em ambientes reais. Na etapa seguinte, inicia testes de credenciais com múltiplas tarefas utilizando força bruta ou modo de senhas em série. 
+<br> Publicado [aqui](https://cybersecuritynews.com/bruteforceai-penetration-testing-tool/)
 
 <br> **2025.08.27 [SEC] Dispositivos Citrix expostos**
 <br> Risco de execução remota de código (RCE), identificada como CVE-2025-7775 (pontuação CVSS: 9,2), que já está sendo ativamente explorada. A vulnerabilidade afeta o NetScaler ADC e o NetScaler Gateway.  É descrito como uma vulnerabilidade de estouro de memória que leva à execução remota de código e/ou negação de serviço.
