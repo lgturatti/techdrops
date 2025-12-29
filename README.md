@@ -40,6 +40,11 @@ Latest news are at top / Notícias mais recentes no topo
 <br> A afirmação é verdadeira tanto para funcionários quanto para hackers, é o que aponta estudo da Orchid Security. O artigo aborda o tema e traz sugestões para evitar este tipo de aborrecimento. 
 <br> Publicado [aqui](https://www.linkedin.com/pulse/identity-the-fastest-entry-method-employees-hackers-7ifce)
 
+<br> **2025.12.17 [SEC]Kimwolf: botnet Android com 1,8M de dispositivos**
+<br> Este artigo traz a linha do tempo com detalhes sobre o funcionamento desta botnet, curiosidades e modo de operação. Um aspecto comum é que essas botnets gigantes surgiram com a Mirai em 2016, com alvos de infecção concentrados principalmente em dispositivos IoT, como roteadores de banda larga residenciais e câmeras.
+<br> A mudança observada e que serve de alerta é que agora os alvos são firmwares de smart TVs e TV boxes que já possuem algum malware ou não recebem atualizações dos fabricantes.
+<br> Publicado [aqui](https://blog.xlab.qianxin.com/kimwolf-botnet-en/)
+
 <br> **2025.12.17 [SEC] Newsletter sobre riscos em Firmware e Hardware**
 <br> Índice com notícias sobre atualizações importantes.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/firmware-hardware-cyber-threat-news-the-cyber-security-hub-vrxue)
