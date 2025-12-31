@@ -4,6 +4,10 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2025.12.31 [SEC] Falha crítica na API Connect**
+<br> A IBM emitiu um alerta urgente informando os clientes sobre o risco de acesso não autorizado a aplicativos caso correções não sejam aplicadas. Isto aumenta significativamente o risco de exposição de dados e comprometimento do sistema.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/ibm-issues-urgent-warning-over-critical-api-connect-fa49e)
+
 <br> **2025.12.28 [SEC] Ubisoft atacada**
 <br> Servidores do Rainbow Six Siege da Ubisoft sofrem violação de segurança devido à vulnerabilidade MongoBleed. Jogadores do mundo todo estão relatando um aumento massivo de moeda do jogo, banimentos injustificados e mensagens provocativas transmitidas diretamente pelos canais administrativos. Desde o início da manhã de hoje, milhares de jogadores encontraram suas contas inexplicavelmente creditadas com milhões em Créditos R6, Renome e Pacotes Alfa. Relatos indicam que skins e itens exclusivos, geralmente bloqueados por conteúdo pago ou eventos antigos, foram desbloqueados para usuários aleatórios.
 <br> Publicado [aqui](https://cybersecuritynews.com/ubisoft-rainbow-six-siege-servers-breached/)
