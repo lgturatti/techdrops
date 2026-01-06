@@ -4,6 +4,10 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2026.01.06 [SEC] ClickFix Malware**
+<br> Uma campanha sofisticada de malware usa telas falsas de erro do Windows para enganar os usuários e levá-los a executar códigos maliciosos. A infecção é iniciada com e-mail de phising e escala para instalação de outros recursos mais sofisticados.
+<br> Publicado [aqui](https://www.linkedin.com/pulse/sophisticated-clickfix-malware-campaign-uses-fake-ly2qe)
+
 <br> **2025.12.31 [SEC] Falha crítica na API Connect**
 <br> A IBM emitiu um alerta urgente informando os clientes sobre o risco de acesso não autorizado a aplicativos caso correções não sejam aplicadas. Isto aumenta significativamente o risco de exposição de dados e comprometimento do sistema.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/ibm-issues-urgent-warning-over-critical-api-connect-fa49e)
