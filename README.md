@@ -4,6 +4,11 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2026.01.09 [SEC] CISA retira 10 diretrizes de emergência**
+<br> A revogação de 10 diretrizes de emergência de segurança cibernética emitidas entre 2019 e 2024 sinaliza a conclusão de diversos esforços federais de resposta de alto nível a algumas das ameaças cibernéticas mais graves enfrentadas pelas redes do governo dos EUA nos últimos anos.
+<br> Basicamente são diretrizes relacionadas a DNS, serviços do Windows, VMWare e sistema corporativo de e-mail da Microsoft. 
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/cisaretires10emergencydirectives-marking-era-federal-drsqe)
+
 <br> **2026.01.08 [SEC] Cisco ISE Patch**
 <br> A Cisco publicou atualizações de segurança sinalizadas como emergência para corrigir uma vulnerabilidade em sua plataforma Identity Services Engine (ISE) após confirmar que um código de exploração de prova de conceito foi disponibilizado publicamente.
 <br> Falhas de segurança devem ser corrigidas imediatamente após a confirmação do problema. O "vazamento" ocorreu depois de seis meses da divulgação ao público, o que indica que a empresa já tinha sido notificada antes.
