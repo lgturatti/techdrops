@@ -4,6 +4,11 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2026.01.08 [SEC] Cisco ISE Patch**
+<br> A Cisco publicou atualizações de segurança sinalizadas como emergência para corrigir uma vulnerabilidade em sua plataforma Identity Services Engine (ISE) após confirmar que um código de exploração de prova de conceito foi disponibilizado publicamente.
+<br> Falhas de segurança devem ser corrigidas imediatamente após a confirmação do problema. O "vazamento" ocorreu depois de seis meses da divulgação ao público, o que indica que a empresa já tinha sido notificada antes.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/warning-cisco-releases-emergency-patch-ise-vulnerability-7kgme)
+
 <br> **2026.01.06 [SEC] ClickFix Malware**
 <br> Uma campanha sofisticada de malware usa telas falsas de erro do Windows para enganar os usuários e levá-los a executar códigos maliciosos. A infecção é iniciada com e-mail de phising e escala para instalação de outros recursos mais sofisticados.
 <br> Publicado [aqui](https://www.linkedin.com/pulse/sophisticated-clickfix-malware-campaign-uses-fake-ly2qe)
