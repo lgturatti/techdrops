@@ -9,6 +9,10 @@ Latest news are at top / Notícias mais recentes no topo
 <br> Basicamente são diretrizes relacionadas a DNS, serviços do Windows, VMWare e sistema corporativo de e-mail da Microsoft. 
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/cisaretires10emergencydirectives-marking-era-federal-drsqe)
 
+<br> **2026.01.08 [SEC] Falha no n8n**
+<br> Falha crítica no n8n expõe servidores a ataques de execução remota de código. O problema está corrigido a partir da versão 1.121.0.
+<br> Publicado [aqui](https://www.theregister.com/2026/01/08/n8n_rce_bug/)
+
 <br> **2026.01.08 [SEC] Cisco ISE Patch**
 <br> A Cisco publicou atualizações de segurança sinalizadas como emergência para corrigir uma vulnerabilidade em sua plataforma Identity Services Engine (ISE) após confirmar que um código de exploração de prova de conceito foi disponibilizado publicamente.
 <br> Falhas de segurança devem ser corrigidas imediatamente após a confirmação do problema. O "vazamento" ocorreu depois de seis meses da divulgação ao público, o que indica que a empresa já tinha sido notificada antes.
@@ -33,6 +37,10 @@ Latest news are at top / Notícias mais recentes no topo
 <br> **2025.12.25 [TIP] Google permite alterar o endereço de e-mail**
 <br> Google iniciou a implementação gradual de um recurso que permite aos usuários alterar o endereço de e-mail de sua conta para um novo endereço, mantendo todos os seus dados, compras e histórico.
 <br> Publicado [aqui](https://cybersecuritynews.com/change-gmail-address/)
+
+<br> **2025.12.23 [SEC] Chrome Extensions**
+<br> Foi verificado que extensões publicadas por “Phantom Shuttle” estão interceptando o tráfego da web de forma secreta e coletando credenciais de usuários de mais de 170 serviços online populares.
+<br> Publicado [aqui](https://www.linkedin.com/pulse/warning-malicious-chrome-extensions-steal-your-gtrae)
 
 <br> **2025.12.22 [SEC] MS TEAMS reparado**
 <br> Depois dos problemas onde usuários de fora da organização podiam ingressar em reuniões, agora os  administradores podem bloquear usuários externos no Microsoft Teams pelo portal do Windows Defender.
