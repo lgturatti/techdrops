@@ -4,6 +4,10 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2026.01.11 [SEC] Vazamento de dados do Instagram**
+<br> Um vazamento de dados em larga escala expôs informações pessoais vinculadas a aproximadamente 17,5 milhões de contas do Instagram na dark web. Embora a Meta Platforms Inc. ainda não tenha confirmado publicamente o incidente, especialistas em segurança alertam que os dados vazados já estão sendo explorados ativamente.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/malwarebytes-warns-major-instagram-data-breach-79hte)
+
 <br> **2026.01.09 [SEC] CISA retira 10 diretrizes de emergência**
 <br> A revogação de 10 diretrizes de emergência de segurança cibernética emitidas entre 2019 e 2024 sinaliza a conclusão de diversos esforços federais de resposta de alto nível a algumas das ameaças cibernéticas mais graves enfrentadas pelas redes do governo dos EUA nos últimos anos.
 <br> Basicamente são diretrizes relacionadas a DNS, serviços do Windows, VMWare e sistema corporativo de e-mail da Microsoft. 
