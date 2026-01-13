@@ -4,6 +4,10 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2026.01.12 [SEC] Vazamento de dados no Telegram**
+<br> A vulnerabilidade de vazamento de IP com um clique afeta as versões para Android e iOS do programa e explora o recurso de validação automática de proxy da plataforma. De acordo com especialistas em segurança, a falha permite que invasores contornem ferramentas de anonimato configuradas pelo usuário e capturem diretamente informações de rede que permitam a identificação, possibilitando vigilância, rastreamento ou divulgação de informações pessoais em larga escala.
+<br> Publicado [aqui](https://www.linkedin.com/pulse/telegram-leaks-users-real-ip-addresses-through-j4dye)
+
 <br> **2026.01.11 [SEC] Vazamento de dados do Instagram**
 <br> Um vazamento de dados em larga escala expôs informações pessoais vinculadas a aproximadamente 17,5 milhões de contas do Instagram na dark web. Embora a Meta Platforms Inc. ainda não tenha confirmado publicamente o incidente, especialistas em segurança alertam que os dados vazados já estão sendo explorados ativamente.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/malwarebytes-warns-major-instagram-data-breach-79hte)
