@@ -4,6 +4,10 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2026.01.13 [SEC] Microsoft Updates**
+<br> Esta atualização repara 114 vulnerabilidades no Windows e componentes relacionados. Verifique os detalhes na publicação. 
+<br> Publicado [aqui](https://www.linkedin.com/pulse/microsoft-january-2026-patch-tuesday-fixes-100-mwcre)
+
 <br> **2026.01.12 [SEC] Vazamento de dados no Telegram**
 <br> A vulnerabilidade de vazamento de IP com um clique afeta as versões para Android e iOS do programa e explora o recurso de validação automática de proxy da plataforma. De acordo com especialistas em segurança, a falha permite que invasores contornem ferramentas de anonimato configuradas pelo usuário e capturem diretamente informações de rede que permitam a identificação, possibilitando vigilância, rastreamento ou divulgação de informações pessoais em larga escala.
 <br> Publicado [aqui](https://www.linkedin.com/pulse/telegram-leaks-users-real-ip-addresses-through-j4dye)
