@@ -4,6 +4,14 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2026.01.15 [SEC] SAP updates**
+<br> A atualização mensal da empresa tem como objetivo manter a integridade dos produtos e evitar acesso não autorizado aos dados dos clientes. Verifique os riscos resolvidos na publicação. 
+<br> Publicado [aqui](https://www.linkedin.com/pulse/sap-january-2026-security-patch-fixes-critical-6hnae)
+
+<br> **2026.01.14 [SEC] NSA publica diretrizes de confiança zero**
+<br> A Agência de Segurança Nacional dos Estados Unidos (NSA) está lançando os dois primeiros produtos de uma série de Diretrizes de Implementação de Confiança Zero (ZIGs, Zero Trust Implementation Guidelines) para fornecer recomendações práticas e acionáveis ​​que facilitem a implementação da Confiança Zero (ZT, Zero Trust).
+<br> Publicado [aqui](https://www.linkedin.com/pulse/nsa-releases-zero-trust-implementation-guidelines-x6qre)
+
 <br> **2026.01.13 [SEC] Microsoft Updates**
 <br> Esta atualização repara 114 vulnerabilidades no Windows e componentes relacionados. Verifique os detalhes na publicação. 
 <br> Publicado [aqui](https://www.linkedin.com/pulse/microsoft-january-2026-patch-tuesday-fixes-100-mwcre)
