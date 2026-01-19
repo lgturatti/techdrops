@@ -38,6 +38,10 @@ Latest news are at top / Notícias mais recentes no topo
 <br> Falhas de segurança devem ser corrigidas imediatamente após a confirmação do problema. O "vazamento" ocorreu depois de seis meses da divulgação ao público, o que indica que a empresa já tinha sido notificada antes.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/warning-cisco-releases-emergency-patch-ise-vulnerability-7kgme)
 
+<br> **2026.01.07 [SEC] Phishing websites**
+<br> O grupo cibercriminoso Black Cat manipulou mecanismos de classificação dos sistemas de busca para priorizar resultados a cópias fraudulentas de páginas reais para distribuir malware. Dentre os alvos, o artigo cita o Notepad++
+<br> Publicado [aqui](https://cybersecuritynews.com/black-cat-hacker-group-with-fake-notepad-sites/)
+
 <br> **2026.01.06 [SEC] ClickFix Malware**
 <br> Uma campanha sofisticada de malware usa telas falsas de erro do Windows para enganar os usuários e levá-los a executar códigos maliciosos. A infecção é iniciada com e-mail de phising e escala para instalação de outros recursos mais sofisticados.
 <br> Publicado [aqui](https://www.linkedin.com/pulse/sophisticated-clickfix-malware-campaign-uses-fake-ly2qe)
