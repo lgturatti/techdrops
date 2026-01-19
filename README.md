@@ -4,6 +4,10 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2026.01.17 [SEC] Python Toolkit**
+<br> A versão 2.0 do Argus traz um conjunto de ferramentas para análise de rede, varredura de aplicativos web e inteligência de ameaças em uma única interface. As formas de utilização estão descritas no artigo.
+<br> Publicado [aqui](https://cybersecuritynews.com/argus-python-toolkit/)
+
 <br> **2026.01.15 [SEC] SAP updates**
 <br> A atualização mensal da empresa tem como objetivo manter a integridade dos produtos e evitar acesso não autorizado aos dados dos clientes. Verifique os riscos resolvidos na publicação. 
 <br> Publicado [aqui](https://www.linkedin.com/pulse/sap-january-2026-security-patch-fixes-critical-6hnae)
