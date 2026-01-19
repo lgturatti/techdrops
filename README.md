@@ -16,6 +16,10 @@ Latest news are at top / Notícias mais recentes no topo
 <br> A Agência de Segurança Nacional dos Estados Unidos (NSA) está lançando os dois primeiros produtos de uma série de Diretrizes de Implementação de Confiança Zero (ZIGs, Zero Trust Implementation Guidelines) para fornecer recomendações práticas e acionáveis ​​que facilitem a implementação da Confiança Zero (ZT, Zero Trust).
 <br> Publicado [aqui](https://www.linkedin.com/pulse/nsa-releases-zero-trust-implementation-guidelines-x6qre)
 
+<br> **2026.01.13 [SEC] VoidLink: The Cloud-Native Malware**
+<br> O VoidLink é uma estrutura de malware avançada composta por carregadores personalizados, implantes, rootkits e plugins modulares, projetada para manter acesso a longo prazo a sistemas Linux. A estrutura inclui diversos recursos e módulos focados em nuvem e foi projetada para operar de forma confiável em ambientes de nuvem e contêineres por períodos prolongados. As publicações da Checkpoint trazem maiores detalhes.
+<br> Publicado [aqui](https://research.checkpoint.com/2026/voidlink-the-cloud-native-malware-framework/) e [aqui](https://blog.checkpoint.com/research/voidlink-the-cloud-native-malware-framework-weaponizing-linux-infrastructure/)
+
 <br> **2026.01.13 [SEC] Microsoft Updates**
 <br> Esta atualização repara 114 vulnerabilidades no Windows e componentes relacionados. Verifique os detalhes na publicação. 
 <br> Publicado [aqui](https://www.linkedin.com/pulse/microsoft-january-2026-patch-tuesday-fixes-100-mwcre)
