@@ -4,6 +4,17 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2026.01.20 [SEC] LinkedIn foi usado para distribuir malware sofisticado**
+<br> Uma campanha de phishing recentemente descoberta está explorando mensagens para distribuir malware furtivo capaz de estabelecer acesso remoto persistente em máquinas comprometidas. O processo é explicado no artigo.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/threat-actors-leverage-linkedin-messaging-deliver-8crxe)
+
+<br> **2026.01.19 [SEC] Cloudflare corrige seu próprio WAF**
+<br> A Cloudflare corrigiu uma vulnerabilidade crítica de dia zero em seu Firewall de Aplicativos Web (WAF) que permitia que invasores contornassem as regras de segurança definidas pelo cliente e acessassem diretamente servidores de origem protegidos, levantando preocupações sobre as implicações de segurança dos sistemas automatizados de gerenciamento de certificados amplamente utilizados na internet.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/cloudflare-fixes-zero-day-flaw-allowed-attackers-kiahe)
+
+<br> **2026.01.18 [SEC] Principais notícias de 09 a 15 de Janeiro**
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/principais-not%C3%ADcias-de-ciberseguran%C3%A7a-da-semana-09-15-janeiro-dsa7f)
+
 <br> **2026.01.17 [SEC] Python Toolkit**
 <br> A versão 2.0 do Argus traz um conjunto de ferramentas para análise de rede, varredura de aplicativos web e inteligência de ameaças em uma única interface. As formas de utilização estão descritas no artigo.
 <br> Publicado [aqui](https://cybersecuritynews.com/argus-python-toolkit/)
