@@ -4,6 +4,10 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2026.01.22 [SEC] Hakuna Matata Malware**
+<br> O ransomware Hakuna Matata bloqueia sistemas Windows para roubar dados bancários. O ataque usa GitHub, Dropbox e Telegram para distribuir malware que combina vigilância, roubo de dados e criptografia de arquivos através de documentos corporativos falsos.
+<br> Publicado [aqui](https://www.tecmundo.com.br/seguranca/410059-ransomware-hakuna-matata-bloqueia-sistemas-windows-para-roubar-dados-bancarios.htm)
+
 <br> **2026.01.20 [SEC] LinkedIn foi usado para distribuir malware sofisticado**
 <br> Uma campanha de phishing recentemente descoberta está explorando mensagens para distribuir malware furtivo capaz de estabelecer acesso remoto persistente em máquinas comprometidas. O processo é explicado no artigo.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/threat-actors-leverage-linkedin-messaging-deliver-8crxe)
