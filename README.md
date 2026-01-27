@@ -20,6 +20,10 @@ Latest news are at top / Notícias mais recentes no topo
 <br> Uma campanha de phishing recentemente descoberta está explorando mensagens para distribuir malware furtivo capaz de estabelecer acesso remoto persistente em máquinas comprometidas. O processo é explicado no artigo.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/threat-actors-leverage-linkedin-messaging-deliver-8crxe)
 
+<br> **2026.01.19 [News] Anatel e fiscalização de VPNs**
+<br> Algumas notícias do boletim Ayub 51.
+<br> Publicado [aqui](https://www.linkedin.com/pulse/do-fim-orkut-%C3%A0-fiscaliza%C3%A7%C3%A3o-de-vpns-o-passado-e-futuro-thiago-ayub-ssyof)
+
 <br> **2026.01.19 [SEC] Cloudflare corrige seu próprio WAF**
 <br> A Cloudflare corrigiu uma vulnerabilidade crítica de dia zero em seu Firewall de Aplicativos Web (WAF) que permitia que invasores contornassem as regras de segurança definidas pelo cliente e acessassem diretamente servidores de origem protegidos, levantando preocupações sobre as implicações de segurança dos sistemas automatizados de gerenciamento de certificados amplamente utilizados na internet.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/cloudflare-fixes-zero-day-flaw-allowed-attackers-kiahe)
