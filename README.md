@@ -4,6 +4,14 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2026.01.24 [AI]Agente de IA open source**
+<br> Por que se fala tanto sobre Clawdbot e Mac mini.
+<br> Publicado [aqui](https://www.linkedin.com/pulse/por-que-estamos-falando-tanto-de-clawdbot-e-mac-mini-dan-vitoriano--5ypzf)
+
+<br> **2026.01.23 [SEC] Oracle Critical Patch**
+<br> Atualizações corrigem 337 vulnerabilidades em todo o portfólio de software da empresa.
+<br> Publicado [aqui](https://www.linkedin.com/pulse/oracle-critical-patch-update-cpu-2026-fixes-337-mnrre)
+
 <br> **2026.01.22 [SEC] Hakuna Matata Malware**
 <br> O ransomware Hakuna Matata bloqueia sistemas Windows para roubar dados bancários. O ataque usa GitHub, Dropbox e Telegram para distribuir malware que combina vigilância, roubo de dados e criptografia de arquivos através de documentos corporativos falsos.
 <br> Publicado [aqui](https://www.tecmundo.com.br/seguranca/410059-ransomware-hakuna-matata-bloqueia-sistemas-windows-para-roubar-dados-bancarios.htm)
