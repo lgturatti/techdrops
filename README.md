@@ -4,7 +4,18 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
-<br> **2026.01.24 [AI]Agente de IA open source**
+<br> **2026.01.27 [SEC] Aplicativos de treinamento em nuvem são explorados com mineradores de criptomoedas**
+<br> Aplicativos para treinamento e demonstração são intencionalmente vulneráveis, pois são criados para ensinar e testar segurança em ambientes controlados. Mas quando esses ambientes de "laboratório" são deixados expostos publicamente, os invasores (com tempo) podem entrar com facilidade. Um webinar acontecerá no próximo dia 12 de fevereiro 11h00 AM ET para esclarecer riscos e soluções. 
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/exposed-cloud-training-apps-actively-exploited-ggire)
+
+<br> **2026.01.26 [SEC] Correção para MS Office desde a versão 2016**
+<br> Segundo a Microsoft, a vulnerabilidade permite que invasores contornem as proteções integradas projetadas para bloquear controles COM e OLE inseguros, que são componentes que há muito tempo são uma superfície de ataque preferida por agentes maliciosos.
+<br> Publicado [aqui](https://www.linkedin.com/pulse/microsoft-rushes-emergency-fix-actively-exploited-zr9me)
+
+<br> **2026.01.26 [SEC] Principais notícias de 16 a 22 de janeiro**
+<br> Publicado [aqui](https://www.linkedin.com/pulse/principais-not%C3%ADcias-de-ciberseguran%C3%A7a-da-semana-16-22-janeiro-kznsf)
+
+<br> **2026.01.24 [AI] Agente de IA open source**
 <br> Por que se fala tanto sobre Clawdbot e Mac mini.
 <br> Publicado [aqui](https://www.linkedin.com/pulse/por-que-estamos-falando-tanto-de-clawdbot-e-mac-mini-dan-vitoriano--5ypzf)
 
