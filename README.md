@@ -8,6 +8,10 @@ Latest news are at top / Notícias mais recentes no topo
 <br> Aplicativos para treinamento e demonstração são intencionalmente vulneráveis, pois são criados para ensinar e testar segurança em ambientes controlados. Mas quando esses ambientes de "laboratório" são deixados expostos publicamente, os invasores (com tempo) podem entrar com facilidade. Um webinar acontecerá no próximo dia 12 de fevereiro 11h00 AM ET para esclarecer riscos e soluções. 
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/exposed-cloud-training-apps-actively-exploited-ggire)
 
+<br> **2026.01.26 [SEC] Vazamento massivo de dados**
+<br> O banco de dados contém 96 GB de dados de credenciais coletados por meio de um malware de roubo de informações, afetando usuários do Gmail, Instagram, Facebook, Netflix e milhares de outros serviços online em todo o mundo. Foi contabilizado 48 milhões de contas do Gmail e 6,5 milhões de contas do Instagram.
+<br> Publicado [aqui](https://gbhackers.com/massive-data-leak-48m-gmail-and-6-5m-instagram/)
+
 <br> **2026.01.26 [SEC] Correção para MS Office desde a versão 2016**
 <br> Segundo a Microsoft, a vulnerabilidade permite que invasores contornem as proteções integradas projetadas para bloquear controles COM e OLE inseguros, que são componentes que há muito tempo são uma superfície de ataque preferida por agentes maliciosos.
 <br> Publicado [aqui](https://www.linkedin.com/pulse/microsoft-rushes-emergency-fix-actively-exploited-zr9me)
