@@ -4,6 +4,28 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2026.02.05 [SEC] AWS comprometidas em 8 minutos**
+<br> Credenciais armazenadas publicamente no S3 permitiram o ataque de intrusão na nuvem (impulsionado por IA) comprometendo totalmente a AWS em 8 minutos, marcando uma nova era de ataques acelerados.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/ai-driven-cloud-intrusion-achieves-full-aws-compromise-faexe)
+
+<br> **2026.02.05 [SEC] SonicWall SSLVPN explorada**
+<br> O artigo explica como hackers exploraram credenciais SSLVPN da SonicWall para implantar um ataque EDR Killer e burlar a segurança.
+<br> Publicado [aqui](https://cybersecuritynews.com/edr-killer-via-sonicwall-sslvpn/)
+
+<br> **2026.02.05 [SEC] VMWare ESXi vulnerável**
+<br> O artigo traz os CVEs e explica como agentes de ransomware exploraram a invasão inicial da máquina virtual, geralmente por meio de acesso administrativo, para desativar os drivers VMCI, carregar drivers de kernel não assinados e vazar memória VMX para burlar o ASLR.
+<br> Publicado [aqui](https://cybersecuritynews.com/vmware-esxi-0-day-ransomware-attack/)
+
+<br> **2026.02.05 [SEC] Windows Screensavers**
+<br> Um mecanismo antigo volta a ser explorado para comprometer computadores. Agentes maliciosos estão explorando arquivos de proteção de tela do Windows (.scr) como parte de campanhas de phishing direcionadas para obter acesso persistente e interativo a ambientes corporativos. As ferramentas atuais funcionam como aplicações portáteis para acesso remoto. 
+<br> Publicado [aqui](https://www.linkedin.com/pulse/warning-threat-actors-use-windows-screensavers-ngpde)
+
+<br> **2026.02.04 [SEC] Microsoft Sysmon**
+<br> A Microsoft começou a implementar recursos nativos do Monitor de Sistema (Sysmon) diretamente no Windows 11, marcando uma mudança notável na forma como a telemetria avançada do sistema e a detecção de ameaças podem ser implantadas em ambientes Windows.
+<br> Publicado [aqui](https://www.linkedin.com/pulse/microsoft-introduces-system-monitor-sysmon-support-cenie)
+
+**X**
+
 <br> **2026.01.27 [SEC] Aplicativos de treinamento em nuvem são explorados com mineradores de criptomoedas**
 <br> Aplicativos para treinamento e demonstração são intencionalmente vulneráveis, pois são criados para ensinar e testar segurança em ambientes controlados. Mas quando esses ambientes de "laboratório" são deixados expostos publicamente, os invasores (com tempo) podem entrar com facilidade. Um webinar acontecerá no próximo dia 12 de fevereiro 11h00 AM ET para esclarecer riscos e soluções. 
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/exposed-cloud-training-apps-actively-exploited-ggire)
