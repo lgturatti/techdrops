@@ -49,6 +49,11 @@ Latest news are at top / Notícias mais recentes no topo
 <br> **2026.01.26 [SEC] Principais notícias de 16 a 22 de janeiro**
 <br> Publicado [aqui](https://www.linkedin.com/pulse/principais-not%C3%ADcias-de-ciberseguran%C3%A7a-da-semana-16-22-janeiro-kznsf)
 
+<br> **2026.01.25 [DEV] Novo PANDAS 3.0**
+<br> Os desenvolvedores do pandas priorizam a retrocompatibilidade e respeitam os projetos elaborados com versões anteriores garantindo o funcionamento através das melhorias trazidas para as versões mais recentes. O custo disto é nem sempre oferecer o desempenho de ponta ou uma API limpa e consistente.
+<br> O artigo sugere considerar o Polars para novos projetos que estão iniciando; explica sobre versionamento e traz informações para acertar no uso adequado do pandas.
+<br> Publicado [aqui](https://datapythonista.me/blog/whats-new-in-pandas-3)
+
 <br> **2026.01.24 [AI] Agente de IA open source**
 <br> Por que se fala tanto sobre Clawdbot e Mac mini.
 <br> Publicado [aqui](https://www.linkedin.com/pulse/por-que-estamos-falando-tanto-de-clawdbot-e-mac-mini-dan-vitoriano--5ypzf)
