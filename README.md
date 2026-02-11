@@ -4,6 +4,10 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2026.02.11 [SEC] A ascensão dos parasitas digitais**
+<br> Foi observado em 2025 uma mudança das técnicas de malware. Em vez de invadir ruidosamente e destruir sistemas, os adversários modernos visam permanecer silenciosamente dentro dos ambientes, alimentando-se de credenciais, serviços confiáveis ​​e infraestrutura de identidade pelo maior tempo possível. Cada vez mais, eles se comportam menos como criminosos que invadem e roubam e mais como parasitas digitais.
+<br> Publicado [aqui](https://www.linkedin.com/pulse/from-ransomware-residency-rise-digital-parasite-bf7xe)
+
 <br> **2026.02.10 [SEC] Microsoft Updates**
 <br> Nesta atualização, foram corrigidos cinco vulnerabilidades críticas, três relacionadas a negação de serviço e uma sobre cross-site scripting, dentre outras. Os detalhes sobre as correções estão no artigo.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/microsoft-february-2026-patch-tuesday-fixes-50-4ltde)
