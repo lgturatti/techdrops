@@ -4,6 +4,10 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2026.02.10 [SEC] Microsoft Updates**
+<br> Nesta atualização, foram corrigidos cinco vulnerabilidades críticas, três relacionadas a negação de serviço e uma sobre cross-site scripting, dentre outras. Os detalhes sobre as correções estão no artigo.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/microsoft-february-2026-patch-tuesday-fixes-50-4ltde)
+
 <br> **2026.02.09 [SEC] Claude Desktop Extensions RCE**
 <br>  A falha que não precisa de interação com o usuário permite que invasores comprometam um sistema usando apenas um evento malicioso criado no Google Agenda.
 <br> Publicado [aqui](https://cybersecuritynews.com/claude-desktop-extensions-0-click-vulnerability/)
