@@ -4,6 +4,14 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2026.02.09 [SEC] Claude Desktop Extensions RCE**
+<br>  A falha que não precisa de interação com o usuário permite que invasores comprometam um sistema usando apenas um evento malicioso criado no Google Agenda.
+<br> Publicado [aqui](https://cybersecuritynews.com/claude-desktop-extensions-0-click-vulnerability/)
+
+<br> **2026.02.09 [DEV] Porque ao voltar o conteúdo não aparece?**
+<br> O artigo discute sobre o comportamento de navegação no React Native, formas forçadas e o jeito certo para lidar com navegação e renderização. 
+<br> Publicado [aqui](https://medium.com/@fabiobends/i-went-back-why-didnt-anything-re-render-7fcc709842cb)
+
 <br> **2026.02.05 [SEC] AWS comprometidas em 8 minutos**
 <br> Credenciais armazenadas publicamente no S3 permitiram o ataque de intrusão na nuvem (impulsionado por IA) comprometendo totalmente a AWS em 8 minutos, marcando uma nova era de ataques acelerados.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/ai-driven-cloud-intrusion-achieves-full-aws-compromise-faexe)
