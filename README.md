@@ -4,6 +4,10 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2026.02.12 [SEC] Atualizações da Apple**
+<br> A empresa pede aos usuários para atualizar o sistema de seus dispositivos para versão 26.3 além de desativar serviços que não estejam utilizando entre os dispositivos pessoais. 
+<br> Publicado [aqui](https://cybersecuritynews.com/apple-0-day-vulnerability-exploited/)
+
 <br> **2026.02.11 [AI] OpenClaw mais seguro**
 <br> A proposta do NanoClaw, de Gavriel Cohen, é que cada agente de IA seja executado em contêineres isolados, limitando o alcance de possíveis ataques, restringindo o acesso apenas a diretórios explicitamente autorizados pelo usuário. Disponível [aqui](https://github.com/qwibitai/nanoclaw).
 <br> Publicado [aqui](https://venturebeat.com/orchestration/nanoclaw-solves-one-of-openclaws-biggest-security-issues-and-its-already)
