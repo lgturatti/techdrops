@@ -4,6 +4,14 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2026.02.20 [SEC] Microsoft Edge 145**
+<br> A nova versão apresenta importantes atualizações de segurança para empresas. Os detalhes estão disponíveis no artigo.
+<br> Publicado [aqui](https://www.linkedin.com/pulse/microsoft-edge-145-introduces-major-enterprise-xzrbe)
+
+<br> **2026.02.19 [SEC] Guia prático para o desenvolvimento seguro**
+<br> Para proteger servidores com Model Context Protocol (MCP) onde o ponto de conexão crítico é entre assistentes de IA e ferramentas externas, APIs e fontes de dados, há riscos pois a segurança funciona com permissões de usuário delegadas, arquiteturas dinâmicas baseadas em ferramentas e chamadas de ferramentas encadeadas, aumentando o impacto potencial de uma única vulnerabilidade.
+<br> Publicado [aqui](https://www.linkedin.com/pulse/owasp-releases-practical-guide-secure-mcp-server-untle)
+
 <br> **2026.02.12 [SEC] Atualizações da Apple**
 <br> A empresa pede aos usuários para atualizar o sistema de seus dispositivos para versão 26.3 além de desativar serviços que não estejam utilizando entre os dispositivos pessoais. 
 <br> Publicado [aqui](https://cybersecuritynews.com/apple-0-day-vulnerability-exploited/) e [aqui](https://www.linkedin.com/comm/pulse/apple-patches-actively-exploited-zero-day-vulnerability-ijeif)
