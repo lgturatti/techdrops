@@ -4,6 +4,26 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2026.02.23 [SEC] Ataques cibernéticos com IA**
+<br> O exemplo mais recente de janeiro foram 600 dispositivos de rede FortiGate afetados em pelo menos 55 países. Os ataques exploraram falhas básicas de segurança, demonstrsndo que não foi a inovação, mas sim a automação e a escalabilidade.
+<br> Publicado [aqui](https://www.linkedin.com/pulse/ai-powered-cybercrime-surge-low-skill-hackers-now-2uhte)
+
+<br> **2026.02.22 [SEC] Notícias 13 a 19/02**
+<br> Principais notícias de cibersegurança da semana.
+<br> Publicado [aqui](https://www.linkedin.com/pulse/principais-not%C3%ADcias-de-ciberseguran%C3%A7a-da-semana-13-19-fevereiro-vzjgf)
+
+<br> **2026.02.22 [SEC] Notícias da semana**
+<br> Resumo das notícias no LinkedIn.
+<br> Publicado [aqui](https://www.linkedin.com/pulse/cybersecurity-news-weekly-paypal-breach-chrome-0-day-y1yac)
+
+<br> **2026.02.22 [SEC] Claude AI Security**
+<br> A ferramenta de segurança da Anthropic que abalou o mercado de cibersegurança, eliminando mais de US$ 15 bilhões em ações no setor.
+<br> Publicado [aqui](https://www.linkedin.com/pulse/anthropics-new-claude-ai-security-tool-wipes-out-17jje)
+
+<br> **2026.02.21 [SEC] Paypal expôs dados**
+<br> Foi confirmado o vazamento de dados por um período de seis meses (segundo semestre de 2025) sobre usuários do aplicativo de empréstimo de capital de giro do PayPal.
+<br> Publicado [aqui](https://www.linkedin.com/pulse/revealed-paypal-exposed-sensitive-user-data-six-month-xxxbe)
+
 <br> **2026.02.20 [SEC] Microsoft Edge 145**
 <br> A nova versão apresenta importantes atualizações de segurança para empresas. Os detalhes estão disponíveis no artigo.
 <br> Publicado [aqui](https://www.linkedin.com/pulse/microsoft-edge-145-introduces-major-enterprise-xzrbe)
@@ -11,6 +31,10 @@ Latest news are at top / Notícias mais recentes no topo
 <br> **2026.02.19 [SEC] Guia prático para o desenvolvimento seguro**
 <br> Para proteger servidores com Model Context Protocol (MCP) onde o ponto de conexão crítico é entre assistentes de IA e ferramentas externas, APIs e fontes de dados, há riscos pois a segurança funciona com permissões de usuário delegadas, arquiteturas dinâmicas baseadas em ferramentas e chamadas de ferramentas encadeadas, aumentando o impacto potencial de uma única vulnerabilidade.
 <br> Publicado [aqui](https://www.linkedin.com/pulse/owasp-releases-practical-guide-secure-mcp-server-untle)
+
+<br> **2026.02.17 [SEC] Falha em gerenciador está de senhas**
+<br> Os serviços afetados incluem Bitwarden, LastPass, Dashlane e 1Password, que são plataformas que contam com a confiança de milhões de indivíduos e empresas em todo o mundo.
+<br> Publicado [aqui](https://www.linkedin.com/pulse/warning-major-security-flaws-found-leading-password-dfzpe)
 
 <br> **2026.02.12 [SEC] Atualizações da Apple**
 <br> A empresa pede aos usuários para atualizar o sistema de seus dispositivos para versão 26.3 além de desativar serviços que não estejam utilizando entre os dispositivos pessoais. 
@@ -56,8 +80,6 @@ Latest news are at top / Notícias mais recentes no topo
 <br> A Microsoft começou a implementar recursos nativos do Monitor de Sistema (Sysmon) diretamente no Windows 11, marcando uma mudança notável na forma como a telemetria avançada do sistema e a detecção de ameaças podem ser implantadas em ambientes Windows.
 <br> Publicado [aqui](https://www.linkedin.com/pulse/microsoft-introduces-system-monitor-sysmon-support-cenie)
 
-**X**
-
 <br> **2026.01.27 [SEC] Aplicativos de treinamento em nuvem são explorados com mineradores de criptomoedas**
 <br> Aplicativos para treinamento e demonstração são intencionalmente vulneráveis, pois são criados para ensinar e testar segurança em ambientes controlados. Mas quando esses ambientes de "laboratório" são deixados expostos publicamente, os invasores (com tempo) podem entrar com facilidade. Um webinar acontecerá no próximo dia 12 de fevereiro 11h00 AM ET para esclarecer riscos e soluções. 
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/exposed-cloud-training-apps-actively-exploited-ggire)
@@ -77,6 +99,10 @@ Latest news are at top / Notícias mais recentes no topo
 <br> Os desenvolvedores do pandas priorizam a retrocompatibilidade e respeitam os projetos elaborados com versões anteriores garantindo o funcionamento através das melhorias trazidas para as versões mais recentes. O custo disto é nem sempre oferecer o desempenho de ponta ou uma API limpa e consistente.
 <br> O artigo sugere considerar o Polars para novos projetos que estão iniciando; explica sobre versionamento e traz informações para acertar no uso adequado do pandas.
 <br> Publicado [aqui](https://datapythonista.me/blog/whats-new-in-pandas-3)
+
+<br> **2026.01.24 [SEC] Biometria digital contornada com U$ 5**
+<br> Resumidamente é demonstrada uma técnica de cópia de digitais e sistemas fracos de controle biométrico.
+<br> Publicado [aqui](https://m.youtube.com/watch?v=CCsDkQnWL7g)
 
 <br> **2026.01.24 [AI] Agente de IA open source**
 <br> Por que se fala tanto sobre Clawdbot e Mac mini.
