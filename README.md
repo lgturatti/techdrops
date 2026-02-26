@@ -4,6 +4,10 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2026.02.26 [SEC] Cisco SD-WAN**
+<br> O novo ataque explora falhas corrigidas em 2022 e desde pelo menos 2023, vem sendo explorada com foco em organizações que dependem do Cisco Catalyst SD-WAN Controller (antigo vSmart) para gerenciar o tráfego de rede em ambientes distribuídos.
+<br> Publicado [aqui](https://www.linkedin.com/pulse/warning-critical-cisco-sd-wan-zero-day-exploited-q7pee)
+
 <br> **2026.02.25 [UPD] Windows 11**
 <br> Na próxima atualização em 10 de março, o pacote  KB5077241 será incluso dentre as atualizações e quem testou diz que isto transforma a experiência do usuário com maior fluidez do sistema, dentre outras melhorias.
 <br> Publicado [aqui](https://www.tudocelular.com/software/noticias/n248793/microsoft-libera-atualizacao-windows-11-novidades.html)
