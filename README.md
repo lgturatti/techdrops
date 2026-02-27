@@ -4,6 +4,10 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2026.02.26 [SEC] Kali AI Powered**
+<br> Kali Linux introduz testes de penetração orientados por IA através da integração com Claude. Agora é possível fazer a solicitação (em inglês) usando linguagem natural; o planejamento, onde a IA determina as ferramentas e etapas necessárias; a execução; a interpretação, onde os resultados são analisados ​​e resumidos; e por fim a iteração, que são as ações de acompanhamento que são acionadas automaticamente, se necessário.
+<br> Publicado [aqui](https://www.linkedin.com/pulse/kali-linux-introduces-ai-driven-penetration-testing-yh4ie)
+
 <br> **2026.02.26 [SEC] Cisco SD-WAN**
 <br> O novo ataque explora falhas corrigidas em 2022 e desde pelo menos 2023, vem sendo explorada com foco em organizações que dependem do Cisco Catalyst SD-WAN Controller (antigo vSmart) para gerenciar o tráfego de rede em ambientes distribuídos.
 <br> Publicado [aqui](https://www.linkedin.com/pulse/warning-critical-cisco-sd-wan-zero-day-exploited-q7pee)
