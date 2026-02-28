@@ -4,6 +4,14 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2026.02.28 [SEC] Israel vs Irã**
+<br> Após bombardeio norte americano, Israel lança ciberataques históricos contra a República Islâmica do Irã. O resultado da operação Fúria Épica informa que causou um apagão de internet quase total, com a conectividade em todo o país reduzida a apenas 4%.
+<br> Publicado [aqui](https://www.linkedin.com/pulse/israel-launches-historic-cyberattacks-against-islamic-mqoqe)
+
+<br> **2026.02.28 [SEC] Anthropic AI**
+<br> Após a exigência do Departamento de Defesa dos EUA em ter acesso total e irrestrito aos modelos de IA, para monitoramento em massa e uso em armas autônomas, ter sido negada pela empresa, o presidente Donald Trump ordena proibição federal das soluções após o Pentágono declará-los uma ameaça à segurança nacional.
+<br> Publicado [aqui](https://www.linkedin.com/pulse/trump-orders-federal-ban-anthropic-after-pentagon-rdnse)
+
 <br> **2026.02.26 [SEC] Kali AI Powered**
 <br> Kali Linux introduz testes de penetração orientados por IA através da integração com Claude. Agora é possível fazer a solicitação (em inglês) usando linguagem natural; o planejamento, onde a IA determina as ferramentas e etapas necessárias; a execução; a interpretação, onde os resultados são analisados ​​e resumidos; e por fim a iteração, que são as ações de acompanhamento que são acionadas automaticamente, se necessário.
 <br> Publicado [aqui](https://www.linkedin.com/pulse/kali-linux-introduces-ai-driven-penetration-testing-yh4ie)
