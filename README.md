@@ -60,6 +60,10 @@ Latest news are at top / Notícias mais recentes no topo
 <br> Estudo revela 27 cenários distintos com falhas de segurança graves encontradas nos principais gerenciadores de senhas. O foco do estudo foi verificar se os dados e dos usuários estão realmente protegidos. As vulnerabilidades decorrem de uma série de falhas de projeto e erros criptográficos que aparecem em diversas plataformas.
 <br> Publicado [aqui](https://www.linkedin.com/pulse/warning-major-security-flaws-found-leading-password-dfzpe)
 
+<br> **2026.02.16 [SEC] Atualização do Chrome**
+<br> O Google lançou uma correção emergencial para a primeira vulnerabilidade de dia zero deste ano. É recomendado atualizar para a versão 145.0.7632.75. A falha permitia a execução de código dentro de um ambiente isolado (sandbox) por meio de uma página HTML manipulada.
+<br> Publicado [aqui](https://www.linkedin.com/pulse/google-releases-emergency-patch-first-chrome-zero-day-vzq9e)
+
 <br> **2026.02.12 [SEC] MS SecBoot**
 <br> Desde o desenvolvimento do Windows 8 em 2011, a Microsoft introduziu a inicialização segura do sistema, utilizando certificados de segurança. O problema atual é que esses certificados expirarão em meados de 2026 (o que
 significa que milhões de PCs deixarão de funcionar repentinamente), levando a Microsoft e os principais fabricantes de PCs a acelerarem os esforços de atualização em todo o ecossistema global do Windows. Outro ponto importante é que a inicialização segura se tornou obrigatória com o Windows 11 em 2021.
