@@ -56,8 +56,8 @@ Latest news are at top / Notícias mais recentes no topo
 <br> Para proteger servidores com Model Context Protocol (MCP) onde o ponto de conexão crítico é entre assistentes de IA e ferramentas externas, APIs e fontes de dados, há riscos pois a segurança funciona com permissões de usuário delegadas, arquiteturas dinâmicas baseadas em ferramentas e chamadas de ferramentas encadeadas, aumentando o impacto potencial de uma única vulnerabilidade.
 <br> Publicado [aqui](https://www.linkedin.com/pulse/owasp-releases-practical-guide-secure-mcp-server-untle)
 
-<br> **2026.02.17 [SEC] Falha em gerenciador está de senhas**
-<br> Os serviços afetados incluem Bitwarden, LastPass, Dashlane e 1Password, que são plataformas que contam com a confiança de milhões de indivíduos e empresas em todo o mundo.
+<br> **2026.02.17 [SEC] Gerenciadores de senha**
+<br> Estudo revela 27 cenários distintos com falhas de segurança graves encontradas nos principais gerenciadores de senhas. O foco do estudo foi verificar se os dados e dos usuários estão realmente protegidos. As vulnerabilidades decorrem de uma série de falhas de projeto e erros criptográficos que aparecem em diversas plataformas.
 <br> Publicado [aqui](https://www.linkedin.com/pulse/warning-major-security-flaws-found-leading-password-dfzpe)
 
 <br> **2026.02.12 [SEC] Atualizações da Apple**
