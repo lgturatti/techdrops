@@ -60,6 +60,11 @@ Latest news are at top / Notícias mais recentes no topo
 <br> Estudo revela 27 cenários distintos com falhas de segurança graves encontradas nos principais gerenciadores de senhas. O foco do estudo foi verificar se os dados e dos usuários estão realmente protegidos. As vulnerabilidades decorrem de uma série de falhas de projeto e erros criptográficos que aparecem em diversas plataformas.
 <br> Publicado [aqui](https://www.linkedin.com/pulse/warning-major-security-flaws-found-leading-password-dfzpe)
 
+<br> **2026.02.12 [SEC] MS SecBoot**
+<br> Desde o desenvolvimento do Windows 8 em 2011, a Microsoft introduziu a inicialização segura do sistema, utilizando certificados de segurança. O problema atual é que esses certificados expirarão em meados de 2026 (o que
+significa que milhões de PCs deixarão de funcionar repentinamente), levando a Microsoft e os principais fabricantes de PCs a acelerarem os esforços de atualização em todo o ecossistema global do Windows. Outro ponto importante é que a inicialização segura se tornou obrigatória com o Windows 11 em 2021.
+<br> Publicado [aqui](https://www.linkedin.com/pulse/microsoft-introduces-new-secure-boot-certificates-wnlte)
+
 <br> **2026.02.12 [SEC] Atualizações da Apple**
 <br> A empresa pede aos usuários para atualizar o sistema de seus dispositivos para versão 26.3 além de desativar serviços que não estejam utilizando entre os dispositivos pessoais. 
 <br> Publicado [aqui](https://cybersecuritynews.com/apple-0-day-vulnerability-exploited/) e [aqui](https://www.linkedin.com/comm/pulse/apple-patches-actively-exploited-zero-day-vulnerability-ijeif)
