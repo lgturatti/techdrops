@@ -24,6 +24,10 @@ Latest news are at top / Notícias mais recentes no topo
 <br> Na próxima atualização em 10 de março, o pacote  KB5077241 será incluso dentre as atualizações e quem testou diz que isto transforma a experiência do usuário com maior fluidez do sistema, dentre outras melhorias.
 <br> Publicado [aqui](https://www.tudocelular.com/software/noticias/n248793/microsoft-libera-atualizacao-windows-11-novidades.html)
 
+<br> **2026.02.24 [SEC] Principais vulnerabilidades de contratos inteligentes**
+<br> O relatório da OWASP Smart Contract Security (SCS), traz as dez principais vulnerabilidades e tenta orientar as práticas de segurança padrão em ecossistemas descentralizados, desde plataformas de finanças descentralizadas (DeFi) a mercados de NFTs e protocolos de governança.
+<br> Publicado [aqui](https://www.linkedin.com/pulse/owasp-reveals-top-10-smart-contract-vulnerabilities-vrd0e)
+
 <br> **2026.02.23 [SEC] Ataques cibernéticos com IA**
 <br> O exemplo mais recente de janeiro foram 600 dispositivos de rede FortiGate afetados em pelo menos 55 países. Os ataques exploraram falhas básicas de segurança, demonstrsndo que não foi a inovação, mas sim a automação e a escalabilidade.
 <br> Publicado [aqui](https://www.linkedin.com/pulse/ai-powered-cybercrime-surge-low-skill-hackers-now-2uhte)
