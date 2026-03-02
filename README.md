@@ -4,6 +4,9 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2026.02.28 [SEC] Notícias de 19 a 26 de fevereiro**
+<br> Publicado [aqui](https://pt.linkedin.com/comm/pulse/principais-not%C3%ADcias-de-ciberseguran%C3%A7a-da-semana-19-26-fevereiro-qxqqf)
+
 <br> **2026.02.28 [SEC] Israel vs Irã**
 <br> Após bombardeio norte americano, Israel lança ciberataques históricos contra a República Islâmica do Irã. O resultado da operação Fúria Épica informa que causou um apagão de internet quase total, com a conectividade em todo o país reduzida a apenas 4%.
 <br> Publicado [aqui](https://www.linkedin.com/pulse/israel-launches-historic-cyberattacks-against-islamic-mqoqe)
