@@ -59,6 +59,14 @@ Latest news are at top / Notícias mais recentes no topo
 <br> A nova versão apresenta importantes atualizações de segurança para empresas. Os detalhes estão disponíveis no artigo.
 <br> Publicado [aqui](https://www.linkedin.com/pulse/microsoft-edge-145-introduces-major-enterprise-xzrbe)
 
+<br> **2026.02.19 [SEC] PromptSpy: o primeiro malware com IA no Android**
+<br> A primeira família de malware para Android conhecida a utilizar um modelo de IA generativa, especificamente o Gemini do Google, como parte de seu fluxo de execução ativo. Descoberta em fevereiro de 2026, o malware representa um avanço significativo na evolução das ameaças móveis e sucede a identificação anterior do PromptLock pela ESET, o primeiro ransomware com inteligência artificial, em agosto de 2025.
+<br> Publicado [aqui](https://cybersecuritynews.com/promptspy-android-ai-malware/)
+
+<br> **2026.02.19 [SEC] Ataque ao W11 via DNS**
+<br> Uma evolução sofisticada da campanha de engenharia social ClickFix, na qual agentes maliciosos agora abusam do utilitário legítimo do Windows, nslookup.exe, para implantar cargas de dados maliciosos por meio de consultas DNS, fugindo do uso tradicional do PowerShell, tornando a detecção mais desafiadora para as equipes de segurança.
+<br> Publicado [aqui](https://cybersecuritynews.com/clickfix-attack-using-nslookup/)
+
 <br> **2026.02.19 [SEC] Guia prático para o desenvolvimento seguro**
 <br> Para proteger servidores com Model Context Protocol (MCP) onde o ponto de conexão crítico é entre assistentes de IA e ferramentas externas, APIs e fontes de dados, há riscos pois a segurança funciona com permissões de usuário delegadas, arquiteturas dinâmicas baseadas em ferramentas e chamadas de ferramentas encadeadas, aumentando o impacto potencial de uma única vulnerabilidade.
 <br> Publicado [aqui](https://www.linkedin.com/pulse/owasp-releases-practical-guide-secure-mcp-server-untle)
