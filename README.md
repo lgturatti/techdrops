@@ -4,6 +4,10 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2026.03.03 [SEC] Firefox 148**
+<br> O navegador traz um "interruptor de segurança" de IA, grandes correções de segurança e um novo padrão de segurança na web. O usuário agora tem maior controle sobre ações de IA.
+<br> Publicado [aqui](https://www.linkedin.com/pulse/firefox-148-launches-ai-kill-switch-major-security-u3yue)
+
 <br> **2026.03.02 [SEC] Alerta do NCSC**
 <br> O Reino Unido emitiu um alerta referente a medidas de segurança cibernética em decorrência da escalada do conflito no Oriente Médio,  principalmente em relação a empresas e instituições sediadas no país.
 <br> Publicado [aqui](https://www.linkedin.com/pulse/ncsc-warns-iranian-threat-organisations-must-strengthen-jnbpf)
