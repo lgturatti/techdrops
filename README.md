@@ -4,6 +4,18 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2026.03.04 [SEC] Atualização do W11 deixa equipamentos sem Internet**
+<br> As atualizações recentes estão apagando alguns arquivos de política de configuração em redes empresariais, forçando intervenção manual de administradores para restabelecer comunicação. 
+<br> Publicado [aqui](https://cybersecuritynews.com/windows-11-23h2-to-25h2-upgrade/)
+
+<br> **2026.03.04 [SEC] iPhone hackeados**
+<br> O Grupo de Inteligência de Ameaças do Google (GTIG) descobriu o Coruna, um sofisticado kit de exploração para iOS contendo 23 exploits em cinco cadeias de exploração completas que comprometeram milhares de iPhones executando o iOS 13.0 até o 17.2.1.
+<br> Publicado [aqui](https://cybersecuritynews.com/coruna-ios-exploit-kit/)
+
+<br> **2026.03.03 [SEC] MS Entra ID**
+<br> A Microsoft alerta para um novo ataque de phishing que explora a vulnerabilidade OAuth no Entra ID para evitar a detecção.
+<br> Publicado [aqui](https://cybersecuritynews.com/phishing-attack-exploiting-oauth/)
+
 <br> **2026.03.03 [SEC] Firefox 148**
 <br> O navegador traz um "interruptor de segurança" de IA, grandes correções de segurança e um novo padrão de segurança na web. O usuário agora tem maior controle sobre ações de IA.
 <br> Publicado [aqui](https://www.linkedin.com/pulse/firefox-148-launches-ai-kill-switch-major-security-u3yue)
