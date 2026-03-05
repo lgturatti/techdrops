@@ -4,6 +4,10 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2026.03.05 [SEC] Tycoon 2FA down**
+<br> A plataforma de pishing (PaaS) Tycoon 2FA que permitia o roubo em larga escala de contas digitais em todo o mundo foi desativada, resultando na apreensão de mais de 300 domínios ligados à infraestrutura da plataforma, desativando efetivamente sites de phishing, painéis de controle de atacantes e os sistemas de back-end usados ​​por milhares de cibercriminosos
+<br> Publicado [aqui](https://www.linkedin.com/pulse/inside-global-takedown-tycoon-2fa-how-authorities-bjjne)
+
 <br> **2026.03.04 [SEC] Atualização do W11 deixa equipamentos sem Internet**
 <br> As atualizações recentes estão apagando alguns arquivos de política de configuração em redes empresariais, forçando intervenção manual de administradores para restabelecer comunicação. 
 <br> Publicado [aqui](https://cybersecuritynews.com/windows-11-23h2-to-25h2-upgrade/)
