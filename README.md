@@ -4,6 +4,10 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2026.03.05 [SEC] LeakBase desativado**
+<br> O "serviço" funcionava com um ponto de encontro para cibercriminosos que comercializavam dados e mantinham fóruns de discussão. O sistema contava com 142 mil usuários registrados, utilizando interface em inglês. Sobre o comércio de informações, esses conjuntos de dados roubados frequentemente continham combinações de e-mail e senha, registros financeiros e tokens de autenticação.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/international-operation-dismantles-major-cybercrime-ypyre)
+
 <br> **2026.03.05 [SEC] Tycoon 2FA down**
 <br> A plataforma de pishing (PaaS) Tycoon 2FA que permitia o roubo em larga escala de contas digitais em todo o mundo foi desativada, resultando na apreensão de mais de 300 domínios ligados à infraestrutura da plataforma, desativando efetivamente sites de phishing, painéis de controle de atacantes e os sistemas de back-end usados ​​por milhares de cibercriminosos
 <br> Publicado [aqui](https://www.linkedin.com/pulse/inside-global-takedown-tycoon-2fa-how-authorities-bjjne)
