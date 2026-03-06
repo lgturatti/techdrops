@@ -4,6 +4,10 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2026.03.05 [Energia] Novo reator nuclear**
+<br> TerraPower, a empresa de energia fundada por Bill Gates é a primeira a receber aprovação para construir um reator nuclear de última geração. A construção em Wyoming está prevista para ser concluída até 2030. O reator utilizado será o modelo Natrium, com 345 MW de potência, e a instalação contará com um sistema de armazenamento de energia baseado em sal fundido, que permitirá aumentar temporariamente a produção para até 500 MW em momentos de pico de demanda.
+<br> Publicado [aqui](https://www.theverge.com/science/889768/bill-gates-terrapower-nuclear-wyoming-reactor)
+
 <br> **2026.03.05 [SEC] LeakBase desativado**
 <br> O "serviço" funcionava com um ponto de encontro para cibercriminosos que comercializavam dados e mantinham fóruns de discussão. O sistema contava com 142 mil usuários registrados, utilizando interface em inglês. Sobre o comércio de informações, esses conjuntos de dados roubados frequentemente continham combinações de e-mail e senha, registros financeiros e tokens de autenticação.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/international-operation-dismantles-major-cybercrime-ypyre)
