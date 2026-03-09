@@ -4,6 +4,10 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2026.03.09 [SEC] Os maiores ataques de fevereiro**
+<br> Dentre as novas ameaças de ransomware, GREENBLOOD e BQTLock, são capazes de cifrar e roubar dados; além de novos RATs (Remote Access Trojan), como o Moonrise e Karsto.
+<br> Publicado [aqui](https://www.linkedin.com/pulse/major-cyber-attacks-february-2026-bqtlock-thread-hijack-4fdlc)
+
 <br> **2026.03.08 [SEC] Notícias de 27/02 a 05/03**
 <br> Notícias sobre segurança.
 <br> Publicado [aqui](https://www.linkedin.com/pulse/principais-not%C3%ADcias-de-ciberseguran%C3%A7a-da-semana-27-fevereiro-jnate)
