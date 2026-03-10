@@ -4,6 +4,10 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2026.03.09 [SEC] Segurança Cibernética EUA**
+<br> O documento publicado pela Casa Branca (dia 6 pp.), estabelece uma estrutura ampla para responder às crescentes ameaças cibernéticas por meio de uma coordenação governamental mais estreita, parcerias mais sólidas com o setor privado e investimentos ampliados em tecnologias avançadas.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/president-trump-unveils-new-national-cyber-strategy-1hyie)
+
 <br> **2026.03.09 [SEC] Os maiores ataques de fevereiro**
 <br> Dentre as novas ameaças de ransomware, temos o GREENBLOOD e BQTLock, que são capazes de cifrar e roubar dados; além de novos RATs (Remote Access Trojan), como o Moonrise e Karsto.
 <br> Publicado [aqui](https://www.linkedin.com/pulse/major-cyber-attacks-february-2026-bqtlock-thread-hijack-4fdlc)
