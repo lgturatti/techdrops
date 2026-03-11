@@ -4,6 +4,10 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2026.03.10 [SEC] Atualizações Microsoft**
+<br> As atualizações de segurança de março corrigem 79 vulnerabilidades em diversos produtos, incluindo duas falhas de dia zero divulgadas publicamente e vários problemas de alta gravidade que poderiam permitir que invasores executassem código malicioso ou obtivessem privilégios elevados.
+<br> Publicado [aqui](https://www.linkedin.com/pulse/microsoft-february-2026-patch-tuesday-fixes-70-1mwuf)
+
 <br> **2026.03.10 [SEC] Pentest AI-First**
 <br> O futuro do pentest não é automação total. É inteligência artificial acelerando o processo e especialistas aprofundando o ataque.
 <br> Publicado [aqui](https://www.linkedin.com/pulse/pentest-ai-first-nova-metodologia-de-hackersec-kelnf)
