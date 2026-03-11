@@ -4,6 +4,10 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2026.03.10 [SEC] Pentest AI-First**
+<br> O futuro do pentest não é automação total. É inteligência artificial acelerando o processo e especialistas aprofundando o ataque.
+<br> Publicado [aqui](https://www.linkedin.com/pulse/pentest-ai-first-nova-metodologia-de-hackersec-kelnf)
+
 <br> **2026.03.09 [SEC] Segurança Cibernética EUA**
 <br> O documento publicado pela Casa Branca (dia 6 pp.), estabelece uma estrutura ampla para responder às crescentes ameaças cibernéticas por meio de uma coordenação governamental mais estreita, parcerias mais sólidas com o setor privado e investimentos ampliados em tecnologias avançadas.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/president-trump-unveils-new-national-cyber-strategy-1hyie)
