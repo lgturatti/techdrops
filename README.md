@@ -139,6 +139,10 @@ Latest news are at top / Notícias mais recentes no topo
 <br> O Google lançou uma correção emergencial para a primeira vulnerabilidade de dia zero deste ano. É recomendado atualizar para a versão 145.0.7632.75. A falha permitia a execução de código dentro de um ambiente isolado (sandbox) por meio de uma página HTML manipulada.
 <br> Publicado [aqui](https://www.linkedin.com/pulse/google-releases-emergency-patch-first-chrome-zero-day-vzq9e)
 
+<br> **2026.02.15 [SEC] Notícias de 6 a 12/02**
+<br> Principais notícias de cibersegurança da semana.
+<br> Publicado [aqui](https://www.linkedin.com/pulse/principais-not%C3%ADcias-de-ciberseguran%C3%A7a-da-semana-06-12-fevereiro-wkt9f)
+
 <br> **2026.02.12 [SEC] MS SecBoot**
 <br> Desde o desenvolvimento do Windows 8 em 2011, a Microsoft introduziu a inicialização segura do sistema, utilizando certificados de segurança. O problema atual é que esses certificados expirarão em meados de 2026 (o que
 significa que milhões de PCs deixarão de funcionar repentinamente), levando a Microsoft e os principais fabricantes de PCs a acelerarem os esforços de atualização em todo o ecossistema global do Windows. Outro ponto importante é que a inicialização segura se tornou obrigatória com o Windows 11 em 2021.
