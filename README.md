@@ -12,6 +12,10 @@ Latest news are at top / Notícias mais recentes no topo
 <br> Pesquisa de segurança com inteligência artificial (Claude Opus 4.6) descobriu 22 novas vulnerabilidades durante uma pesquisa realizada em janeiro de 2026. A maioria dos problemas já foi resolvida no Firefox 148, e as conclusões deste trabalho fazem parte de uma colaboração mais ampla que visa avaliar como modelos avançados de IA podem auxiliar engenheiros de segurança na identificação de falhas complexas de software em larga escala.
 <br> Publicado [aqui](https://www.linkedin.com/pulse/ai-powered-security-research-uncovers-multiple-zzxqe)
 
+<br> **2026.03.10 [SEC] Verificação independente**
+<br> Bancos europeus estão focando na solução de Unified Attestation (Atestação Unificada),que refere-se a métodos e serviços projetados para verificar a integridade e a confiabilidade de plataformas, dispositivos, aplicativos ou ambientes de execução segura (TEE) de forma centralizada. A solução combina verificações de múltiplos componentes em um único token assinado, garantindo segurança contra modificações, para uso em dispositivos desbloqueados, com ROMs customizadas e/ou aparelhos que não utilizem a solução proprietária do Google.
+<br> Publicado [aqui](https://www.findarticles.com/unifiedattestation-launches-to-restore-banking-apps/)
+
 <br> **2026.03.10 [SEC] Atualizações Microsoft**
 <br> As atualizações de segurança de março corrigem 79 vulnerabilidades em diversos produtos, incluindo duas falhas de dia zero divulgadas publicamente e vários problemas de alta gravidade que poderiam permitir que invasores executassem código malicioso ou obtivessem privilégios elevados.
 <br> Publicado [aqui](https://www.linkedin.com/pulse/microsoft-february-2026-patch-tuesday-fixes-70-1mwuf)
