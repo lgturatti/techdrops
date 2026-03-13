@@ -4,6 +4,14 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2026.03.12 [SEC] Google $32B acquisition**
+<br> A compra da Wiz, empresa de segurança para nuvem, destaca a crescente ênfase do Google na segurança da infraestrutura em nuvem e na detecção de ameaças orientada por inteligência artificial, duas áreas cada vez mais centrais para as estratégias de tecnologia empresarial, à medida que as empresas migram cargas de trabalho sensíveis para a nuvem.
+<br> Publicado [aqui](https://www.linkedin.com/pulse/google-completes-historic-32-billion-acquisition-gejbe)
+
+<br> **2026.03.11 [SEC] Firefox**
+<br> Pesquisa de segurança com inteligência artificial (Claude Opus 4.6) descobriu 22 novas vulnerabilidades durante uma pesquisa realizada em janeiro de 2026. A maioria dos problemas já foi resolvida no Firefox 148, e as conclusões deste trabalho fazem parte de uma colaboração mais ampla que visa avaliar como modelos avançados de IA podem auxiliar engenheiros de segurança na identificação de falhas complexas de software em larga escala.
+<br> Publicado [aqui](https://www.linkedin.com/pulse/ai-powered-security-research-uncovers-multiple-zzxqe)
+
 <br> **2026.03.10 [SEC] Atualizações Microsoft**
 <br> As atualizações de segurança de março corrigem 79 vulnerabilidades em diversos produtos, incluindo duas falhas de dia zero divulgadas publicamente e vários problemas de alta gravidade que poderiam permitir que invasores executassem código malicioso ou obtivessem privilégios elevados.
 <br> Publicado [aqui](https://www.linkedin.com/pulse/microsoft-february-2026-patch-tuesday-fixes-70-1mwuf)
