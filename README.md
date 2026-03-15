@@ -4,6 +4,10 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2026.03.14 [SEC] Notícias de 06 a 12 de Março**
+<br> Principais destaques em cibersegurança.
+<br> Publicado [aqui](https://www.linkedin.com/pulse/principais-not%C3%ADcias-de-ciberseguran%C3%A7a-da-semana-06-12-mar%C3%A7o-wtmaf)
+
 <br> **2026.03.12 [SEC] Google $32B acquisition**
 <br> A compra da Wiz, empresa de segurança para nuvem, destaca a crescente ênfase do Google na segurança da infraestrutura em nuvem e na detecção de ameaças orientada por inteligência artificial, duas áreas cada vez mais centrais para as estratégias de tecnologia empresarial, à medida que as empresas migram cargas de trabalho sensíveis para a nuvem.
 <br> Publicado [aqui](https://www.linkedin.com/pulse/google-completes-historic-32-billion-acquisition-gejbe)
