@@ -4,7 +4,7 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
-<br> **2026.03.14 [SEC] Notícias de 06 a 12 de Março**
+<br> **2026.03.14 [SEC] Notícias de 06 a 12 de março**
 <br> Principais destaques em cibersegurança.
 <br> Publicado [aqui](https://www.linkedin.com/pulse/principais-not%C3%ADcias-de-ciberseguran%C3%A7a-da-semana-06-12-mar%C3%A7o-wtmaf)
 
@@ -37,7 +37,7 @@ Latest news are at top / Notícias mais recentes no topo
 <br> Publicado [aqui](https://www.linkedin.com/pulse/major-cyber-attacks-february-2026-bqtlock-thread-hijack-4fdlc)
 
 <br> **2026.03.08 [SEC] Notícias de 27/02 a 05/03**
-<br> Notícias sobre segurança.
+<br> Principais destaques em cibersegurança.
 <br> Publicado [aqui](https://www.linkedin.com/pulse/principais-not%C3%ADcias-de-ciberseguran%C3%A7a-da-semana-27-fevereiro-jnate)
 
 <br> **2026.03.05 [Energia] Novo reator nuclear**
@@ -73,6 +73,7 @@ Latest news are at top / Notícias mais recentes no topo
 <br> Publicado [aqui](https://www.linkedin.com/pulse/ncsc-warns-iranian-threat-organisations-must-strengthen-jnbpf)
 
 <br> **2026.02.28 [SEC] Notícias de 19 a 26 de fevereiro**
+<br> Principais destaques em cibersegurança.
 <br> Publicado [aqui](https://pt.linkedin.com/comm/pulse/principais-not%C3%ADcias-de-ciberseguran%C3%A7a-da-semana-19-26-fevereiro-qxqqf)
 
 <br> **2026.02.28 [SEC] Israel vs Irã**
