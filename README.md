@@ -4,6 +4,14 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2026.03.18 [SEC] Atualização Apple**
+<br> Falha crítica em iPhones rodando iOS 18 permite extrair grande variedade de dados sensíveis: o ataque, chamado de DarkSword, permite a extração de informações pessoais como mensagens, contatos, credenciais, fotos, carteiras de moedas digitais, histórico de chamadas e localização apenas ao visitar links maliciosos pelo navegador Safari. Estima-se que até 270 milhões de dispositivos estariam vulneráveis. Uma correção já está disponível na versão 18.7.6 para aparelhos que não podem ser atualizados para o iOS 26. Recomenda-se atualizar imediatamente.
+<br> Publicado [aqui](https://www.theverge.com/tech/896841/iphone-ios-18-attack-darksword)
+
+<br> **2026.03.18 [DEV] Revisão de código**
+<br> Google lança Sashiko, sistema open-source de revisão de código baseado em IA para kernel Linux: em testes, a ferramenta foi capaz de identificar cerca de 53% dos bugs em um conjunto de 1.000 problemas recentes do projeto. Ela foi projetada para funcionar com o Gemini 3.1 Pro, mas também deve ser compatível com outros modelos, como o Claude. O código está disponível no repositório “sashiko-dev/sashiko” no GitHub.
+<br> Publicado[aqui](.https://www.phoronix.com/news/Sashiko-Linux-AI-Code-Review)
+
 <br> **2026.03.14 [SEC] Notícias de 06 a 12 de março**
 <br> Principais destaques em cibersegurança.
 <br> Publicado [aqui](https://www.linkedin.com/pulse/principais-not%C3%ADcias-de-ciberseguran%C3%A7a-da-semana-06-12-mar%C3%A7o-wtmaf)
