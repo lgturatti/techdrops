@@ -4,6 +4,10 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2026.03.21 [SEC] Notícias de 13 a 19 de março
+<br> Principais destaques em cibersegurança.
+<br> Publicado [aqui](https://www.linkedin.com/pulse/principais-not%C3%ADcias-de-ciberseguran%C3%A7a-da-semana-13-19-mar%C3%A7o-ksvjf)
+
 <br> **2026.03.18 [SEC] Atualização Apple**
 <br> Falha crítica em iPhones rodando iOS 18 permite extrair grande variedade de dados sensíveis: o ataque, chamado de DarkSword, permite a extração de informações pessoais como mensagens, contatos, credenciais, fotos, carteiras de moedas digitais, histórico de chamadas e localização apenas ao visitar links maliciosos pelo navegador Safari. Estima-se que até 270 milhões de dispositivos estariam vulneráveis. Uma correção já está disponível na versão 18.7.6 para aparelhos que não podem ser atualizados para o iOS 26. Recomenda-se atualizar imediatamente.
 <br> Publicado [aqui](https://www.theverge.com/tech/896841/iphone-ios-18-attack-darksword)
