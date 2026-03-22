@@ -4,6 +4,10 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2026.03.22 [SEC] Vulnerabilidade na identidade Oracle**
+<br> Esta vulnerabilidade pode ser explorada remotamente sem autenticação. As versões afetadas são: Oracle Identity Manager: 12.2.1.4.0 e 14.1.2.1.0; e Oracle Web Services Manager: 12.2.1.4.0 e 14.1.2.1.0. A empresa recomenda enfaticamente que os clientes apliquem as atualizações ou medidas de mitigação o mais rápido possível.
+<br> Publicado [aqui](https://www.linkedin.com/pulse/oracle-issues-emergency-patch-critical-identity-0zfhe)
+
 <br> **2026.03.21 [SEC] Notícias de 13 a 19 de março**
 <br> Principais destaques em cibersegurança.
 <br> Publicado [aqui](https://www.linkedin.com/pulse/principais-not%C3%ADcias-de-ciberseguran%C3%A7a-da-semana-13-19-mar%C3%A7o-ksvjf)
