@@ -4,9 +4,17 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
-<br> **2026.03.21 [SEC] Notícias de 13 a 19 de março
+<br> **2026.03.21 [SEC] Notícias de 13 a 19 de março**
 <br> Principais destaques em cibersegurança.
 <br> Publicado [aqui](https://www.linkedin.com/pulse/principais-not%C3%ADcias-de-ciberseguran%C3%A7a-da-semana-13-19-mar%C3%A7o-ksvjf)
+
+<br> **2026.03.20 [SEC] W11 update breaks**
+<br> A atualização cumulativa está impedindo os usuários de efetuar login no Microsoft Teams, OneDrive e em vários outros aplicativos da Microsoft.
+<br> Publicado [aqui](https://cybersecuritynews.com/windows-11-march-update-breaks-teams/)
+
+<br> **2026.03.20 [SEC] Cline CLI modificado**
+<br> O ataque afeta versão 2.3.0 e instalou openClaw em mais de 4000 dispositivos. O incidente não afeta a extensão do Cline para Visual Studio Code (VS Code) nem o plugin da JetBrains.
+<br> Publicado [aqui](https://thehackernews.com/2026/02/cline-cli-230-supply-chain-attack.html)
 
 <br> **2026.03.18 [SEC] Atualização Apple**
 <br> Falha crítica em iPhones rodando iOS 18 permite extrair grande variedade de dados sensíveis: o ataque, chamado de DarkSword, permite a extração de informações pessoais como mensagens, contatos, credenciais, fotos, carteiras de moedas digitais, histórico de chamadas e localização apenas ao visitar links maliciosos pelo navegador Safari. Estima-se que até 270 milhões de dispositivos estariam vulneráveis. Uma correção já está disponível na versão 18.7.6 para aparelhos que não podem ser atualizados para o iOS 26. Recomenda-se atualizar imediatamente.
