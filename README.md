@@ -4,6 +4,10 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2026.03.23 [SEC] Segurança de DNS é reformulada**
+<br> Agora com a atualização R3, o NIST traz melhorias, refletindo um cenário de ameaças transformado. Uma das mudanças mais notáveis ​​nas novas diretrizes é a forte ênfase no "DNS protetivo", um modelo no qual o DNS é usado não apenas para resolução, mas também como uma camada de inteligência e aplicação de regras em tempo real.
+<br> Publicado [aqui](https://www.linkedin.com/pulse/nist-overhauls-dns-security-guidance-after-12-years-coprf)
+
 <br> **2026.03.22 [SEC] Vulnerabilidade na identidade Oracle**
 <br> Esta vulnerabilidade pode ser explorada remotamente sem autenticação. As versões afetadas são: Oracle Identity Manager: 12.2.1.4.0 e 14.1.2.1.0; e Oracle Web Services Manager: 12.2.1.4.0 e 14.1.2.1.0. A empresa recomenda enfaticamente que os clientes apliquem as atualizações ou medidas de mitigação o mais rápido possível.
 <br> Publicado [aqui](https://www.linkedin.com/pulse/oracle-issues-emergency-patch-critical-identity-0zfhe)
