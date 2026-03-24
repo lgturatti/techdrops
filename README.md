@@ -4,6 +4,10 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2026.03.24 [SEC] Atualização Chrome**
+<br> A atualização corrige problemas de gerenciamento e processamento de memória, que permitiam injeção de código malicioso. A versão corrigida é 146.0.7680.164
+<br> Publicado [aqui](https://cybersecuritynews.com/chrome-security-update-8-vulnerabilities/)
+
 <br> **2026.03.23 [SEC] Segurança de DNS é reformulada**
 <br> Agora com a atualização R3, o NIST traz melhorias, refletindo um cenário de ameaças transformado. Uma das mudanças mais notáveis ​​nas novas diretrizes é a forte ênfase no "DNS protetivo", um modelo no qual o DNS é usado não apenas para resolução, mas também como uma camada de inteligência e aplicação de regras em tempo real.
 <br> Publicado [aqui](https://www.linkedin.com/pulse/nist-overhauls-dns-security-guidance-after-12-years-coprf)
