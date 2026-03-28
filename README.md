@@ -4,6 +4,10 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2026.03.28 [SEC] Corrigindo CVEs**
+<br> O artigo discorre sobre quando a aplicação de correções no código não é suficiente, e como o mecanismo de script do vRx resolve o problema.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/when-patching-isnt-enough-how-vrxs-scripting-engine-r058e)
+
 <br> **2026.03.28 [SEC] Notícias de 20 a 26 de março**
 <br> Principais destaques em cibersegurança.
 <br> Publicado [aqui](https://pt.linkedin.com/comm/pulse/principais-not%C3%ADcias-de-ciberseguran%C3%A7a-da-semana-20-26-mar%C3%A7o-zcmpf)
