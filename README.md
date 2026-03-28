@@ -12,6 +12,10 @@ Latest news are at top / Notícias mais recentes no topo
 <br> Principais destaques em cibersegurança.
 <br> Publicado [aqui](https://pt.linkedin.com/comm/pulse/principais-not%C3%ADcias-de-ciberseguran%C3%A7a-da-semana-20-26-mar%C3%A7o-zcmpf)
 
+<br> **2026.03.26 [SEC] GitHub mais seguro**
+<br> O GitHub amplia recursos de segurança com detecção de bugs baseada em IA. A abordagem híbrida para segurança de código moderno em duas camadas. A tecnologia CodeQL existente continuará a fornecer análises semânticas detalhadas para linguagens suportadas, como JavaScript, Python e Java. No entanto, a adição de detecção baseada em IA expande significativamente a cobertura para áreas onde a análise estática se mostrou mais difícil de implementar com eficácia.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/github-expands-security-capabilities-ai-powered-wetqe)
+
 <br> **2026.03.24 [SEC] Atualização Chrome**
 <br> A atualização corrige problemas de gerenciamento e processamento de memória, que permitiam injeção de código malicioso. A versão corrigida é 146.0.7680.164
 <br> Publicado [aqui](https://cybersecuritynews.com/chrome-security-update-8-vulnerabilities/)
