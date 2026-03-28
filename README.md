@@ -4,6 +4,10 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2026.03.28 [SEC] Notícias de 20 a 26 de março**
+<br> Principais destaques em cibersegurança.
+<br> Publicado [aqui](https://pt.linkedin.com/comm/pulse/principais-not%C3%ADcias-de-ciberseguran%C3%A7a-da-semana-20-26-mar%C3%A7o-zcmpf)
+
 <br> **2026.03.24 [SEC] Atualização Chrome**
 <br> A atualização corrige problemas de gerenciamento e processamento de memória, que permitiam injeção de código malicioso. A versão corrigida é 146.0.7680.164
 <br> Publicado [aqui](https://cybersecuritynews.com/chrome-security-update-8-vulnerabilities/)
