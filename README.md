@@ -4,6 +4,10 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2026.03.31 [WBD] World Backup Day**
+<br> As cópias de segurança (backups) são frequentemente negligenciados não porque as pessoas não os entendam, mas porque nada de errado aconteceu ainda. Isso cria uma falsa sensação de segurança. Embora as preocupações com perdas financeiras ou pessoais sejam generalizadas, os hábitos diários muitas vezes não refletem essas preocupações.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/today-world-backup-day-2026-how-protect-your-data-l3ske)
+
 <br> **2026.03.31 [SEC] Correção no ChatGPT**
 <br> OpenAI corrige falha crítica de vazamento de dados no ChatGPT e vulnerabilidade no token do GitHub no Codex, levantando preocupações mais amplas sobre segurança em IA.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/openai-fixes-critical-chatgpt-data-leak-flaw-codex-sndae)
