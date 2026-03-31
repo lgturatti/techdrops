@@ -4,6 +4,10 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2026.03.31 [SEC] Correção no ChatGPT**
+<br> OpenAI corrige falha crítica de vazamento de dados no ChatGPT e vulnerabilidade no token do GitHub no Codex, levantando preocupações mais amplas sobre segurança em IA.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/openai-fixes-critical-chatgpt-data-leak-flaw-codex-sndae)
+
 <br> **2026.03.28 [SEC] Corrigindo CVEs**
 <br> O artigo discorre sobre quando a aplicação de correções no código não é suficiente, e como o mecanismo de script do vRx resolve o problema.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/when-patching-isnt-enough-how-vrxs-scripting-engine-r058e)
