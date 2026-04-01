@@ -12,6 +12,10 @@ Latest news are at top / Notícias mais recentes no topo
 <br> OpenAI corrige falha crítica de vazamento de dados no ChatGPT e vulnerabilidade no token do GitHub no Codex, levantando preocupações mais amplas sobre segurança em IA.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/openai-fixes-critical-chatgpt-data-leak-flaw-codex-sndae)
 
+<br> **2026.03.28 [DEV] Swift para Android**
+<br> Swift, linguagem de programação desenvolvida pela Apple, passa a oferecer suporte oficial ao Android: a novidade chega com a atualização 6.3, permitindo que programadores criem aplicativos nativos para o sistema operacional, além de tornar possível a integração de código Swift em apps já existentes desenvolvidos em Kotlin ou Java.
+<br> Publicado [aqui](https://9to5google.com/2026/03/28/swift-a-coding-language-developed-by-apple-now-offers-official-android-support/) e [aqui](https://www.swift.org/documentation/articles/swift-sdk-for-android-getting-started.html)
+
 <br> **2026.03.28 [SEC] Corrigindo CVEs**
 <br> O artigo discorre sobre quando a aplicação de correções no código não é suficiente, e como o mecanismo de script do vRx resolve o problema.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/when-patching-isnt-enough-how-vrxs-scripting-engine-r058e)
