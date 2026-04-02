@@ -4,6 +4,10 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2026.04.01 [SEC] Google Drive Upgrade**
+<br> Para fortalecer a segurança na nuvem, o Google lançou oficialmente um novo conjunto de recursos de detecção de ransomware e restauração de arquivos para o Google Drive, marcando a transição dessas funcionalidades da fase beta para a disponibilidade geral, incorporando defesas proativas de cibersegurança diretamente em plataformas de produtividade do dia a dia, à medida que os ataques de ransomware continuam a aumentar globalmente.
+<br> Publicado [aqui](https://www.linkedin.com/pulse/google-drive-introduces-advanced-ransomware-detection-htiye/)
+
 <br> **2026.03.31 [WBD] World Backup Day**
 <br> As cópias de segurança (backups) são frequentemente negligenciados não porque as pessoas não os entendam, mas porque nada de errado aconteceu ainda. Isso cria uma falsa sensação de segurança. Embora as preocupações com perdas financeiras ou pessoais sejam generalizadas, os hábitos diários muitas vezes não refletem essas preocupações.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/today-world-backup-day-2026-how-protect-your-data-l3ske)
