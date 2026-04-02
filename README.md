@@ -4,6 +4,10 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2026.04.01 [SEC] EmDash vs WordPress**
+<br> Cloudflare anuncia ferramenta open-source descrita como sucessora espiritual do WordPress. O EmDash é desenvolvido em TypeScript e, por baixo dos panos, utiliza o framework Astro. Entre os destaques está a maior segurança no uso de plugins, que recebem capacidades específicas, garantindo que só possam executar exatamente o que foi permitido, sem acesso irrestrito ao restante do sistema, diferente dos complementos do WordPress. O projeto pode ser conferido no repositório “emdash-cms/emdash” no GitHub.
+<br> Publicado [aqui](https://blog.cloudflare.com/emdash-wordpress/)
+
 <br> **2026.04.01 [SEC] Google Drive Upgrade**
 <br> Para fortalecer a segurança na nuvem, o Google lançou oficialmente um novo conjunto de recursos de detecção de ransomware e restauração de arquivos para o Google Drive, marcando a transição dessas funcionalidades da fase beta para a disponibilidade geral, incorporando defesas proativas de cibersegurança diretamente em plataformas de produtividade do dia a dia, à medida que os ataques de ransomware continuam a aumentar globalmente.
 <br> Publicado [aqui](https://www.linkedin.com/pulse/google-drive-introduces-advanced-ransomware-detection-htiye/)
