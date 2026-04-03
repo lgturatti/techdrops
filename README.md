@@ -4,6 +4,10 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2026.04.02 [SEC] Cisco Server**
+<br> A Cisco Systems divulgou e corrigiu uma série de vulnerabilidades críticas que afetam seus produtos de infraestrutura corporativa, incluindo uma grave falha de bypass de autenticação que poderia permitir que invasores obtivessem controle administrativo total sobre os servidores afetados.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/warning-critical-cisco-server-flaw-enables-full-6oshe)
+
 <br> **2026.04.01 [SEC] EmDash vs WordPress**
 <br> Cloudflare anuncia ferramenta open-source descrita como sucessora espiritual do WordPress. O EmDash é desenvolvido em TypeScript e, por baixo dos panos, utiliza o framework Astro. Entre os destaques está a maior segurança no uso de plugins, que recebem capacidades específicas, garantindo que só possam executar exatamente o que foi permitido, sem acesso irrestrito ao restante do sistema, diferente dos complementos do WordPress. O projeto pode ser conferido no repositório “emdash-cms/emdash” no GitHub.
 <br> Publicado [aqui](https://blog.cloudflare.com/emdash-wordpress/)
