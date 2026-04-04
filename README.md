@@ -4,6 +4,10 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2026.04.04 [SEC] Notícias de 27/03 a 02 de abril**
+<br> Principais destaques em cibersegurança.
+<br> Publicado [aqui]https://pt.linkedin.com/comm/pulse/principais-not%C3%ADcias-de-ciberseguran%C3%A7a-da-semana-27-mar%C3%A7o-02-dpjlf)
+
 <br> **2026.04.02 [SEC] Cisco Server**
 <br> A Cisco Systems divulgou e corrigiu uma série de vulnerabilidades críticas que afetam seus produtos de infraestrutura corporativa, incluindo uma grave falha de bypass de autenticação que poderia permitir que invasores obtivessem controle administrativo total sobre os servidores afetados.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/warning-critical-cisco-server-flaw-enables-full-6oshe)
