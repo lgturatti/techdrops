@@ -4,6 +4,14 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2026.04.06 [SEC] Os maiores ataques de março**
+<br> Dentre as ocorrências tivemos abuso de tokens do Microsoft 365 e a distribuição de RATs ocultos no registro até o roubo de cartões, atividades de backdoor no macOS e operações de DDoS multivetoriais, phishing OAuth, contrabando de SVG, Magecart, dentre outros.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/major-cyber-attacks-march-2026-oauth-phishing-svg-smuggling-41mvc)
+
+<br> **2026.04.06 [SEC] Evolução dos ataques**
+<br> Os atacantes estão fazendo login, se camuflando e expandindo silenciosamente seu acesso ao longo do tempo. Este é um dos temas mais claros que emergem do Relatório Anual de Ameaças de 2026 da Blackpoint Cyber ​​e da recente descoberta do RoadK1ll, um implante furtivo baseado em WebSocket identificado durante uma investigação no mundo real.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/roadk1ll-rise-stealth-intrusions-what-security-teams-1pggc)
+
 <br> **2026.04.04 [SEC] Notícias de 27/03 a 02 de abril**
 <br> Principais destaques em cibersegurança.
 <br> Publicado [aqui]https://pt.linkedin.com/comm/pulse/principais-not%C3%ADcias-de-ciberseguran%C3%A7a-da-semana-27-mar%C3%A7o-02-dpjlf)
