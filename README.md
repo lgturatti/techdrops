@@ -4,6 +4,10 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2026.04.07 [SEC] Claude Mythos: evitar que a IA hackeie tudo**
+<br> Uma coalizão das empresas e instituições de tecnologia mais poderosas do mundo lançou uma nova e abrangente iniciativa de segurança cibernética, alertando que os rápidos avanços na inteligência artificial estão prestes a remodelar fundamentalmente o cenário global de ameaças.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/anthropic-introduces-claude-mythos-joins-forces-82eie)
+
 <br> **2026.04.06 [SEC] Os maiores ataques de março**
 <br> Dentre as ocorrências tivemos abuso de tokens do Microsoft 365 e a distribuição de RATs ocultos no registro até o roubo de cartões, atividades de backdoor no macOS e operações de DDoS multivetoriais, phishing OAuth, contrabando de SVG, Magecart, dentre outros.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/major-cyber-attacks-march-2026-oauth-phishing-svg-smuggling-41mvc)
