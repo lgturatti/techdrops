@@ -16,6 +16,10 @@ Latest news are at top / Notícias mais recentes no topo
 <br> A Microsoft suspendeu contas de diversos desenvolvedores de projetos open-source: entre os softwares afetados estão WireGuard, Windscribe, VeraCrypt e MemTest86, cujos mantenedores não conseguem mais publicar novas versões e atualizações de segurança. Segundo a empresa, isso aconteceu porque os desenvolvedores não completaram uma verificação periódica do Programa de Compatibilidade de Hardware do Windows, com prazo de 30 dias a partir de outubro de 2025.
 <br> Publicado [aqui](https://www.bleepingcomputer.com/news/microsoft/microsoft-suspends-dev-accounts-for-high-profile-open-source-projects/)
 
+<br> **2026.04.09 [SEC] Adobe Reader**
+<br> Falha de segurança de dia zero., onde arquivos PDF maliciosos podem ser usados ​​para roubar dados confidenciais e potencialmente comprometer sistemas inteiros, sem exigir qualquer ação do usuário além de abrir o documento.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/warning-critical-adobe-reader-zero-day-vulnerability-76g6e)
+
 <br> **2026.04.07 [SEC] Claude Mythos: evitar que a IA hackeie tudo**
 <br> Uma coalizão das empresas e instituições de tecnologia mais poderosas do mundo lançou uma nova e abrangente iniciativa de segurança cibernética, alertando que os rápidos avanços na inteligência artificial estão prestes a remodelar fundamentalmente o cenário global de ameaças.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/anthropic-introduces-claude-mythos-joins-forces-82eie)
