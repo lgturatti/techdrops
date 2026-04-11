@@ -4,6 +4,10 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2026.04.11 [SEC] OpenAI macOS Update**
+<br> O sistema de compilação de aplicativos macOS da OpenAI dependia do Axios em um pipeline de integração contínua baseado no GitHub Actions. Quando a biblioteca comprometida foi automaticamente integrada a esse fluxo de trabalho, ela obteve acesso indireto aos materiais de assinatura de código e autenticação usados ​​para validar a autenticidade dos aplicativos desktop da OpenAI.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/openai-issues-urgent-warning-macos-users-must-update-ffjge)
+
 <br> **2026.04.11 [SEC] Notícias de 03 a 09 de abril**
 <br> Principais destaques em cibersegurança.
 <br> Publicado [aqui](https://pt.linkedin.com/comm/pulse/principais-not%C3%ADcias-de-ciberseguran%C3%A7a-da-semana-03-09-abril-zxsnf)
