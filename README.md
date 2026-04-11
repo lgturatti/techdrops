@@ -4,6 +4,11 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2026.04.11 [SEC] Notícias de 03 a 09 de abril**
+<br> Principais destaques em cibersegurança.
+<br> Publicado [aqui](https://pt.linkedin.com/comm/pulse/principais-not%C3%ADcias-de-ciberseguran%C3%A7a-da-semana-03-09-abril-zxsnf)
+
+
 <br> **2026.04.09 [GIT] MS suspende contas**
 <br> A Microsoft suspendeu contas de diversos desenvolvedores de projetos open-source: entre os softwares afetados estão WireGuard, Windscribe, VeraCrypt e MemTest86, cujos mantenedores não conseguem mais publicar novas versões e atualizações de segurança. Segundo a empresa, isso aconteceu porque os desenvolvedores não completaram uma verificação periódica do Programa de Compatibilidade de Hardware do Windows, com prazo de 30 dias a partir de outubro de 2025.
 <br> Publicado [aqui](https://www.bleepingcomputer.com/news/microsoft/microsoft-suspends-dev-accounts-for-high-profile-open-source-projects/)
@@ -22,7 +27,7 @@ Latest news are at top / Notícias mais recentes no topo
 
 <br> **2026.04.04 [SEC] Notícias de 27/03 a 02 de abril**
 <br> Principais destaques em cibersegurança.
-<br> Publicado [aqui]https://pt.linkedin.com/comm/pulse/principais-not%C3%ADcias-de-ciberseguran%C3%A7a-da-semana-27-mar%C3%A7o-02-dpjlf)
+<br> Publicado [aqui](https://pt.linkedin.com/comm/pulse/principais-not%C3%ADcias-de-ciberseguran%C3%A7a-da-semana-27-mar%C3%A7o-02-dpjlf)
 
 <br> **2026.04.02 [SEC] Cisco Server**
 <br> A Cisco Systems divulgou e corrigiu uma série de vulnerabilidades críticas que afetam seus produtos de infraestrutura corporativa, incluindo uma grave falha de bypass de autenticação que poderia permitir que invasores obtivessem controle administrativo total sobre os servidores afetados.
