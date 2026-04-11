@@ -176,6 +176,11 @@ Latest news are at top / Notícias mais recentes no topo
 <br> O Reino Unido emitiu um alerta referente a medidas de segurança cibernética em decorrência da escalada do conflito no Oriente Médio,  principalmente em relação a empresas e instituições sediadas no país.
 <br> Publicado [aqui](https://www.linkedin.com/pulse/ncsc-warns-iranian-threat-organisations-must-strengthen-jnbpf)
 
+<br> **2026.03.01 [SEC] Soberania digital**
+<br> Não é apenas sobre uso de ferramentas open source, mas também sobre a proteção de dados do ambiente onde a solução tecnológica está inserida.
+<br> [Red Hat Digital Sovereignty Readiness Assessment](https://github.com/redhat-cop/viewfinder-upstream)
+<br> Publicado [aqui](https://diolinux.com.br/noticias/red-hat-ferramenta-soberania-digital.html)
+
 <br> **2026.02.28 [SEC] Notícias de 19 a 26 de fevereiro**
 <br> Principais destaques em cibersegurança.
 <br> Publicado [aqui](https://pt.linkedin.com/comm/pulse/principais-not%C3%ADcias-de-ciberseguran%C3%A7a-da-semana-19-26-fevereiro-qxqqf)
