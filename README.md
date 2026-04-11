@@ -8,6 +8,9 @@ Latest news are at top / Notícias mais recentes no topo
 <br> Principais destaques em cibersegurança.
 <br> Publicado [aqui](https://pt.linkedin.com/comm/pulse/principais-not%C3%ADcias-de-ciberseguran%C3%A7a-da-semana-03-09-abril-zxsnf)
 
+<br> **2026.04.10 [SEC] Regras de segurança**
+<br> A publicação discute sobre as regras pessoais, ou regras SOC que só conseguem detectar o que já foi documentado, enquanto todo o restante de possibilidades passa despercebido. É nesse cenário que a IA pode contribuir bastante. 
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/your-soc-rules-can-only-catch-what-someone-already-lip4e) e [download](https://underdefense.com/ai-soc-vs-traditional-soc-guide/) do guia comparativo. 
 
 <br> **2026.04.09 [GIT] MS suspende contas**
 <br> A Microsoft suspendeu contas de diversos desenvolvedores de projetos open-source: entre os softwares afetados estão WireGuard, Windscribe, VeraCrypt e MemTest86, cujos mantenedores não conseguem mais publicar novas versões e atualizações de segurança. Segundo a empresa, isso aconteceu porque os desenvolvedores não completaram uma verificação periódica do Programa de Compatibilidade de Hardware do Windows, com prazo de 30 dias a partir de outubro de 2025.
