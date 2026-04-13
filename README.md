@@ -4,6 +4,10 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2026.04.12 [DEV] Linux kernel 7.0 liberado**
+<br> Dentre as atualizações, temos a remoção do termo "experimental" para o código em rust; o sistema de arquivos nullfs; dentre outras melhorias. 
+<br> Publicado [aqui](https://lwn.net/Articles/1067279/)
+
 <br> **2026.04.11 [SEC] OpenAI macOS Update**
 <br> O sistema de compilação de aplicativos macOS da OpenAI dependia do Axios em um pipeline de integração contínua baseado no GitHub Actions. Quando a biblioteca comprometida foi automaticamente integrada a esse fluxo de trabalho, ela obteve acesso indireto aos materiais de assinatura de código e autenticação usados ​​para validar a autenticidade dos aplicativos desktop da OpenAI.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/openai-issues-urgent-warning-macos-users-must-update-ffjge)
