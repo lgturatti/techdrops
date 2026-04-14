@@ -16,6 +16,10 @@ Latest news are at top / Notícias mais recentes no topo
 <br> Principais destaques em cibersegurança.
 <br> Publicado [aqui](https://pt.linkedin.com/comm/pulse/principais-not%C3%ADcias-de-ciberseguran%C3%A7a-da-semana-03-09-abril-zxsnf)
 
+<br> **2026.04.10 [ASM] NASA: Apollo 11**
+<br> A NASA publicou o código-fonte de softwares utilizados na espaçonave da missão Apollo 11, responsável pelo primeiro pouso da humanidade na Lua: o material inclui os sistemas do módulo de comando (Comanche055) e do módulo lunar (Luminary099), que rodavam nas máquinas Apollo Guidance Computer, com apenas 3,75 KB de RAM e 67,5 KB de armazenamento.
+<br> Publicado [aqui](https://www.tomshardware.com/software/original-apollo-11-code-open-sourced-by-nasa-original-command-module-and-lunar-module-code-repos-are-now-public-domain-resources) e o [código fonte](https://github.com/chrislgarry/Apollo-11)
+
 <br> **2026.04.10 [SEC] Regras de segurança**
 <br> A publicação discute sobre as regras pessoais, ou regras SOC que só conseguem detectar o que já foi documentado, enquanto todo o restante de possibilidades passa despercebido. É nesse cenário que a IA pode contribuir bastante. 
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/your-soc-rules-can-only-catch-what-someone-already-lip4e) e [download](https://underdefense.com/ai-soc-vs-traditional-soc-guide/) do guia comparativo. 
