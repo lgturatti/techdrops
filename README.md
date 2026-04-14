@@ -278,6 +278,10 @@ significa que milhões de PCs deixarão de funcionar repentinamente), levando a 
 <br> A empresa pede aos usuários para atualizar o sistema de seus dispositivos para versão 26.3 além de desativar serviços que não estejam utilizando entre os dispositivos pessoais. 
 <br> Publicado [aqui](https://cybersecuritynews.com/apple-0-day-vulnerability-exploited/) e [aqui](https://www.linkedin.com/comm/pulse/apple-patches-actively-exploited-zero-day-vulnerability-ijeif)
 
+<br> **2026.02.11 [SEC] Bloco de Notas do Windows**
+<br> Uma vulnerabilidade no editor de texto permite que um invasor consiga explorar a rede, enganando usuários para que abram um arquivo markdown (.md) infectado. Uma vez carregado, um link malicioso dentro do arquivo faz com que o aplicativo processe protocolos não verificados. Se o usuário clicar em um atalho, o programa busca e executa arquivos remotos, injetando comandos arbitrários sem a devida sanitização.
+<br> Publicado [aqui](https://cybersecuritynews.com/windows-notepad-rce-vulnerability/)
+
 <br> **2026.02.11 [AI] OpenClaw mais seguro**
 <br> A proposta do NanoClaw, de Gavriel Cohen, é que cada agente de IA seja executado em contêineres isolados, limitando o alcance de possíveis ataques, restringindo o acesso apenas a diretórios explicitamente autorizados pelo usuário. Disponível [aqui](https://github.com/qwibitai/nanoclaw).
 <br> Publicado [aqui](https://venturebeat.com/orchestration/nanoclaw-solves-one-of-openclaws-biggest-security-issues-and-its-already)
