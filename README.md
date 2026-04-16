@@ -4,6 +4,10 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2026.04.15 [SEC] GPT-5.4 para segurança cibernética**
+<br> A versão Cyber é uma variante personalizada do modelo principal, projetada especificamente para aplicações de cibersegurança, como detecção de vulnerabilidades, análise de código seguro e mitigação de ameaças.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/openai-unveils-gpt-54-cyber-security-featuring-r8z5e)
+
 <br> **2026.04.14 [SEC] Atualização Microsoft**
 <br> A atualização de abril corrige 167 vulnerabilidades, incluindo duas falhas de dia zero. Os detalhes estão na publicação. 
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/microsoft-april-2026-patch-tuesday-fixes-160-vulnerabilities-kwfwe)
