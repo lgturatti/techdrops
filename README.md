@@ -4,6 +4,10 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2026.04.20 [SEC] W11 com RDP**
+<br> Após atualizações deste mês novas mensagens informativas sobre segurança aparecem ao executar arquivos .rdp em conexões desconhecidas. Fundamentalmente, todas as opções de redirecionamento de recursos estão desativadas (OFF) por padrão, exigindo que os usuários verifiquem e aprovem explicitamente cada item antes de se conectarem.
+<br> Publicado [aqui](https://cybersecuritynews.com/rdp-alert/)
+
 <br> **2026.04.18 [SEC] Notícias de 10 a 16 de abril**
 <br> Principais destaques em cibersegurança.
 <br> Publicado [aqui](https://pt.linkedin.com/comm/pulse/principais-not%C3%ADcias-de-ciberseguran%C3%A7a-da-semana-10-16-abril-up1ke)
