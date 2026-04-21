@@ -4,6 +4,10 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2026.04.20 [SEC] Ataques de ID falso no MS Teams**
+<br> O problema não consiste em falha de software, mas explora a questão de confiança com tom de urgência e aparência de legitimidade. O ataque é de engenharia social disfarçado de suporte. Muitas vezes usa pretextos como "atualização de segurança", "limpeza de spam" ou "verificação de conta" para pressionar os usuários a tomarem uma ação imediata.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/warning-threat-actors-exploit-microsoft-teams-helpdesk-o4see)
+
 <br> **2026.04.20 [SEC] W11 com RDP**
 <br> Após atualizações deste mês novas mensagens informativas sobre segurança aparecem ao executar arquivos .rdp em conexões desconhecidas. Fundamentalmente, todas as opções de redirecionamento de recursos estão desativadas (OFF) por padrão, exigindo que os usuários verifiquem e aprovem explicitamente cada item antes de se conectarem.
 <br> Publicado [aqui](https://cybersecuritynews.com/rdp-alert/)
