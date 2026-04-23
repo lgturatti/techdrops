@@ -8,6 +8,10 @@ Latest news are at top / Notícias mais recentes no topo
 <br> Apesar dos esforços com software há preocupação com os cabos de vídeo, antes considerados seguros, mas que pode ser explorados. Assim, monitores e interfaces de vídeo são vetores de ataque "altamente prováveis" para espionagem, interrupção de sistemas e crimes financeiros. Essas conexões podem processar dados visuais sensíveis e, em alguns casos, fornecer acesso indireto a sistemas internos. O novo produto funciona filtrando e bloqueando ativamente sinais inesperados ou maliciosos que trafegam entre dispositivos. Posicionado em linha entre a entrada e a saída (como entre um laptop e um monitor), ele garante que apenas dados de vídeo legítimos sejam transmitidos.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/uks-ncsc-introduces-silentglass-plug-in-device-f1qte)
 
+<br> **2026.04.22 [SEC] Atualização Microsoft**
+<br> Atualização emergencial do ASP[.]NET Core para corrigir falha crítica no Linux e macOS onde invasores podem alcançar acesso irrestrito ao sistemaoperacional. A correção está disponível na versão 10.0.7, e recomenda-se a rotação de chaves criptográficas.
+<br> Publicado [aqui](https://convergenciadigital.com.br/seguranca/microsoft-faz-atualizacao-emergencial-para-linux-e-macos-por-brecha-critica-para-invasoes/)
+
 <br> **2026.04.22 [DEV] Ataque via NPM**
 <br> Novo ataque à cadeia de suprimentos do npm se propaga automaticamente para roubar tokens de autenticação. A ameaça foi detectada por pesquisadores em vários pacotes da **Namastex Labs**, uma empresa que fornece soluções de agentes baseadas em IA projetadas para melhorar a lucratividade. A lista com os 16 pacotes ainda comprometidos estão na publicação abaixo.
 <br> Publicado [aqui](https://www.bleepingcomputer.com/news/security/new-npm-supply-chain-attack-self-spreads-to-steal-auth-tokens/)
