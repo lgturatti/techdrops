@@ -4,6 +4,10 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2026.04.26 [SEC] OpenAI bug bounty**
+<br> A iniciativa reflete a crescente preocupação nas comunidades tecnológica e científica de que sistemas de IA cada vez mais capazes possam ser mal utilizados caso os controles de proteção falhem.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/openai-launches-bug-bounty-test-limits-next-generation-mieee)
+
 <br> **2026.04.23 [SEC] Proteção SilentGlass**
 <br> Apesar dos esforços com software há preocupação com os cabos de vídeo, antes considerados seguros, mas que pode ser explorados. Assim, monitores e interfaces de vídeo são vetores de ataque "altamente prováveis" para espionagem, interrupção de sistemas e crimes financeiros. Essas conexões podem processar dados visuais sensíveis e, em alguns casos, fornecer acesso indireto a sistemas internos. O novo produto funciona filtrando e bloqueando ativamente sinais inesperados ou maliciosos que trafegam entre dispositivos. Posicionado em linha entre a entrada e a saída (como entre um laptop e um monitor), ele garante que apenas dados de vídeo legítimos sejam transmitidos.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/uks-ncsc-introduces-silentglass-plug-in-device-f1qte)
