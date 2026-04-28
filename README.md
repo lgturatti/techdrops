@@ -4,6 +4,10 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2026.04.28 [SEC] Windows Shell**
+<br> A Microsoft confirmou uma vulnerabilidade relacionada a permissões de execução de atalhos maliciosos (arquivos LNK) que, quando abertos, aproveitavam o processamento de caminhos de arquivos pelo shell do Windows para iniciar conexões com servidores controlados pelo atacante. Durante essa conexão a vítima pode enviar inadvertidamente uma versão criptografada de suas credenciais (Net-NTLMv2). Esses hashes podem então ser explorados em ataques subsequentes, incluindo retransmissão de credenciais ou quebra de senhas offline.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/warning-windows-shell-flaw-cve-2026-32202-actively-em86f)
+
 <br> **2026.04.28 [DEV] Win 9x no Linux**
 <br> Desenvolvedora cria “Windows 9x Subsystem para Linux”, permitindo rodar versões modernas do kernel Linux em computadores antigos: a ferramenta WSL9x consegue rodar Linux 6.19 em máquinas Windows 95, 98 ou Me e processadores Intel 486, sem emulação.
 <br> Disponível [aqui](https://codeberg.org/hails/wsl9x)
