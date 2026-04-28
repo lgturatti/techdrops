@@ -4,6 +4,15 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2026.04.28 [DEV] Win 9x no Linux**
+<br> Desenvolvedora cria “Windows 9x Subsystem para Linux”, permitindo rodar versões modernas do kernel Linux em computadores antigos: a ferramenta WSL9x consegue rodar Linux 6.19 em máquinas Windows 95, 98 ou Me e processadores Intel 486, sem emulação.
+<br> Disponível [aqui](https://codeberg.org/hails/wsl9x)
+
+<br> **2026.04.27 [SEC] Rede de suprimentos**
+<br> Ataques a redes de suprimentos estão ganhando atenção por comprometer grandes sistemas rapidamente. A
+empresa israelense de segurança de aplicativos Checkmarx confirmou que dados vinculados a seus sistemas internos foram expostos na dark web. Especialistas continuam com a investigação.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/checkmarx-investigates-dark-web-data-leak-following-7cmpe)
+
 <br> **2026.04.26 [SEC] OpenAI bug bounty**
 <br> A iniciativa reflete a crescente preocupação nas comunidades tecnológica e científica de que sistemas de IA cada vez mais capazes possam ser mal utilizados caso os controles de proteção falhem.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/openai-launches-bug-bounty-test-limits-next-generation-mieee)
