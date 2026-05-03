@@ -4,6 +4,14 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2026.05.03 [SEC] Notícias de 24 a 30 de abril**
+<br> Principais destaques em cibersegurança.
+<br> Publicado [aqui](https://pt.linkedin.com/comm/pulse/principais-not%C3%ADcias-de-ciberseguran%C3%A7a-da-semana-24-30-abril-sreof)
+
+<br> **2026.05.03 [SEC] Wireshark 4.6.5**
+<br> A atualização traz correções do programa e introduz suporte expandido a uma ampla gama de protocolos. Estes incluem AFP, AIN, ANSI_TCAP, ASAM CMP, ATN-ULCS, BEEP, BGP, Bluetooth HCI (incluindo ISO), BT-DHT, CAMEL, ChargingASE, CMIP, COSEM, DAP, Darwin, DCP ETSI, DECT NR+, DISP, DMX, DNS, E1AP, E2AP, F1AP, FC-SWILS, FTAM, GLOW, GNW, GOOSE e GPRSCDR.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/wireshark-465-fixes-multiple-security-vulnerabilities-zzkhe)
+
 <br> **2026.05.02 [SEC] Claude Security Beta**
 <br> O lançamento marca um esforço mais amplo para equipar as organizações com ferramentas avançadas baseadas em IA, capazes não apenas de identificar vulnerabilidades de software, mas também de acelerar o processo de correção delas.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/claude-security-enters-public-beta-ai-reshapes-gm5ie)
