@@ -4,6 +4,14 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2026.05.02 [SEC] Claude Security Beta**
+<br> O lançamento marca um esforço mais amplo para equipar as organizações com ferramentas avançadas baseadas em IA, capazes não apenas de identificar vulnerabilidades de software, mas também de acelerar o processo de correção delas.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/claude-security-enters-public-beta-ai-reshapes-gm5ie)
+
+<br> **2026.04.30 [SEC] Bug do ano**
+<br> As duas das ferramentas mais populares para administração de servidores web possuem vulnerabilidade crítica, provavelmente exploradas como 0-day: patches de emergência já estão disponíveis para uma falha no cPanel e WHM que permite a invasores obter acesso root. Dado que as ferramentas gerenciam cerca de 70 milhões de domínios, a descoberta é considerada “um desastre” por especialistas de segurança.
+<br> Publicado [aqui](https://www.theregister.com/2026/04/30/cpanel_whn_cves/)
+
 <br> **2026.04.28 [SEC] Windows Shell**
 <br> A Microsoft confirmou uma vulnerabilidade relacionada a permissões de execução de atalhos maliciosos (arquivos LNK) que, quando abertos, aproveitavam o processamento de caminhos de arquivos pelo shell do Windows para iniciar conexões com servidores controlados pelo atacante. Durante essa conexão a vítima pode enviar inadvertidamente uma versão criptografada de suas credenciais (Net-NTLMv2). Esses hashes podem então ser explorados em ataques subsequentes, incluindo retransmissão de credenciais ou quebra de senhas offline.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/warning-windows-shell-flaw-cve-2026-32202-actively-em86f)
