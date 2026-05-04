@@ -4,6 +4,10 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2026.05.04 [SEC] MS Defender bloqueia certificados**
+<br> Uma falha de detecção gerou alerta global após um falso positivo sobre software malicioso atribuído a certificados digitais legítimos emitidos pela DigiCert.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/microsoft-defender-misidentifies-digicert-certificates-n9yne)
+
 <br> **2026.05.03 [SEC] Notícias de 24 a 30 de abril**
 <br> Principais destaques em cibersegurança.
 <br> Publicado [aqui](https://pt.linkedin.com/comm/pulse/principais-not%C3%ADcias-de-ciberseguran%C3%A7a-da-semana-24-30-abril-sreof)
