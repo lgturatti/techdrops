@@ -4,6 +4,10 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2026.05.05 [SEC] MS Edge passwords**
+<br> Um indivíduo com privilégio administrativo pode acessar todas as senhas utilizadas no Microsoft Edge. Isso ocorre porque, na inicialização do programa, todas as senhas salvas são carregadas em memória como texto puro.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/revealed-microsoft-edge-stores-passwords-memory-t3y2e)
+
 <br> **2026.05.04 [SEC] MS Defender bloqueia certificados**
 <br> Uma falha de detecção gerou alerta global após um falso positivo sobre software malicioso atribuído a certificados digitais legítimos emitidos pela DigiCert.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/microsoft-defender-misidentifies-digicert-certificates-n9yne)
