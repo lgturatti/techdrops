@@ -4,6 +4,10 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2026.05.06 [SEC] Apache WebServer**
+<br> A vulnerabilidade pode desencadear ataques de negação de serviço (DoS) e, sob certas condições, obter execução remota de código (RCE). O problema está corrigido na versão 2.4.67
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/warning-critical-flaw-apache-http-server-enables-uhsfe)
+
 <br> **2026.05.05 [SEC] MS Edge passwords**
 <br> Um indivíduo com privilégio administrativo pode acessar todas as senhas utilizadas no Microsoft Edge. Isso ocorre porque, na inicialização do programa, todas as senhas salvas são carregadas em memória como texto puro.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/revealed-microsoft-edge-stores-passwords-memory-t3y2e)
