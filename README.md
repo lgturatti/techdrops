@@ -4,6 +4,10 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2026.05.09 [SEC] Linux " Dirty Frag"
+<br> A vulnerabilidade representa a mais recente evolução em uma classe perigosa de falhas de corrupção de memória no kernel do Linux, que inclui exploits como o Dirty Pipe e a falha Copy Fail, recentemente divulgada. A falha é altamente determinística, tornando a exploração significativamente mais confiável e potencialmente mais fácil de ser usada como arma. A solução temporária está neste artigo. 
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/warning-new-critical-linux-vulnerability-dirty-nn4re)
+
 <br> **2026.05.06 [SEC] Apache WebServer**
 <br> A vulnerabilidade pode desencadear ataques de negação de serviço (DoS) e, sob certas condições, obter execução remota de código (RCE). O problema está corrigido na versão 2.4.67
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/warning-critical-flaw-apache-http-server-enables-uhsfe)
