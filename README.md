@@ -8,6 +8,14 @@ Latest news are at top / Notícias mais recentes no topo
 <br> Os responsáveis ​​pela manutenção do kernel Linux estão considerando adicionar um enorme botão vermelho de emergência (killswitch) para que os administradores possam desativar temporariamente recursos vulneráveis enquanto as soluções estiverem em desenvolvimento. 
 <br> Publicado [aqui](https://www.theregister.com/oses/2026/05/11/linux-kernel-maintainers-pitch-emergency-killswitch-after-copyfail-and-dirty-frag-chaos/5237801)
 
+<br> **2026.05.10 [SEC] ParrotOS 7.2**
+<br> A equipe da distribuição baseada no Debian enfatiza o trabalho proativo em correções que, utilizando o kernel Linux 6.19.13, introduz melhorias abrangentes na infraestrutura de virtualização, no gerenciamento de contêineres Docker, no gerenciamento de pacotes e nos sistemas de automação de compilação, além de fornecer versões atualizadas de muitas das ferramentas de segurança ofensiva e defensiva mais utilizadas no setor de cibersegurança.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/parrot-os-72-now-available-download-featuring-4ap0e)
+
+<br> **2026.05.10 [SEC] Notícias de 01 a 07 de Maio**
+<br> Principais destaques em cibersegurança.
+<br> Publicado [aqui](https://pt.linkedin.com/comm/pulse/principais-not%C3%ADcias-de-ciberseguran%C3%A7a-da-semana-01-07-abril-rsj5e)
+
 <br> **2026.05.09 [SEC] Linux " Dirty Frag"**
 <br> A vulnerabilidade representa a mais recente evolução em uma classe perigosa de falhas de corrupção de memória no kernel do Linux, que inclui exploits como o Dirty Pipe e a falha Copy Fail, recentemente divulgada. A falha é altamente determinística, tornando a exploração significativamente mais confiável e potencialmente mais fácil de ser usada como arma. A solução temporária está neste artigo. 
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/warning-new-critical-linux-vulnerability-dirty-nn4re)
