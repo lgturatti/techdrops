@@ -4,6 +4,10 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2026.05.11 [DEV] AI Zero-Day Exploits**
+<br> Criminosos usaram pela primeira vez a inteligência artificial para identificar e explorar uma vulnerabilidade de software até então desconhecida. O alerta foi emitido pelo Grupo de Inteligência de Ameaças do Google (GTIG).
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/first-time-ever-hackers-use-ai-develop-zero-day-m3bje)
+
 <br> **2026.05.11 [SEC] Linux KillSwitch**
 <br> Os responsáveis ​​pela manutenção do kernel Linux estão considerando adicionar um enorme botão vermelho de emergência (killswitch) para que os administradores possam desativar temporariamente recursos vulneráveis enquanto as soluções estiverem em desenvolvimento. 
 <br> Publicado [aqui](https://www.theregister.com/oses/2026/05/11/linux-kernel-maintainers-pitch-emergency-killswitch-after-copyfail-and-dirty-frag-chaos/5237801)
