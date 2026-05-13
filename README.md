@@ -4,6 +4,13 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2026.05.13 [SEC] Falha no Vercel**
+<br> A falha não foi a exploração de vulnerabilidade no sentido tradicional. O ocorrido foi a consequência do vazamento de chaves da ferramenta de IA via OAuth. Isto reflete a mudança mais ampla na forma como as violações de segurança modernas realmente acontecem.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/vercel-breach-wasnt-just-incident-preview-the-cyber-security-hub-tuzae)
+
+<br> **2026.05.12 [SEC] Atualização Microsoft**
+<br> Corrige mais de 130 vulnerabilidades em seu ecossistema de software, incluindo sistema operacional,  Office, SharePoint Server e componentes essenciais de rede. <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/microsoft-may-2026-patch-tuesday-fixes-120-vulnerabilities-qpgse)
+
 <br> **2026.05.11 [DEV] AI Zero-Day Exploits**
 <br> Criminosos usaram pela primeira vez a inteligência artificial para identificar e explorar uma vulnerabilidade de software até então desconhecida. O alerta foi emitido pelo Grupo de Inteligência de Ameaças do Google (GTIG).
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/first-time-ever-hackers-use-ai-develop-zero-day-m3bje)
