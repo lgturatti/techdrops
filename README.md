@@ -4,6 +4,10 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2026.05.13 [SEC] HackerSec.ai: Segurança Ofensiva**
+<br> A iniciativa de pesquisa aplicada da HackerSec em cibersegurança ofensiva com inteligência artificial. O foco da plataforma é oferecer um  equilíbrio entre o trabalho humano e soluções automatizadas exclusivamente com IA.
+<br> Publicado [aqui](https://pt.linkedin.com/comm/pulse/hackersecai-iniciativa-de-pesquisa-em-ciberseguran%C3%A7a-ofensiva-u66lf)
+
 <br> **2026.05.13 [SEC] Falha no Vercel**
 <br> A falha não foi a exploração de vulnerabilidade no sentido tradicional. O ocorrido foi a consequência do vazamento de chaves da ferramenta de IA via OAuth. Isto reflete a mudança mais ampla na forma como as violações de segurança modernas realmente acontecem.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/vercel-breach-wasnt-just-incident-preview-the-cyber-security-hub-tuzae)
