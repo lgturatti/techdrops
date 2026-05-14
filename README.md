@@ -4,6 +4,11 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2026.05.13 [SEC] SAP Atualização Crítica**
+<br> Atualizações de segurança que corrigem diversas vulnerabilidades, incluindo duas falhas críticas que afetam suas principais plataformas, Commerce Cloud (RCE) e S/4HANA (SQL Injection) presentes em multinacionais, agências governamentais, fabricantes, varejistas e instituições financeiras em todo o mundo.
+<br> Publicado [aqui](
+https://www.linkedin.com/comm/pulse/sap-rushes-emergency-security-updates-critical-5pi9e)
+
 <br> **2026.05.13 [SEC] HackerSec.ai: Segurança Ofensiva**
 <br> A iniciativa de pesquisa aplicada da HackerSec em cibersegurança ofensiva com inteligência artificial. O foco da plataforma é oferecer um  equilíbrio entre o trabalho humano e soluções automatizadas exclusivamente com IA.
 <br> Publicado [aqui](https://pt.linkedin.com/comm/pulse/hackersecai-iniciativa-de-pesquisa-em-ciberseguran%C3%A7a-ofensiva-u66lf)
