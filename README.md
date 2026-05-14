@@ -4,6 +4,10 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2026.05.14 [DEV] W3Schools Exercícios**
+<br> A proposta para não abandonar um estudo em programação motivado por desafios que podem contabilizar experiência na plataforma.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/why-most-people-quit-coding-before-clicks-w3schools-com-he7te)
+
 <br> **2026.05.13 [SEC] SAP Atualização Crítica**
 <br> Atualizações de segurança que corrigem diversas vulnerabilidades, incluindo duas falhas críticas que afetam suas principais plataformas, Commerce Cloud (RCE) e S/4HANA (SQL Injection) presentes em multinacionais, agências governamentais, fabricantes, varejistas e instituições financeiras em todo o mundo.
 <br> Publicado [aqui](
