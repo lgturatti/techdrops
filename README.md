@@ -29,6 +29,18 @@ https://www.linkedin.com/comm/pulse/sap-rushes-emergency-security-updates-critic
 <br> A falha não foi a exploração de vulnerabilidade no sentido tradicional. O ocorrido foi a consequência do vazamento de chaves da ferramenta de IA via OAuth. Isto reflete a mudança mais ampla na forma como as violações de segurança modernas realmente acontecem.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/vercel-breach-wasnt-just-incident-preview-the-cyber-security-hub-tuzae)
 
+<br> **2026.05.13 [SEC] Ataque ao RubyGems**
+<br> Os módulos infectados pareciam criptograficamente autênticos e não havia indicação de comprometimento. Após a infecção, o malware grava a si mesmo em hooks do Claude Code e tarefas de automação do VS Code, de modo que desinstalar as versões maliciosas dos módulos não remove o malware. Quem baixou versões afetadas precisa considerar que está infectado, rotacionando credenciais, auditando diretórios de IDEs e bloqueando a infraestrutura de controle do invasor.
+<br> Publicado [aqui](https://news.risky.biz/risky-bulletin-rubygems-disables-sign-ups-after-attack-on-staff/)
+
+<br> **2026.05.12 [SEC] Ataque NPM e PiPI**
+<br> Ataque massivo compromete mais de 400 versões de módulos NPM e PyPI de 170 pacotes em diversos projetos de alto perfil do NPM e PyPI.
+<br> Publicado [aqui](https://www.securityweek.com/tanstack-mistral-ai-uipath-hit-in-fresh-supply-chain-attack/)
+
+<br> **2026.05.12 [SEC] Rede IPv8**
+<br> Arquiteto de redes propõe IPv8 para ampliar o IPv4 e manter compatibilidade. A  principal mudança é expandir o espaço numérico do IPv4 ao adicionar um “código de área” baseado no número de sistema autônomo de uma operadora (ASN), no formato r.r.r.r.n.n.n.n, em que “r” é o ASN codificado como inteiro de 32 bits e “n” é um endereço IPv4 convencional. O esquema ampliaria o IPv4 para cerca de 30 trilhões de endereços únicos. Thain afirma que criou a proposta porque poucas organizações, além de hyperscalers e operadoras, têm bons motivos para adotar o IPv6.
+<br> Publicado [aqui](https://www.theregister.com/networks/2026/05/12/veteran-network-architect-proposes-ipv8-to-improve-ipv4-not-leapfrog-v6/5238474)
+
 <br> **2026.05.12 [SEC] Atualização Microsoft**
 <br> Corrige mais de 130 vulnerabilidades em seu ecossistema de software, incluindo sistema operacional,  Office, SharePoint Server e componentes essenciais de rede. <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/microsoft-may-2026-patch-tuesday-fixes-120-vulnerabilities-qpgse)
 
