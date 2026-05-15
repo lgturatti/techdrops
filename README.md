@@ -4,6 +4,14 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2026.05.14 [AI] xAI Grok Build (beta)**
+<br> A ferramenta é voltada para engenharia de software profissional e trabalhos complexos de programação, rodando diretamente no terminal e oferecendo modo de planejamento, revisão de diffs, integração com AGENTS[.]md, plugins, hooks, skills e servidores MCP.
+<br> Publicado [aqui](https://x.ai/news/grok-build-cli)
+
+<br> **2026.05.14 [AI] Claude recupera 5 BTC**
+<br> Após mais de onze anos com a carteira bloqueada, usuário conseguiu recuperar a senha. O modelo encontrou backups, senhas candidatas e uma seed phrase anotada em um caderno. Usando btcrecover o modelo conseguiu descriptografar as chaves privadas.
+<br> Publicado [aqui](https://m.slashdot.org/story/454825)
+
 <br> **2026.05.14 [DEV] W3Schools Exercícios**
 <br> A proposta para não abandonar um estudo em programação motivado por desafios que podem contabilizar experiência na plataforma.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/why-most-people-quit-coding-before-clicks-w3schools-com-he7te)
