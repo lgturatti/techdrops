@@ -4,6 +4,18 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2026.05.17 [SEC] Apple na mira**
+<br> Depois dos problemas no Kernel do Linux serem expostos e corrigidos, agora foi a vez da Apple, onde o Claude Mythos encontrou uma falha. O pesquisador, descreveu a cadeia de vulnerabilidades como a “primeira exploração pública de corrupção de memória do kernel do macOS no Apple M5”.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/anthropics-claude-mythos-reportedly-circumvents-qpbfe)
+
+<br> **2026.05.17 [SEC] Notícias de 08 a 14 de Maio**
+<br> Principais destaques em cibersegurança.
+<br> Publicado [aqui](https://pt.linkedin.com/comm/pulse/principais-not%C3%ADcias-de-ciberseguran%C3%A7a-da-semana-08-14-maio-ynywf)
+
+<br> **2026.05.16 [SEC] Microsoft Edge**
+<br> A Microsoft finalmente reverteu sua posição sobre a segurança de senhas do Edge após pesquisador expor falha de memória. As credenciais armazenadas no navegador tornaram-se um alvo principal para famílias de malware de roubo de informações, como RedLine, Lumma, Vidar, Raccoon e StealC, que especificamente vasculham a memória do navegador e os repositórios de credenciais para coletar dados de login e revendê-los em mercados clandestinos. Quando as credenciais ficam armazenadas descriptografadas na memória o tempo todo, a barreira de acesso para os atacantes diminui drasticamente. A defesa em profundidade é importante justamente porque os atacantes raramente param em um único ponto de acesso.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/microsoft-reverses-course-edge-password-security-ecsde)
+
 <br> **2026.05.14 [AI] xAI Grok Build (beta)**
 <br> A ferramenta é voltada para engenharia de software profissional e trabalhos complexos de programação, rodando diretamente no terminal e oferecendo modo de planejamento, revisão de diffs, integração com AGENTS[.]md, plugins, hooks, skills e servidores MCP.
 <br> Publicado [aqui](https://x.ai/news/grok-build-cli)
