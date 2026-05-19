@@ -4,6 +4,10 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2026.05.18 [SEC] Linux RAV**
+<br> Nova falha "DirtyDecrypt" no Linux, com nível administrativo (RAV, Root Access Vulnerability). A falha, que afeta o subsistema RxGK do kernel, decorre de um problema de gerenciamento de memória dentro da função rxgk_decrypt_skb, onde a ausência de uma proteção de cópia sob demanda (COW) permite a corrupção do cache de páginas sob condições específicas. Atacantes com acesso local podem explorar a falha para sobrescrever regiões de memória privilegiadas e elevar seus privilégios para root.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/public-exploit-released-dirtydecrypt-new-critical-acmje)
+
 <br> **2026.05.17 [SEC] Apple na mira**
 <br> Depois dos problemas no Kernel do Linux serem expostos e corrigidos, agora foi a vez da Apple, onde o Claude Mythos encontrou uma falha. O pesquisador, descreveu a cadeia de vulnerabilidades como a “primeira exploração pública de corrupção de memória do kernel do macOS no Apple M5”.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/anthropics-claude-mythos-reportedly-circumvents-qpbfe)
