@@ -4,6 +4,10 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2026.05.19 [SEC] Atualização crítica do Drupal**
+<br> O comunicado sobre a vulnerabilidade de alto risco informa que as versões de correção estarão disponíveis amanhã (dia 20) entre 17 e 21h00 UTC. Detalhes não foram informados agora porque as falhas poderiam ser exploradas em poucas horas, antes da distribuição da correção.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/drupal-warns-critical-security-update-ahead-emergency-ivpde)
+
 <br> **2026.05.18 [SEC] Linux RAV**
 <br> Nova falha "DirtyDecrypt" no Linux, com nível administrativo (RAV, Root Access Vulnerability). A falha, que afeta o subsistema RxGK do kernel, decorre de um problema de gerenciamento de memória dentro da função rxgk_decrypt_skb, onde a ausência de uma proteção de cópia sob demanda (COW) permite a corrupção do cache de páginas sob condições específicas. Atacantes com acesso local podem explorar a falha para sobrescrever regiões de memória privilegiadas e elevar seus privilégios para root.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/public-exploit-released-dirtydecrypt-new-critical-acmje)
@@ -23,6 +27,10 @@ Latest news are at top / Notícias mais recentes no topo
 <br> **2026.05.14 [AI] xAI Grok Build (beta)**
 <br> A ferramenta é voltada para engenharia de software profissional e trabalhos complexos de programação, rodando diretamente no terminal e oferecendo modo de planejamento, revisão de diffs, integração com AGENTS[.]md, plugins, hooks, skills e servidores MCP.
 <br> Publicado [aqui](https://x.ai/news/grok-build-cli)
+
+<br> **2026.05.15 [SEC] Microsoft Exchange**
+<br> O Microsoft Exchange Server, em instalações locais, pode permitir ataque de cross-site scripting (XSS) devido a um erro durante a geração de páginas da web, onde o atacante envia um e-mail especialmente criado para uma vítima usando o Outlook Web Access (OWA). Em determinadas condições de interação, abrir a mensagem pode desencadear a execução arbitrária de JavaScript dentro da sessão do navegador web da vítima.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/microsoft-warns-active-exploitation-targeting-on-premises-93bme)
 
 <br> **2026.05.14 [AI] Claude recupera 5 BTC**
 <br> Após mais de onze anos com a carteira bloqueada, usuário conseguiu recuperar a senha. O modelo encontrou backups, senhas candidatas e uma seed phrase anotada em um caderno. Usando btcrecover o modelo conseguiu descriptografar as chaves privadas.
