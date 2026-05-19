@@ -24,13 +24,13 @@ Latest news are at top / Notícias mais recentes no topo
 <br> A Microsoft finalmente reverteu sua posição sobre a segurança de senhas do Edge após pesquisador expor falha de memória. As credenciais armazenadas no navegador tornaram-se um alvo principal para famílias de malware de roubo de informações, como RedLine, Lumma, Vidar, Raccoon e StealC, que especificamente vasculham a memória do navegador e os repositórios de credenciais para coletar dados de login e revendê-los em mercados clandestinos. Quando as credenciais ficam armazenadas descriptografadas na memória o tempo todo, a barreira de acesso para os atacantes diminui drasticamente. A defesa em profundidade é importante justamente porque os atacantes raramente param em um único ponto de acesso.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/microsoft-reverses-course-edge-password-security-ecsde)
 
-<br> **2026.05.14 [AI] xAI Grok Build (beta)**
-<br> A ferramenta é voltada para engenharia de software profissional e trabalhos complexos de programação, rodando diretamente no terminal e oferecendo modo de planejamento, revisão de diffs, integração com AGENTS[.]md, plugins, hooks, skills e servidores MCP.
-<br> Publicado [aqui](https://x.ai/news/grok-build-cli)
-
 <br> **2026.05.15 [SEC] Microsoft Exchange**
 <br> O Microsoft Exchange Server, em instalações locais, pode permitir ataque de cross-site scripting (XSS) devido a um erro durante a geração de páginas da web, onde o atacante envia um e-mail especialmente criado para uma vítima usando o Outlook Web Access (OWA). Em determinadas condições de interação, abrir a mensagem pode desencadear a execução arbitrária de JavaScript dentro da sessão do navegador web da vítima.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/microsoft-warns-active-exploitation-targeting-on-premises-93bme)
+
+<br> **2026.05.14 [AI] xAI Grok Build (beta)**
+<br> A ferramenta é voltada para engenharia de software profissional e trabalhos complexos de programação, rodando diretamente no terminal e oferecendo modo de planejamento, revisão de diffs, integração com AGENTS[.]md, plugins, hooks, skills e servidores MCP.
+<br> Publicado [aqui](https://x.ai/news/grok-build-cli)
 
 <br> **2026.05.14 [AI] Claude recupera 5 BTC**
 <br> Após mais de onze anos com a carteira bloqueada, usuário conseguiu recuperar a senha. O modelo encontrou backups, senhas candidatas e uma seed phrase anotada em um caderno. Usando btcrecover o modelo conseguiu descriptografar as chaves privadas.
