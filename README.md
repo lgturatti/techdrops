@@ -4,6 +4,18 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2026.05.21 [SEC] Segurança no Discord**
+<br> O Discord traz criptografia (end-to-end encryption, E2EE) ativada por padrão em chamadas de voz e vídeo em toda a sua plataforma. A estimativa é que esta melhoria alcance cerca de 690 milhões de usuários da plataforma.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/discord-introduces-default-end-to-end-encryption-xgs7e)
+
+<br> **2026.05.20 [SEC] Ignorando o bitlocker**
+<br> A Microsoft emitiu uma conteção de emergência para uma vulnerabilidade recém-divulgada de bypass do BitLocker, conhecida como "YellowKey", após pesquisadores de segurança divulgarem publicamente um código de exploração de prova de conceito capaz de contornar as proteções de criptografia de disco do Windows.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/microsoft-rushes-out-emergency-mitigation-yellowkey-xlyre)
+
+<br> **2026.05.20 [SEC] Segurança no GitHub**
+<br> A violação recentemente noticiada está ligada a uma extensão maliciosa do VS Code que atingiu 3.800 repositórios. Como as extensões geralmente exigem permissões extensas em ambientes de desenvolvimento, uma extensão comprometida ou maliciosa pode se tornar um mecanismo ideal para coleta de credenciais e exfiltração de código. Foi o que aconteceu de um colaborador do próprio github
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/github-breach-linked-malicious-vs-code-extension-gfzse)
+
 <br> **2026.05.19 [SEC] Atualização crítica do Drupal**
 <br> O comunicado sobre a vulnerabilidade de alto risco informa que as versões de correção estarão disponíveis amanhã (dia 20) entre 17 e 21h00 UTC. Detalhes não foram informados agora porque as falhas poderiam ser exploradas em poucas horas, antes da distribuição da correção.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/drupal-warns-critical-security-update-ahead-emergency-ivpde)
