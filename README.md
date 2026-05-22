@@ -4,6 +4,10 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2026.05.21 [SEC] Microsoft Defender**
+<br> A Microsoft lançou atualizações de segurança urgentes para duas vulnerabilidades de dia zero para as falhas que já estão sendo exploradas ativamente em ataques reais.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/warning-2-microsoft-defender-zerodays-actively-tuzue)
+
 <br> **2026.05.21 [SEC] Segurança no Discord**
 <br> O Discord traz criptografia (end-to-end encryption, E2EE) ativada por padrão em chamadas de voz e vídeo em toda a sua plataforma. A estimativa é que esta melhoria alcance cerca de 690 milhões de usuários da plataforma.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/discord-introduces-default-end-to-end-encryption-xgs7e)
