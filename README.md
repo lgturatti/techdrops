@@ -4,6 +4,10 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2026.05.22 [SEC] Google Chrome**
+<br> A empresa está sob fogo cruzado após publicar código de exploração de vulnerabilidade não corrigida no Chromium que afeta milhões de usuários. A falha, divulgada inicialmente ao Google no final de 2022, afeta a API Browser Fetch, um recurso de download em segundo plano integrado ao Chromium, que pode permitir que sites maliciosos mantenham conexões persistentes e silenciosas com o navegador da vítima, transformando navegadores comuns em componentes de uma botnet leve capaz de realizar atividades anônimas de proxy, monitoramento de usuários e ataques de negação de serviço distribuídos (DDoS). O problema afeta praticamente todos os principais navegadores baseados no Chromium, incluindo Google Chrome, Microsoft Edge, Brave, Opera, Vivaldi e Arc.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/google-under-fire-after-publishing-exploit-code-4fbqf)
+
 <br> **2026.05.21 [SEC] Microsoft Defender**
 <br> A Microsoft lançou atualizações de segurança urgentes para duas vulnerabilidades de dia zero para as falhas que já estão sendo exploradas ativamente em ataques reais.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/warning-2-microsoft-defender-zerodays-actively-tuzue)
