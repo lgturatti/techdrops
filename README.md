@@ -4,6 +4,11 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2026.05.23 [SEC] OP Saffron**
+<br> Operação global iniciada em 2021 desfez a “primeira VPN”, de cibercriminosos ligados a ransomware, desativando 33 servidores. A plataforma anunciava garantias de anonimato e resistência a solicitações das autoridades, com registros de atividades monitorados por investigadores por mais de uma década. 
+<br>  Os investigadores alegam que os cibercriminosos se valeram do serviço VPN para: mascarar a origem dos ataques, contornar a atribuição geográfica, encaminhar tráfego malicioso por vários países, ocultar comunicações de comando e controle, e burlar os esforços de rastreamento das autoridades policiais. A infraestrutura também teria sido usada em: ataques de negação de serviço distribuídos (DDoS), campanhas de roubo de credenciais, operações de fraude online, e varredura de rede não autorizada.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/global-crackdown-dismantles-first-vpn-cybercriminal-mlpye)
+
 <br> **2026.05.22 [SEC] Google Chrome**
 <br> A empresa está sob fogo cruzado após publicar código de exploração de vulnerabilidade não corrigida no Chromium que afeta milhões de usuários. A falha, divulgada inicialmente ao Google no final de 2022, afeta a API Browser Fetch, um recurso de download em segundo plano integrado ao Chromium, que pode permitir que sites maliciosos mantenham conexões persistentes e silenciosas com o navegador da vítima, transformando navegadores comuns em componentes de uma botnet leve capaz de realizar atividades anônimas de proxy, monitoramento de usuários e ataques de negação de serviço distribuídos (DDoS). O problema afeta praticamente todos os principais navegadores baseados no Chromium, incluindo Google Chrome, Microsoft Edge, Brave, Opera, Vivaldi e Arc.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/google-under-fire-after-publishing-exploit-code-4fbqf)
