@@ -4,6 +4,10 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2026.05.26 [SEC] Microsoft Defender Endpoint Isolation**
+<br> Esta funcionalidade de segurança visa impedir ataques cibernéticos antes que se espalhem pelas redes corporativas. O recurso, atualmente disponível em modo de pré-lançamento, permite que dispositivos corporativos comprometidos sejam desconectados automaticamente das redes da organização no momento em que uma atividade suspeita for detectada. Analistas de segurança afirmam que a medida representa mais um passo em direção a sistemas de defesa cibernética totalmente autônomos, projetados para responder a ataques em tempo real sem esperar por intervenção humana.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/microsoft-defender-introduces-automatic-isolation-oq9he)
+
 <br> **2026.05.23 [SEC] OP Saffron**
 <br> Operação global iniciada em 2021 desfez a “primeira VPN”, de cibercriminosos ligados a ransomware, desativando 33 servidores. A plataforma anunciava garantias de anonimato e resistência a solicitações das autoridades, com registros de atividades monitorados por investigadores por mais de uma década. 
 <br>  Os investigadores alegam que os cibercriminosos se valeram do serviço VPN para: mascarar a origem dos ataques, contornar a atribuição geográfica, encaminhar tráfego malicioso por vários países, ocultar comunicações de comando e controle, e burlar os esforços de rastreamento das autoridades policiais. A infraestrutura também teria sido usada em: ataques de negação de serviço distribuídos (DDoS), campanhas de roubo de credenciais, operações de fraude online, e varredura de rede não autorizada.
