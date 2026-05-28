@@ -4,6 +4,10 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2026.05.28 [SEC] Claude Code**
+<br> A ferramenta de IA apresenta detecção de vulnerabilidades em tempo real e correções automáticas para desenvolvedores. O lançamento reflete uma mudança mais ampla na indústria em direção à integração da segurança diretamente no ciclo de vida do desenvolvimento de software.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/claude-introduces-real-time-vulnerability-detection-wf9ge)
+
 <br> **2026.05.27 [SEC] Apple torna tecnologia pública**
 <br> A Apple torna público o código-fonte de sua tecnologia de criptografia resistente à computação quântica. Em um passo significativo para o futuro da cibersegurança, a empresa concedeu a pesquisadores e especialistas independentes acesso sem precedentes às tecnologias projetadas para proteger bilhões de dispositivos contra futuras ameaças da computação quântica, juntamente com provas matemáticas, sistemas de verificação formal e ferramentas especializadas que permitem que pesquisadores externos auditem e reproduzam, de forma independente, a análise de segurança da empresa.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/apple-open-sources-its-quantum-resistant-encryption-87rte)
