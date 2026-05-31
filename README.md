@@ -12,6 +12,19 @@ Latest news are at top / Notícias mais recentes no topo
 <br> A Apple torna público o código-fonte de sua tecnologia de criptografia resistente à computação quântica. Em um passo significativo para o futuro da cibersegurança, a empresa concedeu a pesquisadores e especialistas independentes acesso sem precedentes às tecnologias projetadas para proteger bilhões de dispositivos contra futuras ameaças da computação quântica, juntamente com provas matemáticas, sistemas de verificação formal e ferramentas especializadas que permitem que pesquisadores externos auditem e reproduzam, de forma independente, a análise de segurança da empresa.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/apple-open-sources-its-quantum-resistant-encryption-87rte)
 
+<br> **2026.05.27 [SEC] Espionagem com Frost**
+<br> Sites podem espionar visitantes analisando atividade do SSD para descobrir abas, navegadores e apps abertos, sem exigir interação do usuário.
+<br> A técnica FROST roda exclusivamente no navegador com JavaScript e OPFS (Origin Private File System, ou Sistema de Arquivos Privado de Origem; que é uma API Web), conseguindo medir interações de entrada e saída por meio de uma rede neural convolucional treinada para deduzir a atividade do usuário. Para reduzir o risco, a recomendação é fechar abas não utilizadas e monitorar a criação e o tamanho de arquivos OPFS alocados por sites desconhecidos. A falha atinge TODOS os sistemas operacionais.
+<br> Publicado [aqui](https://arstechnica.com/security/2026/05/websites-have-a-new-way-to-spy-on-visitors-analyzing-their-ssd-activity/)
+
+<br> **2026.05.27 [SEC] Microsoft ZeroDays**
+<br> O GitHub baniu a conta do pesquisador de segurança que publicou seis vulnerabilidades zero-day do Windows: conhecido como “Nightmare-Eclipse”, ele afirma em seu blog que a ação da Microsoft foi vingativa após ela se recusar a pagar recompensas pelas descobertas. O pesquisador foi responsável por divulgar as falhas BlueHammer, RedSun, UnDefend, GreenPlasma, MiniPlasma e YellowKey. Ele afirma que, em julho, fará uma espécie de “acerto de contas” com a Microsoft, divulgando novas falhas.
+<br> Publicado [aqui](https://www.tomshardware.com/tech-industry/cyber-security/microsofts-github-bans-security-researcher-who-posted-zero-day-windows-exploits-because-company-ruined-their-life-expert-claims-action-is-vindictive-and-promises-further-retaliation)
+
+<br> **2026.05.26 [GOV] Assinatura digital**
+<br> Projeto de Lei equivale a assinatura digital ao reconhecimento de firma feito em cartório. A iniciativa já passou na Comissão de Ciência, Tecnologia e Inovação da Câmara dos Deputados. Ideia é simplificar e reduzir custos para as empresas. O texto seguirá agora para análise da Comissão de Constituição e Justiça e de Cidadania (CCJC) da Câmara dos Deputados. Depois disso, ainda poderá ser encaminhado ao Senado Federal. Se aprovado nas duas Casas e sancionado pelo governo federal, o novo modelo passará a valer em todo o país.
+<br> Publicado [aqui](https://convergenciadigital.com.br/mercado/projeto-de-lei-equivale-a-assinatura-digital-ao-reconhecimento-de-firma-feito-em-cartorio/)
+
 <br> **2026.05.26 [SEC] Microsoft Defender Endpoint Isolation**
 <br> Esta funcionalidade de segurança visa impedir ataques cibernéticos antes que se espalhem pelas redes corporativas. O recurso, atualmente disponível em modo de pré-lançamento, permite que dispositivos corporativos comprometidos sejam desconectados automaticamente das redes da organização no momento em que uma atividade suspeita for detectada. Analistas de segurança afirmam que a medida representa mais um passo em direção a sistemas de defesa cibernética totalmente autônomos, projetados para responder a ataques em tempo real sem esperar por intervenção humana.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/microsoft-defender-introduces-automatic-isolation-oq9he)
