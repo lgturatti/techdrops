@@ -4,6 +4,10 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2026.05.30 [SEC] Notícias de 21 a 28 de Maio**
+<br> Principais destaques em cibersegurança.
+<br> Publicado [aqui](https://pt.linkedin.com/comm/pulse/principais-not%C3%ADcias-de-ciberseguran%C3%A7a-da-semana-21-28-maio-njrdf)
+
 <br> **2026.05.28 [SEC] Claude Code**
 <br> A ferramenta de IA apresenta detecção de vulnerabilidades em tempo real e correções automáticas para desenvolvedores. O lançamento reflete uma mudança mais ampla na indústria em direção à integração da segurança diretamente no ciclo de vida do desenvolvimento de software.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/claude-introduces-real-time-vulnerability-detection-wf9ge)
