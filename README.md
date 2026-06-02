@@ -4,6 +4,10 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2026.06.02 [SEC] Oracle Weblogic**
+<br> A falha no Oracle WebLogic Server, que é um servidor de aplicativos Java corporativo, não recebe correções há dois anos e agentes maliciosos estão cada vez mais visando vulnerabilidades antigas e não corrigidas em softwares corporativos, em vez de se basearem exclusivamente em exploits de dia zero recém-descobertos.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/cisa-warns-active-exploitation-critical-oracle-kbjye)
+
 <br> **2026.05.30 [SEC] Notícias de 21 a 28 de Maio**
 <br> Principais destaques em cibersegurança.
 <br> Publicado [aqui](https://pt.linkedin.com/comm/pulse/principais-not%C3%ADcias-de-ciberseguran%C3%A7a-da-semana-21-28-maio-njrdf)
