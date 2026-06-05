@@ -4,6 +4,10 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2026.06.03 [SEC] Falha no VS Code**
+<br> A falha de dia  zero no VS Code permite roubo de tokens GitHub OAuth com apenas um clique: o ataque induz a vítima a abrir um link que explora o sistema de troca de mensagens da webview isolada do editor, a fim de instalar uma extensão maliciosa capaz de capturar a credencial enviada do github[.]com para o github[.]dev. A vulnerabilidade ainda não foi corrigida, não recebeu CVE e pode ser mitigada ao limpar cookies e dados locais do github[.]dev no navegador, fazendo o alerta de login da extensão “GitHub Repositories” aparecer ao clicar em links de exploração.
+<br> Publicado [aqui](https://www.bleepingcomputer.com/news/security/vs-code-zero-day-lets-hackers-steal-github-tokens-in-one-click/)
+
 <br> **2026.06.02 [SEC] Oracle Weblogic**
 <br> A falha no Oracle WebLogic Server, que é um servidor de aplicativos Java corporativo, não recebe correções há dois anos e agentes maliciosos estão cada vez mais visando vulnerabilidades antigas e não corrigidas em softwares corporativos, em vez de se basearem exclusivamente em exploits de dia zero recém-descobertos.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/cisa-warns-active-exploitation-critical-oracle-kbjye)
