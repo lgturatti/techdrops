@@ -4,6 +4,19 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2026.06.07 [SEC] Linux kernel update**
+<br> A vulnerabilidade afeta a implementação de grupos de controle (cgroups) no kernel do Linux, um mecanismo fundamental usado para gerenciar e isolar recursos do sistema entre processos. Em um cenário de ataque típico, um adversário que compromete um contêiner vulnerável pode tentar explorar a falha "release_agent" para executar comandos diretamente na máquina host. Uma vez obtido o acesso ao host, os atacantes podem potencialmente obter visibilidade de outros contêineres, roubar dados confidenciais, implantar malware, estabelecer persistência ou se movimentar lateralmente em ambientes de nuvem.
+<br> Maiores detalhes e orientações estão no artigo.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/cisa-flags-actively-exploited-linux-kernel-vulnerability-4jqee)
+
+<br> **2026.06.06 [SEC] OpenAI lockdown mode**
+<br> A OpenAI introduz o modo de bloqueio para combater os riscos de exfiltração de dados (prompt injection) em meio às crescentes ameaças de injeção imediata. A nova configuração de segurança está disponível para usuários conectados em contas gratuitas, Go, Plus e Pro, bem como para clientes que utilizam os planos ChatGPT Business de autoatendimento.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/openai-introduces-lockdown-mode-combat-ai-data-itgse)
+
+<br> **2026.06.06 [SEC] Notícias de 20 maio a 04 junho**
+<br> Principais destaques em cibersegurança.
+<br> Publicado [aqui](https://pt.linkedin.com/comm/pulse/principais-not%C3%ADcias-de-ciberseguran%C3%A7a-da-semana-20-maio-04-p9arf)
+
 <br> **2026.06.03 [SEC] Falha no VS Code**
 <br> A falha de dia  zero no VS Code permite roubo de tokens GitHub OAuth com apenas um clique: o ataque induz a vítima a abrir um link que explora o sistema de troca de mensagens da webview isolada do editor, a fim de instalar uma extensão maliciosa capaz de capturar a credencial enviada do github[.]com para o github[.]dev. A vulnerabilidade ainda não foi corrigida, não recebeu CVE e pode ser mitigada ao limpar cookies e dados locais do github[.]dev no navegador, fazendo o alerta de login da extensão “GitHub Repositories” aparecer ao clicar em links de exploração.
 <br> Publicado [aqui](https://www.bleepingcomputer.com/news/security/vs-code-zero-day-lets-hackers-steal-github-tokens-in-one-click/)
