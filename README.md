@@ -4,6 +4,10 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **2026.06.08 [SEC] Proxy para IA gratuito**
+<br> Pesquisadores de segurança descobriram novas evidências que demostram que softwares embutidos em aplicativos gratuitos para o consumidor podem transformar dispositivos domésticos comuns em nós proxy residenciais, permitindo que terceiros direcionem tráfego de web scraping através das conexões de internet domésticas dos usuários. Essa prática, embora legal sob estruturas de consentimento específicas, levanta questões significativas sobre transparência, privacidade, segurança cibernética e a crescente demanda por dados online usados ​​para treinar sistemas de IA.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/free-smart-tvs-apps-secretly-turning-your-devices-mfode)
+
 <br> **2026.06.07 [SEC] Linux kernel update**
 <br> A vulnerabilidade afeta a implementação de grupos de controle (cgroups) no kernel do Linux, um mecanismo fundamental usado para gerenciar e isolar recursos do sistema entre processos. Em um cenário de ataque típico, um adversário que compromete um contêiner vulnerável pode tentar explorar a falha "release_agent" para executar comandos diretamente na máquina host. Uma vez obtido o acesso ao host, os atacantes podem potencialmente obter visibilidade de outros contêineres, roubar dados confidenciais, implantar malware, estabelecer persistência ou se movimentar lateralmente em ambientes de nuvem.
 <br> Maiores detalhes e orientações estão no artigo.
