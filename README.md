@@ -4,6 +4,10 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
+<br> **[CISO Advisor (Chief Information Security Officer)](https://www.cisoadvisor.com.br)**
+
+<br> **[Cyber Security Brazil](https://www.cybersecbrazil.com.br)**
+
 <br> **2026.06.08 [SEC] Proxy para IA gratuito**
 <br> Pesquisadores de segurança descobriram novas evidências que demostram que softwares embutidos em aplicativos gratuitos para o consumidor podem transformar dispositivos domésticos comuns em nós proxy residenciais, permitindo que terceiros direcionem tráfego de web scraping através das conexões de internet domésticas dos usuários. Essa prática, embora legal sob estruturas de consentimento específicas, levanta questões significativas sobre transparência, privacidade, segurança cibernética e a crescente demanda por dados online usados ​​para treinar sistemas de IA.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/free-smart-tvs-apps-secretly-turning-your-devices-mfode)
@@ -28,6 +32,10 @@ Latest news are at top / Notícias mais recentes no topo
 <br> **2026.06.02 [SEC] Oracle Weblogic**
 <br> A falha no Oracle WebLogic Server, que é um servidor de aplicativos Java corporativo, não recebe correções há dois anos e agentes maliciosos estão cada vez mais visando vulnerabilidades antigas e não corrigidas em softwares corporativos, em vez de se basearem exclusivamente em exploits de dia zero recém-descobertos.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/cisa-warns-active-exploitation-critical-oracle-kbjye)
+
+<br> **2026.06.01 [SEC] ChatGPT distribui malware**
+<br> Vulnerabilidade no ChatGPT foi usada para disseminar malware por meio de páginas falsas de interrupção do serviço OpenAI. A "LLMSharing" descoberta por pesquisadores da Push Security, representa uma nova evolução nas táticas de phishing e distribuição de malware, aproveitando a credibilidade de plataformas de inteligência artificial.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/threat-actors-exploit-chatgpt-spread-malware-through-hv9ue)
 
 <br> **2026.05.30 [SEC] Notícias de 21 a 28 de Maio**
 <br> Principais destaques em cibersegurança.
