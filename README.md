@@ -8,6 +8,14 @@ Latest news are at top / Notícias mais recentes no topo
 
 <br> **[Cyber Security Brazil](https://www.cybersecbrazil.com.br)**
 
+<br> **2026.06.13 [SEC] Arch Linux: mais de 400 pacote comprometidos para instalar malware**
+<br> Foi detectado que no Arch User Repository (AUR) as versões foram modificadas para distribuir malware capaz de instalar rootkits através de um pacote npm externo chamado atomic-lockfile, usado para realizar a entrega de outras cargas (payloads) ainda mais perigosas.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/400-arch-linux-packages-hijacked-install-rootkit-like-phsce)
+
+<br> **2026.06.13 [SEC] Notícias de 04 a 11 de junho**
+<br> Principais destaques em cibersegurança.
+<br> Publicado [aqui](https://pt.linkedin.com/comm/pulse/principais-not%C3%ADcias-de-ciberseguran%C3%A7a-da-semana-04-11-junho-0zsnf)
+
 <br> **2026.06.08 [SEC] Proxy para IA gratuito**
 <br> Pesquisadores de segurança descobriram novas evidências que demostram que softwares embutidos em aplicativos gratuitos para o consumidor podem transformar dispositivos domésticos comuns em nós proxy residenciais, permitindo que terceiros direcionem tráfego de web scraping através das conexões de internet domésticas dos usuários. Essa prática, embora legal sob estruturas de consentimento específicas, levanta questões significativas sobre transparência, privacidade, segurança cibernética e a crescente demanda por dados online usados ​​para treinar sistemas de IA.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/free-smart-tvs-apps-secretly-turning-your-devices-mfode)
@@ -255,6 +263,10 @@ empresa israelense de segurança de aplicativos Checkmarx confirmou que dados vi
 <br> **2026.04.20 [SEC] W11 com RDP**
 <br> Após atualizações deste mês novas mensagens informativas sobre segurança aparecem ao executar arquivos .rdp em conexões desconhecidas. Fundamentalmente, todas as opções de redirecionamento de recursos estão desativadas (OFF) por padrão, exigindo que os usuários verifiquem e aprovem explicitamente cada item antes de se conectarem.
 <br> Publicado [aqui](https://cybersecuritynews.com/rdp-alert/)
+
+<br> **2026.04.20 [DEV] Cinco mentores que sua carreira precisa**
+<br> Ao invés de esperar por um mentor perfeito que atenda a todas as suas necessidades profissionais, diversifique e construa um círculo de mentores diferentes. A sugestão da estrategista de carreira Uwanma O., que mantém vários mentores é ter um que está um passo à frente, um executivo que pode abrir portas e um com menos experiência do que ela (que pode trazer um olhar fresco e que enxergará coisas que um veterano não perceberia). Esse conselho de mentores também pode ter alguém de sua confiança capaz de ouvir desabafos e capaz de oferecer feedback honesto. 
+<br> Publicado [aqui](https://www.forbes.com/sites/andymolinsky/2026/04/20/there-are-5-mentors-your-career-needs-how-many-do-you-have/)
 
 <br> **2026.04.18 [SEC] Notícias de 10 a 16 de abril**
 <br> Principais destaques em cibersegurança.
