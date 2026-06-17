@@ -5,8 +5,11 @@
 Latest news are at top / Notícias mais recentes no topo
 ```
 <br> **[CISO Advisor (Chief Information Security Officer)](https://www.cisoadvisor.com.br)**
-
 <br> **[Cyber Security Brazil](https://www.cybersecbrazil.com.br)**
+
+<br> **2026.06.16 [SEC] YAGA o escaner que encontra caminhos**
+<br> O diferencial central do modelo de exploração autônoma que a YAGA aplica tem a capacidade de observar o ambiente como um todo, correlacionar achados e construir cadeias de ataque que refletem o que um pentest autorizado e controlado faria.
+<br> Publicado [aqui](https://pt.linkedin.com/comm/pulse/como-yaga-explora-vulnerabilidades-em-cadeia-hackersec-q9ycc)
 
 <br> **2026.06.13 [SEC] Arch Linux: mais de 400 pacote comprometidos para instalar malware**
 <br> Foi detectado que no Arch User Repository (AUR) as versões foram modificadas para distribuir malware capaz de instalar rootkits através de um pacote npm externo chamado atomic-lockfile, usado para realizar a entrega de outras cargas (payloads) ainda mais perigosas.
