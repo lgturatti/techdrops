@@ -4,8 +4,12 @@
 [BR] Notícias sobre tecnologia e outras soluções digitais
 Latest news are at top / Notícias mais recentes no topo
 ```
-<br> **[CISO Advisor (Chief Information Security Officer)](https://www.cisoadvisor.com.br)**
+**[CISO Advisor (Chief Information Security Officer)](https://www.cisoadvisor.com.br)**
 <br> **[Cyber Security Brazil](https://www.cybersecbrazil.com.br)**
+
+<br> **2026.06.16 [SEC] Ataque ao Mastra NPM**
+<br> O atacante comprometeu a organização npm @mastra e publicou 144 versões de pacotes maliciosos em um intervalo de 88 minutos. O ataque não afetou o código-fonte da empresa. A carga maliciosa estava oculta um nível abaixo, dentro de uma dependência chamada easy-day-js, que é uma cópia com typosquatting da biblioteca legítima dayjs.
+<br> Publicado [aqui](https://www.endorlabs.com/learn/mastra-npm-org-compromised-multiple-packages-trojanized-to-drop-a-remote-payload-via-easy-day-js) e [aqui](https://phoenix.security/easy-day-js-mastra-npm-supply-chain-typosquat-rat-2026/)
 
 <br> **2026.06.16 [SEC] YAGA o escaner que encontra caminhos**
 <br> O diferencial central do modelo de exploração autônoma que a YAGA aplica tem a capacidade de observar o ambiente como um todo, correlacionar achados e construir cadeias de ataque que refletem o que um pentest autorizado e controlado faria.
