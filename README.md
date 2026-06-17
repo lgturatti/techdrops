@@ -91,6 +91,10 @@ Latest news are at top / Notícias mais recentes no topo
 <br> O Discord traz criptografia (end-to-end encryption, E2EE) ativada por padrão em chamadas de voz e vídeo em toda a sua plataforma. A estimativa é que esta melhoria alcance cerca de 690 milhões de usuários da plataforma.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/discord-introduces-default-end-to-end-encryption-xgs7e)
 
+<br> **2026.05.21 [SEC] Google API Keys**
+<br> Chaves de API do Google continuam funcionando por vários minutos após exclusão: um pesquisador de segurança descobriu que essas chaves não ficam completamente inativas depois que os usuários as apagam (o tempo de revogação fica em média de 16 minutos), abrindo uma janela pequena, mas relevante, para abuso. A recomendação é que equipes de segurança adotem uma janela de 30 minutos para exclusões de chaves de API do Google e monitorem o uso por credencial na seção “Enabled APIs and services” do console do GCP.
+<br> Publicado [aqui](https://www.darkreading.com/identity-access-management-security/google-api-keys-active-after-deletion)
+
 <br> **2026.05.20 [SEC] Ignorando o bitlocker**
 <br> A Microsoft emitiu uma conteção de emergência para uma vulnerabilidade recém-divulgada de bypass do BitLocker, conhecida como "YellowKey", após pesquisadores de segurança divulgarem publicamente um código de exploração de prova de conceito capaz de contornar as proteções de criptografia de disco do Windows.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/microsoft-rushes-out-emergency-mitigation-yellowkey-xlyre)
