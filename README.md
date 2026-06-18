@@ -7,6 +7,10 @@ Latest news are at top / Notícias mais recentes no topo
 **[CISO Advisor (Chief Information Security Officer)](https://www.cisoadvisor.com.br)**
 <br> **[Cyber Security Brazil](https://www.cybersecbrazil.com.br)**
 
+<br> **2026.06.17 [SEC] Atualizações Chrome e Firefox**
+<br> O Google e a Mozilla lançaram grandes atualizações de segurança para seus principais navegadores, corrigindo mais de 70 vulnerabilidades no total, incluindo várias falhas críticas e de alta gravidade na segurança da memória que, segundo especialistas em segurança, podem ser exploradas para execução remota de código (RCE).
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/chrome-firefox-release-security-updates-addressing-3w7qe)
+
 <br> **2026.06.16 [SEC] Ataque ao Mastra NPM**
 <br> O atacante comprometeu a organização npm @mastra e publicou 144 versões de pacotes maliciosos em um intervalo de 88 minutos. O ataque não afetou o código-fonte da empresa. A carga maliciosa estava oculta um nível abaixo, dentro de uma dependência chamada easy-day-js, que é uma cópia com typosquatting da biblioteca legítima dayjs.
 <br> Publicado [aqui](https://www.endorlabs.com/learn/mastra-npm-org-compromised-multiple-packages-trojanized-to-drop-a-remote-payload-via-easy-day-js) e [aqui](https://phoenix.security/easy-day-js-mastra-npm-supply-chain-typosquat-rat-2026/)
