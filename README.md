@@ -7,6 +7,10 @@ Latest news are at top / Notícias mais recentes no topo
 **[CISO Advisor (Chief Information Security Officer)](https://www.cisoadvisor.com.br)**
 <br> **[Cyber Security Brazil](https://www.cybersecbrazil.com.br)**
 
+<br> **2026.06.18 [SEC] Atualização NGINX**
+<br> A F5 lançou atualizações de segurança urgentes para corrigir duas vulnerabilidades críticas que afetam o NGINX Open Source, alertando que ha exploração bem-sucedida dessas vulnerabilidades.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/f5-releases-emergency-security-update-critical-cdexe)
+
 <br> **2026.06.17 [SEC] Atualizações Chrome e Firefox**
 <br> O Google e a Mozilla lançaram grandes atualizações de segurança para seus principais navegadores, corrigindo mais de 70 vulnerabilidades no total, incluindo várias falhas críticas e de alta gravidade na segurança da memória que, segundo especialistas em segurança, podem ser exploradas para execução remota de código (RCE).
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/chrome-firefox-release-security-updates-addressing-3w7qe)
