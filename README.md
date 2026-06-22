@@ -7,6 +7,22 @@ Latest news are at top / Notícias mais recentes no topo
 **[CISO Advisor (Chief Information Security Officer)](https://www.cisoadvisor.com.br)**
 <br> **[Cyber Security Brazil](https://www.cybersecbrazil.com.br)**
 
+<br> **2026.06.22 [SEC] A IA quebrou a gestão de vulnerabilidades**
+<br> Durante trinta anos, a gestão de vulnerabilidades funcionou com base em uma margem de segurança: os meses entre a descoberta de uma vulnerabilidade e a forma de como explorá-la. Com a IA, houve amudança da equação, comprimindo o período entre a descoberta e a exploração de meses para horas.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/ai-broke-vulnerability-management-thats-why-cisos-lp5je)
+
+<br> **2026.06.21 [SEC] Notícias de 12 a 18 de junho**
+<br> Principais destaques em cibersegurança.
+<br> Publicado [aqui](https://pt.linkedin.com/comm/pulse/principais-not%C3%ADcias-de-ciberseguran%C3%A7a-da-semana-12-18-junho-dsrtf)
+
+<br> **2026.06.21 [SEC] Apple fix**
+<br> A correção de uma falha crítica no Bluetooth dos fones de ouvido Beats Studio Buds que permitia a espionagem oculta.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/apple-fixes-critical-beats-studio-buds-bluetooth-rtw0e)
+
+<br> **2026.06.19 [SEC] Operation Endgame**
+<br> Agências internacionais interromperam um dos ecossistemas de crimes cibernéticos mais persistentes do mundo, desativando quase 15.000 sites comprometidos e desmantelando infraestruturas críticas usadas para distribuir o notório malware SocGholish em uma operação multinacional coordenada.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/operation-endgame-international-law-enforcement-tr0ee)
+
 <br> **2026.06.18 [SEC] Atualização NGINX**
 <br> A F5 lançou atualizações de segurança urgentes para corrigir duas vulnerabilidades críticas que afetam o NGINX Open Source, alertando que ha exploração bem-sucedida dessas vulnerabilidades.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/f5-releases-emergency-security-update-critical-cdexe)
