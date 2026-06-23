@@ -7,6 +7,20 @@ Latest news are at top / Notícias mais recentes no topo
 **[CISO Advisor (Chief Information Security Officer)](https://www.cisoadvisor.com.br)**
 <br> **[Cyber Security Brazil](https://www.cybersecbrazil.com.br)**
 
+<br> **2026.06.23 [SEC] OpenAI expande Daybreak**
+<br> A iniciativa serve para acelerar a defesa cibernética impulsionada por IA com detecção e correção automatizadas de vulnerabilidades. O programa inclui uma versão aprimorada do Codex Security (uma nova versão do GPT-5.5-Cyber) e uma nova iniciativa de código aberto chamada "Patch the Planet", voltada para ajudar os mantenedores a corrigir rapidamente vulnerabilidades antes que possam ser exploradas por agentes maliciosos.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/openai-expands-daybreak-initiative-accelerate-ai-powered-kt7ze)
+
+<br> **2026.06.23 [SEC] Entendendo como funciona o YAGA**
+<br> Aplicações modernas são sistemas complexos. Elas expõem APIs REST e GraphQL, consomem dados de múltiplas fontes, operam com regras de negócio específicas, integram sistemas legados, processam entradas em formatos variados e são mantidas por times diferentes com padrões distintos de desenvolvimento. Todo esse contexto cria comportamentos que o Web Application Firewall (WAF) simplesmente não conhece e não tem como conhecer. O WAF opera na camada de tráfego. A aplicação opera na camada de lógica. Essas duas camadas não falam a mesma língua o tempo todo.
+<br> Publicado [aqui](https://pt.linkedin.com/comm/pulse/como-yaga-realiza-bypass-em-ambientes-protegidos-hackersec-br1se)
+
+<br> **2026.06.22 [SEC] Operação FortiBleed**
+<br> Investigação revelou campanha sofisticada de ataque a firewalls FortiGate, segundo uma pesquisa recém-divulgada pela Unidade de Pesquisa de Ameaças (STRU) da SOCRadar. A operação, conhecida como FortiBleed, teve como alvo mais de 430.000 firewalls FortiGate globalmente, resultando na coleta de mais de 110 milhões de credenciais por meio de uma infraestrutura altamente organizada, projetada para capturar, decifrar e monetizar dados de autenticação corporativa em larga escala.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/fortibleed-exposed-inside-massive-russian-linked-0nyxe)
+
+
+
 <br> **2026.06.22 [SEC] A IA quebrou a gestão de vulnerabilidades**
 <br> Durante trinta anos, a gestão de vulnerabilidades funcionou com base em uma margem de segurança: os meses entre a descoberta de uma vulnerabilidade e a forma de como explorá-la. Com a IA, houve amudança da equação, comprimindo o período entre a descoberta e a exploração de meses para horas.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/ai-broke-vulnerability-management-thats-why-cisos-lp5je)
