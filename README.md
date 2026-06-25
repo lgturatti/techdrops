@@ -7,6 +7,10 @@ Latest news are at top / Notícias mais recentes no topo
 **[CISO Advisor (Chief Information Security Officer)](https://www.cisoadvisor.com.br)**
 <br> **[Cyber Security Brazil](https://www.cybersecbrazil.com.br)**
 
+<br> **2026.06.24 [SEC] IA em ataques cibernéticos**
+<br> As principais agências de cibersegurança do mundo emitiram um alerta contundente a população sobre o risco de ataques disruptivos e dispendiosos. A IA está reduzindo a experiência técnica necessária para lançar ataques sofisticados, sendo possível automatizar o reconhecimento de falhas e gerar mensagens de phishing convincentes, criar código malicioso em uma escala anteriormente impossível sem recursos significativos.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/five-eyes-warns-ai-models-capable-devastating-cyber-q9i9e)
+
 <br> **2026.06.23 [SEC] OpenAI expande Daybreak**
 <br> A iniciativa serve para acelerar a defesa cibernética impulsionada por IA com detecção e correção automatizadas de vulnerabilidades. O programa inclui uma versão aprimorada do Codex Security (uma nova versão do GPT-5.5-Cyber) e uma nova iniciativa de código aberto chamada "Patch the Planet", voltada para ajudar os mantenedores a corrigir rapidamente vulnerabilidades antes que possam ser exploradas por agentes maliciosos.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/openai-expands-daybreak-initiative-accelerate-ai-powered-kt7ze)
