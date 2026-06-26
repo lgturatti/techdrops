@@ -7,6 +7,10 @@ Latest news are at top / Notícias mais recentes no topo
 **[CISO Advisor (Chief Information Security Officer)](https://www.cisoadvisor.com.br)**
 <br> **[Cyber Security Brazil](https://www.cybersecbrazil.com.br)**
 
+<br> **2026.06.26 [SEC] Yaga em dispositivos móveis**
+<br> A YAGA aborda esse cenário como um agente autônomo que entende mobile não como uma extensão do pentest web, mas como uma superfície distinta, com metodologia própria, cadeia de exploração específica e arquitetura de orquestração desenhada para lidar com os dois ecossistemas ao mesmo tempo.
+<br> Publicado [aqui](https://pt.linkedin.com/comm/pulse/yaga-explorando-aplicativos-mobile-hackersec-vaxpf)
+
 <br> **2026.06.24 [SEC] IA em ataques cibernéticos**
 <br> As principais agências de cibersegurança do mundo emitiram um alerta contundente a população sobre o risco de ataques disruptivos e dispendiosos. A IA está reduzindo a experiência técnica necessária para lançar ataques sofisticados, sendo possível automatizar o reconhecimento de falhas e gerar mensagens de phishing convincentes, criar código malicioso em uma escala anteriormente impossível sem recursos significativos.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/five-eyes-warns-ai-models-capable-devastating-cyber-q9i9e)
