@@ -7,6 +7,14 @@ Latest news are at top / Notícias mais recentes no topo
 **[CISO Advisor (Chief Information Security Officer)](https://www.cisoadvisor.com.br)**
 <br> **[Cyber Security Brazil](https://www.cybersecbrazil.com.br)**
 
+<br> **2026.06.29 [AI] Colapso de custos**
+<br> Gastos com tokens de IA podem superar salário médio de desenvolvedores em até dois anos. A projeção considera como referência um salário médio global de dois mil dólares por mês e modelos de cobrança baseados em consumo. Os preços por token também possuem uma tendência a subir à medida que os laboratórios de IA desenvolverem seus modelos e, ao mesmo tempo, tentarem permanecer lucrativos.
+<br> Publicado [aqui](https://m.slashdot.org/story/455882)
+
+<br> **2026.06.28 [AI] Risco de colapso financeiro global**
+<br> Investimentos excessivos em IA pode aumentar riscos de uma nova crise financeira global, avalia coligação de bancos centrais mundiais. O gastos em infraestrutura, especialmente data centers e chips, estão sendo impulsionados por grandes volumes de dívida, expondo fornecedores, construtoras e credores a uma desaceleração no uso da tecnologia. Outros riscos incluem escassez de chips, limitações na construção de data centers e falta de capacidade computacional.
+<br> Publicado [aqui](https://www.telegraph.co.uk/business/2026/06/28/ai-boom-risks-global-financial-crash-central-bankers-warn/)
+
 <br> **2026.06.28 [SEC] Notícias de 19 a 25 de junho**
 <br> Principais destaques em cibersegurança.
 <br> Publicado [aqui](https://pt.linkedin.com/comm/pulse/principais-not%C3%ADcias-de-ciberseguran%C3%A7a-da-semana-19-25-junho-etvrf)
