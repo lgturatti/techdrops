@@ -7,6 +7,22 @@ Latest news are at top / Notícias mais recentes no topo
 **[CISO Advisor (Chief Information Security Officer)](https://www.cisoadvisor.com.br)**
 <br> **[Cyber Security Brazil](https://www.cybersecbrazil.com.br)**
 
+<br> **2026.06.28 [SEC] Notícias de 19 a 25 de junho**
+<br> Principais destaques em cibersegurança.
+<br> Publicado [aqui](https://pt.linkedin.com/comm/pulse/principais-not%C3%ADcias-de-ciberseguran%C3%A7a-da-semana-19-25-junho-etvrf)
+
+<br> **2026.06.28 [SEC] GPT-5.6 traz recursos avançados de cibersegurança**
+<br> A OpenAI confirmou que o acesso será inicialmente restrito a um grupo seleto de organizações aprovadas pelo governo e parceiros de confiança. Essa implementação gradual ocorre em meio a preocupações crescentes com as capacidades avançadas de IA, especialmente nas áreas de segurança cibernética, engenharia de software autônoma e proteção de infraestruturas críticas.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/openai-unveils-gpt-56-advanced-cybersecurity-features-bd8we)
+
+<br> **2026.06.27 [SEC] Linux kernel**
+<br> Uma vulnerabilidade recém-revelada no kernel do Linux, chamada "pedit COW", permite um caminho rápido para obter acesso root, ao corromper silenciosamente binários do sistema em cache na memória, sem modificar os arquivos armazenados em disco.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/new-critical-linux-vulnerability-enables-root-privilege-gh1ue)
+
+<br> **2026.06.27 [SEC] Mythos 5 approval**
+<br> O modelo foi liberado para cerca de 100 instituições nos EUA incluindo agências federais. O modelo Fable continua bloqueado. 
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/anthropic-granted-approval-release-claude-mythos-i0ebe)
+
 <br> **2026.06.26 [SEC] Yaga em dispositivos móveis**
 <br> A YAGA aborda esse cenário como um agente autônomo que entende mobile não como uma extensão do pentest web, mas como uma superfície distinta, com metodologia própria, cadeia de exploração específica e arquitetura de orquestração desenhada para lidar com os dois ecossistemas ao mesmo tempo.
 <br> Publicado [aqui](https://pt.linkedin.com/comm/pulse/yaga-explorando-aplicativos-mobile-hackersec-vaxpf)
@@ -26,8 +42,6 @@ Latest news are at top / Notícias mais recentes no topo
 <br> **2026.06.22 [SEC] Operação FortiBleed**
 <br> Investigação revelou campanha sofisticada de ataque a firewalls FortiGate, segundo uma pesquisa recém-divulgada pela Unidade de Pesquisa de Ameaças (STRU) da SOCRadar. A operação, conhecida como FortiBleed, teve como alvo mais de 430.000 firewalls FortiGate globalmente, resultando na coleta de mais de 110 milhões de credenciais por meio de uma infraestrutura altamente organizada, projetada para capturar, decifrar e monetizar dados de autenticação corporativa em larga escala.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/fortibleed-exposed-inside-massive-russian-linked-0nyxe)
-
-
 
 <br> **2026.06.22 [SEC] A IA quebrou a gestão de vulnerabilidades**
 <br> Durante trinta anos, a gestão de vulnerabilidades funcionou com base em uma margem de segurança: os meses entre a descoberta de uma vulnerabilidade e a forma de como explorá-la. Com a IA, houve amudança da equação, comprimindo o período entre a descoberta e a exploração de meses para horas.
