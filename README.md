@@ -7,6 +7,14 @@ Latest news are at top / Notícias mais recentes no topo
 **[CISO Advisor (Chief Information Security Officer)](https://www.cisoadvisor.com.br)**
 <br> **[Cyber Security Brazil](https://www.cybersecbrazil.com.br)**
 
+<br> **2026.06.29 [SEC] Lançamento do Kali Linux versão 2026.2**
+<br> Dentre as atualizações se destaca a ferramenta de captura de tela Spectacle, que agora consegue reconhecer e extrair texto diretamente de imagens, disponibilizando a funcionalidade de OCR na área de trabalho. Confira maiores detalhes na publicação.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/kali-linux-20262-release-gnome-50-kde-66-helper-bk6qe)
+
+<br> **2026.06.29 [SEC] Vulnerabilidade do Oracle E-Business Suite**
+<br> A vulnerabilidade afeta o componente de transmissão de arquivos do Oracle Payments no Oracle E-Business Suite, sem autenticação, reduzindo significativamente a barreira para a exploração em implantações expostas à internet para as versões 12.2.3 a 12.2.15. A empresa recomenda atualização imediata.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/warning-threat-actors-exploit-critical-oracle-e-business-sxaee)
+
 <br> **2026.06.29 [AI] Colapso de custos**
 <br> Gastos com tokens de IA podem superar salário médio de desenvolvedores em até dois anos. A projeção considera como referência um salário médio global de dois mil dólares por mês e modelos de cobrança baseados em consumo. Os preços por token também possuem uma tendência a subir à medida que os laboratórios de IA desenvolverem seus modelos e, ao mesmo tempo, tentarem permanecer lucrativos.
 <br> Publicado [aqui](https://m.slashdot.org/story/455882)
