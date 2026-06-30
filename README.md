@@ -7,6 +7,10 @@ Latest news are at top / Notícias mais recentes no topo
 **[CISO Advisor (Chief Information Security Officer)](https://www.cisoadvisor.com.br)**
 <br> **[Cyber Security Brazil](https://www.cybersecbrazil.com.br)**
 
+<br> **2026.06.30 [TECH] WhatsApp habilita uso de UserName**
+<br> A empresa Meta prepara uma das maiores mudanças de identidade do WhatsApp. Foi liberada oficialmente a reserva de usernames, ou seja, os usuários poderão resguardar seus nomes antes do lançamento global previsto para o final deste ano. O novo recurso, que será disponibilizado gradualmente em todo o mundo nos próximos meses, permitirá que futuramente as pessoas se comuniquem sem revelar seus números de telefone a contatos desconhecidos.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/whatsapp-introduces-usernames-enabling-you-keep-blo3e)
+
 <br> **2026.06.29 [TECH] Investimentos na Coreia do Sul**
 <br> O governo e as principais empresas de tecnologia estão investindo US$ 1 trilhão em diversos megaprojetos emblemáticos que podem impulsionar o fornecimento global de chips de memória, construir novos centros de dados de IA e estimular a implantação comercial de robôs humanoides até 2028. O governo vai assegurar 650 mil toneladas de água e 14 GW de eletricidade (4,5 vezes o consumo médio da cidade de São Paulo) para infraestrutura.
 <br> Publicado [aqui](https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/)
