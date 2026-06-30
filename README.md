@@ -7,6 +7,14 @@ Latest news are at top / Notícias mais recentes no topo
 **[CISO Advisor (Chief Information Security Officer)](https://www.cisoadvisor.com.br)**
 <br> **[Cyber Security Brazil](https://www.cybersecbrazil.com.br)**
 
+<br> **2026.06.29 [TECH] Investimentos na Coreia do Sul**
+<br> O governo e as principais empresas de tecnologia estão investindo US$ 1 trilhão em diversos megaprojetos emblemáticos que podem impulsionar o fornecimento global de chips de memória, construir novos centros de dados de IA e estimular a implantação comercial de robôs humanoides até 2028. O governo vai assegurar 650 mil toneladas de água e 14 GW de eletricidade (4,5 vezes o consumo médio da cidade de São Paulo) para infraestrutura.
+<br> Publicado [aqui](https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/)
+
+<br> **2026.06.29 [SEC] Código vulnerável**
+<br> Um pesquisador de segurança anônimo divulgou sem notificar previamente os mantenedores,15 softwares de código aberto com vulnerabilidades de dia zero (dentre eles libssh2, Splunk, RustDesk, 7-Zip, VLC, AnyDesk, OpenVPN, c-ares, Gitea e Floci).
+<br> Publicado [aqui](https://www.theregister.com/security/2026/06/29/anonymous-researcher-drops-0-day-exploitarium-repo/5263961)
+
 <br> **2026.06.29 [SEC] Lançamento do Kali Linux versão 2026.2**
 <br> Dentre as atualizações se destaca a ferramenta de captura de tela Spectacle, que agora consegue reconhecer e extrair texto diretamente de imagens, disponibilizando a funcionalidade de OCR na área de trabalho. Confira maiores detalhes na publicação.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/kali-linux-20262-release-gnome-50-kde-66-helper-bk6qe)
