@@ -7,6 +7,10 @@ Latest news are at top / Notícias mais recentes no topo
 **[CISO Advisor (Chief Information Security Officer)](https://www.cisoadvisor.com.br)**
 <br> **[Cyber Security Brazil](https://www.cybersecbrazil.com.br)**
 
+<br> **2026.06.30 [SEC] Atualizações de segurança da Apple**
+<br> A Apple lançou diversas atualizações para iPhones, iPads, Macs e Safari, corrigindo mais de 30 vulnerabilidades. A empresa creditou a OpenAI Codex Security pelas descobertas. Enquanto isso, pesquisadores da Anthropic identificaram uma vulnerabilidade do tipo *use-after-free* que poderia permitir a corrupção de memória quando o Safari processasse sites especialmente criados para esse fim. A solução traz melhorias no gerenciamento e no tratamento de memória, bem como de mecanismos mais robustos de validação de entradas. Ha correções disponíveis para: iOS 26.5.2; iPadOS 26.5.2; MacOS Tahoe 26.5.2; e Safari 26.5.2.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/apple-releases-security-updates-multiple-vulnerabilities-cwfme)
+
 <br> **2026.06.30 [TECH] WhatsApp habilita uso de UserName**
 <br> A empresa Meta prepara uma das maiores mudanças de identidade do WhatsApp. Foi liberada oficialmente a reserva de usernames, ou seja, os usuários poderão resguardar seus nomes antes do lançamento global previsto para o final deste ano. O novo recurso, que será disponibilizado gradualmente em todo o mundo nos próximos meses, permitirá que futuramente as pessoas se comuniquem sem revelar seus números de telefone a contatos desconhecidos.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/whatsapp-introduces-usernames-enabling-you-keep-blo3e)
