@@ -7,9 +7,25 @@ Latest news are at top / Notícias mais recentes no topo
 **[CISO Advisor (Chief Information Security Officer)](https://www.cisoadvisor.com.br)**
 <br> **[Cyber Security Brazil](https://www.cybersecbrazil.com.br)**
 
+<br> **2026.07.02 [SEC] Pentest AI-Native**
+<br>  Pentest AI Native é um modelo em que o agente de inteligência artificial executa o pentest completo dentro de um escopo autorizado, conduzindo o teste ofensivo de ponta a ponta com autonomia. Saiba mais sobre o assunto na publicação original. 
+<br> Publicado [aqui](https://pt.linkedin.com/comm/pulse/novo-pentest-ai-native-hackersec-cpzgf)
+
+<br> **2026.07.02 [SEC] Atualização Adobe**
+<br> Usuários dos produtos Adobe ColdFusion e o Adobe Campaign Classic devem aplicar atualizações com urgência. As vulnerabilidades afetam os programas amplamente utilizados por agências governamentais, instituições financeiras, provedores de serviços de saúde, organizações educacionais e grandes empresas para alimentar aplicativos web e plataformas de engajamento do cliente.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/adobe-emergency-patch-coldfusion-campaign-classic-7wlze)
+
+<br> **2026.07.01 [SEC] Claude Fable 5**
+<br> A Anthropic restabeleceu oficialmente o acesso global ao seu principal modelo de inteligência artificial, após o Departamento de Comércio dos EUA revogar as restrições emergenciais de exportação. Se qualquer tentativa de jailbreak for detectada o sistema automaticamente muda o modelo em uso para o Claude Opus-4.8.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/anthropic-reinstates-claude-fable-5-worldwide-after-2hcie)
+
 <br> **2026.07.01 [SEC] Agente de IA VS Agente de Pentest**
 <br> O artigo discute a ferramenta YAGA em relação a LLMs focadas em segurança.
 <br> Publicado [aqui](https://pt.linkedin.com/comm/pulse/agente-de-ia-vs-pentest-hackersec-ggv3f)
+
+<br> **2020.06.30 [WSL] Conteiner Linux direto no Windows**
+<br> A Microsoft anuncia contêineres Linux que rodam no Windows via WSL. A novidade adiciona uma interface de linha de comando nativa para gerenciar contêineres Linux e uma API que permite que aplicativos do Windows executem esses contêineres como parte da própria lógica, sem depender de ferramentas de terceiros. O recurso já está disponível em prévia pública, com lançamento geral esperado ainda neste ano.
+<br> Publicado [aqui](https://www.theregister.com/virtualization/2026/06/30/microsoft-previews-linux-containers-that-run-in-windows/5264468)
 
 <br> **2026.06.30 [SEC] Atualizações de segurança da Apple**
 <br> A Apple lançou diversas atualizações para iPhones, iPads, Macs e Safari, corrigindo mais de 30 vulnerabilidades. A empresa creditou a OpenAI Codex Security pelas descobertas. Enquanto isso, pesquisadores da Anthropic identificaram uma vulnerabilidade do tipo *use-after-free* que poderia permitir a corrupção de memória quando o Safari processasse sites especialmente criados para esse fim. A solução traz melhorias no gerenciamento e no tratamento de memória, bem como de mecanismos mais robustos de validação de entradas. Ha correções disponíveis para: iOS 26.5.2; iPadOS 26.5.2; MacOS Tahoe 26.5.2; e Safari 26.5.2.
