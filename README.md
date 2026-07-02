@@ -7,6 +7,10 @@ Latest news are at top / Notícias mais recentes no topo
 **[CISO Advisor (Chief Information Security Officer)](https://www.cisoadvisor.com.br)**
 <br> **[Cyber Security Brazil](https://www.cybersecbrazil.com.br)**
 
+<br> **2026.07.01 [SEC] Agente de IA VS Agente de Pentest**
+<br> O artigo discute a ferramenta YAGA em relação a LLMs focadas em segurança.
+<br> Publicado [aqui](https://pt.linkedin.com/comm/pulse/agente-de-ia-vs-pentest-hackersec-ggv3f)
+
 <br> **2026.06.30 [SEC] Atualizações de segurança da Apple**
 <br> A Apple lançou diversas atualizações para iPhones, iPads, Macs e Safari, corrigindo mais de 30 vulnerabilidades. A empresa creditou a OpenAI Codex Security pelas descobertas. Enquanto isso, pesquisadores da Anthropic identificaram uma vulnerabilidade do tipo *use-after-free* que poderia permitir a corrupção de memória quando o Safari processasse sites especialmente criados para esse fim. A solução traz melhorias no gerenciamento e no tratamento de memória, bem como de mecanismos mais robustos de validação de entradas. Ha correções disponíveis para: iOS 26.5.2; iPadOS 26.5.2; MacOS Tahoe 26.5.2; e Safari 26.5.2.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/apple-releases-security-updates-multiple-vulnerabilities-cwfme)
