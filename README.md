@@ -7,6 +7,10 @@ Latest news are at top / Notícias mais recentes no topo
 **[CISO Advisor (Chief Information Security Officer)](https://www.cisoadvisor.com.br)**
 <br> **[Cyber Security Brazil](https://www.cybersecbrazil.com.br)**
 
+<br> **2026.07.03 [SEC] ParrotOS 7.3**
+<br> Esta versão vem com o kernel 7.0 e incorpora as atualizações e correções de segurança mais recentes dos repositórios Debian 13.5 "Trixie". As principais atualizações de pacotes incluem Airgeddon 12.0, Bettercap 2.41.5, BloodyAD 2.5.4, Caido 0.55.2, Enum4linux-ng 1.3.10, Evil-WinRM-py 1.6.0, Ghidra 12.0.4, GoSHS 2.1.0, Metasploit 6.4.136, Rocket 1.5.1, SecLists 2026.1, Sherlock 0.16.0 e SQLMap 1.10.4.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/parrotos-73-out-now-featuring-linux-kernel-70-updated-i840e)
+
 <br> **2026.07.02 [SEC] Pentest AI-Native**
 <br>  Pentest AI Native é um modelo em que o agente de inteligência artificial executa o pentest completo dentro de um escopo autorizado, conduzindo o teste ofensivo de ponta a ponta com autonomia. Saiba mais sobre o assunto na publicação original. 
 <br> Publicado [aqui](https://pt.linkedin.com/comm/pulse/novo-pentest-ai-native-hackersec-cpzgf)
