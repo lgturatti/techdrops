@@ -7,6 +7,10 @@ Latest news are at top / Notícias mais recentes no topo
 **[CISO Advisor (Chief Information Security Officer)](https://www.cisoadvisor.com.br)**
 <br> **[Cyber Security Brazil](https://www.cybersecbrazil.com.br)**
 
+<br> **2026.07.07 [SEC] Linux KVM**
+<br> A vulnerabilidade pode permitir  ataques muito mais graves, incluindo a execução de código do convidado para o hospedeiro (guest-to-host) sob condições específicas. O rastreio da origem da falha aponta para agosto de 2010, desde o kernel 2.6.36. É recomendada atualização urgente de sistemas.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/linux-kvm-flaw-enables-guest-to-host-escape-intel-gozte)
+
 <br> **2026.07.06 [SEC] OpenSSH 10.4**
 <br> Esta versão corrige problemas de segurança distintos que abrangem vários componentes do ecossistema SSH, incluindo sshd, ssh, scp, sftp, ssh-agent e as rotinas de verificação criptográfica do projeto. As informações completas estão na publicação. 
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/openssh-104-released-multiple-security-fixes-post-quantum-ju0re)
