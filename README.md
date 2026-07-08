@@ -7,6 +7,10 @@ Latest news are at top / Notícias mais recentes no topo
 **[CISO Advisor (Chief Information Security Officer)](https://www.cisoadvisor.com.br)**
 <br> **[Cyber Security Brazil](https://www.cybersecbrazil.com.br)**
 
+<br> **2026.07.07 [SEC] IA do GitHub**
+<br> A técnica chamada GitLost, um ataque de injeção de prompt indireto capaz de convencer os agentes de IA do GitHub a recuperar dados sensíveis de repositórios privados que, em condições normais, os atacantes jamais conseguiriam acessar.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/warning-githubs-ai-agent-can-tricked-leaking-private-wp6ee)
+
 <br> **2026.07.07 [SEC] Linux KVM**
 <br> A vulnerabilidade pode permitir  ataques muito mais graves, incluindo a execução de código do convidado para o hospedeiro (guest-to-host) sob condições específicas. O rastreio da origem da falha aponta para agosto de 2010, desde o kernel 2.6.36. É recomendada atualização urgente de sistemas.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/linux-kvm-flaw-enables-guest-to-host-escape-intel-gozte)
