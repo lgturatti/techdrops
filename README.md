@@ -19,6 +19,22 @@ Latest news are at top / Notícias mais recentes no topo
 <br> Esta versão corrige problemas de segurança distintos que abrangem vários componentes do ecossistema SSH, incluindo sshd, ssh, scp, sftp, ssh-agent e as rotinas de verificação criptográfica do projeto. As informações completas estão na publicação. 
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/openssh-104-released-multiple-security-fixes-post-quantum-ju0re)
 
+<br> **2026.07.06 [SEC] Falha no kernel do Linux**
+<br> A falha “Bad Epoll” afeta um dos subsistemas de kernel mais fundamentais do Linux, tornando-a particularmente difícil de mitigar sem a instalação de atualizações de segurança, permitindo acesso root em servidores e dispositivos Android. Embora a exploração ainda exija a execução local de código, os aplicativos Android, as vulnerabilidades do navegador ou as explorações encadeadas poderiam, teoricamente, fornecer essa base antes de aproveitar o Bad Epoll para obter controle total sobre o dispositivo.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/linux-kernel-flaw-enables-root-access-servers-android-ugqfe)
+
+<br> **2026.07.05 [SEC] Notícias de 26/06 a 02 de julho**
+<br> Principais destaques em cibersegurança.
+<br> Publicado [aqui](https://pt.linkedin.com/comm/pulse/principais-not%C3%ADcias-de-ciberseguran%C3%A7a-da-semana-26-junho-2-h2vhf)
+
+<br> **2026.07.05 [SEC] Database Ransom Census**
+<br> Nova pesquisa revela que 62% das carteiras de resgate de banco de dados nunca foram pagas. A análise observa dados entre maio de 2021 a 13 de maio de 2026. As informações completas estão no artigo.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/new-research-reveals-62-database-ransom-wallets-8ynre)
+
+<br> **2026.07.04 [SEC] Proxy residencial desativado**
+<br> O Google e FBI interrompeu uma grande rede de proxy residencial e apreendeu centenas de domínios vinculados ao NetNut, um grande serviço de proxy residencial operado pela empresa israelense de capital aberto Alarum Technologies. Os investigadores acreditam que ele dependia de milhões de dispositivos de consumo conectados à Internet em todo o mundo.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/google-fbi-take-down-global-residential-proxy-network-sd2ue)
+
 <br> **2026.07.03 [SEC] ParrotOS 7.3**
 <br> Esta versão vem com o kernel 7.0 e incorpora as atualizações e correções de segurança mais recentes dos repositórios Debian 13.5 "Trixie". As principais atualizações de pacotes incluem Airgeddon 12.0, Bettercap 2.41.5, BloodyAD 2.5.4, Caido 0.55.2, Enum4linux-ng 1.3.10, Evil-WinRM-py 1.6.0, Ghidra 12.0.4, GoSHS 2.1.0, Metasploit 6.4.136, Rocket 1.5.1, SecLists 2026.1, Sherlock 0.16.0 e SQLMap 1.10.4.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/parrotos-73-out-now-featuring-linux-kernel-70-updated-i840e)
