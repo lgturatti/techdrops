@@ -7,6 +7,10 @@ Latest news are at top / Notícias mais recentes no topo
 **[CISO Advisor (Chief Information Security Officer)](https://www.cisoadvisor.com.br)**
 <br> **[Cyber Security Brazil](https://www.cybersecbrazil.com.br)**
 
+<br> **2026.07.08 [GIT] GitHub backup**
+<br> A Entire, plataforma de hospedagem git, voltada para agentes de programação foi lançada pelo ex-CEO do GitHub. Thomas Dohmke, busca reduzir a dependência de uma única plataforma e permite espelhar repositórios públicos e privados do GitHub, suportando até 2,1 milhões de pushes e 570 mil operações de clone por hora. Inicialmente, o serviço está disponível apenas para usuários convidados da lista de espera nos EUA, União Europeia e Austrália.
+<br> Publicado [aqui](https://www.theregister.com/ai-and-ml/2026/07/08/former-github-ceo-launches-competitor-designed-for-the-age-of-vibe-coding/5268694)
+
 <br> **2026.07.07 [SEC] IA do GitHub**
 <br> A técnica chamada GitLost, um ataque de injeção de prompt indireto capaz de convencer os agentes de IA do GitHub a recuperar dados sensíveis de repositórios privados que, em condições normais, os atacantes jamais conseguiriam acessar.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/warning-githubs-ai-agent-can-tricked-leaking-private-wp6ee)
