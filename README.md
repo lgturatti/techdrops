@@ -7,6 +7,26 @@ Latest news are at top / Notícias mais recentes no topo
 **[CISO Advisor (Chief Information Security Officer)](https://www.cisoadvisor.com.br)**
 <br> **[Cyber Security Brazil](https://www.cybersecbrazil.com.br)**
 
+<br> **2026.07.10 [SEC] Wireshark 4.6.7**
+<br> Dentre os destaques desta versão, houve atualização dos recursos de decodificação de protocolos, incluindo: ALC, BACapp, C2P, Catapult DCT2000, COTP, CSN.1, DCERPC, DCERPC MAPI, DCERPC NSPI, DNS, DVB-S2-TABLE, eDonkey, Ethernet POWERLINK (EPL), Fibre Channel ELS, FMP/NOTIFY, H.265 (HEVC), HiPerConTracer, IEEE 802.11 Wi-Fi, LLS, MEGACO, MIH, MPEG DSM-CC, MS-WSP, RELOAD, SGP.32, SSH, STANAG 4607, UMTS FP, WOWW, e Z39.50.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/wireshark-467-released-security-fixes-expanded-ffdae)
+
+<br> **2026.07.10 [DEV] A habilidade de programação mais valiosa em 2026 é dizer não à IA**
+<br> O artigo aborda as decisões que não são feitas ao aceitar a sugestão da IA para tarefas onde sabemos que o trabalho manual pode ser mais lento. Apesar disso, saber dizer não e saber como fazer as coisas ainda é a principal função do desenvolvedor que precisa ser capaz de criar as especificações coerentes e desejadas, para então ler a sugestão recebida com atenção suficiente para perceber o que ela está fazendo de diferente do que você queria.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/most-valuable-coding-skill-2026-saying-ai-w3schools-com-xrupe)
+
+<br> **2026.07.09 [SEC] Atualização Microsoft**
+<br> A atualização para falha de dia zero do Microsoft Defender, soluciona o "RoguePlanet", onde a vulnerabilidade afeta o Microsoft Malware Protection Engine. 
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/microsoft-releases-fix-critical-defender-zero-day-pgwde)
+
+<br> **2026.07.09 [SEC] Roubo de credenciais**
+<br> Campanhas de registro de Passkey são exploradas em ataques sofisticados de vishing contra usuários do Microsoft 365. O crescente movimento da Microsoft em direção à autenticação sem senha permitiu que agentes mal intencionados se passassem por equipes de suporte de TI para convencerem funcionários a registrar passkeys controladas pelos invasores em suas contas do Microsoft 365, contornando, assim, as técnicas tradicionais de roubo de credenciais e estabelecendo acesso de longo prazo a ambientes corporativos.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/entra-passkey-enrollment-campaigns-abused-sophisticated-dgzme)
+
+<br> **2026.07.08 [SEC] Accenture confirma violação de segurança**
+<br> Foi anunciado um conjunto com 35GB de dados da empresa, que contém: código-fonte proprietário e informações sensíveis de autenticação, incluindo credenciais de nuvem, chaves criptográficas e arquivos de configuração de desenvolvimento.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/accenture-confirms-security-breach-following-claims-xifbe)
+
 <br> **2026.07.08 [GIT] GitHub backup**
 <br> A Entire, plataforma de hospedagem git, voltada para agentes de programação foi lançada pelo ex-CEO do GitHub. Thomas Dohmke, busca reduzir a dependência de uma única plataforma e permite espelhar repositórios públicos e privados do GitHub, suportando até 2,1 milhões de pushes e 570 mil operações de clone por hora. Inicialmente, o serviço está disponível apenas para usuários convidados da lista de espera nos EUA, União Europeia e Austrália.
 <br> Publicado [aqui](https://www.theregister.com/ai-and-ml/2026/07/08/former-github-ceo-launches-competitor-designed-for-the-age-of-vibe-coding/5268694)
