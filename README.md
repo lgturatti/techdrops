@@ -11,6 +11,10 @@ Latest news are at top / Notícias mais recentes no topo
 <br> O alerta expõe ataques a dispositivos de borda vulneráveis ​​ao explorar configurações fracas, protocolos de gerenciamento desatualizados e vulnerabilidades conhecidas, sem depender de falhas recentes. O risco no comprometimento de dados ocorre há mais de dez anos. As informações obtidas fornecem aos atacantes um mapa preciso da infraestrutura de uma organização, tornando ataques subsequentes significativamente mais fáceis.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/nsa-cisa-fbi-ncsc-warns-russian-hackers-targeting-zidke)
 
+<br> **2026.07.11 [SEC] Notícias de 03 a 09 de julho**
+<br> Principais destaques em cibersegurança.
+<br> Publicado [aqui](https://pt.linkedin.com/comm/pulse/principais-not%C3%ADcias-de-ciberseguran%C3%A7a-da-semana-03-09-julho-zdlzf)
+
 <br> **2026.07.10 [SEC] Wireshark 4.6.7**
 <br> Dentre os destaques desta versão, houve atualização dos recursos de decodificação de protocolos, incluindo: ALC, BACapp, C2P, Catapult DCT2000, COTP, CSN.1, DCERPC, DCERPC MAPI, DCERPC NSPI, DNS, DVB-S2-TABLE, eDonkey, Ethernet POWERLINK (EPL), Fibre Channel ELS, FMP/NOTIFY, H.265 (HEVC), HiPerConTracer, IEEE 802.11 Wi-Fi, LLS, MEGACO, MIH, MPEG DSM-CC, MS-WSP, RELOAD, SGP.32, SSH, STANAG 4607, UMTS FP, WOWW, e Z39.50.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/wireshark-467-released-security-fixes-expanded-ffdae)
