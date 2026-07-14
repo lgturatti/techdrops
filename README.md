@@ -7,6 +7,10 @@ Latest news are at top / Notícias mais recentes no topo
 **[CISO Advisor (Chief Information Security Officer)](https://www.cisoadvisor.com.br)**
 <br> **[Cyber Security Brazil](https://www.cybersecbrazil.com.br)**
 
+<br> **2026.07.14 [SEC] Microsoft Entra ID**
+<br> A Microsoft anunciou que a partir de  1º de setembro de 2026 as 'passkeys' serão o meio de autenticação de identidade corporativa padrão. A janela de adoção vai até fevereiro de 2027 e após esse prazo, as empresas que não fizerem a atualização estarão sujeitos a falhas de autenticação sem suporte telefônico ou por SMS.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/microsoft-make-passkeys-default-authentication-fhgue)
+
 <br> **2026.07.14 [SEC] MacOS Malware**
 <br> Uma família de malware para macOS recém-identificada, chamada CrashStealer, está gerando preocupações após utilizar um instalador autenticado pela Apple para contornar uma das proteções de segurança mais importantes do sistema. Ao explorar o processo confiável de assinatura e autenticação de software da Apple, o malware consegue ser executado sem disparar os alertas de segurança do Gatekeeper, nos quais os usuários geralmente confiam para identificar aplicativos potencialmente maliciosos.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/warning-new-macos-malware-impersonates-apples-notarized-is3ze)
