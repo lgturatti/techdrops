@@ -71,6 +71,10 @@ Latest news are at top / Notícias mais recentes no topo
 <br> O Google e FBI interrompeu uma grande rede de proxy residencial e apreendeu centenas de domínios vinculados ao NetNut, um grande serviço de proxy residencial operado pela empresa israelense de capital aberto Alarum Technologies. Os investigadores acreditam que ele dependia de milhões de dispositivos de consumo conectados à Internet em todo o mundo.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/google-fbi-take-down-global-residential-proxy-network-sd2ue)
 
+<br> **2026.07.03 [DEV] Concurso Dataprev**
+<br> Oferta de 1823 vagas, sendo 212 imediatas e 1611 para cadastro de reserva, incluindo Analista de Tecnologia da Informação e Analista de Processamento, com Desenvolvimento de Software concentrando o maior número de vagas.
+<br> Publicado [aqui](https://convergenciadigital.com.br/governo/dataprev-vai-atras-de-analistas-de-ti-desenvolvedores-de-sistemas-e-de-profissionais-de-seguranca-cibernetica)
+
 <br> **2026.07.03 [SEC] ParrotOS 7.3**
 <br> Esta versão vem com o kernel 7.0 e incorpora as atualizações e correções de segurança mais recentes dos repositórios Debian 13.5 "Trixie". As principais atualizações de pacotes incluem Airgeddon 12.0, Bettercap 2.41.5, BloodyAD 2.5.4, Caido 0.55.2, Enum4linux-ng 1.3.10, Evil-WinRM-py 1.6.0, Ghidra 12.0.4, GoSHS 2.1.0, Metasploit 6.4.136, Rocket 1.5.1, SecLists 2026.1, Sherlock 0.16.0 e SQLMap 1.10.4.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/parrotos-73-out-now-featuring-linux-kernel-70-updated-i840e)
@@ -90,6 +94,10 @@ Latest news are at top / Notícias mais recentes no topo
 <br> **2026.07.01 [SEC] Agente de IA VS Agente de Pentest**
 <br> O artigo discute a ferramenta YAGA em relação a LLMs focadas em segurança.
 <br> Publicado [aqui](https://pt.linkedin.com/comm/pulse/agente-de-ia-vs-pentest-hackersec-ggv3f)
+
+<br> **2026.06.30 [AI] Agentes vulneráveis**
+<br> Agentes de programação como Hermes e OpenCode são vulneráveis a técnicas antigas para executar comandos maliciosos por meio do Bash. A falha, batizada de GuardFall, explora abordagens como remoção de aspas e manipulação da variável $IFS, e pode ser explorada quando um desenvolvedor pede a um agente configurado para executar comandos automaticamente ou sem isolamento adequado que analise um repositório comprometido. Com isso, invasores podem roubar credenciais, apagar arquivos e comprometer pipelines de CI.
+<br> Publicado [aqui](https://www.securityweek.com/decades-old-bash-tricks-expose-ai-coding-agents-to-supply-chain-attacks)
 
 <br> **2020.06.30 [WSL] Conteiner Linux direto no Windows**
 <br> A Microsoft anuncia contêineres Linux que rodam no Windows via WSL. A novidade adiciona uma interface de linha de comando nativa para gerenciar contêineres Linux e uma API que permite que aplicativos do Windows executem esses contêineres como parte da própria lógica, sem depender de ferramentas de terceiros. O recurso já está disponível em prévia pública, com lançamento geral esperado ainda neste ano.
