@@ -7,6 +7,10 @@ Latest news are at top / Notícias mais recentes no topo
 **[CISO Advisor (Chief Information Security Officer)](https://www.cisoadvisor.com.br)**
 <br> **[Cyber Security Brazil](https://www.cybersecbrazil.com.br)**
 
+<br> **2026.07.14 [SEC] MacOS Malware**
+<br> Uma família de malware para macOS recém-identificada, chamada CrashStealer, está gerando preocupações após utilizar um instalador autenticado pela Apple para contornar uma das proteções de segurança mais importantes do sistema. Ao explorar o processo confiável de assinatura e autenticação de software da Apple, o malware consegue ser executado sem disparar os alertas de segurança do Gatekeeper, nos quais os usuários geralmente confiam para identificar aplicativos potencialmente maliciosos.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/warning-new-macos-malware-impersonates-apples-notarized-is3ze)
+
 <br> **2026.07.13 [SEC] Russos atacam roteadores globalmente**
 <br> O alerta expõe ataques a dispositivos de borda vulneráveis ​​ao explorar configurações fracas, protocolos de gerenciamento desatualizados e vulnerabilidades conhecidas, sem depender de falhas recentes. O risco no comprometimento de dados ocorre há mais de dez anos. As informações obtidas fornecem aos atacantes um mapa preciso da infraestrutura de uma organização, tornando ataques subsequentes significativamente mais fáceis.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/nsa-cisa-fbi-ncsc-warns-russian-hackers-targeting-zidke)
