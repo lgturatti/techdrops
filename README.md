@@ -7,6 +7,11 @@ Latest news are at top / Notícias mais recentes no topo
 **[CISO Advisor (Chief Information Security Officer)](https://www.cisoadvisor.com.br)**
 <br> **[Cyber Security Brazil](https://www.cybersecbrazil.com.br)**
 
+<br> **2026.07.15 [SEC] Atualização Microsoft**
+<br> A Microsoft disponibilizou correções para 622 vulnerabilidades no Windows, Microsoft Office, SharePoint, componentes relacionados ao Azure, Visual Studio dentre outros produtos, incluindo três vulnerabilidades de dia zero. O número recorde de atualizações se faz necessário tanto para prover correções com auxílio de IA, assim como para cobrir a exposição maior que a IA também traz aos atacantes.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/microsoft-fixes-record-600-vulnerabilities-july-xykve)
+
+
 <br> **2026.07.14 [SEC] Microsoft Entra ID**
 <br> A Microsoft anunciou que a partir de  1º de setembro de 2026 as 'passkeys' serão o meio de autenticação de identidade corporativa padrão. A janela de adoção vai até fevereiro de 2027 e após esse prazo, as empresas que não fizerem a atualização estarão sujeitos a falhas de autenticação sem suporte telefônico ou por SMS.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/microsoft-make-passkeys-default-authentication-fhgue)
