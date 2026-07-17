@@ -7,6 +7,10 @@ Latest news are at top / Notícias mais recentes no topo
 **[CISO Advisor (Chief Information Security Officer)](https://www.cisoadvisor.com.br)**
 <br> **[Cyber Security Brazil](https://www.cybersecbrazil.com.br)**
 
+<br> **2026.07.15 [SEC] Atualização AsyncAPI**
+<br> Pacotes do AsyncAPI no npm, com 2 milhões de downloads semanais, são infectados com malware. O invasor comprometeu o pipeline de CI/CD do projeto. O malware é capaz de roubar credenciais, chaves de autenticação, tokens, dados de navegadores, informações sensíveis de sistemas de CI/CD e ferramentas de IA para desenvolvedores, além de carteiras de criptomoedas e bancos de dados. Os pacotes afetados do ecossistema asyncapi são generator 3.3.1, generator-helpers 1.1.1, generator-components 0.7.1 e specs 6.11.2-alpha.1 e 6.11.2, todos já removidos do npm.
+<br> Publicado [aqui](https://www.bleepingcomputer.com/news/security/-asyncapi-npm-packages-infected-with-credential-stealing-malware/)
+
 <br> **2026.07.15 [SEC] Atualização Microsoft**
 <br> A Microsoft disponibilizou correções para 622 vulnerabilidades no Windows, Microsoft Office, SharePoint, componentes relacionados ao Azure, Visual Studio dentre outros produtos, incluindo três vulnerabilidades de dia zero. O número recorde de atualizações se faz necessário tanto para prover correções com auxílio de IA, assim como para cobrir a exposição maior que a IA também traz aos atacantes.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/microsoft-fixes-record-600-vulnerabilities-july-xykve)
