@@ -7,6 +7,22 @@ Latest news are at top / Notícias mais recentes no topo
 **[CISO Advisor (Chief Information Security Officer)](https://www.cisoadvisor.com.br)**
 <br> **[Cyber Security Brazil](https://www.cybersecbrazil.com.br)**
 
+<br> **2026.07.18 [SEC] Notícias de 10 a 16 de julho**
+<br> Principais destaques em cibersegurança.
+<br> Publicado [aqui]https://pt.linkedin.com/comm/pulse/principais-not%C3%ADcias-de-ciberseguran%C3%A7a-da-semana-10-16-julho-bgvnf)
+
+<br> **2026.07.18 [SEC] Falha no Claude para Chrome**
+<br> Uma vulnerabilidade de segurança na extensão Claude para Chrome, da Anthropic, pode permitir que outra extensão maliciosa de navegador ative fluxos de trabalho de IA predefinidos sem um clique legítimo do usuário, expondo potencialmente informações armazenadas no Gmail, Google Docs e Google Agenda ou iniciando ações em serviços como o Salesforce.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/warning-claude-chrome-flaw-allows-malicious-extensions-4wnge)
+
+<br> **2026.07.17 [SEC] Ernst & Young Hackeada**
+<br> A empresa começou a notificar seus clientes sobre uma violação de dados após um ataque que comprometeu uma plataforma de suporte de terceiros e baixou documentos contendo informações pessoais e financeiras usadas na preparação de declarações de imposto de renda.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/professional-services-giant-ernst-young-ey-hacked-1es0e)
+
+<br> **2026.07.17 [DEV] Produtividade**
+<br> A história era que alguns desenvolvedores eram dez vezes mais produtivos que outros. Eles digitavam mais rápido, depuravam mais rápido e entregavam funcionalidades enquanto todos os outros ainda discutiam sobre o escopo das tarefas. Você contratava um deles e ele fazia o trabalho de uma pequena equipe. Se isso já foi verdade ou não, certamente não é mais, porque a parte do trabalho que escalava com o talento, escrever código rapidamente, é a parte em que a IA se destaca. Se sua vantagem competitiva era a velocidade, essa vantagem se tornou gratuita para todos.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/10x-developer-dead-decision-maker-w3schools-com-2vrfe)
+
 <br> **2026.07.15 [SEC] Atualização AsyncAPI**
 <br> Pacotes do AsyncAPI no npm, com 2 milhões de downloads semanais, são infectados com malware. O invasor comprometeu o pipeline de CI/CD do projeto. O malware é capaz de roubar credenciais, chaves de autenticação, tokens, dados de navegadores, informações sensíveis de sistemas de CI/CD e ferramentas de IA para desenvolvedores, além de carteiras de criptomoedas e bancos de dados. Os pacotes afetados do ecossistema asyncapi são generator 3.3.1, generator-helpers 1.1.1, generator-components 0.7.1 e specs 6.11.2-alpha.1 e 6.11.2, todos já removidos do npm.
 <br> Publicado [aqui](https://www.bleepingcomputer.com/news/security/-asyncapi-npm-packages-infected-with-credential-stealing-malware/)
