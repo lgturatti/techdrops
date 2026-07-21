@@ -7,6 +7,23 @@ Latest news are at top / Notícias mais recentes no topo
 **[CISO Advisor (Chief Information Security Officer)](https://www.cisoadvisor.com.br)**
 <br> **[Cyber Security Brazil](https://www.cybersecbrazil.com.br)**
 
+<br> **2026.07.21 [SEC] Gemini 3.5 Flash Cyber**
+<br> O Gemini 3.5 Flash Cyber é um modelo de inteligência artificial especializado, projetado para descobrir, validar e corrigir vulnerabilidades de segurança. Tem como objetivo oferecer às equipes de defesa uma alternativa mais rápida e econômica na pesquisa de vulnerabilidades.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/google-unveils-gemini-35-flash-cyber-ai-find-validate-brvwe)
+
+<br> **2026.07.21 [SEC] Calendário do Office365**
+<br> O malware, HOLLOWGRAPH, transforma o calendário do Microsoft 365 em um canal de comando e controle bidirecional. Os atacantes inserem instruções criptografadas em anexos de eventos do calendário, enquanto os computadores infectados retornam as informações roubadas criando compromissos adicionais e enviando arquivos criptografados. Para evitar que os eventos maliciosos chamem a atenção do proprietário da caixa de correio, os atacantes os agendam para 13 de maio de 2050.
+<br> Publicado [aqui](
+https://www.linkedin.com/comm/pulse/new-malware-turns-microsoft-365-calendars-covert-2rvse)
+
+<br> **2026.07.20 [SEC] Agente autônomo de IA invade  Hugging Face**
+<br> O incidente detectado em 16 de julho p.p. não deixou indícios de danos ou modificações na infraestrutura; entretanto houve roubo de credenciais de serviço e o agente se movimentou lateralmente por diversos clusters de computação internos, indicando que houve intrusão em múltiplas etapas contra uma importante plataforma tecnológica.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/autonomous-ai-agent-breaches-hugging-face-high-speed-micqf)
+
+<br> **2026.07.20 [SEC] Atualização WordPress**
+<br> Alerta informa que hackers estão explorando ativamente falhas críticas recém-corrigidas e que afetam milhões de sites: a vulnerabilidade CVE-2026-60137, de SQL injection, permite acessar dados sensíveis, como hashes de senhas de administradores, e a CVE-2026-63030 possibilita alterar o fluxo normal de requisições da API e realizar ações que normalmente exigiriam privilégios elevados. A solução é atualizar para versão 7.0.2 ou superior. 
+<br> Publicado [aqui](https://techcrunch.com/2026/07/20/hackers-are-exploiting-recently-patched-wordpress-bugs-putting-millions-of-websites-at-risk/)
+
 <br> **2026.07.18 [SEC] Notícias de 10 a 16 de julho**
 <br> Principais destaques em cibersegurança.
 <br> Publicado [aqui]https://pt.linkedin.com/comm/pulse/principais-not%C3%ADcias-de-ciberseguran%C3%A7a-da-semana-10-16-julho-bgvnf)
