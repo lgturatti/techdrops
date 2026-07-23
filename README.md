@@ -7,6 +7,10 @@ Latest news are at top / Notícias mais recentes no topo
 **[CISO Advisor (Chief Information Security Officer)](https://www.cisoadvisor.com.br)**
 <br> **[Cyber Security Brazil](https://www.cybersecbrazil.com.br)**
 
+<br> **2026.07.23 [SEC] Kratos Offline**
+<br> Autoridades desativaram mais de 200 servidores do Kratos, uma plataforma de *phishing-as-a-service* de grande escala, envolvida no roubo de credenciais do Microsoft 365. Estima-se que a plataforma possuia mais de 1.800 clientes.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/international-law-enforcement-dismantle-worlds-6v7ye)
+
 <br> **2026.07.21 [SEC] Gemini 3.5 Flash Cyber**
 <br> O Gemini 3.5 Flash Cyber é um modelo de inteligência artificial especializado, projetado para descobrir, validar e corrigir vulnerabilidades de segurança. Tem como objetivo oferecer às equipes de defesa uma alternativa mais rápida e econômica na pesquisa de vulnerabilidades.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/google-unveils-gemini-35-flash-cyber-ai-find-validate-brvwe)
