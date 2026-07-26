@@ -36,6 +36,14 @@ Latest news are at top / Notícias mais recentes no topo
 <br> Publicado [aqui](
 https://www.linkedin.com/comm/pulse/new-malware-turns-microsoft-365-calendars-covert-2rvse)
 
+<br> **2026.07.21 [AI] Novos Gemini**
+<br> Google lança três novos modelos Gemini: o 3.6 Flash é voltado para programação, tarefas de conhecimento e aplicações multimodais. O 3.5 Flash-Lite oferece o menor custo em tarefas de baixa latência e alto volume, com preço de 0,3 dólar por 1 milhão de tokens de entrada e 2,5 dólares por 1 milhão de tokens de saída. O 3.5 Flash Cyber foi projetado para identificar e corrigir vulnerabilidades a um custo por token menor que o de modelos maiores, e será disponibilizado inicialmente apenas para governos e parceiros confiáveis.
+<br> Publicado [aqui](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/)
+
+<br> **2026.07.20 [AI] Kimi K3**
+<br> Sucesso do modelo aberto chinês Kimi K3 acende alerta em grandes empresas de IA como OpenAI e Anthropic. A preocupação é que esses modelos possam ser executados em servidores dos próprios clientes a um custo menor, reduzindo a demanda por modelos proprietários. Um executivo da OpenAI chegou a defender que o governo dos EUA crie um ambiente de incerteza regulatória em torno de modelos open-weight, que poderiam sofrer possíveis restrições. Especialistas, entretanto, afirmam que modelos abertos permitem que pesquisadores, universidades e empresas globais contribuam para a evolução da tecnologia.
+<br> Publicado [aqui](https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be/)
+
 <br> **2026.07.20 [SEC] Agente autônomo de IA invade  Hugging Face**
 <br> O incidente detectado em 16 de julho p.p. não deixou indícios de danos ou modificações na infraestrutura; entretanto houve roubo de credenciais de serviço e o agente se movimentou lateralmente por diversos clusters de computação internos, indicando que houve intrusão em múltiplas etapas contra uma importante plataforma tecnológica.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/autonomous-ai-agent-breaches-hugging-face-high-speed-micqf)
