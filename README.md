@@ -11,6 +11,14 @@ Latest news are at top / Notícias mais recentes no topo
 <br> Versões do GitLab autogerenciado, sem as atualizações de junho estão sujeitos a permitir que um usuário autenticado do GitLab, com permissão para realizar commits em um projeto, execute comandos do sistema operacional no servidor subjacente.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/critical-gitlab-flaws-enable-remote-code-execution-ci0oe)
 
+<br> **2026.07.25 [SEC] Notícias de 17 a 23 de julho**
+<br> Principais destaques em cibersegurança.
+<br> Publicado [aqui](https://pt.linkedin.com/comm/pulse/principais-not%C3%ADcias-de-ciberseguran%C3%A7a-da-semana-17-23-julho-ihnkc)
+
+<br> **2026.07.24 [SEC] Russos exploram Zimbra**
+<br> A suite de colaboração Zimbra tem sido explorada para roubo de e-mails, senhas, códigos de autenticação de dois fatores e listas de contatos corporativos de organizações governamentais e comerciais em países ocidentais através atalhos para arquivos e sites fraudulentos.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/warning-russian-state-backed-laundry-bear-exploits-4c3we)
+
 <br> **2026.07.23 [SEC] Kratos Offline**
 <br> Autoridades desativaram mais de 200 servidores do Kratos, uma plataforma de *phishing-as-a-service* de grande escala, envolvida no roubo de credenciais do Microsoft 365. Estima-se que a plataforma possuia mais de 1.800 clientes.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/international-law-enforcement-dismantle-worlds-6v7ye)
@@ -34,7 +42,7 @@ https://www.linkedin.com/comm/pulse/new-malware-turns-microsoft-365-calendars-co
 
 <br> **2026.07.18 [SEC] Notícias de 10 a 16 de julho**
 <br> Principais destaques em cibersegurança.
-<br> Publicado [aqui]https://pt.linkedin.com/comm/pulse/principais-not%C3%ADcias-de-ciberseguran%C3%A7a-da-semana-10-16-julho-bgvnf)
+<br> Publicado [aqui](https://pt.linkedin.com/comm/pulse/principais-not%C3%ADcias-de-ciberseguran%C3%A7a-da-semana-10-16-julho-bgvnf)
 
 <br> **2026.07.18 [SEC] Falha no Claude para Chrome**
 <br> Uma vulnerabilidade de segurança na extensão Claude para Chrome, da Anthropic, pode permitir que outra extensão maliciosa de navegador ative fluxos de trabalho de IA predefinidos sem um clique legítimo do usuário, expondo potencialmente informações armazenadas no Gmail, Google Docs e Google Agenda ou iniciando ações em serviços como o Salesforce.
