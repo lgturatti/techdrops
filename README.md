@@ -19,6 +19,10 @@ Latest news are at top / Notícias mais recentes no topo
 <br> A suite de colaboração Zimbra tem sido explorada para roubo de e-mails, senhas, códigos de autenticação de dois fatores e listas de contatos corporativos de organizações governamentais e comerciais em países ocidentais através atalhos para arquivos e sites fraudulentos.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/warning-russian-state-backed-laundry-bear-exploits-4c3we)
 
+<br> **2026.07.23 [SEC] msaRAT malware**
+<br> O malware faz o Chrome e o Edge intermediarem conexão com servidores de comando e controle de criminosos, usando o DevTools Protocol para controlar uma sessão headless do navegador, que funciona sem abrir uma janela visível, e estabelecer a comunicação. A partir daí o usuário é enganado para instalar um programa de atualização falso, que carrega o malware diretamente na memória e permite a execução de comandos arbitrários no sistema operacional.
+<br> Publicado [aqui](https://www.bleepingcomputer.com/news/security/new-msarat-malware-uses-chrome-edge-browsers-to-route-c2-traffic/)
+
 <br> **2026.07.23 [SEC] Kratos Offline**
 <br> Autoridades desativaram mais de 200 servidores do Kratos, uma plataforma de *phishing-as-a-service* de grande escala, envolvida no roubo de credenciais do Microsoft 365. Estima-se que a plataforma possuia mais de 1.800 clientes.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/international-law-enforcement-dismantle-worlds-6v7ye)
