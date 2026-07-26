@@ -7,6 +7,10 @@ Latest news are at top / Notícias mais recentes no topo
 **[CISO Advisor (Chief Information Security Officer)](https://www.cisoadvisor.com.br)**
 <br> **[Cyber Security Brazil](https://www.cybersecbrazil.com.br)**
 
+<br> **2026.07.26 [SEC] Falha no GitLab**
+<br> Versões do GitLab autogerenciado, sem as atualizações de junho estão sujeitos a permitir que um usuário autenticado do GitLab, com permissão para realizar commits em um projeto, execute comandos do sistema operacional no servidor subjacente.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/critical-gitlab-flaws-enable-remote-code-execution-ci0oe)
+
 <br> **2026.07.23 [SEC] Kratos Offline**
 <br> Autoridades desativaram mais de 200 servidores do Kratos, uma plataforma de *phishing-as-a-service* de grande escala, envolvida no roubo de credenciais do Microsoft 365. Estima-se que a plataforma possuia mais de 1.800 clientes.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/international-law-enforcement-dismantle-worlds-6v7ye)
