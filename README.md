@@ -7,6 +7,10 @@ Latest news are at top / Notícias mais recentes no topo
 **[CISO Advisor (Chief Information Security Officer)](https://www.cisoadvisor.com.br)**
 <br> **[Cyber Security Brazil](https://www.cybersecbrazil.com.br)**
 
+<br> **2026.07.27 [DEV] Quando uma certificação é importante?**
+<br> Esta pergunta surge com frequencia e a resposta mais honesta é: depende. Certificações são a chave para a sua carreira, ou são um desperdício de dinheiro; dependendo do contexto. Para profissionais autonomos (freelancers ou consultores) é uma forma clara de demonstrar conhecimento nas áreas, além do portifólio que complementa este documento. Também é muito importante para comprovação de especialização e remuneração correspondente. Confira no artigo as situações onde uma certificação pode ser relevante para você.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/certifications-when-help-dont-w3schools-com-19lue)
+
 <br> **2026.07.26 [SEC] Falha no GitLab**
 <br> Versões do GitLab autogerenciado, sem as atualizações de junho estão sujeitos a permitir que um usuário autenticado do GitLab, com permissão para realizar commits em um projeto, execute comandos do sistema operacional no servidor subjacente.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/critical-gitlab-flaws-enable-remote-code-execution-ci0oe)
@@ -277,6 +281,10 @@ https://www.linkedin.com/comm/pulse/new-malware-turns-microsoft-365-calendars-co
 <br> O diferencial central do modelo de exploração autônoma que a YAGA aplica tem a capacidade de observar o ambiente como um todo, correlacionar achados e construir cadeias de ataque que refletem o que um pentest autorizado e controlado faria.
 <br> Publicado [aqui](https://pt.linkedin.com/comm/pulse/como-yaga-explora-vulnerabilidades-em-cadeia-hackersec-q9ycc)
 
+<br> **2026.06.15 [SEC] Splunk Enterprise RCE**
+<br> A plataforma de análise de dados e gerenciamento de informações e eventos de segurança (SIEM) amplamente utilizada e de propriedade da Cisco, lançou atualizações de segurança emergenciais para corrigir uma falha crítica que, segundo especialistas em segurança, poderia oferecer a agentes de ameaças um caminho direto para o comprometimento total do sistema.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/critical-splunk-enterprise-vulnerability-enables-t7wye)
+
 <br> **2026.06.13 [SEC] Arch Linux: mais de 400 pacote comprometidos para instalar malware**
 <br> Foi detectado que no Arch User Repository (AUR) as versões foram modificadas para distribuir malware capaz de instalar rootkits através de um pacote npm externo chamado atomic-lockfile, usado para realizar a entrega de outras cargas (payloads) ainda mais perigosas.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/400-arch-linux-packages-hijacked-install-rootkit-like-phsce)
@@ -284,6 +292,17 @@ https://www.linkedin.com/comm/pulse/new-malware-turns-microsoft-365-calendars-co
 <br> **2026.06.13 [SEC] Notícias de 04 a 11 de junho**
 <br> Principais destaques em cibersegurança.
 <br> Publicado [aqui](https://pt.linkedin.com/comm/pulse/principais-not%C3%ADcias-de-ciberseguran%C3%A7a-da-semana-04-11-junho-0zsnf)
+
+<br> **2026.06.11 [SEC] Atualização urgente**
+<br> A Diretriz Operacional Vinculante (BOD) 26-04, estabelece prazos acelerados para a correção de falhas de segurança de alto risco. Esta política substitui diretrizes federais anteriores dos EUA em relação a infraestrutura do setor público.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/cisa-orders-federal-agencies-patch-actively-exploited-5jbye)
+
+<br> **2026.06.11 [SEC] Claude Fable 5**
+<br> A Anthropic lançou efetivamente duas versões do mesmo sistema de IA de ponta: Claude Fable 5, disponível ao público por meio da API e dos produtos de assinatura da Anthropic, e Claude Mythos 5, uma versão sem restrições cibernéticas reservada para um grupo rigorosamente controlado de pesquisadores de segurança verificados, operadores de infraestrutura crítica, parceiros governamentais e profissionais de segurança cibernética.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/anthropic-unveils-claude-fable-5-its-most-advanced-gwupe)
+
+<br> ** 2026.06.10 [SEC] Microsoft June Update**
+<br> Nesta atualização são corrigidos mais de 200 problemas, onde se corrige 33 vulnerabilidades classificadas como críticas, incluindo 28 falhas de execução remota de código, quatro vulnerabilidades de elevação de privilégios e um problema de divulgação de informações. <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/microsoft-june-2026-patch-tuesday-fixes-200-vulnerabilities-h7zce)
 
 <br> **2026.06.08 [SEC] Proxy para IA gratuito**
 <br> Pesquisadores de segurança descobriram novas evidências que demostram que softwares embutidos em aplicativos gratuitos para o consumidor podem transformar dispositivos domésticos comuns em nós proxy residenciais, permitindo que terceiros direcionem tráfego de web scraping através das conexões de internet domésticas dos usuários. Essa prática, embora legal sob estruturas de consentimento específicas, levanta questões significativas sobre transparência, privacidade, segurança cibernética e a crescente demanda por dados online usados ​​para treinar sistemas de IA.
