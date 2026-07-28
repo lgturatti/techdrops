@@ -7,6 +7,14 @@ Latest news are at top / Notícias mais recentes no topo
 **[CISO Advisor (Chief Information Security Officer)](https://www.cisoadvisor.com.br)**
 <br> **[Cyber Security Brazil](https://www.cybersecbrazil.com.br)**
 
+<br> **2026.07.28 [SEC] Atualização do MS Defender**
+<br> A Microsoft corrigiu duas falhas no Defender for Endpoint para Linux após uma atualização desativar o serviço de segurança em algumas máquinas após a reinicialização e impedir a instalação em determinados sistemas Red Hat Enterprise Linux configurados para atender a requisitos criptográficos federais. A falha mais grave afetou as compilações da plataforma Defender for Endpoint de 101.26042.0000 a 101.26042.0009 em todas as distribuições Linux suportadas. A Microsoft informou que o serviço poderia ser desativado quando um dispositivo afetado passasse por uma atualização e/ou o Defender fosse reinstalado e o sistema operacional fosse reiniciado em seguida.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/microsoft-defender-update-could-disable-protection-gzfge)
+
+<br> **2026.07.27 [SEC] Hugging Face exige transparência total**
+<br> A OpenAI deveria divulgar os registros operacionais gerados pelos agentes autônomos envolvidos no incidente, permitindo que pesquisadores independentes reconstruam suas decisões, movimentos e técnicas de ataque. Ele também instou a desenvolvedora do ChatGPT a destinar US$ 100 milhões em recursos computacionais para ajudar a comunidade mais ampla do Hugging Face a desenvolver sistemas de defesa de segurança cibernética, utilizando modelos de IA tanto abertos quanto proprietários.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/hugging-face-ceo-demands-complete-transparency-bh69e)
+
 <br> **2026.07.27 [DEV] Quando uma certificação é importante?**
 <br> Esta pergunta surge com frequencia e a resposta mais honesta é: depende. Certificações são a chave para a sua carreira, ou são um desperdício de dinheiro; dependendo do contexto. Para profissionais autonomos (freelancers ou consultores) é uma forma clara de demonstrar conhecimento nas áreas, além do portifólio que complementa este documento. Também é muito importante para comprovação de especialização e remuneração correspondente. Confira no artigo as situações onde uma certificação pode ser relevante para você.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/certifications-when-help-dont-w3schools-com-19lue)
