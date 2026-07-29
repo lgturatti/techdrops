@@ -7,6 +7,10 @@ Latest news are at top / Notícias mais recentes no topo
 **[CISO Advisor (Chief Information Security Officer)](https://www.cisoadvisor.com.br)**
 <br> **[Cyber Security Brazil](https://www.cybersecbrazil.com.br)**
 
+<br> **2026.07.29 [SEC] Isolando sistemas vitais**
+<br> Novas diretrizes para organizações de infraestrutura crítica isolarem sistemas vitais. A orientação alerta que a segurança de perímetro convencional pode não ser suficiente para proteger serviços essenciais durante uma crise cibernética prolongada. Recomenda-se aos operadores que identifiquem os sistemas mínimos necessários para manter a prestação de serviços de eletricidade, água, comunicações, transporte e outros serviços críticos, e que assegurem que esses sistemas possam operar de forma independente caso redes mais amplas sejam comprometidas.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/new-guidance-critical-infrastructure-organizations-zfp6c)
+
 <br> **2026.07.28 [SEC] Atualização do MS Defender**
 <br> A Microsoft corrigiu duas falhas no Defender for Endpoint para Linux após uma atualização desativar o serviço de segurança em algumas máquinas após a reinicialização e impedir a instalação em determinados sistemas Red Hat Enterprise Linux configurados para atender a requisitos criptográficos federais. A falha mais grave afetou as compilações da plataforma Defender for Endpoint de 101.26042.0000 a 101.26042.0009 em todas as distribuições Linux suportadas. A Microsoft informou que o serviço poderia ser desativado quando um dispositivo afetado passasse por uma atualização e/ou o Defender fosse reinstalado e o sistema operacional fosse reiniciado em seguida.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/microsoft-defender-update-could-disable-protection-gzfge)
