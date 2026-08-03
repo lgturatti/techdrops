@@ -7,6 +7,10 @@ Latest news are at top / Notícias mais recentes no topo
 **[CISO Advisor (Chief Information Security Officer)](https://www.cisoadvisor.com.br)**
 <br> **[Cyber Security Brazil](https://www.cybersecbrazil.com.br)**
 
+<br> **2026.08.03 [SEC] Exploit no Gerenciador de Senhas do Google**
+<br> Pesquisadores revelaram três técnicas de ataque que podem permitir que um computador Windows comprometido acesse silenciosamente contas protegidas por *passkeys* armazenadas no Gerenciador de Senhas do Google, potencialmente contornando a verificação por impressão digital, reconhecimento facial ou PIN que os usuários esperam que proteja os logins sem senha.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/google-password-manager-exploit-enables-malware-udixe)
+
 <br> **2026.08.03 [DEV] Aprendizado em agosto**
 <br> O artigo discute sobre o porque o mês pode ser o melhor mês para aprendizado, inclusive mencionando a janela de trabalho e as oportunidades para novas vagas no período e próximos meses.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/why-august-secretly-best-month-start-learning-code-w3schools-com-hdpze)
