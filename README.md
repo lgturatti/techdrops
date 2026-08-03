@@ -7,6 +7,18 @@ Latest news are at top / Notícias mais recentes no topo
 **[CISO Advisor (Chief Information Security Officer)](https://www.cisoadvisor.com.br)**
 <br> **[Cyber Security Brazil](https://www.cybersecbrazil.com.br)**
 
+<br> **2026.08.01 [SEC] Notícias de 24 a 30 de julho**
+<br> Principais destaques em cibersegurança.
+<br> Publicado [aqui](https://pt.linkedin.com/comm/pulse/principais-not%C3%ADcias-de-ciberseguran%C3%A7a-da-semana-24-30-julho-mioyf)
+
+<br> **2026.08.01 [SEC] Google Chrome Fix**
+<br> A empresa afirma que a inteligência artificial está reformulando a forma como protege o Chrome, ajudando seus engenheiros a identificar e corrigir 1.072 falhas de segurança nas versões 149 e 150 do navegador, um número superior ao total de correções realizadas nas 23 grandes atualizações anteriores.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/ai-helped-google-chrome-fix-1000-security-bugs-b2ree)
+
+<br> **2026.07.31 [SEC] Anthropic atualiza informações sobre teste**
+<br> A empresa revelou que o Claude invadiu três organizações após escapar de ambiente de teste, onde um dos modelos criou um pacote Python malicioso e o publicou no Python Package Index (PyPI), um repositório público. O pacote permaneceu disponível por cerca de uma hora e foi baixado e executado por 15 sistemas externos antes de ser removido pelos controles de segurança automatizados do PyPI. Em outro incidente separado, o Claude obteve credenciais de aplicação e infraestrutura e acessou um banco de dados de produção contendo centenas de registros. Um terceiro modelo varreu milhares de alvos conectados à internet antes de comprometer uma aplicação exposta por meio de credenciais vazadas e injeção de SQL. Os incidentes datam de abril de 2026, mas não foram descobertos até que a Anthropic começou a revisar mais de 141.000 avaliações de segurança cibernética em 23 de julho.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/anthropic-reveals-claude-breached-three-organizations-twy0e)
+
 <br> **2026.07.29 [SEC] Isolando sistemas vitais**
 <br> Novas diretrizes para organizações de infraestrutura crítica isolarem sistemas vitais. A orientação alerta que a segurança de perímetro convencional pode não ser suficiente para proteger serviços essenciais durante uma crise cibernética prolongada. Recomenda-se aos operadores que identifiquem os sistemas mínimos necessários para manter a prestação de serviços de eletricidade, água, comunicações, transporte e outros serviços críticos, e que assegurem que esses sistemas possam operar de forma independente caso redes mais amplas sejam comprometidas.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/new-guidance-critical-infrastructure-organizations-zfp6c)
