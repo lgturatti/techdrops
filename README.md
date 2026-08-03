@@ -7,6 +7,10 @@ Latest news are at top / Notícias mais recentes no topo
 **[CISO Advisor (Chief Information Security Officer)](https://www.cisoadvisor.com.br)**
 <br> **[Cyber Security Brazil](https://www.cybersecbrazil.com.br)**
 
+<br> **2026.08.03 [DEV] Aprendizado em agosto**
+<br> O artigo discute sobre o porque o mês pode ser o melhor mês para aprendizado, inclusive mencionando a janela de trabalho e as oportunidades para novas vagas no período e próximos meses.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/why-august-secretly-best-month-start-learning-code-w3schools-com-hdpze)
+
 <br> **2026.08.01 [SEC] Notícias de 24 a 30 de julho**
 <br> Principais destaques em cibersegurança.
 <br> Publicado [aqui](https://pt.linkedin.com/comm/pulse/principais-not%C3%ADcias-de-ciberseguran%C3%A7a-da-semana-24-30-julho-mioyf)
