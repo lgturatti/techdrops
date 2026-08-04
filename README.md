@@ -7,6 +7,10 @@ Latest news are at top / Notícias mais recentes no topo
 **[CISO Advisor (Chief Information Security Officer)](https://www.cisoadvisor.com.br)**
 <br> **[Cyber Security Brazil](https://www.cybersecbrazil.com.br)**
 
+<br> **2026.08.04 [SEC] MS CaptiveCrunch**
+<br> Hackers apoiados pelo Estado russo estão comprometendo a infraestrutura de Wi-Fi pública em hotéis, centros de conferências e outros locais compartilhados para interceptar o tráfego de internet dos viajantes, distribuir malware de acesso remoto e roubar acesso a contas corporativas na nuvem.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/russia-state-sponsored-hackers-turn-hotel-conference-u3nme)
+
 <br> **2026.08.03 [SEC] Exploit no Gerenciador de Senhas do Google**
 <br> Pesquisadores revelaram três técnicas de ataque que podem permitir que um computador Windows comprometido acesse silenciosamente contas protegidas por *passkeys* armazenadas no Gerenciador de Senhas do Google, potencialmente contornando a verificação por impressão digital, reconhecimento facial ou PIN que os usuários esperam que proteja os logins sem senha.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/google-password-manager-exploit-enables-malware-udixe)
