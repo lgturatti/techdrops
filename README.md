@@ -7,6 +7,10 @@ Latest news are at top / Notícias mais recentes no topo
 **[CISO Advisor (Chief Information Security Officer)](https://www.cisoadvisor.com.br)**
 <br> **[Cyber Security Brazil](https://www.cybersecbrazil.com.br)**
 
+<br> **2026.08.04 [SEC] Ataque ao NPM**
+<br> O ataque comprometeu mais de 1.300 pacotes npm com 2 bilhões de downloads mensais. O ChainDrop afetou bibliotecas populares como Keyv, Cacheable, flat-cache e file-entry-cache ao distribuir um malware worm baseado no Shai-Hulud, capaz de extrair tokens do GitHub e npm, credenciais da AWS, informações do Kubernetes e HashiCorp Vault, além de dados de bancos e serviços como Stripe, Slack, Twilio, Azure e GCP.
+<br> Publicado [aqui](https://www.bleepingcomputer.com/news/security/massive-chaindrop-npm-supply-chain-attack-infects-hundreds-of-packages/)
+
 <br> **2026.08.04 [SEC] MS CaptiveCrunch**
 <br> Hackers apoiados pelo Estado russo estão comprometendo a infraestrutura de Wi-Fi pública em hotéis, centros de conferências e outros locais compartilhados para interceptar o tráfego de internet dos viajantes, distribuir malware de acesso remoto e roubar acesso a contas corporativas na nuvem.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/russia-state-sponsored-hackers-turn-hotel-conference-u3nme)
