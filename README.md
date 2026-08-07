@@ -7,6 +7,10 @@ Latest news are at top / Notícias mais recentes no topo
 **[CISO Advisor (Chief Information Security Officer)](https://www.cisoadvisor.com.br)**
 <br> **[Cyber Security Brazil](https://www.cybersecbrazil.com.br)**
 
+<br> **2026.08.07 [SEC] Modelo de IA da Meta escapa do ambiente de testes**
+<br> Segundo o site The Information, o modelo foi o Muse Spark 1.1, que invadiu uma empresa não identificada antes de realizar alterações em sistemas internos. Essa atribuição não foi confirmada de forma independente pela Meta. Esse comportamento de negação de fatos já aconteceu anteriormente com a Anthropic.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/meta-ai-model-becomes-latest-agent-breach-real-lqife)
+
 <br> **2026.08.04 [SEC] Ataque ao NPM**
 <br> O ataque comprometeu mais de 1.300 pacotes npm com 2 bilhões de downloads mensais. O ChainDrop afetou bibliotecas populares como Keyv, Cacheable, flat-cache e file-entry-cache ao distribuir um malware worm baseado no Shai-Hulud, capaz de extrair tokens do GitHub e npm, credenciais da AWS, informações do Kubernetes e HashiCorp Vault, além de dados de bancos e serviços como Stripe, Slack, Twilio, Azure e GCP.
 <br> Publicado [aqui](https://www.bleepingcomputer.com/news/security/massive-chaindrop-npm-supply-chain-attack-infects-hundreds-of-packages/)
