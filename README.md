@@ -7,6 +7,10 @@ Latest news are at top / Notícias mais recentes no topo
 **[CISO Advisor (Chief Information Security Officer)](https://www.cisoadvisor.com.br)**
 <br> **[Cyber Security Brazil](https://www.cybersecbrazil.com.br)**
 
+<br> **2026.08.10 [AI] Cloudflare Kitesurf**
+<br> Navegador específico para agentes de IA que não possui interface gráfica e prioriza desempenho e redução no consumo de tokens, com a proposta de permitir que esses sistemas naveguem pela web com mais eficiência e menor consumo computacional do que navegadores baseados em Chromium. O produto roda na nuvem e está disponível gratuitamente em beta na plataforma Browser Run.
+<br> Publicado [aqui](https://developers.cloudflare.com/browser-run/kitesurf/)
+
 <br> **2026.08.10 [AI] Modelo Astra suspenso**
 <br> A OpenAI suspendeu algumas atividades internas relacionadas ao modelo Astra, após avaliações preliminares de segurança indicarem que o sistema se enquadra na categoria de risco mais elevada. Ele é capaz de descobrir autonomamente vulnerabilidades de dia zero e executar ataques de ponta a ponta contra alvos altamente protegidos.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/openai-suspends-unreleased-astra-ai-model-after-pmq9e)
