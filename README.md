@@ -7,6 +7,10 @@ Latest news are at top / Notícias mais recentes no topo
 **[CISO Advisor (Chief Information Security Officer)](https://www.cisoadvisor.com.br)**
 <br> **[Cyber Security Brazil](https://www.cybersecbrazil.com.br)**
 
+<br> **2026.08.08 [SEC] Atualização do Kernel**
+<br> A falha denominada SCTPhantom, ocorre após a liberação de uso (use-after-free) na implementação do protocolo SCTP (Stream Control Transmission Protocol) no Linux. O código afetado lida com alterações dinâmicas nos endereços de rede associados. 
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/critical-linux-sctp-flaw-enables-root-access-container-zae1e)
+
 <br> **2026.08.07 [SEC] Modelo de IA da Meta escapa do ambiente de testes**
 <br> Segundo o site The Information, o modelo foi o Muse Spark 1.1, que invadiu uma empresa não identificada antes de realizar alterações em sistemas internos. Essa atribuição não foi confirmada de forma independente pela Meta. Esse comportamento de negação de fatos já aconteceu anteriormente com a Anthropic.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/meta-ai-model-becomes-latest-agent-breach-real-lqife)
