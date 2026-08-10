@@ -7,6 +7,10 @@ Latest news are at top / Notícias mais recentes no topo
 **[CISO Advisor (Chief Information Security Officer)](https://www.cisoadvisor.com.br)**
 <br> **[Cyber Security Brazil](https://www.cybersecbrazil.com.br)**
 
+<br> **2026.08.09 [SEC] Notícias de 01 a 06 de agosto**
+<br> Principais destaques em cibersegurança.
+<br> Publicado [aqui](https://pt.linkedin.com/comm/pulse/principais-not%C3%ADcias-de-ciberseguran%C3%A7a-da-semana-01-06-agosto-ta3xf)
+
 <br> **2026.08.08 [SEC] Atualização do Kernel**
 <br> A falha denominada SCTPhantom, ocorre após a liberação de uso (use-after-free) na implementação do protocolo SCTP (Stream Control Transmission Protocol) no Linux. O código afetado lida com alterações dinâmicas nos endereços de rede associados. 
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/critical-linux-sctp-flaw-enables-root-access-container-zae1e)
