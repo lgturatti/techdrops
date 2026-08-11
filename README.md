@@ -7,6 +7,10 @@ Latest news are at top / Notícias mais recentes no topo
 **[CISO Advisor (Chief Information Security Officer)](https://www.cisoadvisor.com.br)**
 <br> **[Cyber Security Brazil](https://www.cybersecbrazil.com.br)**
 
+<br> **2026.08.11 [AI] GPT-5.6 Cyber**
+<br> Projetado para apoiar pesquisas avançadas de vulnerabilidades, a validação de exploits e testes de intrusão autorizados, à medida que a empresa busca oferecer aos defensores acesso a capacidades cibernéticas cada vez mais poderosas, sem disponibilizar essas mesmas capacidades de forma ampla aos atacantes.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/openai-launches-gpt-56-cyber-ai-arms-race-reshapes-7brze)
+
 <br> **2026.08.10 [AI] Cloudflare Kitesurf**
 <br> Navegador específico para agentes de IA que não possui interface gráfica e prioriza desempenho e redução no consumo de tokens, com a proposta de permitir que esses sistemas naveguem pela web com mais eficiência e menor consumo computacional do que navegadores baseados em Chromium. O produto roda na nuvem e está disponível gratuitamente em beta na plataforma Browser Run.
 <br> Publicado [aqui](https://developers.cloudflare.com/browser-run/kitesurf/)
