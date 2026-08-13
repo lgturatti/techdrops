@@ -7,6 +7,14 @@ Latest news are at top / Notícias mais recentes no topo
 **[CISO Advisor (Chief Information Security Officer)](https://www.cisoadvisor.com.br)**
 <br> **[Cyber Security Brazil](https://www.cybersecbrazil.com.br)**
 
+<br> **2026.08.13 [SEC] Microsoft Sharepoint**
+<br> Ataques utilizam código de exploração para uma vulnerabilidade crítica de bypass de autenticação, menos de 24 horas após a divulgação de uma análise técnica detalhada e de uma prova de conceito pública. A empresa de inteligência de ameaças Defused informou, em 12 de agosto, que seus *honeypots* de SharePoint sofreram ataques utilizando o código de prova de conceito publicado um dia antes pelo pesquisador de segurança da Rapid7, Stephen Fewer. Essa atividade fornece indícios iniciais de que invasores estão incorporando rapidamente a técnica a operações de varredura da internet e de exploração de vulnerabilidades.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/hackers-move-quickly-exploit-critical-microsoft-ltghe)
+
+<br> **2026.08.12 [SEC] Atualização Microsoft**
+<br> Dentre as atualizações, a vulnerabilidade mais urgente é uma falha de elevação de privilégios no driver de função auxiliar do Windows para WinSock. Esta atualização inclui 42 vulnerabilidades classificadas como críticas. Dessas, 37 podem levar à execução remota de código, enquanto cinco podem permitir que um invasor eleve privilégios.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/microsofts-august-2026-patch-tuesday-fixes-400-kjoye)
+
 <br> **2026.08.11 [AI] GPT-5.6 Cyber**
 <br> Projetado para apoiar pesquisas avançadas de vulnerabilidades, a validação de exploits e testes de intrusão autorizados, à medida que a empresa busca oferecer aos defensores acesso a capacidades cibernéticas cada vez mais poderosas, sem disponibilizar essas mesmas capacidades de forma ampla aos atacantes.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/openai-launches-gpt-56-cyber-ai-arms-race-reshapes-7brze)
