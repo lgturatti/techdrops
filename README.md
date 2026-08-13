@@ -7,6 +7,10 @@ Latest news are at top / Notícias mais recentes no topo
 **[CISO Advisor (Chief Information Security Officer)](https://www.cisoadvisor.com.br)**
 <br> **[Cyber Security Brazil](https://www.cybersecbrazil.com.br)**
 
+<br> **2026.08.13 [DEV] Habilidade perpétua**
+<br> A habilidade de 50 anos que sobrevive a qualquer framework. O SQL foi criado em quadros brancos da IBM em 1974. É mais antigo que a web, que o Linux e que o Python. Já foi dado como morto praticamente uma vez por década. E, em 2026, continua no topo de quase todas as listas de habilidades mais requisitadas. Veja por que isso é uma ótima notícia para você.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/50-year-old-skill-outlives-every-framework-w3schools-com-oj8ye)
+
 <br> **2026.08.13 [SEC] Microsoft Sharepoint**
 <br> Ataques utilizam código de exploração para uma vulnerabilidade crítica de bypass de autenticação, menos de 24 horas após a divulgação de uma análise técnica detalhada e de uma prova de conceito pública. A empresa de inteligência de ameaças Defused informou, em 12 de agosto, que seus *honeypots* de SharePoint sofreram ataques utilizando o código de prova de conceito publicado um dia antes pelo pesquisador de segurança da Rapid7, Stephen Fewer. Essa atividade fornece indícios iniciais de que invasores estão incorporando rapidamente a técnica a operações de varredura da internet e de exploração de vulnerabilidades.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/hackers-move-quickly-exploit-critical-microsoft-ltghe)
