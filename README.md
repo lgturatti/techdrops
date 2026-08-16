@@ -7,6 +7,14 @@ Latest news are at top / Notícias mais recentes no topo
 **[CISO Advisor (Chief Information Security Officer)](https://www.cisoadvisor.com.br)**
 <br> **[Cyber Security Brazil](https://www.cybersecbrazil.com.br)**
 
+<br> **2026.08.16 [SEC] Notícias de 07 a 13 de agosto**
+<br> Principais destaques em cibersegurança.
+<br> Publicado [aqui](https://pt.linkedin.com/comm/pulse/principais-not%C3%ADcias-de-ciberseguran%C3%A7a-da-semana-07-13-agosto-kwusf)
+
+<br> **2026.08.16 [SEC] macOS Exploited**
+<br> Uma vulnerabilidade grave no serviço de Compartilhamento de Tela do macOS, da Apple, está sendo explorada ativamente para comprometer equipamentos conectados à internet, obter acesso de nível administrativo e instalar mineradores da criptomoeda Monero, segundo um alerta urgente do Centro Nacional de Cibersegurança dos Países Baixos.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/critical-apple-macos-flaw-exploited-gain-root-access-i5pge)
+
 <br> **2026.08.13 [DEV] Habilidade perpétua**
 <br> A habilidade de 50 anos que sobrevive a qualquer framework. O SQL foi criado em quadros brancos da IBM em 1974. É mais antigo que a web, que o Linux e que o Python. Já foi dado como morto praticamente uma vez por década. E, em 2026, continua no topo de quase todas as listas de habilidades mais requisitadas. Veja por que isso é uma ótima notícia para você.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/50-year-old-skill-outlives-every-framework-w3schools-com-oj8ye)
