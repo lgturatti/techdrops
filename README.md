@@ -7,6 +7,10 @@ Latest news are at top / Notícias mais recentes no topo
 **[CISO Advisor (Chief Information Security Officer)](https://www.cisoadvisor.com.br)**
 <br> **[Cyber Security Brazil](https://www.cybersecbrazil.com.br)**
 
+<br> **2026.08.17 [SEC] Linux Botnet**
+<br> O malware, chamado Evooo1Bot, baseia-se parcialmente no código-fonte vazado da notória botnet Mirai. No entanto, pesquisadores afirmam que os operadores expandiram a fórmula conhecida do Mirai para uma plataforma de acesso remoto muito mais abrangente, com comunicações de comando e controle criptografadas, acesso persistente, shell interativo, funções de transferência de arquivos, um scanner de força bruta SSH e um serviço de proxy SOCKS5.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/linux-botnet-turns-devices-persistent-attacker-m6rke)
+
 <br> **2026.08.16 [SEC] Notícias de 07 a 13 de agosto**
 <br> Principais destaques em cibersegurança.
 <br> Publicado [aqui](https://pt.linkedin.com/comm/pulse/principais-not%C3%ADcias-de-ciberseguran%C3%A7a-da-semana-07-13-agosto-kwusf)
