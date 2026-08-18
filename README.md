@@ -7,6 +7,10 @@ Latest news are at top / Notícias mais recentes no topo
 **[CISO Advisor (Chief Information Security Officer)](https://www.cisoadvisor.com.br)**
 <br> **[Cyber Security Brazil](https://www.cybersecbrazil.com.br)**
 
+<br> **2026.08.18 [AI] Falha e correção**
+<br> O contexto é que o Snowflake em si é uma plataforma de dados (data cloud) na nuvem para armazenar, processar e analisar grandes volumes de informações usando SQL. O GitHub é a plataforma de hospedagem de código-fonte. Juntos, eles formam a base para o desenvolvimento moderno de engenharia de dados. A vulnerabilidade introduzida em 18 de junho, substituiu um método relativamente seguro de processamento de títulos de `issues` do GitHub pela expansão direta de expressões dentro de um comando de shell. A versão modificada, por sua vez, colocou a expressão ${{ github.event.issue.title }} diretamente dentro de um bloco `run:`. A falha foi descoberta em 23 de junho, mas somente em 17 de agosto, a vulnerabilidade de injeção de script no repositório snowflakedb/snowflake-connector-net, foi divulgada através de um exploit funcional com credenciais obtidas de um executor do GitHub Actions para acessar projetos internos do Jira da Snowflake.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/ai-agent-introduced-flaw-snowflakes-codethen-another-zelfe)
+
 <br> **2026.08.17 [SEC] Linux Botnet**
 <br> O malware, chamado Evooo1Bot, baseia-se parcialmente no código-fonte vazado da notória botnet Mirai. No entanto, pesquisadores afirmam que os operadores expandiram a fórmula conhecida do Mirai para uma plataforma de acesso remoto muito mais abrangente, com comunicações de comando e controle criptografadas, acesso persistente, shell interativo, funções de transferência de arquivos, um scanner de força bruta SSH e um serviço de proxy SOCKS5.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/linux-botnet-turns-devices-persistent-attacker-m6rke)
