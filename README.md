@@ -149,8 +149,7 @@ Latest news are at top / Notícias mais recentes no topo
 
 <br> **2026.07.21 [SEC] Calendário do Office365**
 <br> O malware, HOLLOWGRAPH, transforma o calendário do Microsoft 365 em um canal de comando e controle bidirecional. Os atacantes inserem instruções criptografadas em anexos de eventos do calendário, enquanto os computadores infectados retornam as informações roubadas criando compromissos adicionais e enviando arquivos criptografados. Para evitar que os eventos maliciosos chamem a atenção do proprietário da caixa de correio, os atacantes os agendam para 13 de maio de 2050.
-<br> Publicado [aqui](
-https://www.linkedin.com/comm/pulse/new-malware-turns-microsoft-365-calendars-covert-2rvse)
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/new-malware-turns-microsoft-365-calendars-covert-2rvse)
 
 <br> **2026.07.21 [AI] Novos Gemini**
 <br> Google lança três novos modelos Gemini: o 3.6 Flash é voltado para programação, tarefas de conhecimento e aplicações multimodais. O 3.5 Flash-Lite oferece o menor custo em tarefas de baixa latência e alto volume, com preço de 0,3 dólar por 1 milhão de tokens de entrada e 2,5 dólares por 1 milhão de tokens de saída. O 3.5 Flash Cyber foi projetado para identificar e corrigir vulnerabilidades a um custo por token menor que o de modelos maiores, e será disponibilizado inicialmente apenas para governos e parceiros confiáveis.
@@ -191,7 +190,6 @@ https://www.linkedin.com/comm/pulse/new-malware-turns-microsoft-365-calendars-co
 <br> **2026.07.15 [SEC] Atualização Microsoft**
 <br> A Microsoft disponibilizou correções para 622 vulnerabilidades no Windows, Microsoft Office, SharePoint, componentes relacionados ao Azure, Visual Studio dentre outros produtos, incluindo três vulnerabilidades de dia zero. O número recorde de atualizações se faz necessário tanto para prover correções com auxílio de IA, assim como para cobrir a exposição maior que a IA também traz aos atacantes.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/microsoft-fixes-record-600-vulnerabilities-july-xykve)
-
 
 <br> **2026.07.14 [SEC] Microsoft Entra ID**
 <br> A Microsoft anunciou que a partir de  1º de setembro de 2026 as 'passkeys' serão o meio de autenticação de identidade corporativa padrão. A janela de adoção vai até fevereiro de 2027 e após esse prazo, as empresas que não fizerem a atualização estarão sujeitos a falhas de autenticação sem suporte telefônico ou por SMS.
@@ -268,6 +266,10 @@ https://www.linkedin.com/comm/pulse/new-malware-turns-microsoft-365-calendars-co
 <br> **2026.07.03 [SEC] ParrotOS 7.3**
 <br> Esta versão vem com o kernel 7.0 e incorpora as atualizações e correções de segurança mais recentes dos repositórios Debian 13.5 "Trixie". As principais atualizações de pacotes incluem Airgeddon 12.0, Bettercap 2.41.5, BloodyAD 2.5.4, Caido 0.55.2, Enum4linux-ng 1.3.10, Evil-WinRM-py 1.6.0, Ghidra 12.0.4, GoSHS 2.1.0, Metasploit 6.4.136, Rocket 1.5.1, SecLists 2026.1, Sherlock 0.16.0 e SQLMap 1.10.4.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/parrotos-73-out-now-featuring-linux-kernel-70-updated-i840e)
+
+<br> **2026.07.02 [DEV] Microsoft Azure Linux**
+<br> A empresa anunciou sua primeira distribuição Linux completa para uso geral: o Azure Linux 4.0 (baseado no Fedora). Será oferecido para rodar em desktops por meio do Windows Subsystem for Linux, permitindo que desenvolvedores rodem o sistema localmente no Windows 11, mas sem experiência gráfica de desktop, já que ele é otimizado para uso em servidores.
+<br> Publicado [aqui](https://www.zdnet.com/article/microsoft-azure-linux-4-0-could-replace-windows-server-in-enterprise/)
 
 <br> **2026.07.02 [SEC] Pentest AI-Native**
 <br>  Pentest AI Native é um modelo em que o agente de inteligência artificial executa o pentest completo dentro de um escopo autorizado, conduzindo o teste ofensivo de ponta a ponta com autonomia. Saiba mais sobre o assunto na publicação original. 
@@ -515,6 +517,10 @@ https://www.linkedin.com/comm/pulse/new-malware-turns-microsoft-365-calendars-co
 <br> Chaves de API do Google continuam funcionando por vários minutos após exclusão: um pesquisador de segurança descobriu que essas chaves não ficam completamente inativas depois que os usuários as apagam (o tempo de revogação fica em média de 16 minutos), abrindo uma janela pequena, mas relevante, para abuso. A recomendação é que equipes de segurança adotem uma janela de 30 minutos para exclusões de chaves de API do Google e monitorem o uso por credencial na seção “Enabled APIs and services” do console do GCP.
 <br> Publicado [aqui](https://www.darkreading.com/identity-access-management-security/google-api-keys-active-after-deletion)
 
+<br> **2026.05.20 [SEC] Google fails**
+<br> Google publica indevidamente código de exploit para vulnerabilidade ainda sem correção no Chromium, ameaçando milhões de usuários: a prova de conceito explora a interface Browser Fetch, usada para baixar arquivos grandes em segundo plano e pode ser usada para monitorar aspectos do uso do navegador, atuar como proxy para visualizar sites e lançar ataques de negação de serviço. A pesquisadora independente Lyra Rebane descobriu a falha e a reportou de forma privada ao Google no fim de 2022, sem correção após 29 meses. A PoC foi publicada ontem no rastreador de bugs do projeto de forma indevida e, embora o Google tenha removido a publicação, o material continua disponível em sites de arquivamento. Usuários de navegadores Chromium (Edge, Brave, Opera, Vivaldi e Arc) devem desconfiar de janelas de download que apareçam sem motivo. Firefox e Safari não são afetados porque não oferecem suporte ao recurso.
+<br> Publicado [aqui](https://arstechnica.com/security/2026/05/google-publishes-exploit-code-threatening-millions-of-chromium-users/)
+
 <br> **2026.05.20 [SEC] Ignorando o bitlocker**
 <br> A Microsoft emitiu uma conteção de emergência para uma vulnerabilidade recém-divulgada de bypass do BitLocker, conhecida como "YellowKey", após pesquisadores de segurança divulgarem publicamente um código de exploração de prova de conceito capaz de contornar as proteções de criptografia de disco do Windows.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/microsoft-rushes-out-emergency-mitigation-yellowkey-xlyre)
@@ -542,6 +548,10 @@ https://www.linkedin.com/comm/pulse/new-malware-turns-microsoft-365-calendars-co
 <br> **2026.05.16 [SEC] Microsoft Edge**
 <br> A Microsoft finalmente reverteu sua posição sobre a segurança de senhas do Edge após pesquisador expor falha de memória. As credenciais armazenadas no navegador tornaram-se um alvo principal para famílias de malware de roubo de informações, como RedLine, Lumma, Vidar, Raccoon e StealC, que especificamente vasculham a memória do navegador e os repositórios de credenciais para coletar dados de login e revendê-los em mercados clandestinos. Quando as credenciais ficam armazenadas descriptografadas na memória o tempo todo, a barreira de acesso para os atacantes diminui drasticamente. A defesa em profundidade é importante justamente porque os atacantes raramente param em um único ponto de acesso.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/microsoft-reverses-course-edge-password-security-ecsde)
+
+<br> **2026.05.15 [SEC] NPM node-ipc**
+<br> O módulo NPM com mais de 690 mil downloads semanais é comprometido para roubar credenciais. O "node-ipc" permite comunicação entre processos por sockets Unix, Windows, UDP, TLS e TCP. As versões maliciosas são 9.1.6, 9.2.3 e 12.0.1. O malware coleta variáveis de ambiente, arquivos locais sensíveis, credenciais de AWS, Azure, GCP, OCI, DigitalOcean, SSH, Kubernetes, Docker, Helm, Terraform, GitHub, GitLab, bancos de dados e CI/CD, além de senhas do macOS Keychain e keyrings do Linux.
+<br> Publicado [aqui](https://www.bleepingcomputer.com/news/security/popular-node-ipc-npm-package-compromised-to-steal-credentials/)
 
 <br> **2026.05.15 [SEC] Microsoft Exchange**
 <br> O Microsoft Exchange Server, em instalações locais, pode permitir ataque de cross-site scripting (XSS) devido a um erro durante a geração de páginas da web, onde o atacante envia um e-mail especialmente criado para uma vítima usando o Outlook Web Access (OWA). Em determinadas condições de interação, abrir a mensagem pode desencadear a execução arbitrária de JavaScript dentro da sessão do navegador web da vítima.
