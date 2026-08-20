@@ -474,6 +474,14 @@ https://www.linkedin.com/comm/pulse/new-malware-turns-microsoft-365-calendars-co
 <br> Esta funcionalidade de segurança visa impedir ataques cibernéticos antes que se espalhem pelas redes corporativas. O recurso, atualmente disponível em modo de pré-lançamento, permite que dispositivos corporativos comprometidos sejam desconectados automaticamente das redes da organização no momento em que uma atividade suspeita for detectada. Analistas de segurança afirmam que a medida representa mais um passo em direção a sistemas de defesa cibernética totalmente autônomos, projetados para responder a ataques em tempo real sem esperar por intervenção humana.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/microsoft-defender-introduces-automatic-isolation-oq9he)
 
+<br> **2026.05.24 [SEC] Notícias de 15 a 21 de maio**
+<br> Principais destaques em cibersegurança.
+<br> Publicado [aqui](https://pt.linkedin.com/comm/pulse/principais-not%C3%ADcias-de-ciberseguran%C3%A7a-da-semana-15-21-maio-183wf)
+
+<br> **2026.05.24 [SEC] Claude Mythos**
+<br> A Anthropic anunciou que seu modelo ajudou a identificar mais de 10.000 vulnerabilidades graves de software em alguns dos sistemas de infraestrutura digital mais utilizados no mundo.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/anthropics-claude-mythos-ai-uncovers-more-than-8ghue)
+
 <br> **2026.05.23 [SEC] OP Saffron**
 <br> Operação global iniciada em 2021 desfez a “primeira VPN”, de cibercriminosos ligados a ransomware, desativando 33 servidores. A plataforma anunciava garantias de anonimato e resistência a solicitações das autoridades, com registros de atividades monitorados por investigadores por mais de uma década. 
 <br>  Os investigadores alegam que os cibercriminosos se valeram do serviço VPN para: mascarar a origem dos ataques, contornar a atribuição geográfica, encaminhar tráfego malicioso por vários países, ocultar comunicações de comando e controle, e burlar os esforços de rastreamento das autoridades policiais. A infraestrutura também teria sido usada em: ataques de negação de serviço distribuídos (DDoS), campanhas de roubo de credenciais, operações de fraude online, e varredura de rede não autorizada.
