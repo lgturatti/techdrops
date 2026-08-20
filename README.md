@@ -7,6 +7,10 @@ Latest news are at top / Notícias mais recentes no topo
 **[CISO Advisor (Chief Information Security Officer)](https://www.cisoadvisor.com.br)**
 <br> **[Cyber Security Brazil](https://www.cybersecbrazil.com.br)**
 
+<br> **2026.08.20 [SEC] Atualização causando travamentos**
+<br> A Microsoft investiga travamentos em jogos após atualização de agosto do Windows 11. Alguns títulos podem parar de responder, fechar inesperadamente, exibir o erro “EXCEPTION_ACCESS_VIOLATION” ou até reiniciar o dispositivo. Os relatos surgiram após o lançamento da KB5121003 e a companhia apura se o problema foi causado pela atualização ou por drivers de terceiros (ou não).
+<br> Publicado [aqui](https://www.theregister.com/os-platforms/2026/08/20/microsoft-probes-reports-of-games-taking-exception-to-windows-11s-august-update/5290214)
+
 <br> **2026.08.20 [SEC] Medusa Ransonware**
 <br> A classificação do ransonware foi alterada após investigações federais identificarem mais de 500 organizações afetadas em infraestruturas críticas e outros setores. Organizações de saúde e saúde pública são destaque no último alerta. Ataques contra hospitais, profissionais da saúde e organizações que detêm informações de saúde podem ter consequências que vão muito além do roubo de dados corporativos, incluindo a interrupção de sistemas clínicos, atrasos em consultas, desvios de ambulâncias e acesso reduzido a prontuários de pacientes.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/us-agencies-update-medusa-ransomware-warning-victim-fpafe)
