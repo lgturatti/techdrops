@@ -7,6 +7,18 @@ Latest news are at top / Notícias mais recentes no topo
 **[CISO Advisor (Chief Information Security Officer)](https://www.cisoadvisor.com.br)**
 <br> **[Cyber Security Brazil](https://www.cybersecbrazil.com.br)**
 
+<br> **2026.08.20 [SEC] Medusa Ransonware**
+<br> A classificação do ransonware foi alterada após investigações federais identificarem mais de 500 organizações afetadas em infraestruturas críticas e outros setores. Organizações de saúde e saúde pública são destaque no último alerta. Ataques contra hospitais, profissionais da saúde e organizações que detêm informações de saúde podem ter consequências que vão muito além do roubo de dados corporativos, incluindo a interrupção de sistemas clínicos, atrasos em consultas, desvios de ambulâncias e acesso reduzido a prontuários de pacientes.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/us-agencies-update-medusa-ransomware-warning-victim-fpafe)
+
+<br> **2026.08.20 [DEV] A história do Python**
+<br> Como um projeto paralelo de férias se tornou a linguagem favorita do mundo.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/holiday-side-project-became-worlds-favorite-language-w3schools-com-oefxe)
+
+<br> **2026.08.19 [SEC] Copilot Fix**
+<br> A Microsoft corrigiu a falha "CoSnitch", uma série de vulnerabilidades na versão para consumidores do Copilot que poderiam ter permitido que invasores transformassem um único link malicioso em um canal oculto para roubar e-mails, detalhes de calendário, informações de arquivos na nuvem, conversas anteriores e dados armazenados na memória do assistente de IA.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/microsoft-fixes-critical-copilot-flaw-which-enabled-h2gre)
+
 <br> **2026.08.18 [AI] Falha e correção**
 <br> O contexto é que o Snowflake em si é uma plataforma de dados (data cloud) na nuvem para armazenar, processar e analisar grandes volumes de informações usando SQL. O GitHub é a plataforma de hospedagem de código-fonte. Juntos, eles formam a base para o desenvolvimento moderno de engenharia de dados. A vulnerabilidade introduzida em 18 de junho, substituiu um método relativamente seguro de processamento de títulos de `issues` do GitHub pela expansão direta de expressões dentro de um comando de shell. A versão modificada, por sua vez, colocou a expressão ${{ github.event.issue.title }} diretamente dentro de um bloco `run:`. A falha foi descoberta em 23 de junho, mas somente em 17 de agosto, a vulnerabilidade de injeção de script no repositório snowflakedb/snowflake-connector-net, foi divulgada através de um exploit funcional com credenciais obtidas de um executor do GitHub Actions para acessar projetos internos do Jira da Snowflake.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/ai-agent-introduced-flaw-snowflakes-codethen-another-zelfe)
