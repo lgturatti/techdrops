@@ -474,6 +474,10 @@ https://www.linkedin.com/comm/pulse/new-malware-turns-microsoft-365-calendars-co
 <br> Esta funcionalidade de segurança visa impedir ataques cibernéticos antes que se espalhem pelas redes corporativas. O recurso, atualmente disponível em modo de pré-lançamento, permite que dispositivos corporativos comprometidos sejam desconectados automaticamente das redes da organização no momento em que uma atividade suspeita for detectada. Analistas de segurança afirmam que a medida representa mais um passo em direção a sistemas de defesa cibernética totalmente autônomos, projetados para responder a ataques em tempo real sem esperar por intervenção humana.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/microsoft-defender-introduces-automatic-isolation-oq9he)
 
+<br> **2026.05.25 [AI] Custos de IA no Uber**
+<br> Uber diz que gastos com IA estão cada vez mais difíceis de justificar devido à falta de retorno proporcional: a tecnologia não está entregando à empresa ganhos equivalentes aos valores investidos. Após discussões com líderes seniores de engenharia, a companhia percebeu que o maior uso de tokens não tem se traduzido em aumento proporcional de recursos úteis para usuários.
+<br> Publicado [aqui](https://www.businessinsider.com/uber-coo-andrew-macdonald-ai-token-spending-harder-justify-2026-5)
+
 <br> **2026.05.24 [SEC] Notícias de 15 a 21 de maio**
 <br> Principais destaques em cibersegurança.
 <br> Publicado [aqui](https://pt.linkedin.com/comm/pulse/principais-not%C3%ADcias-de-ciberseguran%C3%A7a-da-semana-15-21-maio-183wf)
@@ -490,6 +494,14 @@ https://www.linkedin.com/comm/pulse/new-malware-turns-microsoft-365-calendars-co
 <br> **2026.05.22 [SEC] Google Chrome**
 <br> A empresa está sob fogo cruzado após publicar código de exploração de vulnerabilidade não corrigida no Chromium que afeta milhões de usuários. A falha, divulgada inicialmente ao Google no final de 2022, afeta a API Browser Fetch, um recurso de download em segundo plano integrado ao Chromium, que pode permitir que sites maliciosos mantenham conexões persistentes e silenciosas com o navegador da vítima, transformando navegadores comuns em componentes de uma botnet leve capaz de realizar atividades anônimas de proxy, monitoramento de usuários e ataques de negação de serviço distribuídos (DDoS). O problema afeta praticamente todos os principais navegadores baseados no Chromium, incluindo Google Chrome, Microsoft Edge, Brave, Opera, Vivaldi e Arc.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/google-under-fire-after-publishing-exploit-code-4fbqf)
+
+<br> **2026.05.22 [AI] Nova superfície de ataque**
+<br> Pequenas alterações em arquivos SKILL[.]md são nova superfície de ataque. O prompt injection ocorre quando esses documentos são modificados de forma adversarial e pesquisadores mostraram que basta adicionar 20 tokens a um SKILL[.]md para influenciar o modelo e evitar mecanismos de detecção. A recomendação é tratar especificações em linguagem natural como elementos sensíveis à segurança e ter mais cuidado na criação de registros de skills, mecanismos de ranqueamento, pipelines de governança e defesas do lado do agente.
+<br> Publicado [aqui](https://www.theregister.com/ai-ml/2026/05/22/minor-edits-to-ai-skills-can-make-agents-go-rogue/5245413)
+
+<br> **2026.05.21 [SEC] Risco das chaves de API**
+<br> Chaves de API do Google continuam funcionando por vários minutos após exclusão. Um pesquisador de segurança descobriu que essas chaves não ficam completamente inativas depois que os usuários as apagam (o tempo de revogação fica em média de 16 minutos), abrindo uma janela pequena, mas relevante, para abuso. A recomendação é que equipes de segurança adotem uma janela de 30 minutos para exclusões de chaves de API do Google e monitorem o uso por credencial na seção “Enabled APIs and services” do console do GCP. O pesquisador também reportou as descobertas ao Google, mas o caso foi encerrado como não sendo um problema.
+<br> Publicado [aqui](https://www.darkreading.com/identity-access-management-security/google-api-keys-active-after-deletion)
 
 <br> **2026.05.21 [SEC] Microsoft Defender**
 <br> A Microsoft lançou atualizações de segurança urgentes para duas vulnerabilidades de dia zero para as falhas que já estão sendo exploradas ativamente em ataques reais.
