@@ -7,6 +7,22 @@ Latest news are at top / Notícias mais recentes no topo
 **[CISO Advisor (Chief Information Security Officer)](https://www.cisoadvisor.com.br)**
 <br> **[Cyber Security Brazil](https://www.cybersecbrazil.com.br)**
 
+<br> **2026.08.23 [SEC] Apple Find My People**
+<br> Um pesquisador de segurança demonstrou que o sistema de compartilhamento de localização (de código fechado) pode ser acessado a partir de um computador com Linux. O feito foi alcançado com engenharia reversa e permite o uso sem aplicativos oficiais da Apple e não representa uma vulnerabilidade que permita a estranhos rastrear usuários de iPhone aleatórios, burlar a autenticação da conta ou acessar localizações sem que haja um vínculo de compartilhamento preexistente.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/apples-find-my-protocol-reversed-engineered-share-e4epe)
+
+<br> **2026.08.22 [SEC] Cisco Fix**
+<br> As divulgações afetam tecnologias responsáveis ​​pelo gerenciamento de redes corporativas, pela orquestração de infraestrutura, pelo monitoramento de cargas de trabalho de aplicações e pela aplicação de políticas de segurança em ambientes de nuvem e *on-premises*. Visto que essas plataformas ocupam posições de alto privilégio na infraestrutura de empresas e provedores de serviços, uma exploração bem-sucedida poderia, potencialmente, acarretar consequências que vão além de um sistema vulnerável isolado. A solução é aplicar as correções disponíveis. 
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/cisco-patches-multiple-maximum-severity-vulnerabilities-mciae)
+
+<br> **2026.08.22 [SEC] Notícias de 14 a 20 de agosto**
+<br> Principais destaques em cibersegurança.
+<br> Publicado [aqui](https://pt.linkedin.com/comm/pulse/principais-not%C3%ADcias-de-ciberseguran%C3%A7a-da-semana-14-20-agosto-iaz0f)
+
+<br> **2026.08.21 [SEC] Microsoft Entra ID**
+<br> A empresa revelou uma vulnerabilidade de segurança a qual foi explorada em ataques reais antes que a correção fosse concluída no lado da nuvem, levantando questões significativas sobre a exposição de uma das plataformas de identidade mais importantes utilizadas por empresas, governos e organizações do setor público em todo o mundo.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/microsoft-confirms-maximum-severity-entra-id-vulnerability-g96xe)
+
 <br> **2026.08.20 [SEC] Atualização causando travamentos**
 <br> A Microsoft investiga travamentos em jogos após atualização de agosto do Windows 11. Alguns títulos podem parar de responder, fechar inesperadamente, exibir o erro “EXCEPTION_ACCESS_VIOLATION” ou até reiniciar o dispositivo. Os relatos surgiram após o lançamento da KB5121003 e a companhia apura se o problema foi causado pela atualização ou por drivers de terceiros (ou não).
 <br> Publicado [aqui](https://www.theregister.com/os-platforms/2026/08/20/microsoft-probes-reports-of-games-taking-exception-to-windows-11s-august-update/5290214)
