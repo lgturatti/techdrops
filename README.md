@@ -8,7 +8,7 @@ Latest news are at top / Notícias mais recentes no topo
 <br> **[Cyber Security Brazil](https://www.cybersecbrazil.com.br)**
 
 <br> **2026.08.23 [SEC] Apple Find My People**
-<br> Um pesquisador de segurança demonstrou que o sistema de compartilhamento de localização (de código fechado) pode ser acessado a partir de um computador com Linux. O feito foi alcançado com engenharia reversa e permite o uso sem aplicativos oficiais da Apple e não representa uma vulnerabilidade que permita a estranhos rastrear usuários de iPhone aleatórios, burlar a autenticação da conta ou acessar localizações sem que haja um vínculo de compartilhamento preexistente.
+<br> Um pesquisador de segurança demonstrou que o sistema de compartilhamento de localização (de código fechado) pode ser acessado a partir de um computador com Linux. O feito foi alcançado com engenharia reversa e permite o uso sem aplicativos oficiais da Apple. Apesar do acesso, isto não representa uma vulnerabilidade que permita a estranhos rastrear usuários de iPhone aleatórios, burlar a autenticação da conta ou acessar localizações sem que haja um vínculo de compartilhamento preexistente.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/apples-find-my-protocol-reversed-engineered-share-e4epe)
 
 <br> **2026.08.22 [SEC] Cisco Fix**
