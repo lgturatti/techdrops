@@ -7,6 +7,10 @@ Latest news are at top / Notícias mais recentes no topo
 **[CISO Advisor (Chief Information Security Officer)](https://www.cisoadvisor.com.br)**
 <br> **[Cyber Security Brazil](https://www.cybersecbrazil.com.br)**
 
+<br> **2026.08.24 [SEC] Wireshark 4.6.8**
+<br> O programa recebeu atualização de manutenção focada em segurança, corrigindo 28 vulnerabilidades em seus dissecadores de protocolos, analisadores de arquivos de captura, mecanismo de remontagem de pacotes e recursos de análise baseados em serviços (daemons).
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/wireshark-468-fixes-28-security-flaws-across-packet-c5dje)
+
 <br> **2026.08.23 [SEC] Apple Find My People**
 <br> Um pesquisador de segurança demonstrou que o sistema de compartilhamento de localização (de código fechado) pode ser acessado a partir de um computador com Linux. O feito foi alcançado com engenharia reversa e permite o uso sem aplicativos oficiais da Apple. Apesar do acesso, isto não representa uma vulnerabilidade que permita a estranhos rastrear usuários de iPhone aleatórios, burlar a autenticação da conta ou acessar localizações sem que haja um vínculo de compartilhamento preexistente.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/apples-find-my-protocol-reversed-engineered-share-e4epe)
