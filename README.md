@@ -7,6 +7,10 @@ Latest news are at top / Notícias mais recentes no topo
 **[CISO Advisor (Chief Information Security Officer)](https://www.cisoadvisor.com.br)**
 <br> **[Cyber Security Brazil](https://www.cybersecbrazil.com.br)**
 
+<br> **2026.08.24 [SEC] Microsoft Teams**
+<br> A empresa está reforçando os controles de segurança e privacidade no Teams com uma nova política de proteção de reuniões que permitirá aos administradores impedir automaticamente que bots externos detectados ingressem nas reuniões.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/microsoft-teams-introduces-new-controls-automatically-1vt8e)
+
 <br> **2026.08.24 [SEC] Wireshark 4.6.8**
 <br> O programa recebeu atualização de manutenção focada em segurança, corrigindo 28 vulnerabilidades em seus dissecadores de protocolos, analisadores de arquivos de captura, mecanismo de remontagem de pacotes e recursos de análise baseados em serviços (daemons).
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/wireshark-468-fixes-28-security-flaws-across-packet-c5dje)
