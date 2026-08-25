@@ -7,6 +7,10 @@ Latest news are at top / Notícias mais recentes no topo
 **[CISO Advisor (Chief Information Security Officer)](https://www.cisoadvisor.com.br)**
 <br> **[Cyber Security Brazil](https://www.cybersecbrazil.com.br)**
 
+<br> **2026.08.25 [SEC] Vulnerabilidades da Oracle**
+<br> A vulnerabilidade afeta o HTTP Server e o WebLogic Server Proxy Plug-in que está sendo explorada ativamente. A solução deve ser disponibilizada até dia 27.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/actively-exploited-oracle-weblogic-vulnerability-tekse)
+
 <br> **2026.08.24 [SEC] Microsoft Teams**
 <br> A empresa está reforçando os controles de segurança e privacidade no Teams com uma nova política de proteção de reuniões que permitirá aos administradores impedir automaticamente que bots externos detectados ingressem nas reuniões.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/microsoft-teams-introduces-new-controls-automatically-1vt8e)
