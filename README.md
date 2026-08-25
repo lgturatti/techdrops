@@ -67,6 +67,10 @@ Latest news are at top / Notícias mais recentes no topo
 <br> A habilidade de 50 anos que sobrevive a qualquer framework. O SQL foi criado em quadros brancos da IBM em 1974. É mais antigo que a web, que o Linux e que o Python. Já foi dado como morto praticamente uma vez por década. E, em 2026, continua no topo de quase todas as listas de habilidades mais requisitadas. Veja por que isso é uma ótima notícia para você.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/50-year-old-skill-outlives-every-framework-w3schools-com-oj8ye)
 
+<br> **2026.08.13 [AI] GPT-5.6 Sol 14x mais rápido**
+<br> A empresa anunciou tecnologia que deixa GPT-5.6 Sol 1.300% mais rápido. O Ultrafast, desenvolvido em parceria com a fabricante de chips de IA Cerebras, permite que o modelo gere até 750 tokens por segundo, 14 vezes mais rápido que a versão tradicional. O recurso está inicialmente disponível via API para um grupo restrito de clientes, com expansão prevista conforme a capacidade aumentar.
+<br> Publicado [aqui](https://openai.com/pt-BR/index/previewing-ultrafast/)
+
 <br> **2026.08.13 [SEC] Microsoft Sharepoint**
 <br> Ataques utilizam código de exploração para uma vulnerabilidade crítica de bypass de autenticação, menos de 24 horas após a divulgação de uma análise técnica detalhada e de uma prova de conceito pública. A empresa de inteligência de ameaças Defused informou, em 12 de agosto, que seus *honeypots* de SharePoint sofreram ataques utilizando o código de prova de conceito publicado um dia antes pelo pesquisador de segurança da Rapid7, Stephen Fewer. Essa atividade fornece indícios iniciais de que invasores estão incorporando rapidamente a técnica a operações de varredura da internet e de exploração de vulnerabilidades.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/hackers-move-quickly-exploit-critical-microsoft-ltghe)
@@ -78,6 +82,10 @@ Latest news are at top / Notícias mais recentes no topo
 <br> **2026.08.12 [SEC] Atualização Microsoft**
 <br> Dentre as atualizações, a vulnerabilidade mais urgente é uma falha de elevação de privilégios no driver de função auxiliar do Windows para WinSock. Esta atualização inclui 42 vulnerabilidades classificadas como críticas. Dessas, 37 podem levar à execução remota de código, enquanto cinco podem permitir que um invasor eleve privilégios.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/microsofts-august-2026-patch-tuesday-fixes-400-kjoye)
+
+<br> **2026.08.11 [AI] Anthropic informa marcação de documentos**
+<br> A empreas aplicará marca d’água em conteúdos de texto gerados pelo Claude. O mecanismo alterará levemente a probabilidade de escolha de certas palavras, de maneira imperceptível a humanos, e a marca acompanhará cópias e permanecerá mesmo após algumas edições. Já em documentos e imagens, serão utilizados metadados do padrão aberto C2PA. A mudança busca atender às exigências da Lei de IA da União Europeia, mas será adotada globalmente.
+<br> Publicado [aqui](https://techcrunch.com/2026/08/11/anthropic-says-it-will-watermark-text-generated-by-its-ai-models/)
 
 <br> **2026.08.11 [AI] GPT-5.6 Cyber**
 <br> Projetado para apoiar pesquisas avançadas de vulnerabilidades, a validação de exploits e testes de intrusão autorizados, à medida que a empresa busca oferecer aos defensores acesso a capacidades cibernéticas cada vez mais poderosas, sem disponibilizar essas mesmas capacidades de forma ampla aos atacantes.
