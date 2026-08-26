@@ -7,6 +7,10 @@ Latest news are at top / Notícias mais recentes no topo
 **[CISO Advisor (Chief Information Security Officer)](https://www.cisoadvisor.com.br)**
 <br> **[Cyber Security Brazil](https://www.cybersecbrazil.com.br)**
 
+<br> **2026.08.26 [SEC] Melhorias no WhatsApp**
+<br> WhatsApp reforça a segurança da conta com verificação em duas etapas baseada em senha, múltiplas chaves e novos alertas sobre chamadas de golpe.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/whatsapp-strengthens-account-security-password-based-vncne)
+
 <br> **2026.08.25 [DEV] 35 Anos de Linux**
 <br> Em 25 de agosto de 1991, Linus Torvalds publicou uma mensagem no grupo de discussão comp.os.minix solicitando opiniões sobre um sistema operacional gratuito que vinha desenvolvendo desde abril. Criado para computadores pessoais Intel 386 e 486, o projeto foi apresentado com a descrição famosa por sua modéstia: “apenas um hobby”.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/linux-turns-35-how-students-hobby-became-foundation-bpgwe)
