@@ -19,6 +19,10 @@ Latest news are at top / Notícias mais recentes no topo
 <br> A vulnerabilidade afeta o HTTP Server e o WebLogic Server Proxy Plug-in que está sendo explorada ativamente. A solução deve ser disponibilizada até dia 27.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/actively-exploited-oracle-weblogic-vulnerability-tekse)
 
+<br> **2026.08.24 [DEV] Descreva seu app**
+<br> [Ryan Dahl](https://x.com/rough__sea), criador do Node.js, lançou o Dactyl, uma plataforma de programação com IA para aplicativos nativos de iOS e Android. A ferramenta possui um emulador de dispositivo móvel que roda diretamente no navegador, eliminando a necessidade de possuir um Mac com Xcode ou de instalar o Android Studio. A plataforma oferece teste gratuito, enquanto o plano Builder custa 20 dólares por mês e permite ao usuário usar a própria assinatura do ChatGPT para consumir tokens.
+<br> Disponível [aqui](https://dactyl.dev)
+
 <br> **2026.08.24 [SEC] Microsoft Teams**
 <br> A empresa está reforçando os controles de segurança e privacidade no Teams com uma nova política de proteção de reuniões que permitirá aos administradores impedir automaticamente que bots externos detectados ingressem nas reuniões.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/microsoft-teams-introduces-new-controls-automatically-1vt8e)
@@ -38,6 +42,10 @@ Latest news are at top / Notícias mais recentes no topo
 <br> **2026.08.22 [SEC] Notícias de 14 a 20 de agosto**
 <br> Principais destaques em cibersegurança.
 <br> Publicado [aqui](https://pt.linkedin.com/comm/pulse/principais-not%C3%ADcias-de-ciberseguran%C3%A7a-da-semana-14-20-agosto-iaz0f)
+
+<br> **2026.08.21 [DEV] AWS Chaves expostas**
+<br> Mais de 9.300 chaves AWS expostas entre agosto de 2022 e agosto de 2026 continuam válidas. Pesquisadores verificaram que a maioria nunca foi rotacionada. 
+<br> Publicado [aqui](https://www.bleepingcomputer.com/news/security/hundreds-of-leaked-aws-keys-give-full-control-over-corporate-accounts/)
 
 <br> **2026.08.21 [SEC] Microsoft Entra ID**
 <br> A empresa revelou uma vulnerabilidade de segurança a qual foi explorada em ataques reais antes que a correção fosse concluída no lado da nuvem, levantando questões significativas sobre a exposição de uma das plataformas de identidade mais importantes utilizadas por empresas, governos e organizações do setor público em todo o mundo.
