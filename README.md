@@ -7,6 +7,10 @@ Latest news are at top / Notícias mais recentes no topo
 **[CISO Advisor (Chief Information Security Officer)](https://www.cisoadvisor.com.br)**
 <br> **[Cyber Security Brazil](https://www.cybersecbrazil.com.br)**
 
+<br> **2026.08.25 [DEV] 35 Anos de Linux**
+<br> Em 25 de agosto de 1991, Linus Torvalds publicou uma mensagem no grupo de discussão comp.os.minix solicitando opiniões sobre um sistema operacional gratuito que vinha desenvolvendo desde abril. Criado para computadores pessoais Intel 386 e 486, o projeto foi apresentado com a descrição famosa por sua modéstia: “apenas um hobby”.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/linux-turns-35-how-students-hobby-became-foundation-bpgwe)
+
 <br> **2026.08.25 [SEC] Vulnerabilidades da Oracle**
 <br> A vulnerabilidade afeta o HTTP Server e o WebLogic Server Proxy Plug-in que está sendo explorada ativamente. A solução deve ser disponibilizada até dia 27.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/actively-exploited-oracle-weblogic-vulnerability-tekse)
