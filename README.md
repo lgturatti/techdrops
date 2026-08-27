@@ -7,6 +7,10 @@ Latest news are at top / Notícias mais recentes no topo
 **[CISO Advisor (Chief Information Security Officer)](https://www.cisoadvisor.com.br)**
 <br> **[Cyber Security Brazil](https://www.cybersecbrazil.com.br)**
 
+<br> **2026,08,26 [SEC] Microsoft SharePoint**
+<br> Os servidores Microsoft SharePoint expostos à internet estão sofrendo varreduras em busca de uma cadeia de vulnerabilidades recém-documentada, capaz de burlar a autenticação e permitir a execução remota de código. Sistemas estão mais vulneráveis se não instalaram as atualizações de segurança de julho e agosto de 2026.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/warning-critical-microsoft-sharepoint-exploit-chain-xioje)
+
 <br> **2026.08.26 [SEC] Melhorias no WhatsApp**
 <br> WhatsApp reforça a segurança da conta com verificação em duas etapas baseada em senha, múltiplas chaves e novos alertas sobre chamadas de golpe.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/whatsapp-strengthens-account-security-password-based-vncne)
