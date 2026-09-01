@@ -7,6 +7,10 @@ Latest news are at top / Notícias mais recentes no topo
 **[CISO Advisor (Chief Information Security Officer)](https://www.cisoadvisor.com.br)**
 <br> **[Cyber Security Brazil](https://www.cybersecbrazil.com.br)**
 
+<br> **2026.08.31 [SEC] Malware focado em Claude AI**
+<br> A Anthropic está alertando os usuários que malwares comuns estão focados em sequestrar sessões autenticadas de IA, permitindo que invasores assumam o controle de contas, consumam as cotas de uso das vítimas e, potencialmente, gerem cobranças não autorizadas sem necessariamente precisar de suas senhas ou códigos de autenticação de dois fatores.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/warning-new-malware-campaign-targets-claude-ai-kpyhe)
+
 <br> **2026.08.31 [DEV] Redata: a piada**
 <br> A proposta estabelece um Regime Especial de Tributação para Serviços de Datacenter (Redata), que oferece incentivos fiscais para empresas que instalem ou ampliem datacenters no Brasil. O objetivo é fomentar o setor de tecnologia da informação, promovendo o uso de energia limpa e investimentos em pesquisa e inovação. 
 <br> Publicado [aqui](https://www.mobiletime.com.br/noticias/31/08/2026/civil-empresa-gov-redata)
