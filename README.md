@@ -7,6 +7,10 @@ Latest news are at top / Notícias mais recentes no topo
 **[CISO Advisor (Chief Information Security Officer)](https://www.cisoadvisor.com.br)**
 <br> **[Cyber Security Brazil](https://www.cybersecbrazil.com.br)**
 
+<br> **2026.08.31 [DEV] Redata: a piada**
+<br> A proposta estabelece um Regime Especial de Tributação para Serviços de Datacenter (Redata), que oferece incentivos fiscais para empresas que instalem ou ampliem datacenters no Brasil. O objetivo é fomentar o setor de tecnologia da informação, promovendo o uso de energia limpa e investimentos em pesquisa e inovação. 
+<br> Publicado [aqui](https://www.mobiletime.com.br/noticias/31/08/2026/civil-empresa-gov-redata)
+
 <br> **2026.08.27 [SEC] NVidia sob ataque**
 <br> Um ataque de hardware recém-revelado, chamado GPUThor, pode sobrecarregar as proteções de código de correção de erros em diversos processadores gráficos profissionais da NVIDIA, permitindo que um programa sem privilégios trave a GPU, corrompa dados silenciosamente e, sob condições demonstradas, obtenha controle em nível de root do sistema host.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/new-attack-bypasses-ecc-protection-nvidia-workstation-xgaae)
