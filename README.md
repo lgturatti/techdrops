@@ -7,6 +7,10 @@ Latest news are at top / Notícias mais recentes no topo
 **[CISO Advisor (Chief Information Security Officer)](https://www.cisoadvisor.com.br)**
 <br> **[Cyber Security Brazil](https://www.cybersecbrazil.com.br)**
 
+<br> **2026.09.06 [SEC] Notícias de 27 de agosto a 03 de setembro**
+<br> Principais destaques em cibersegurança.
+<br> Publicado [aqui](https://pt.linkedin.com/comm/pulse/principais-not%C3%ADcias-de-ciberseguran%C3%A7a-da-semana-27-agosto-dooxf)
+
 <br> **2026.09.06 [SEC] OASIS AI**
 <br> Uma forma de automatizar a correção de vulnerabilidades em software de código aberto. A Open Automated Security Initiative for Software, ou OWASP OASIS, utilizará inteligência artificial para examinar repositórios de código aberto e gerar patches candidatos. Essas correções propostas serão então revisadas por profissionais de segurança de aplicações antes de serem submetidas aos projetos afetados para avaliação.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/owasp-launches-oasis-ai-automate-fixes-open-source-4o6ce)
