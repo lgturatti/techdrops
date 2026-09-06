@@ -7,6 +7,23 @@ Latest news are at top / Notícias mais recentes no topo
 **[CISO Advisor (Chief Information Security Officer)](https://www.cisoadvisor.com.br)**
 <br> **[Cyber Security Brazil](https://www.cybersecbrazil.com.br)**
 
+<br> **2026.09.06 [SEC] OASIS AI**
+<br> Uma forma de automatizar a correção de vulnerabilidades em software de código aberto. A Open Automated Security Initiative for Software, ou OWASP OASIS, utilizará inteligência artificial para examinar repositórios de código aberto e gerar patches candidatos. Essas correções propostas serão então revisadas por profissionais de segurança de aplicações antes de serem submetidas aos projetos afetados para avaliação.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/owasp-launches-oasis-ai-automate-fixes-open-source-4o6ce)
+
+<br> **2026.09.05 [SEC] Anthropic News**
+<br> A empresa lançou o Claude Fable 5.1 e o Mythos 5.1 (versão restrita) para programação avançada, segurança cibernética e pesquisa científica.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/anthropic-launches-claude-fable-51-restricted-mythos-ndj9e)
+
+<br> **2026.09.04 [SEC] Correções no Chrome**
+<br> O Google corrigiu a vulnerabilidade zero-day como parte de uma atualização de segurança mais ampla do Chrome 152, que contém 12 correções. As versões corrigidas para desktop são Chrome 152.0.7977.82 e 152.0.7977.83 para Windows e macOS, e 152.0.7977.82 para Linux. A empresa está distribuindo a atualização gradualmente, mas usuários e organizações não devem esperar pelo ciclo normal de atualização automática do navegador. O Chrome pode ser verificado manualmente abrindo o menu do navegador e selecionando Ajuda > Sobre o Google Chrome ou acessando chrome://settings/help. O navegador deve ser reiniciado após a instalação para que as correções de segurança entrem em vigor.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/google-patches-sixth-chrome-zero-day-2026-v8-flaw-kd4ke)
+
+<br> **2026.09.04 [SEC] Retrospectiva de Agosto**
+<br> Os ataques de agosto mostraram a rapidez com que atividades comerciais confiáveis ​​podem se transformar em riscos. Nos EUA e na Europa, invasores abusaram de sessões do Microsoft 365, ferramentas legítimas de gerenciamento remoto, arquivos com temática empresarial e até mesmo processos de recrutamento para acessar sistemas corporativos.
+<br> O resultado foi uma combinação de apropriação de contas, controle persistente por invasores, exposição de credenciais e riscos internos que, muitas vezes, pareciam legítimos à primeira vista.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/major-cyber-attacks-august-2026-us-eu-businesses-5fgme)
+
 <br> **2026.08.31 [SEC] Malware focado em Claude AI**
 <br> A Anthropic está alertando os usuários que malwares comuns estão focados em sequestrar sessões autenticadas de IA, permitindo que invasores assumam o controle de contas, consumam as cotas de uso das vítimas e, potencialmente, gerem cobranças não autorizadas sem necessariamente precisar de suas senhas ou códigos de autenticação de dois fatores.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/warning-new-malware-campaign-targets-claude-ai-kpyhe)
