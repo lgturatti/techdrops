@@ -28,6 +28,14 @@ Latest news are at top / Notícias mais recentes no topo
 <br> O resultado foi uma combinação de apropriação de contas, controle persistente por invasores, exposição de credenciais e riscos internos que, muitas vezes, pareciam legítimos à primeira vista.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/major-cyber-attacks-august-2026-us-eu-businesses-5fgme)
 
+<br> **2026.09.02 [SEC] Wordpress WP Migration**
+<br> Uma falha crítica no All-in-One WP Migration, plugin do WordPress com mais de 5 milhões de instalações ativas, permite controle total de sites. A vulnerabilidade é uma falha de SQL injection causada pelo tratamento incorreto de barras invertidas e aspas durante a restauração de arquivos.
+<br> Publicado [aqui](https://www.bleepingcomputer.com/news/security/wordpress-backup-plugin-flaw-exposes-millions-of-sites-to-takeover-attacks/)
+
+<br> **2026.09.02 [SEC] CERN: Linux update**
+<br> Equipamentos do maior acelerador de partículas do mundo, migrará mais de 2.200 computadores industriais de CentOS para Debian. Após a exigência de hardware mais moderno para atualizações do CentOS, as máquinas que são utilizadas principalmente na infraestrutura de controle dos aceleradores receberão Debian Linux para continuar as atividades que já realizam por mais de uma década.
+<br> Publicado [aqui](https://www.phoronix.com/news/CERN-Goes-Debian-Leaving-RHEL)
+
 <br> **2026.08.31 [SEC] Malware focado em Claude AI**
 <br> A Anthropic está alertando os usuários que malwares comuns estão focados em sequestrar sessões autenticadas de IA, permitindo que invasores assumam o controle de contas, consumam as cotas de uso das vítimas e, potencialmente, gerem cobranças não autorizadas sem necessariamente precisar de suas senhas ou códigos de autenticação de dois fatores.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/warning-new-malware-campaign-targets-claude-ai-kpyhe)
@@ -35,6 +43,14 @@ Latest news are at top / Notícias mais recentes no topo
 <br> **2026.08.31 [DEV] Redata: a piada**
 <br> A proposta estabelece um Regime Especial de Tributação para Serviços de Datacenter (Redata), que oferece incentivos fiscais para empresas que instalem ou ampliem datacenters no Brasil. O objetivo é fomentar o setor de tecnologia da informação, promovendo o uso de energia limpa e investimentos em pesquisa e inovação. 
 <br> Publicado [aqui](https://www.mobiletime.com.br/noticias/31/08/2026/civil-empresa-gov-redata)
+
+<br> **2026.08.29 [SEC] Infra dos EUA sob ataque**
+<br> A Agência de Segurança Nacional dos EUA (NSA), o FBI e a Força Nacional de Missão Cibernética emitiram um alerta conjunto sobre um grupo de hackers ligado à China, acusado de construir uma infraestrutura de ciberataque em escala industrial capaz de escanear, explorar e ocultar intrusões contra agências governamentais, empresas contratadas pela área de defesa e operadores de infraestrutura crítica.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/nsa-fbi-warn-chinese-hackers-actively-targeting-cm8ye)
+
+<br> **2026.08.29 [SEC] Notícias de 21 a 26 de agosto**
+<br> Principais destaques em cibersegurança.
+<br> Publicado [aqui](https://pt.linkedin.com/comm/pulse/principais-not%C3%ADcias-de-ciberseguran%C3%A7a-da-semana-21-26-agosto-hrn9f)
 
 <br> **2026.08.27 [SEC] NVidia sob ataque**
 <br> Um ataque de hardware recém-revelado, chamado GPUThor, pode sobrecarregar as proteções de código de correção de erros em diversos processadores gráficos profissionais da NVIDIA, permitindo que um programa sem privilégios trave a GPU, corrompa dados silenciosamente e, sob condições demonstradas, obtenha controle em nível de root do sistema host.
