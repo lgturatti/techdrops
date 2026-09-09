@@ -7,6 +7,10 @@ Latest news are at top / Notícias mais recentes no topo
 **[CISO Advisor (Chief Information Security Officer)](https://www.cisoadvisor.com.br)**
 <br> **[Cyber Security Brazil](https://www.cybersecbrazil.com.br)**
 
+<br> **2026.09.08 [SEC] Atualizações SAP**
+<br> A empresa incentiva os clientes a aplicarem as atualizações disponíveis de acordo com a prioridade. O boletim público da empresa não identifica nenhuma das vulnerabilidades de setembro como sendo ativamente exploradas, mas a combinação de caminhos de ataque não autenticados, exposição de credenciais e componentes de infraestrutura afetados torna importante a rápida correção.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/sap-september-2026-security-update-includes-fixes-gteee)
+
 <br> **2026.09.07 [SEC] MikroTik Vulnerável**
 <br> Um alerta da equipe nacional de resposta a emergências cibernéticas da Polônia informa que atacantes estão explorando ativamente vulnerabilidades críticas no MikroTik RouterOS para obter controle administrativo de roteadores com secure shell (SSH) acessível via Internet.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/warning-critical-mikrotik-routeros-vulnerability-koade)
