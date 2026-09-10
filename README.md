@@ -7,6 +7,14 @@ Latest news are at top / Notícias mais recentes no topo
 **[CISO Advisor (Chief Information Security Officer)](https://www.cisoadvisor.com.br)**
 <br> **[Cyber Security Brazil](https://www.cybersecbrazil.com.br)**
 
+<br> **2026.09.09 [AI] EUA acusa China**
+<br> Agências de segurança apontam que empresas sediadas na China estão realizando campanhas coordenadas de extração de dados dos modelos norte americanos. DeepSeek, Moonshot, Alibaba, MiniMax, StepFun e Z.AI estariam copiando dados dos modelos desenvolvidos pela Anthropic, OpenAI, Google e xAI.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/us-agencies-accuse-chinese-ai-companies-industrial-scale-hwcze)
+
+<br> **2026.09.09 [SEC] Vulnerabilidade FortiGate**
+<br> Atacantes estão explorando a implantação de uma estrutura pós-exploração, conhecida como PivotC2, uma estrutura personalizada de comando e controle. Assim, os invasores podem monitorar o tráfego, coletar credenciais, estabelecer persistência e mover-se para ambientes internos sem disparar notificações em produtos de segurança.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/hackers-exploit-fortigate-vulnerability-deploy-nvxqe)
+
 <br> **2026.09.08 [SEC] Atualizações Microsoft**
 <br> Nesta atualização foram corrigidos mais de 900 vulnerabilidades no Windows e em outros produtos, incluindo duas falhas de escalonamento de privilégios que já estavam sendo exploradas por invasores antes mesmo da disponibilização das correções (falhas de dia zero).
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/microsoft-issues-record-september-patch-tuesday-mwnse)
