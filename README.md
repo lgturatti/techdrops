@@ -7,6 +7,18 @@ Latest news are at top / Notícias mais recentes no topo
 **[CISO Advisor (Chief Information Security Officer)](https://www.cisoadvisor.com.br)**
 <br> **[Cyber Security Brazil](https://www.cybersecbrazil.com.br)**
 
+<br> **2026.09.12 [AI] Ataque autônomo**
+<br> A Anthropic alerta que a IA está passando de assistente cibernética para orquestradora autônoma de ataques. Os agentes maliciosos estão indo além do uso da inteligência artificial generativa como fonte de aconselhamento técnico e a estão implantando cada vez mais como uma camada operacional capaz de coordenar ataques cibernéticos, processar dados roubados, manter infraestrutura e adaptar malware com intervenção humana limitada.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/anthropic-warns-ai-shifting-from-cyber-assistant-asdwe
+
+<br> **2026.09.12 [SEC] Notícias de 04 a 10 de setembro**
+<br> Principais destaques em cibersegurança.
+<br> Publicado [aqui](https://pt.linkedin.com/comm/pulse/principais-not%C3%ADcias-de-ciberseguran%C3%A7a-da-semana-04-10-setembro-z7khf)
+
+<br> **2026.09.12 [SEC] GitLab Update**
+<br> O GitLab recomenda atualização imediata para corrigir uma falha que permite a um invasor não autenticado ler arquivos arbitrários armazenados no servidor subjacente. A correção está disponível nas versões 19.1.8, 19.2.6 e 19.3.2.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/gitlab-issues-emergency-security-update-maximum-severity-rtw4e)
+
 <br> **2026.09.09 [AI] EUA acusa China**
 <br> Agências de segurança apontam que empresas sediadas na China estão realizando campanhas coordenadas de extração de dados dos modelos norte americanos. DeepSeek, Moonshot, Alibaba, MiniMax, StepFun e Z.AI estariam copiando dados dos modelos desenvolvidos pela Anthropic, OpenAI, Google e xAI.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/us-agencies-accuse-chinese-ai-companies-industrial-scale-hwcze)
