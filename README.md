@@ -7,6 +7,10 @@ Latest news are at top / Notícias mais recentes no topo
 **[CISO Advisor (Chief Information Security Officer)](https://www.cisoadvisor.com.br)**
 <br> **[Cyber Security Brazil](https://www.cybersecbrazil.com.br)**
 
+<br> **2026.09.13 [SEC] Risco interno**
+<br> De acordo com as diretrizes abrangentes da Agência de Segurança Cibernética e de Infraestrutura dos EUA (CISA), as organizações devem combinar monitoramento de segurança cibernética, segurança física, recursos humanos, supervisão jurídica e suporte à força de trabalho para detectar e gerenciar ameaças internas antes que elas se transformem em roubo de dados, sabotagem, fraude ou violência. Link para download do guia na publicação. 
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/cisa-guidance-urges-organizations-treat-insider-antge)
+
 <br> **2026.09.12 [AI] Ataque autônomo**
 <br> A Anthropic alerta que a IA está passando de assistente cibernética para orquestradora autônoma de ataques. Os agentes maliciosos estão indo além do uso da inteligência artificial generativa como fonte de aconselhamento técnico e a estão implantando cada vez mais como uma camada operacional capaz de coordenar ataques cibernéticos, processar dados roubados, manter infraestrutura e adaptar malware com intervenção humana limitada.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/anthropic-warns-ai-shifting-from-cyber-assistant-asdwe
