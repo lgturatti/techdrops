@@ -7,6 +7,14 @@ Latest news are at top / Notícias mais recentes no topo
 **[CISO Advisor (Chief Information Security Officer)](https://www.cisoadvisor.com.br)**
 <br> **[Cyber Security Brazil](https://www.cybersecbrazil.com.br)**
 
+<br> **2026.09.15 [SEC] Patch do patch**
+<br> A atualização de setembro do Windows 11 quebrou acesso remoto, dispositivos de áudio USB e função de colar no Excel. No Remote Desktop Services, as conexões podem falhar após alguns minutos; dispositivos de áudio USB 1.0 podem ficar sem som e com as configurações comprometidas; no Excel, ao tentar colar conteúdo, a ação não é completada e os usuários não recebem nenhuma indicação de falha ou mensagem de erro. A atualização afetada é a KB5002914, e a empresa já começou a disponibilizar a KB5129194 como correção.
+<br> Publicado [aqui](https://tecnoblog.net/noticias/windows-11-ganha-patch-do-patch-apos-atualizacao-problematica/)
+
+<br> **2026.09.15 [DEV] Oracle Java 27**
+<br> A empresa lançou o Java 27 com foco em criptografia pós-quântica. A atualização introduz suporte a algoritmos híbridos de troca de chaves no protocolo TLS 1.3, que protege conexões HTTPS. A abordagem combina métodos convencionais com alternativas resistentes à computação quântica, dificultando ataques nos quais dados são coletados hoje para serem descriptografados no futuro, quando essa tecnologia estiver disponível.
+<br> Download disponível [aqui](https://www.oracle.com/br/java/technologies/downloads/)
+
 <br> **2026.09.13 [SEC] Risco interno**
 <br> De acordo com as diretrizes abrangentes da Agência de Segurança Cibernética e de Infraestrutura dos EUA (CISA), as organizações devem combinar monitoramento de segurança cibernética, segurança física, recursos humanos, supervisão jurídica e suporte à força de trabalho para detectar e gerenciar ameaças internas antes que elas se transformem em roubo de dados, sabotagem, fraude ou violência. Link para download do guia na publicação. 
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/cisa-guidance-urges-organizations-treat-insider-antge)
