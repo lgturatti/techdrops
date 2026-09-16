@@ -7,6 +7,10 @@ Latest news are at top / Notícias mais recentes no topo
 **[CISO Advisor (Chief Information Security Officer)](https://www.cisoadvisor.com.br)**
 <br> **[Cyber Security Brazil](https://www.cybersecbrazil.com.br)**
 
+<br> **2026.09.16 [SEC] Atualizações Apple**
+<br> Aproximadamente 200 vulnerabilidades corrigidas em todos os produtos, desde o macOS 15.8 até a versão 27. A atualização contempla componentes essenciais, incluindo o kernel do sistema operacional, WebKit, Bluetooth, CoreMedia, Apple Neural Engine, serviços de autenticação, drivers do sistema de arquivos, Gatekeeper, Keychain, Mail, protocolos de rede e diversos controles de privacidade.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/apple-fixes-record-200-security-flaws-ios-27-macos-jod3e)
+
 <br> **2026.09.15 [SEC] Patch do patch**
 <br> A atualização de setembro do Windows 11 quebrou acesso remoto, dispositivos de áudio USB e função de colar no Excel. No Remote Desktop Services, as conexões podem falhar após alguns minutos; dispositivos de áudio USB 1.0 podem ficar sem som e com as configurações comprometidas; no Excel, ao tentar colar conteúdo, a ação não é completada e os usuários não recebem nenhuma indicação de falha ou mensagem de erro. A atualização afetada é a KB5002914, e a empresa já começou a disponibilizar a KB5129194 como correção.
 <br> Publicado [aqui](https://tecnoblog.net/noticias/windows-11-ganha-patch-do-patch-apos-atualizacao-problematica/)
