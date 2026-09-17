@@ -7,6 +7,10 @@ Latest news are at top / Notícias mais recentes no topo
 **[CISO Advisor (Chief Information Security Officer)](https://www.cisoadvisor.com.br)**
 <br> **[Cyber Security Brazil](https://www.cybersecbrazil.com.br)**
 
+<br> **2026.09.17 [SEC] Falha no Telegram**
+<br> Uma vulnerabilidade de alta gravidade na versão desktop foi percebida, onde invasores poderiam inserir código JavaScript oculto em mensagens de conversa aparentemente legítimas. O ataque de execução retardada seria capaz de roubar conversas quando o usuário exportasse o chat afetado e o abrisse como um arquivo HTML.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/critical-telegram-desktop-flaw-allows-hidden-javascript-apvze)
+
 <br> **2026.09.16 [SEC] Atualizações Apple**
 <br> Aproximadamente 200 vulnerabilidades corrigidas em todos os produtos, desde o macOS 15.8 até a versão 27. A atualização contempla componentes essenciais, incluindo o kernel do sistema operacional, WebKit, Bluetooth, CoreMedia, Apple Neural Engine, serviços de autenticação, drivers do sistema de arquivos, Gatekeeper, Keychain, Mail, protocolos de rede e diversos controles de privacidade.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/apple-fixes-record-200-security-flaws-ios-27-macos-jod3e)
