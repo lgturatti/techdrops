@@ -7,6 +7,14 @@ Latest news are at top / Notícias mais recentes no topo
 **[CISO Advisor (Chief Information Security Officer)](https://www.cisoadvisor.com.br)**
 <br> **[Cyber Security Brazil](https://www.cybersecbrazil.com.br)**
 
+<br> **2026.09.18 [AI] Problemas com OpenClaw**
+<br> O OpenClaw, um agente de IA autônomo de código aberto, ultrapassou 135.000 estrelas no GitHub poucas semanas após o lançamento. Ele executa comandos de shell, gerencia arquivos e acessa o Slack corporativo, calendários e passa pela mesma tela de consentimento OAuth que os funcionários clicam para tudo. Então, pesquisadores descobriram que sua interface de controle podia ser sequestrada por uma única página da web maliciosa, mesmo quando vinculada ao localhost. Seu próprio marketplace de habilidades continha 12% de conteúdo malicioso. Uma violação relacionada vazou 1,5 milhão de tokens de agentes de um serviço de hospedagem que executava esses agentes em larga escala. Isso não é um caso isolado. Novas pesquisas mostram que esse é o padrão em todo o mercado de ferramentas de agentes, e não a exceção.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/open-source-ai-agent-hit-135000-github-stars-weeks-imkte)
+
+<br> **2026.09.17 [AI] OpenAI Framework Track**
+<br> A empresa crio uma estrutura formal para investigar e divulgar publicamente casos em que seus sistemas de inteligência artificial se comportam de maneira inesperada, agem sem autorização, burlam a supervisão ou perseguem objetivos de forma conflitante com suas instruções.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/openai-reveals-disturbing-ai-behavior-introduces-jdkue)
+
 <br> **2026.09.17 [SEC] Falha no Telegram**
 <br> Uma vulnerabilidade de alta gravidade na versão desktop foi percebida, onde invasores poderiam inserir código JavaScript oculto em mensagens de conversa aparentemente legítimas. O ataque de execução retardada seria capaz de roubar conversas quando o usuário exportasse o chat afetado e o abrisse como um arquivo HTML.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/critical-telegram-desktop-flaw-allows-hidden-javascript-apvze)
