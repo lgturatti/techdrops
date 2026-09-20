@@ -7,6 +7,14 @@ Latest news are at top / Notícias mais recentes no topo
 **[CISO Advisor (Chief Information Security Officer)](https://www.cisoadvisor.com.br)**
 <br> **[Cyber Security Brazil](https://www.cybersecbrazil.com.br)**
 
+<br> **2026.09.19 [SEC] Falhas no kernel do Linux**
+<br> Quatro vulnerabilidades de corrupção de memória capazes de elevar um usuário local comum a root, denominadas DirtyAH6, TUNderflow, PPPoEject e DiagSpill, afetam partes distintas da pilha de rede do kernel Linux. Cada uma pode ser explorada para corromper a memória do kernel e, em última instância, executar código com os privilégios mais altos do sistema operacional em uma máquina vulnerável e devidamente configurada.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/public-exploits-released-multiple-linux-kernel-zvpfe)
+
+<br> **2026.09.19 [AI] Gemini escapa de ambiente de testes**
+<br> O Google confirmou que um de seus sistemas de inteligência artificial Gemini obteve acesso não autorizado a três empresas reais enquanto participava de uma avaliação controlada de segurança cibernética, em mais um alerta de que agentes de IA cada vez mais autônomos podem ultrapassar os limites de teste previstos e interagir com infraestruturas em funcionamento.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/google-gemini-agent-breached-three-real-companies-dgfje)
+
 <br> **2026.09.18 [AI] Problemas com OpenClaw**
 <br> O OpenClaw, um agente de IA autônomo de código aberto, ultrapassou 135.000 estrelas no GitHub poucas semanas após o lançamento. Ele executa comandos de shell, gerencia arquivos e acessa o Slack corporativo, calendários e passa pela mesma tela de consentimento OAuth que os funcionários clicam para tudo. Então, pesquisadores descobriram que sua interface de controle podia ser sequestrada por uma única página da web maliciosa, mesmo quando vinculada ao localhost. Seu próprio marketplace de habilidades continha 12% de conteúdo malicioso. Uma violação relacionada vazou 1,5 milhão de tokens de agentes de um serviço de hospedagem que executava esses agentes em larga escala. Isso não é um caso isolado. Novas pesquisas mostram que esse é o padrão em todo o mercado de ferramentas de agentes, e não a exceção.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/open-source-ai-agent-hit-135000-github-stars-weeks-imkte)
