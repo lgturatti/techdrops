@@ -7,6 +7,10 @@ Latest news are at top / Notícias mais recentes no topo
 **[CISO Advisor (Chief Information Security Officer)](https://www.cisoadvisor.com.br)**
 <br> **[Cyber Security Brazil](https://www.cybersecbrazil.com.br)**
 
+<br> **2026.09.21 [SEC] ENISA: Plataforma Única de Incidentes Cibernéticos da UE**
+<br> Desde o dia 11, os fabricantes devem notificar vulnerabilidades que afetam "produtos com elementos digitais" através de uma nova Plataforma Única de Notificação gerida pela Agência da União Europeia para a Cibersegurança (ENISA) integrada com a Equipe Nacional de Resposta a Incidentes de Segurança Informática (CSIRT). O objetivo é simplificar o processo de notificação, proporcionando às autoridades europeias uma visibilidade mais rápida das falhas e possíveis ataques que possam afetar produtos implementados em vários países da UE.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/eu-cyber-resilience-act-reporting-rules-go-live-2zrie)
+
 <br> **2026.09.19 [SEC] Falhas no kernel do Linux**
 <br> Quatro vulnerabilidades de corrupção de memória capazes de elevar um usuário local comum a root, denominadas DirtyAH6, TUNderflow, PPPoEject e DiagSpill, afetam partes distintas da pilha de rede do kernel Linux. Cada uma pode ser explorada para corromper a memória do kernel e, em última instância, executar código com os privilégios mais altos do sistema operacional em uma máquina vulnerável e devidamente configurada.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/public-exploits-released-multiple-linux-kernel-zvpfe)
