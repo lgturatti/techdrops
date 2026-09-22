@@ -7,6 +7,10 @@ Latest news are at top / Notícias mais recentes no topo
 **[CISO Advisor (Chief Information Security Officer)](https://www.cisoadvisor.com.br)**
 <br> **[Cyber Security Brazil](https://www.cybersecbrazil.com.br)**
 
+<br> **2026.09.22 [SEC] MS Defender**
+<br> A técnica BigDiskBuster tem como alvo o processo que o Microsoft Defender Antivirus usa para preparar e instalar atualizações. Se implementada com sucesso pode impedir silenciosamente que a plataforma se atualize.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/new-microsoft-defender-zero-day-blocks-antivirus-me6ne)
+
 <br> **2026.09.22 [AI] Falha de dia zero**
 <br> Uma falha no assistente Muse para macOS permite tomar controle total do dispositivo. O pesquisador Patrick Wardle descreveu a vulnerabilidade "not-a-mused", que permite redirecionar os comandos de voz do usuário para um servidor controlado pelo invasor, que pode capturar o áudio, injetar instruções maliciosas e obter o token de autenticação da conta Muse, enviado junto com o tráfego de ditado.
 <br> Publicado [aqui](.https://www.theverge.com/tech/998679/meta-muse-patch-zero-day-exploit-ai-agent)
