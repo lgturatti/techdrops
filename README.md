@@ -31,6 +31,10 @@ Latest news are at top / Notícias mais recentes no topo
 <br> O OpenClaw, um agente de IA autônomo de código aberto, ultrapassou 135.000 estrelas no GitHub poucas semanas após o lançamento. Ele executa comandos de shell, gerencia arquivos e acessa o Slack corporativo, calendários e passa pela mesma tela de consentimento OAuth que os funcionários clicam para tudo. Então, pesquisadores descobriram que sua interface de controle podia ser sequestrada por uma única página da web maliciosa, mesmo quando vinculada ao localhost. Seu próprio marketplace de habilidades continha 12% de conteúdo malicioso. Uma violação relacionada vazou 1,5 milhão de tokens de agentes de um serviço de hospedagem que executava esses agentes em larga escala. Isso não é um caso isolado. Novas pesquisas mostram que esse é o padrão em todo o mercado de ferramentas de agentes, e não a exceção.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/open-source-ai-agent-hit-135000-github-stars-weeks-imkte)
 
+<br> **2026.09.17 [DEV] JAVA firme e forte**
+<br> Indices de popularidade medem a atenção, enquanto não se mede onde o software realmente é executado. O Java domina os back-ends corporativos por meio do Spring. Bancos e fintechs utilizam Java. A infraestrutura de big data é amplamente baseada na JVM: Kafka, Elasticsearch e Spark são executados na Máquina Virtual Java. O desenvolvimento para Android também se baseia no ecossistema Java, já que o Kotlin interopera com Java. Por isso os salários de quem atua com esta linguagem permanecem elevados.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/java-fell-4th-place-developers-still-run-fortune-500-w3schools-com-avwse)
+
 <br> **2026.09.17 [AI] OpenAI Framework Track**
 <br> A empresa crio uma estrutura formal para investigar e divulgar publicamente casos em que seus sistemas de inteligência artificial se comportam de maneira inesperada, agem sem autorização, burlam a supervisão ou perseguem objetivos de forma conflitante com suas instruções.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/openai-reveals-disturbing-ai-behavior-introduces-jdkue)
