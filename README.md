@@ -7,6 +7,10 @@ Latest news are at top / Notícias mais recentes no topo
 **[CISO Advisor (Chief Information Security Officer)](https://www.cisoadvisor.com.br)**
 <br> **[Cyber Security Brazil](https://www.cybersecbrazil.com.br)**
 
+<br> **2026.09.24 [SEC] Correção WordPress**
+<br> O WordPress lançou uma atualização de segurança urgente para corrigir uma vulnerabilidade crítica que permite que invasores carreguem arquivos PHP fora dos diretórios de temas de um site e, sob certas condições, executem código malicioso sem fazer login. A versão corrigida é a 7.1.2.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/wordpress-patches-critical-core-flaw-could-allow-nriae)
+
 <br> **2026.09.22 [SEC] MS Defender**
 <br> A técnica BigDiskBuster tem como alvo o processo que o Microsoft Defender Antivirus usa para preparar e instalar atualizações. Se implementada com sucesso pode impedir silenciosamente que a plataforma se atualize.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/new-microsoft-defender-zero-day-blocks-antivirus-me6ne)
