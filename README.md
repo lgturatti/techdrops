@@ -7,6 +7,11 @@ Latest news are at top / Notícias mais recentes no topo
 **[CISO Advisor (Chief Information Security Officer)](https://www.cisoadvisor.com.br)**
 <br> **[Cyber Security Brazil](https://www.cybersecbrazil.com.br)**
 
+<br> **2026.09.24 [DEV] Aprendizado com jogos**
+<br> A W3Schools lançou há algumas semanas, o aplicativo  para iOS e Android. Lições curtas, sequências de vitórias, XP, ligas semanais, um lince chamado Lynx, um alce que te dá aulas particulares e cinco linguagens para aprender: HTML, CSS, JavaScript, Python e Java. Agora, a mesma aventura funciona no seu [navegador](app.w3schools.com) em computador.
+<br> Publicado [aqui](
+https://www.linkedin.com/comm/pulse/adventure-now-runs-your-browser-same-streak-bigger-keyboard-809oe)
+
 <br> **2026.09.24 [SEC] Correção WordPress**
 <br> O WordPress lançou uma atualização de segurança urgente para corrigir uma vulnerabilidade crítica que permite que invasores carreguem arquivos PHP fora dos diretórios de temas de um site e, sob certas condições, executem código malicioso sem fazer login. A versão corrigida é a 7.1.2.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/wordpress-patches-critical-core-flaw-could-allow-nriae)
