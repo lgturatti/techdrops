@@ -7,6 +7,14 @@ Latest news are at top / Notícias mais recentes no topo
 **[CISO Advisor (Chief Information Security Officer)](https://www.cisoadvisor.com.br)**
 <br> **[Cyber Security Brazil](https://www.cybersecbrazil.com.br)**
 
+<br> **2026.09.26 [AI] Ataque da OpenAI**
+<br> A empresa está revisando as interações de seus agentes de IA com sites do governo dos EUA após divulgar o acesso a dados federais públicos, enquanto pesquisadores independentes relataram uma tentativa frustrada de invadir um site do Departamento de Educação.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/openai-models-access-us-government-data-attempt-oegte)
+
+<br> **2026.09.25 [SEC] Debian 13.7**
+<br> Esta versão incorpora atualizações relacionadas a 92 avisos de segurança e corrige problemas em 106 pacotes, de acordo com o anúncio oficial de lançamento do Debian. Esta versão de manutenção substancial aborda vulnerabilidades que abrangem kernels de sistemas operacionais, plataformas de virtualização, bibliotecas criptográficas, ambientes de execução de linguagens de programação, serviços de rede, ferramentas de processamento de imagens e infraestrutura de contêineres.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/debian-137-released-90-security-fixes-100-packages-1axqe)
+
 <br> **2026.09.24 [DEV] Aprendizado com jogos**
 <br> A W3Schools lançou há algumas semanas, o aplicativo  para iOS e Android. Lições curtas, sequências de vitórias, XP, ligas semanais, um lince chamado Lynx, um alce que te dá aulas particulares e cinco linguagens para aprender: HTML, CSS, JavaScript, Python e Java. Agora, a mesma aventura funciona no seu [navegador](app.w3schools.com) em computador.
 <br> Publicado [aqui](
