@@ -7,6 +7,10 @@ Latest news are at top / Notícias mais recentes no topo
 **[CISO Advisor (Chief Information Security Officer)](https://www.cisoadvisor.com.br)**
 <br> **[Cyber Security Brazil](https://www.cybersecbrazil.com.br)**
 
+<br> **2026.09.26 [SEC] Microsoft Teams**
+<br> A empresa está se preparando para expandir os controles de segurança do aplicativo permitindo que os administradores decidam quais extensões de arquivo devem ser bloqueadas em chats e canais. O novo recurso amplia o sistema de proteção impedindo o envio de arquivos com extensões comumente associadas a malware, scripts e conteúdo executável.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/microsoft-teams-give-administrators-greater-control-t9l0e)
+
 <br> **2026.09.26 [AI] Ataque da OpenAI**
 <br> A empresa está revisando as interações de seus agentes de IA com sites do governo dos EUA após divulgar o acesso a dados federais públicos, enquanto pesquisadores independentes relataram uma tentativa frustrada de invadir um site do Departamento de Educação.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/openai-models-access-us-government-data-attempt-oegte)
