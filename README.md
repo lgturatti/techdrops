@@ -56,6 +56,10 @@ https://www.linkedin.com/comm/pulse/adventure-now-runs-your-browser-same-streak-
 <br> Indices de popularidade medem a atenção, enquanto não se mede onde o software realmente é executado. O Java domina os back-ends corporativos por meio do Spring. Bancos e fintechs utilizam Java. A infraestrutura de big data é amplamente baseada na JVM: Kafka, Elasticsearch e Spark são executados na Máquina Virtual Java. O desenvolvimento para Android também se baseia no ecossistema Java, já que o Kotlin interopera com Java. Por isso os salários de quem atua com esta linguagem permanecem elevados.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/java-fell-4th-place-developers-still-run-fortune-500-w3schools-com-avwse)
 
+<br> **2026.09.17 [DEV] Limite de requisições no GitLab**
+<br> O GitLab vai alinhar os limites de requisições da API do GitLab[.]com ao tipo de assinatura a partir de 19 de outubro: contas Free e requisições não autenticadas serão afetadas primeiro nessa data, enquanto Premium e Ultimate terão as novas regras aplicadas em janeiro de 2027. Fazer login permitirá o uso do limite completo correspondente ao plano, enquanto requisições sem credenciais ficarão limitadas a 60 por hora por endereço IP. A plataforma atribui a mudança ao aumento rápido da demanda pelos serviços.
+<br> Publicado [aqui](https://about.gitlab.com/blog/rate-limit-change-2026/)
+
 <br> **2026.09.17 [AI] OpenAI Framework Track**
 <br> A empresa crio uma estrutura formal para investigar e divulgar publicamente casos em que seus sistemas de inteligência artificial se comportam de maneira inesperada, agem sem autorização, burlam a supervisão ou perseguem objetivos de forma conflitante com suas instruções.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/openai-reveals-disturbing-ai-behavior-introduces-jdkue)
@@ -75,6 +79,10 @@ https://www.linkedin.com/comm/pulse/adventure-now-runs-your-browser-same-streak-
 <br> **2026.09.15 [DEV] Oracle Java 27**
 <br> A empresa lançou o Java 27 com foco em criptografia pós-quântica. A atualização introduz suporte a algoritmos híbridos de troca de chaves no protocolo TLS 1.3, que protege conexões HTTPS. A abordagem combina métodos convencionais com alternativas resistentes à computação quântica, dificultando ataques nos quais dados são coletados hoje para serem descriptografados no futuro, quando essa tecnologia estiver disponível.
 <br> Download disponível [aqui](https://www.oracle.com/br/java/technologies/downloads/)
+
+<br> **2026.09.14 [AI] Fujitsu Monaka**
+<br> A empresa japonesa de tecnologia, lançará globalmente em novembro o processador MONAKA para data centers de IA. O chip alcança frequência máxima de 3,8 GHz, entregando o dobro do desempenho de outras CPUs em tarefas de inferência, além de reduzir pela metade o consumo de energia.
+<br> Publicado [aqui](https://inforchannel.com.br/2026/09/14/fujitsu-aposta-em-infraestrutura-de-ia-soberana-com-nova-cpu-monaka/) e [aqui](https://global.fujitsu/en-apac/local/technology/research/monaka)
 
 <br> **2026.09.13 [SEC] Risco interno**
 <br> De acordo com as diretrizes abrangentes da Agência de Segurança Cibernética e de Infraestrutura dos EUA (CISA), as organizações devem combinar monitoramento de segurança cibernética, segurança física, recursos humanos, supervisão jurídica e suporte à força de trabalho para detectar e gerenciar ameaças internas antes que elas se transformem em roubo de dados, sabotagem, fraude ou violência. Link para download do guia na publicação. 
