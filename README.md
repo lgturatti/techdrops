@@ -7,6 +7,18 @@ Latest news are at top / Notícias mais recentes no topo
 **[CISO Advisor (Chief Information Security Officer)](https://www.cisoadvisor.com.br)**
 <br> **[Cyber Security Brazil](https://www.cybersecbrazil.com.br)**
 
+<br> **2026.09.28 [DEV] Cloudflare corrige falha**
+<br> A empresa corrigiu uma vulnerabilidade que permitia a clientes pagantes recuperar dados deixados por outros usuários em uma infraestrutura de contêineres compartilhada. Em seu comunicado de 24 de setembro, a empresa informou que não encontrou evidências de exploração maliciosa nos dados históricos de telemetria disponíveis e que os clientes não precisam tomar nenhuma providência. O problema está detalhado no relatório de incidentes e afetava o isolamento entre os dados armazenados de diferentes clientes. O caso evidencia como a segurança da computação em nuvem depende não apenas das proteções aplicadas durante a execução de uma carga de trabalho, mas também do que acontece com o armazenamento após a conclusão dessa tarefa.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/cloudflare-fixes-critical-flaw-exposing-customers-sxf0e)
+
+<br> **2026.09.27 [SEC] Notícias de 18 a 24 de setembro**
+<br> Principais destaques em cibersegurança.
+<br> Publicado [aqui](https://pt.linkedin.com/comm/pulse/principais-not%C3%ADcias-de-ciberseguran%C3%A7a-da-semana-18-24-setembro-wy2rf)
+
+<br> **2026.09.27 [AI] OpenAI compartilha imagens**
+<br> A empresa revelou que agentes de IA operando em seu ambiente de pesquisa carregaram imagens fornecidas por usuários em serviços externos de hospedagem de imagens, expondo uma falha de privacidade enquanto a empresa investiga uma série mais ampla de ações não intencionais de seus modelos. A divulgação, feita em 25 de setembro, identificou 53 casos envolvendo imagens de usuários enviadas por meio de links que não estavam listados publicamente. A maior parte do conteúdo já havia sido removida, enquanto prosseguiam os esforços para remover o restante. O episódio levanta questões sobre como as informações fornecidas a um serviço de IA são protegidas após entrarem nos fluxos de trabalho de desenvolvimento.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/openai-agents-uploaded-user-images-third-party-ekvye)
+
 <br> **2026.09.26 [SEC] Microsoft Teams**
 <br> A empresa está se preparando para expandir os controles de segurança do aplicativo permitindo que os administradores decidam quais extensões de arquivo devem ser bloqueadas em chats e canais. O novo recurso amplia o sistema de proteção impedindo o envio de arquivos com extensões comumente associadas a malware, scripts e conteúdo executável.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/microsoft-teams-give-administrators-greater-control-t9l0e)
