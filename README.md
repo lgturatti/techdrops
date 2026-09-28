@@ -84,6 +84,10 @@ https://www.linkedin.com/comm/pulse/adventure-now-runs-your-browser-same-streak-
 <br> Aproximadamente 200 vulnerabilidades corrigidas em todos os produtos, desde o macOS 15.8 até a versão 27. A atualização contempla componentes essenciais, incluindo o kernel do sistema operacional, WebKit, Bluetooth, CoreMedia, Apple Neural Engine, serviços de autenticação, drivers do sistema de arquivos, Gatekeeper, Keychain, Mail, protocolos de rede e diversos controles de privacidade.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/apple-fixes-record-200-security-flaws-ios-27-macos-jod3e)
 
+<br> **2026.09.15 [DEV] Swift 6.4**
+<br> A versão 6.4 unifica o processo de build entre Windows, Linux e macOS. Agora o build é feito pelo motor de build padrão do Swift Package Manager, acelerando o processo de compilação. O sistema funciona tanto na IDE Xcode, da Apple, quanto pela linha de comando, e agora também permite realizar builds diretamente pelo VS Code. A versão também aprimora a interoperabilidade com C++, Java, JavaScript e WebAssembly.
+<br> Publicado [aqui](https://www.swift.org/blog/swift-6.4-released/)
+
 <br> **2026.09.15 [SEC] Patch do patch**
 <br> A atualização de setembro do Windows 11 quebrou acesso remoto, dispositivos de áudio USB e função de colar no Excel. No Remote Desktop Services, as conexões podem falhar após alguns minutos; dispositivos de áudio USB 1.0 podem ficar sem som e com as configurações comprometidas; no Excel, ao tentar colar conteúdo, a ação não é completada e os usuários não recebem nenhuma indicação de falha ou mensagem de erro. A atualização afetada é a KB5002914, e a empresa já começou a disponibilizar a KB5129194 como correção.
 <br> Publicado [aqui](https://tecnoblog.net/noticias/windows-11-ganha-patch-do-patch-apos-atualizacao-problematica/)
