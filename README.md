@@ -7,6 +7,10 @@ Latest news are at top / Notícias mais recentes no topo
 **[CISO Advisor (Chief Information Security Officer)](https://www.cisoadvisor.com.br)**
 <br> **[Cyber Security Brazil](https://www.cybersecbrazil.com.br)**
 
+<br> **2026.09.28 [SEC] Infraestrutura em risco**
+<br> Um comunicado em conjunto da Agência de Segurança Cibernética e de Infraestrutura (CISA) e do FBI alertam que o acesso excessivo concedido a integradores terceirizados de sistemas de controle industrial (ICS) pode criar oportunidades para que invasores alcancem ambientes operacionais sensíveis. Acesso demasiado pode subsidiar ataques disruptivos subsequentes e o acesso de terceiros exige limites claros. O comunicado surge após a detecção de problemas que estão sob investigação.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/cisa-fbi-warn-third-party-ics-access-can-put-critical-v8ele)
+
 <br> **2026.09.28 [DEV] Cloudflare corrige falha**
 <br> A empresa corrigiu uma vulnerabilidade que permitia a clientes pagantes recuperar dados deixados por outros usuários em uma infraestrutura de contêineres compartilhada. Em seu comunicado de 24 de setembro, a empresa informou que não encontrou evidências de exploração maliciosa nos dados históricos de telemetria disponíveis e que os clientes não precisam tomar nenhuma providência. O problema está detalhado no relatório de incidentes e afetava o isolamento entre os dados armazenados de diferentes clientes. O caso evidencia como a segurança da computação em nuvem depende não apenas das proteções aplicadas durante a execução de uma carga de trabalho, mas também do que acontece com o armazenamento após a conclusão dessa tarefa.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/cloudflare-fixes-critical-flaw-exposing-customers-sxf0e)
