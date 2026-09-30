@@ -17,6 +17,10 @@ https://www.linkedin.com/comm/pulse/pentagon-breach-exposes-data-3-million-milit
 <br> Publicado [aqui](
 https://www.linkedin.com/comm/pulse/apple-patches-coregraphics-zero-day-linked-sophisticated-qg85f)
 
+<br> **2026.09.28 [SEC] Supabase exposto**
+<br> Mais de 16 mil bancos de dados do Supabase são encontrados com informações pessoais, senhas, tokens de autenticação e dados de cartões de crédito expostos. Pesquisadores analisaram cerca de 300 mil domínios com sinais de uso da plataforma e atribuíram o problema a configurações inadequadas de segurança e ao uso indevido de chaves públicas. Embora o desenvolvimento assistido por IA seja usado na criação de mais de 60% dos novos bancos de dados no Supabase, a equipe ressalta que a varredura não prova que essa seja a causa das exposições. 
+<br> Publicado [aqui](https://www.bleepingcomputer.com/news/security/misconfigured-supabase-apps-expose-data-in-over-16-000-databases/)
+
 <br> **2026.09.28 [SEC] Infraestrutura em risco**
 <br> Um comunicado em conjunto da Agência de Segurança Cibernética e de Infraestrutura (CISA) e do FBI alertam que o acesso excessivo concedido a integradores terceirizados de sistemas de controle industrial (ICS) pode criar oportunidades para que invasores alcancem ambientes operacionais sensíveis. Acesso demasiado pode subsidiar ataques disruptivos subsequentes e o acesso de terceiros exige limites claros. O comunicado surge após a detecção de problemas que estão sob investigação.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/cisa-fbi-warn-third-party-ics-access-can-put-critical-v8ele)
