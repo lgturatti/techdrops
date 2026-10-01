@@ -7,6 +7,22 @@ Latest news are at top / Notícias mais recentes no topo
 **[CISO Advisor (Chief Information Security Officer)](https://www.cisoadvisor.com.br)**
 <br> **[Cyber Security Brazil](https://www.cybersecbrazil.com.br)**
 
+<br> **2026.10.01 [SEC] Mês da cibersegurança**
+<br> Na campanha deste ano, a mensagem é reforçada: proteja suas contas, identifique golpes e mantenha o software atualizado, incentivando hábitos consistentes que dificultam a ação de cibercriminosos. Suas principais recomendações abrangem o uso de senhas fortes e gerenciadores de senhas, autenticação multifator, identificação e denúncia de golpes.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/cybersecurity-awareness-month-2026-must-lead-action-rqxwe)
+
+<br> **2026.10.01 [SEC] Cloudflare anuncia Autoridade de Certificação pública para a web pós-quântica**
+<br> O anúncio da empresa informa sobre a aquisição de chave CA raiz estabelecido e publicamente confiável da GlobalSign e se inscreveu nos programas raiz Chrome, Apple, Microsoft e Mozilla. A emissão convencional seguirá o processo de aceitação relevante, enquanto a emissão de MTC de produção está prevista para o primeiro trimestre de 2027. O anúncio é um compromisso de construir e buscar aprovação para o serviço, em vez de uma confirmação de que a Cloudflare já está emitindo certificados publicamente confiáveis por meio de sua própria CA. A sua importância potencial vai além da adição de outro fornecedor de certificados: traz outro grande operador de infraestrutura para o esforço de modernizar a forma como os navegadores estabelecem confiança.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/cloudflare-announces-public-certificate-authority-kygee)
+
+<br> **2026.09.30 [SEC] Novo ataque Spectre**
+<br> Uma nova variante utiliza a técnica, chamada *Branch Target Reuse* (BTR), que tem como alvo a compilação *just-in-time* (JIT) utilizado por navegadores, ambientes de execução de linguagens e partes do kernel do Linux para converter código em instruções de máquina durante a execução do software. Com isso foi demonstrada a recuperação de um hash de senha de usuário root no Linux. A lição mais ampla de engenharia é que a memória executável possui um ciclo de vida de segurança. Alocar, substituir e liberar código pode alterar o significado de um endereço sem necessariamente apagar o que o processador aprendeu a respeito dele. O BTR demonstra por que ambientes de execução JIT e sistemas operacionais precisam levar esse histórico em consideração ao impor o isolamento.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/new-spectre-btr-attack-exposes-linux-memory-the-cyber-security-hub-je5we)
+
+<br> **2026.09.30 [SEC] Conheça seu inimigo**
+<br> Considerando que o navegador é o ambiente onde aplicativos corporativos são acessados ​​e utilizados, faz sentido que ataques também ocorram nele. A maioria das violações atuais começa em uma sessão de navegador. Muitas vezes, elas nem sequer saem desse ambiente, com toda a cadeia de ataque (do acesso inicial à exfiltração de dados) ocorrendo dentro do próprio navegador. O artigo traz as seis técnicas mais perigosas que devem estar no radar de todas as equipes de segurança em 2026.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/know-your-enemy-browser-based-attack-techniques-ja6ke)
+
 <br> **2026.09.29 [SEC] Vazamento no Pentágono**
 <br> Mais de três milhões de registros militares expostos. Dentre as informações estão dados pessoais e seu potencial valor para serviços de inteligência estrangeiros. O incidente envolveu números de Segurança Social e informações sobre os empregos exercidos por militares e civis.
 <br> Publicado [aqui](
