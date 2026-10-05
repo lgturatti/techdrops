@@ -7,6 +7,26 @@ Latest news are at top / Notícias mais recentes no topo
 **[CISO Advisor (Chief Information Security Officer)](https://www.cisoadvisor.com.br)**
 <br> **[Cyber Security Brazil](https://www.cybersecbrazil.com.br)**
 
+<br> **2026.10.05 [SEC] Microsoft Passkey**
+<br> A empresa está incentivando as organizações que utilizam o Entra ID a migrar seus colaboradorse da autenticação via SMS e voz para o uso de *passkeys* (chaves de acesso), antes da desativação dos serviços nativos em 2027. A transição foi iniciada ha pouco mais de 30 dias e é gerenciada pela Microsoft. No próximo acesso, ao concluir a autenticação multifator, o Entra ID solicitará a criação de uma passkey que não deve ser adiada. O alerta é para a conclusão do que pode se tornar um grande projeto de gestão de identidades em ambientes corporativos.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/microsoft-urges-entra-id-administrators-accelerate-rujye)
+
+<br> **2026.10.04 [SEC] Notícias de 25/09 a 01 de outubro**
+<br> Principais destaques em cibersegurança.
+<br> Publicado [aqui](https://pt.linkedin.com/comm/pulse/principais-not%C3%ADcias-de-ciberseguran%C3%A7a-da-semana-25-setembro-jnslf)
+
+<br> **2026.10.04 [DEV] Javascript criado em 10 dias**
+<br> Em maio de 1995, Brendan Eich escreveu a primeira versão do JavaScript na Netscape. Ele levou 10 dias para isso. A linguagem chamava-se Mocha, depois LiveScript e, por fim, JavaScript. Para qualquer padrão habitual, foi um trabalho feito às pressas. Atualmente 98,9% de todos os sites utilizam JavaScript no lado do cliente. Isso representa, na prática, toda a web. O JavaScript também liderou a Pesquisa de Desenvolvedores de 2025 do Stack Overflow, com 66% de utilização (sendo o 13º ano consecutivo no primeiro lugar). Um protótipo que se tornou a linguagem padrão da internet.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/built-10-days-running-989-percent-web-w3schools-com-k31ve)
+
+<br> **2026.10.04 [SEC] PQCrypto**
+<br> A Agência de Segurança Nacional (NSA) dos EUA lançou uma central de recursos sobre criptografia pós-quântica para ajudar organizações de segurança nacional e fornecedores do setor de defesa a se prepararem para uma mudança fundamental na forma como informações digitais e sistemas confiáveis ​​são protegidos. A iniciativa reúne material educativo e recursos de implementação destinados a apoiar a transição para algoritmos criptográficos projetados para resistir a ataques de computadores quânticos suficientemente potentes.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/nsa-launches-post-quantum-cryptography-hub-the-cyber-security-hub-mxqbe)
+
+<br> **2026.10.03 [SEC] Qualidade das CVEs**
+<br> A Agência de Segurança de Infraestrutura e Cibersegurança dos EUA (CISA) publicou uma estrutura voltada para fortalecer a confiabilidade do programa Common Vulnerabilities and Exposures (CVE), conferindo nova ênfase aos sistemas, organizações e informações que sustentam a identificação de vulnerabilidades em todo o mundo. O documento identifica quatro áreas interconectadas para melhoria: governança do programa, participação no ecossistema, infraestrutura de dados e conteúdo dos registros CVE. A publicação impulsiona os esforços da CISA para conduzir o programa rumo ao que a agência denomina sua "Era da Qualidade".
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/cisa-sets-out-cve-quality-era-framework-the-cyber-security-hub-0l3ne)
+
 <br> **2026.10.01 [SEC] Mês da cibersegurança**
 <br> Na campanha deste ano, a mensagem é reforçada: proteja suas contas, identifique golpes e mantenha o software atualizado, incentivando hábitos consistentes que dificultam a ação de cibercriminosos. Suas principais recomendações abrangem o uso de senhas fortes e gerenciadores de senhas, autenticação multifator, identificação e denúncia de golpes.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/cybersecurity-awareness-month-2026-must-lead-action-rqxwe)
