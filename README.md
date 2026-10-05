@@ -7,6 +7,10 @@ Latest news are at top / Notícias mais recentes no topo
 **[CISO Advisor (Chief Information Security Officer)](https://www.cisoadvisor.com.br)**
 <br> **[Cyber Security Brazil](https://www.cybersecbrazil.com.br)**
 
+<br> **2026.10.05 [AI] Amostras de malware**
+<br> Uma análise em larga escala de mais de 400 amostras de malware associadas à inteligência artificial constatou que malwares habilitados por IA realmente operacionais são muito menos comuns do que repositórios públicos e discussões do setor poderiam sugerir. O conjunto de dados também incluiu ameaças convencionais disfarçadas de aplicativos de IA populares. Apenas 12 das 405 amostras (3%) foram detectadas em endpoints de produção protegidos pela plataforma Cortex XDR, da Palo Alto Networks. Os 97% restantes pareciam estar restritos a repositórios de pesquisa, ambientes de sandbox, ambientes de testes de segurança e serviços como o VirusTotal.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/study-finds-97-ai-linked-malware-samples-never-uuf1e)
+
 <br> **2026.10.05 [SEC] Microsoft Passkey**
 <br> A empresa está incentivando as organizações que utilizam o Entra ID a migrar seus colaboradorse da autenticação via SMS e voz para o uso de *passkeys* (chaves de acesso), antes da desativação dos serviços nativos em 2027. A transição foi iniciada ha pouco mais de 30 dias e é gerenciada pela Microsoft. No próximo acesso, ao concluir a autenticação multifator, o Entra ID solicitará a criação de uma passkey que não deve ser adiada. O alerta é para a conclusão do que pode se tornar um grande projeto de gestão de identidades em ambientes corporativos.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/microsoft-urges-entra-id-administrators-accelerate-rujye)
