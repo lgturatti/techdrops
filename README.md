@@ -7,6 +7,22 @@ Latest news are at top / Notícias mais recentes no topo
 **[CISO Advisor (Chief Information Security Officer)](https://www.cisoadvisor.com.br)**
 <br> **[Cyber Security Brazil](https://www.cybersecbrazil.com.br)**
 
+<br> **2026.10.13 [SEC] Atualizações Microsoft**
+<br> A empresa corrigiu 1.411 vulnerabilidades, sendo 70 ocorrencias críticas, 57 com execução remota de código, 11 envolvendo elevação de privilégios e duas sobre falsificação de identidade.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/microsofts-record-october-patch-tuesday-fixes-1400-8akte)
+
+<br> **2026.10.13 [SEC] Correções SAP**
+<br> A correção do Cloud SDK para Python corrige a possibilidade de roubo de credenciais de aplicativos integrados na nuvem em sistemas com sap-cloud-sdk anteriores à 0.45.2.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/sap-patches-maximum-severity-cloud-sdk-flaw-exposing-prabe)
+
+<br> **2026.10.12 [SEC] Ataque na França**
+<br> Sistemas de controle de refrigeração com acesso remoto ativado e sem atualização de software desde agosto de 2025 foram reprogramados e causaram prejuízos. 
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/hackers-raise-supermarket-fridge-temperatures-50c-yer6e)
+
+<br> **2026.10.12 [SEC] GitLab update**
+<br> A atualização resolve um problema relacionado a expressão regular especialmente elaborada em uma configuração de CI/CD em processos automatizados em relação a estouro de cálculos com números inteiros.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/gitlab-maximum-severity-flaw-exposes-servers-remote-kl1ke)
+
 <br> **2026.10.05 [AI] Amostras de malware**
 <br> Uma análise em larga escala de mais de 400 amostras de malware associadas à inteligência artificial constatou que malwares habilitados por IA realmente operacionais são muito menos comuns do que repositórios públicos e discussões do setor poderiam sugerir. O conjunto de dados também incluiu ameaças convencionais disfarçadas de aplicativos de IA populares. Apenas 12 das 405 amostras (3%) foram detectadas em endpoints de produção protegidos pela plataforma Cortex XDR, da Palo Alto Networks. Os 97% restantes pareciam estar restritos a repositórios de pesquisa, ambientes de sandbox, ambientes de testes de segurança e serviços como o VirusTotal.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/study-finds-97-ai-linked-malware-samples-never-uuf1e)
