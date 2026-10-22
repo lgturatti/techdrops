@@ -7,6 +7,9 @@ Latest news are at top / Notícias mais recentes no topo
 **[CISO Advisor (Chief Information Security Officer)](https://www.cisoadvisor.com.br)**
 <br> **[Cyber Security Brazil](https://www.cybersecbrazil.com.br)**
 
+<br> **2026.10.21 [SEC] PHP Vulnerável**
+<br> É necessário atualizar para as versões corrigidas: 8.5.12, 8.4.27, 8.3.36 e 8.2.35. Depois de atualizar, reinicie os workers. Caso contrário o processo antigo continua em execução. Versões anteriores devem ser atualizadas para alguma das versões mencionadas.
+
 <br> **2026.10.13 [SEC] Atualizações Microsoft**
 <br> A empresa corrigiu 1.411 vulnerabilidades, sendo 70 ocorrencias críticas, 57 com execução remota de código, 11 envolvendo elevação de privilégios e duas sobre falsificação de identidade.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/microsofts-record-october-patch-tuesday-fixes-1400-8akte)
