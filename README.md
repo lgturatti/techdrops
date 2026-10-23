@@ -7,8 +7,25 @@ Latest news are at top / Notícias mais recentes no topo
 **[CISO Advisor (Chief Information Security Officer)](https://www.cisoadvisor.com.br)**
 <br> **[Cyber Security Brazil](https://www.cybersecbrazil.com.br)**
 
+<br> **2026.10.23 [SEC] PHP2Shell Scanner**
+<br> A Searchlight Cyber ​​lançou uma ferramenta que oferece aos administradores uma forma adicional de avaliar seus sistemas durante um processo urgente de aplicação de correções. No entanto, a documentação da ferramenta aponta uma limitação importante: algumas configurações já corrigidas podem gerar respostas que se assemelham a um comportamento vulnerável. Portanto, os resultados precisam ser verificados com base no software efetivamente instalado e em eventuais correções de segurança fornecidas pelo respectivo fabricante.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/new-php2shell-scanner-helps-identify-exposed-servers-rx9ce) e ferramenta disponível [aqui](https://github.com/assetnote/php2shell-scanner)
+
+<br> **2026.10.22 [SEC] Correções do GitLab**
+<br> A empresa publicou as correções para atualização imediatamente. Seu boletim de segurança aponta a ocorrência de um estouro de inteiro (*integer overflow*) durante a compilação de uma expressão regular especificamente elaborada, o que pode permitir a execução de código sem autenticação sob determinadas condições. Dependendo da configuração e das integrações, uma plataforma de desenvolvimento de software comprometida pode oferecer oportunidades para acessar código proprietário, interferir em processos de compilação ou obter credenciais utilizadas por serviços conectados.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/gitlab-patches-maximum-severity-flaw-affecting-sycce)
+
+<br> **2026.10.22 [DEV] A segurança em tempo de execução**
+<br> Toda proposta de segurança para agentes acaba chegando à mesma conclusão: "impedimos ações maliciosas em tempo real". Um prompt malicioso é bloqueado durante o processamento; um agente mal-intencionado é interrompido no meio de uma tarefa. A segurança em tempo de execução (runtime enforcement) constitui a etapa final da proteção de agentes. No entanto, grande parte do que é vendido sob esse rótulo hoje foi concebido para resolver problemas de uma era anterior: um gateway posicionado em um fluxo sob seu controle, inspecionando prompts a caminho de um modelo que você mesmo escolheu. Mas os agentes, hoje, operam em outros ambientes.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/runtime-should-your-last-line-defense-main-one-yexce)
+
+<br> **2026.10.21 [SEC] Vazamento do WhatsApp**
+<br> O WhatsApp publicou, inadvertidamente, instruções internas destinadas ao seu chatbot de suporte baseado em inteligência artificial em dezenas de páginas de ajuda acessíveis ao público. O material expôs regras que orientavam como o sistema deveria responder a perguntas sobre exclusão de contas, regulamentações de privacidade e disputas jurídicas. A descoberta detalhada foi publicada pela WIRED. A Meta informou à WIRED que a exposição ocorreu devido a uma falha técnica, a qual já foi corrigida. A empresa afirmou que as instruções visavam garantir que o chatbot de suporte permanecesse preciso, relevante e focado em auxiliar os usuários na utilização do WhatsApp.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/whatsapp-exposed-internal-ai-instructions-restricting-rwa3e)
+
 <br> **2026.10.21 [SEC] PHP Vulnerável**
 <br> É necessário atualizar para as versões corrigidas: 8.5.12, 8.4.27, 8.3.36 e 8.2.35. Depois de atualizar, reinicie os workers. Caso contrário o processo antigo continua em execução. Versões anteriores devem ser atualizadas para alguma das versões mencionadas.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/emergency-security-update-critical-php-vulnerabilities-pffye)
 
 <br> **2026.10.13 [SEC] Atualizações Microsoft**
 <br> A empresa corrigiu 1.411 vulnerabilidades, sendo 70 ocorrencias críticas, 57 com execução remota de código, 11 envolvendo elevação de privilégios e duas sobre falsificação de identidade.
