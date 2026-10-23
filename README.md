@@ -27,6 +27,10 @@ Latest news are at top / Notícias mais recentes no topo
 <br> É necessário atualizar para as versões corrigidas: 8.5.12, 8.4.27, 8.3.36 e 8.2.35. Depois de atualizar, reinicie os workers. Caso contrário o processo antigo continua em execução. Versões anteriores devem ser atualizadas para alguma das versões mencionadas.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/emergency-security-update-critical-php-vulnerabilities-pffye)
 
+<br> **2026.10.20 [SEC] Certificados TLS comprometidos**
+<br> A Internet entra em alerta máximo após a descoberta de 8 certificados TLS comprometidos. Os desenvolvedores de navegadores, bem como alguns aplicativos importantes e linguagens de programação, bloquearam todos os oito certificados intermediários. Não há registros nos logs de transparência de certificados (que monitoram a emissão de todos os certificados confiáveis ​​pelos navegadores) que indiquem o uso malicioso das chaves comprometidas. A ameaça, contudo, está longe de terminar, uma vez que será um processo difícil e demorado atualizar outros componentes fundamentais da Internet, como distribuições Linux, dispositivos embarcados e aparelhos conectados à Internet das Coisas.
+<br> Publicado [aqui](https://arstechnica.com/security/2026/10/the-internet-goes-on-high-alert-after-discovery-of-8-compromised-tls-certs/)
+
 <br> **2026.10.13 [SEC] Atualizações Microsoft**
 <br> A empresa corrigiu 1.411 vulnerabilidades, sendo 70 ocorrencias críticas, 57 com execução remota de código, 11 envolvendo elevação de privilégios e duas sobre falsificação de identidade.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/microsofts-record-october-patch-tuesday-fixes-1400-8akte)
