@@ -7,6 +7,30 @@ Latest news are at top / Notícias mais recentes no topo
 **[CISO Advisor (Chief Information Security Officer)](https://www.cisoadvisor.com.br)**
 <br> **[Cyber Security Brazil](https://www.cybersecbrazil.com.br)**
 
+<br> **2026.10.27 [SEC] OpenBSD 8.0**
+<br> A versão traz controles de segurança mais robustos, virtualização expandida e criptografia atualizada; mantém a ênfase do projeto em segurança proativa, correção e criptografia integrada. O OpenBSD também serve de base para diversos projetos de segurança distribuídos de forma independente, incluindo o OpenSSH e o LibreSSL, conferindo ao seu trabalho de desenvolvimento uma relevância que vai além das organizações que utilizam o próprio sistema operacional.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/openbsd-80-released-stronger-security-controls-qbgye)
+
+<br> **2026.10.26 [SEC] Atualização PHP**
+<br> O PHP lançou atualização de segurança emergencial para Windows visando corrigir vulnerabilidade crítica no decodificador Brotli. Segundo o anúncio oficial do PHP, o decodificador afetado pode ser acessado por meio da extensão cURL do PHP quando a descompressão automática de respostas HTTP está habilitada. Embora o cURL desabilite essa funcionalidade por padrão, aplicações e bibliotecas clientes HTTP podem ativá-la. Os pacotes reconstruídos incorporam o Brotli 1.2.1. O lançamento evidencia um desafio prático para as equipes de segurança, que é atualizar uma linguagem de programação não resolve, necessariamente, vulnerabilidades em todos os componentes distribuídos com ela. Uma atualização de dependência isolada pode exigir um novo processo de implantação, mesmo quando o número da versão da própria linguagem permanece inalterado.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/php-releases-emergency-windows-security-update-abrue)
+
+<br> **2026.10.26 [DEV] Projetos cancelados por falta de equipe que entende de nuvem**
+<br> Antigamente, a nuvem era um problema da equipe de operações. Você escrevia o código e outra pessoa cuidava da sua execução. Esse modelo ficou para trás. Segundo o relatório State of the Cloud 2026 da Flexera, 83% das empresas executam cargas de trabalho ativas na AWS, e 73% das organizações utilizam uma nuvem híbrida. Além disso, a IA está demandando ainda mais da infraestrutura em nuvem, onde 43% dos entrevistados afirmam que a IA aumentou a necessidade de competências relacionadas à nuvem. Apesar de não haver a necessidade de se tornar um engenheiro de nuvem, o desenvolvedor precisa ter alguma conhecimento sobre o assunto... e isso é uma economia que as empresas não querem investir como treinamento dos profissionais.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/companies-abandoning-projects-because-nobody-team-knows-f9ose)
+
+<br> **2026.10.24 [SEC] Notícias de 15 a 22 de outubro**
+<br> Principais destaques em cibersegurança.
+<br> Publicado [aqui](https://pt.linkedin.com/comm/pulse/principais-not%C3%ADcias-de-ciberseguran%C3%A7a-da-semana-15-22-outubro-4nfnf)
+
+<br> **2026.10.24 [SEC] Roteiro para estudos**
+<br> Um roteiro prático para iniciantes em WAPT, hacking ético, caça a vulnerabilidades (bug bounty), Burp Suite, Python e criação de scripts para segurança.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/i-analyzed-100-ethical-hacking-courses-heres-60-day-learning-zrz4c)
+
+<br> **2026.10.23 [SEC] Nova falha no PHP**
+<br> O PHP divulgou mais uma vulnerabilidade de execução remota de código, apenas dois dias após lançar atualizações de emergência para as falhas críticas do tipo "PHP2Shell", introduzindo uma nova verificação de configuração para administradores que já estão trabalhando na proteção de sua infraestrutura web.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/php-discloses-another-unpatched-rce-flaw-days-after-paybe)
+
 <br> **2026.10.23 [SEC] PHP2Shell Scanner**
 <br> A Searchlight Cyber ​​lançou uma ferramenta que oferece aos administradores uma forma adicional de avaliar seus sistemas durante um processo urgente de aplicação de correções. No entanto, a documentação da ferramenta aponta uma limitação importante: algumas configurações já corrigidas podem gerar respostas que se assemelham a um comportamento vulnerável. Portanto, os resultados precisam ser verificados com base no software efetivamente instalado e em eventuais correções de segurança fornecidas pelo respectivo fabricante.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/new-php2shell-scanner-helps-identify-exposed-servers-rx9ce) e ferramenta disponível [aqui](https://github.com/assetnote/php2shell-scanner)
