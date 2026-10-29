@@ -7,6 +7,10 @@ Latest news are at top / Notícias mais recentes no topo
 **[CISO Advisor (Chief Information Security Officer)](https://www.cisoadvisor.com.br)**
 <br> **[Cyber Security Brazil](https://www.cybersecbrazil.com.br)**
 
+<br> **2026.10.27 [SEC] Atualizações Apple**
+<br> A empresa lançou a versão 27.2 do sistema operacional com correções para processamento de conteúdos da web, fuga do sandbox e exposição de dados. Organizações devem avaliar  imediatamente os riscos e realizar uma implementação controlada.
+<br> Publicado [aqui](https://www.linkedin.com/comm/pulse/apple-releases-ios-272-security-fixes-web-attacks-amdde)
+
 <br> **2026.10.27 [SEC] OpenBSD 8.0**
 <br> A versão traz controles de segurança mais robustos, virtualização expandida e criptografia atualizada; mantém a ênfase do projeto em segurança proativa, correção e criptografia integrada. O OpenBSD também serve de base para diversos projetos de segurança distribuídos de forma independente, incluindo o OpenSSH e o LibreSSL, conferindo ao seu trabalho de desenvolvimento uma relevância que vai além das organizações que utilizam o próprio sistema operacional.
 <br> Publicado [aqui](https://www.linkedin.com/comm/pulse/openbsd-80-released-stronger-security-controls-qbgye)
